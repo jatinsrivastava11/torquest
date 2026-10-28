@@ -13,7 +13,10 @@
     "test": "vitest run",
     "zone": "node scripts/zone-check.mjs",
     "check": "npm run typecheck && npm test && npm run build",
-    "shots": "node scripts/shots.mjs"
+    "shots": "node scripts/shots.mjs",
+    "catalog": "node --experimental-strip-types --no-warnings scripts/build-catalog.ts",
+    "predev": "npm run catalog",
+    "prebuild": "npm run catalog"
   },
   "dependencies": {
     "next": "^16.4.3",

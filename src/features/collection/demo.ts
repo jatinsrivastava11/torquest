@@ -13,6 +13,7 @@ export interface DemoSpot {
 }
 
 const car = (c: CatalogCar) => c;
+// Demo cars are written with their tier directly; real ones come from data/catalog.
 
 export const DEMO_SPOTS: DemoSpot[] = [
   {
