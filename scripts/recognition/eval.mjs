@@ -63,7 +63,13 @@ const crops = new Map(); // id -> [{file, box}]
     for (const { file } of manifest) {
       const key = `${id}/${file}`;
       if (!(key in cached)) {
-        const img = await RawImage.read(`${dir}/${file}`);
+        let img;
+        try {
+          img = await RawImage.read(`${dir}/${file}`);
+        } catch {
+          cached[key] = null; // unreadable (e.g. CMYK): skip it
+          continue;
+        }
         const found = (await detector(img, { threshold: 0.5 }))
           .filter((d) => ["car", "truck", "bus"].includes(d.label))
           .map((d) => ({ ...d.box, area: ((d.box.xmax - d.box.xmin) * (d.box.ymax - d.box.ymin)) / (img.width * img.height) }))
@@ -71,6 +77,7 @@ const crops = new Map(); // id -> [{file, box}]
         // Keep photos where one vehicle clearly dominates the frame.
         cached[key] = found[0] && found[0].area >= 0.15 ? { box: found[0], w: img.width, h: img.height } : null;
         dirty = true;
+        if (Object.keys(cached).length % 100 === 0) writeFileSync(cacheFile, JSON.stringify(cached)); // keep progress
       }
       if (cached[key]) list.push({ file: `${dir}/${file}`, ...cached[key] });
     }
