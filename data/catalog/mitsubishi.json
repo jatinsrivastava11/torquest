@@ -54,6 +54,9 @@
     {"id":"mitsubishi-outlander-4th-gen","model":"Outlander","generation":"4th gen","years":[2022,null],"engine":"i4","body":"suv","naOnRoad":400000,"aliases":["Outlander PHEV"]},
     {"id":"mitsubishi-outlander-sport","model":"Outlander Sport","generation":"Outlander Sport","years":[2011,2024],"engine":"i4","body":"suv","naOnRoad":550000,"aliases":["RVR","ASX"]},
     {"id":"mitsubishi-eclipse-cross","model":"Eclipse Cross","generation":"Eclipse Cross","years":[2018,null],"engine":"i4","body":"suv","naOnRoad":150000},
-    {"id":"mitsubishi-i-miev","model":"i-MiEV","generation":"i-MiEV","years":[2012,2017],"engine":"electric","body":"hatchback","naOnRoad":1000,"aliases":["i","Mitsubishi i"]}
+    {"id":"mitsubishi-i-miev","model":"i-MiEV","generation":"i-MiEV","years":[2012,2017],"engine":"electric","body":"hatchback","naOnRoad":1000,"aliases":["i","Mitsubishi i"]},
+    {"id":"mitsubishi-triton-4th-gen","model":"Triton","generation":"4th gen","years":[2005,2015],"engine":"i4","body":"pickup","naOnRoad":0,"aliases":["L200","Strada","Triton ML","Triton MN"],"home":{"market":"southeast-asia","onRoad":600000}},
+    {"id":"mitsubishi-triton-5th-gen","model":"Triton","generation":"5th gen","years":[2015,2023],"engine":"i4","body":"pickup","naOnRoad":0,"aliases":["L200","Strada","Triton MQ","Triton MR"],"home":{"market":"southeast-asia","onRoad":600000}},
+    {"id":"mitsubishi-triton-6th-gen","model":"Triton","generation":"6th gen","years":[2023,null],"engine":"i4","body":"pickup","naOnRoad":0,"aliases":["L200"],"home":{"market":"southeast-asia","onRoad":150000}}
   ]
 }

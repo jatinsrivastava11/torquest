@@ -39,8 +39,8 @@
     {"id":"acura-zdx-1st-gen","model":"ZDX","generation":"1st gen","years":[2010,2013],"engine":"v6","body":"suv","naOnRoad":4000},
     {"id":"acura-zdx-2nd-gen","model":"ZDX","generation":"2nd gen","years":[2024,2025],"engine":"electric","body":"suv","naOnRoad":10000,"aliases":["ZDX Type S"]},
     {"id":"acura-adx","model":"ADX","generation":"ADX","years":[2025,null],"engine":"i4","body":"suv","naOnRoad":20000},
-    {"id":"acura-nsx-na1","model":"NSX","generation":"NA1","years":[1990,2005],"engine":"v6","body":"supercar","naOnRoad":8000,"built":18685,"aliases":["NA2","NSX (first generation)","Honda NSX","NSX-T"],"hype":true},
-    {"id":"acura-nsx-nc1","model":"NSX","generation":"NC1","years":[2017,2022],"engine":"v6","body":"supercar","naOnRoad":1800,"built":2908,"aliases":["NSX (second generation)","Honda NSX"],"hype":true},
+    {"id":"acura-nsx-na1","model":"NSX","generation":"NA1","years":[1990,2005],"engine":"v6","body":"supercar","naOnRoad":8000,"built":18685,"aliases":["NA2","NSX (first generation)","Honda NSX (first generation)","Honda NSX","NSX-T"],"hype":true},
+    {"id":"acura-nsx-nc1","model":"NSX","generation":"NC1","years":[2017,2022],"engine":"v6","body":"supercar","naOnRoad":1800,"built":2908,"aliases":["NSX (second generation)","Honda NSX (second generation)","Honda NSX"],"hype":true},
     {"id":"acura-nsx-nc1-type-s","model":"NSX","generation":"NC1","variant":"Type S","years":[2022,2022],"engine":"v6","body":"supercar","naOnRoad":280,"built":350,"aliases":["NSX Type S"],"hype":true}
   ]
 }

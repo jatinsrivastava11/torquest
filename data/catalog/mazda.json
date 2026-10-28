@@ -66,6 +66,9 @@
     {"id":"mazda-cx-50","model":"CX-50","generation":"CX-50","years":[2023,null],"engine":"i4","body":"suv","naOnRoad":200000,"aliases":["CX50"]},
     {"id":"mazda-cx-70","model":"CX-70","generation":"CX-70","years":[2025,null],"engine":"i6","body":"suv","naOnRoad":15000,"aliases":["CX70"]},
     {"id":"mazda-cx-90","model":"CX-90","generation":"CX-90","years":[2024,null],"engine":"i6","body":"suv","naOnRoad":120000,"aliases":["CX90"]},
-    {"id":"mazda-mx-30","model":"MX-30","generation":"MX-30","years":[2022,2023],"engine":"electric","body":"suv","naOnRoad":2000,"aliases":["MX30"]}
+    {"id":"mazda-mx-30","model":"MX-30","generation":"MX-30","years":[2022,2023],"engine":"electric","body":"suv","naOnRoad":2000,"aliases":["MX30"]},
+    {"id":"mazda-bt-50-1st-gen","model":"BT-50","generation":"1st gen","years":[2006,2011],"engine":"i4","body":"pickup","naOnRoad":0,"home":{"market":"australia","onRoad":40000}},
+    {"id":"mazda-bt-50-2nd-gen","model":"BT-50","generation":"2nd gen","years":[2011,2020],"engine":"i4","body":"pickup","naOnRoad":0,"aliases":["Ford Ranger T6 twin"],"home":{"market":"australia","onRoad":150000}},
+    {"id":"mazda-bt-50-3rd-gen","model":"BT-50","generation":"3rd gen","years":[2020,null],"engine":"i4","body":"pickup","naOnRoad":0,"aliases":["Isuzu D-Max twin"],"home":{"market":"australia","onRoad":100000}}
   ]
 }

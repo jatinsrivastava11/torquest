@@ -18,3 +18,7 @@ VehiCROSS | | | 1999 | 2001 | v6 | suv | 2000 | 5958 | Vehicross | y
 Axiom | | | 2002 | 2004 | v6 | suv | 3000 | | 
 Ascender | | | 2003 | 2008 | i6 | suv | 8000 | | 
 Oasis | | | 1996 | 1999 | i4 | van | 300 | | Honda Odyssey
+# Never sold in North America
+D-Max | 1st gen | | 2002 | 2012 | i4 | pickup | 0 | | Isuzu TF; Holden Rodeo | | southeast-asia:800000
+D-Max | 2nd gen | | 2011 | 2020 | i4 | pickup | 0 | | Isuzu D-Max V-Cross | | southeast-asia:1200000
+D-Max | 3rd gen | | 2019 | | i4 | pickup | 0 | | Mazda BT-50 twin | | southeast-asia:800000

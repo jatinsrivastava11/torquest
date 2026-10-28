@@ -19,6 +19,9 @@
     {"id":"isuzu-vehicross","model":"VehiCROSS","generation":"VehiCROSS","years":[1999,2001],"engine":"v6","body":"suv","naOnRoad":2000,"built":5958,"aliases":["Vehicross"],"hype":true},
     {"id":"isuzu-axiom","model":"Axiom","generation":"Axiom","years":[2002,2004],"engine":"v6","body":"suv","naOnRoad":3000},
     {"id":"isuzu-ascender","model":"Ascender","generation":"Ascender","years":[2003,2008],"engine":"i6","body":"suv","naOnRoad":8000},
-    {"id":"isuzu-oasis","model":"Oasis","generation":"Oasis","years":[1996,1999],"engine":"i4","body":"van","naOnRoad":300,"aliases":["Honda Odyssey"]}
+    {"id":"isuzu-oasis","model":"Oasis","generation":"Oasis","years":[1996,1999],"engine":"i4","body":"van","naOnRoad":300,"aliases":["Honda Odyssey"]},
+    {"id":"isuzu-d-max-1st-gen","model":"D-Max","generation":"1st gen","years":[2002,2012],"engine":"i4","body":"pickup","naOnRoad":0,"aliases":["Isuzu TF","Holden Rodeo"],"home":{"market":"southeast-asia","onRoad":800000}},
+    {"id":"isuzu-d-max-2nd-gen","model":"D-Max","generation":"2nd gen","years":[2011,2020],"engine":"i4","body":"pickup","naOnRoad":0,"aliases":["Isuzu D-Max V-Cross"],"home":{"market":"southeast-asia","onRoad":1200000}},
+    {"id":"isuzu-d-max-3rd-gen","model":"D-Max","generation":"3rd gen","years":[2019,null],"engine":"i4","body":"pickup","naOnRoad":0,"aliases":["Mazda BT-50 twin"],"home":{"market":"southeast-asia","onRoad":800000}}
   ]
 }

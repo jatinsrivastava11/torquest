@@ -53,3 +53,7 @@ Outlander | 4th gen | | 2022 | | i4 | suv | 400000 | | Outlander PHEV
 Outlander Sport | | | 2011 | 2024 | i4 | suv | 550000 | | RVR; ASX
 Eclipse Cross | | | 2018 | | i4 | suv | 150000 | | 
 i-MiEV | | | 2012 | 2017 | electric | hatchback | 1000 | | i; Mitsubishi i
+# Never sold in North America
+Triton | 4th gen | | 2005 | 2015 | i4 | pickup | 0 | | L200; Strada; Triton ML; Triton MN | | southeast-asia:600000
+Triton | 5th gen | | 2015 | 2023 | i4 | pickup | 0 | | L200; Strada; Triton MQ; Triton MR | | southeast-asia:600000
+Triton | 6th gen | | 2023 | | i4 | pickup | 0 | | L200 | | southeast-asia:150000

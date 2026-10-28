@@ -20,6 +20,25 @@
     {"id":"suzuki-kizashi","model":"Kizashi","generation":"Kizashi","years":[2010,2013],"engine":"i4","body":"sedan","naOnRoad":12000},
     {"id":"suzuki-equator","model":"Equator","generation":"Equator","years":[2009,2012],"engine":"v6","body":"pickup","naOnRoad":2000},
     {"id":"suzuki-cappuccino","model":"Cappuccino","generation":"Cappuccino","years":[1991,1997],"engine":"i3","body":"convertible","naOnRoad":1000,"built":28010},
-    {"id":"suzuki-carry","model":"Carry","generation":"Carry","years":[1985,1999],"engine":"i3","body":"pickup","naOnRoad":15000,"aliases":["Carry kei truck","Every"]}
+    {"id":"suzuki-carry","model":"Carry","generation":"Carry","years":[1985,1999],"engine":"i3","body":"pickup","naOnRoad":15000,"aliases":["Carry kei truck","Every"]},
+    {"id":"suzuki-alto-5th-gen","model":"Alto","generation":"5th gen","years":[2000,2012],"engine":"i3","body":"hatchback","naOnRoad":0,"aliases":["Maruti Alto","Maruti Suzuki Alto"],"home":{"market":"india","onRoad":1500000}},
+    {"id":"suzuki-alto-8th-gen","model":"Alto","generation":"8th gen","years":[2014,2021],"engine":"i3","body":"hatchback","naOnRoad":0,"aliases":["HA36","Alto Works"],"home":{"market":"japan","onRoad":800000}},
+    {"id":"suzuki-alto-9th-gen","model":"Alto","generation":"9th gen","years":[2021,null],"engine":"i3","body":"hatchback","naOnRoad":0,"aliases":["HA37"],"home":{"market":"japan","onRoad":400000}},
+    {"id":"suzuki-alto-800","model":"Alto 800","generation":"Alto 800","years":[2012,2023],"engine":"i3","body":"hatchback","naOnRoad":0,"aliases":["Maruti Alto 800"],"home":{"market":"india","onRoad":3000000}},
+    {"id":"suzuki-alto-k10-1st-gen","model":"Alto K10","generation":"1st gen","years":[2010,2014],"engine":"i3","body":"hatchback","naOnRoad":0,"aliases":["Maruti Alto K10"],"home":{"market":"india","onRoad":500000}},
+    {"id":"suzuki-alto-k10-2nd-gen","model":"Alto K10","generation":"2nd gen","years":[2014,2020],"engine":"i3","body":"hatchback","naOnRoad":0,"aliases":["Maruti Alto K10"],"home":{"market":"india","onRoad":1000000}},
+    {"id":"suzuki-alto-k10-3rd-gen","model":"Alto K10","generation":"3rd gen","years":[2022,null],"engine":"i3","body":"hatchback","naOnRoad":0,"aliases":["Maruti Alto K10"],"home":{"market":"india","onRoad":600000}},
+    {"id":"suzuki-wagon-r-mh34","model":"Wagon R","generation":"MH34","years":[2012,2017],"engine":"i3","body":"hatchback","naOnRoad":0,"aliases":["Wagon R Stingray"],"home":{"market":"japan","onRoad":1000000}},
+    {"id":"suzuki-wagon-r-mh55","model":"Wagon R","generation":"MH55","years":[2017,null],"engine":"i3","body":"hatchback","naOnRoad":0,"aliases":["Wagon R Stingray"],"home":{"market":"japan","onRoad":1200000}},
+    {"id":"suzuki-wagon-r-india-2nd-gen","model":"Wagon R","generation":"India 2nd gen","years":[2010,2019],"engine":"i3","body":"hatchback","naOnRoad":0,"aliases":["Maruti Wagon R","WagonR"],"home":{"market":"india","onRoad":2000000}},
+    {"id":"suzuki-wagon-r-india-3rd-gen","model":"Wagon R","generation":"India 3rd gen","years":[2019,null],"engine":"i3","body":"hatchback","naOnRoad":0,"aliases":["Maruti Wagon R","WagonR"],"home":{"market":"india","onRoad":2500000}},
+    {"id":"suzuki-dzire-1st-gen","model":"Dzire","generation":"1st gen","years":[2008,2012],"engine":"i4","body":"sedan","naOnRoad":0,"aliases":["Swift Dzire","Maruti Swift Dzire"],"home":{"market":"india","onRoad":800000}},
+    {"id":"suzuki-dzire-2nd-gen","model":"Dzire","generation":"2nd gen","years":[2012,2017],"engine":"i4","body":"sedan","naOnRoad":0,"aliases":["Swift Dzire","Maruti Swift Dzire"],"home":{"market":"india","onRoad":1200000}},
+    {"id":"suzuki-dzire-3rd-gen","model":"Dzire","generation":"3rd gen","years":[2017,2024],"engine":"i4","body":"sedan","naOnRoad":0,"aliases":["Maruti Dzire"],"home":{"market":"india","onRoad":2000000}},
+    {"id":"suzuki-dzire-4th-gen","model":"Dzire","generation":"4th gen","years":[2024,null],"engine":"i3","body":"sedan","naOnRoad":0,"aliases":["Maruti Dzire"],"home":{"market":"india","onRoad":500000}},
+    {"id":"suzuki-ertiga-1st-gen","model":"Ertiga","generation":"1st gen","years":[2012,2018],"engine":"i4","body":"van","naOnRoad":0,"aliases":["Maruti Ertiga"],"home":{"market":"india","onRoad":700000}},
+    {"id":"suzuki-ertiga-2nd-gen","model":"Ertiga","generation":"2nd gen","years":[2018,null],"engine":"i4","body":"van","naOnRoad":0,"aliases":["Maruti Ertiga","XL6"],"home":{"market":"india","onRoad":1500000}},
+    {"id":"suzuki-baleno-2nd-gen","model":"Baleno","generation":"2nd gen","years":[2015,2022],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Maruti Baleno","Toyota Glanza"],"home":{"market":"india","onRoad":1200000}},
+    {"id":"suzuki-baleno-3rd-gen","model":"Baleno","generation":"3rd gen","years":[2022,null],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Maruti Baleno","Toyota Glanza"],"home":{"market":"india","onRoad":800000}}
   ]
 }

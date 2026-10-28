@@ -50,6 +50,13 @@
     {"id":"kia-niro-sg2","model":"Niro","generation":"SG2","years":[2023,null],"engine":"i4","body":"suv","naOnRoad":80000,"aliases":["Niro EV"]},
     {"id":"kia-ev6","model":"EV6","generation":"EV6","years":[2022,null],"engine":"electric","body":"suv","naOnRoad":100000},
     {"id":"kia-ev6-gt","model":"EV6","generation":"EV6","variant":"GT","years":[2023,null],"engine":"electric","body":"suv","naOnRoad":3000,"aliases":["EV6 GT"],"hype":true},
-    {"id":"kia-ev9","model":"EV9","generation":"EV9","years":[2024,null],"engine":"electric","body":"suv","naOnRoad":50000}
+    {"id":"kia-ev9","model":"EV9","generation":"EV9","years":[2024,null],"engine":"electric","body":"suv","naOnRoad":50000},
+    {"id":"kia-picanto-sa","model":"Picanto","generation":"SA","years":[2004,2011],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Morning"],"home":{"market":"europe","onRoad":300000}},
+    {"id":"kia-picanto-ta","model":"Picanto","generation":"TA","years":[2011,2017],"engine":"i3","body":"hatchback","naOnRoad":0,"aliases":["Morning"],"home":{"market":"europe","onRoad":600000}},
+    {"id":"kia-picanto-ja","model":"Picanto","generation":"JA","years":[2017,null],"engine":"i3","body":"hatchback","naOnRoad":0,"aliases":["Morning","Picanto GT-Line"],"home":{"market":"europe","onRoad":700000}},
+    {"id":"kia-ceed-ed","model":"Ceed","generation":"ED","years":[2006,2012],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["cee'd"],"home":{"market":"europe","onRoad":400000}},
+    {"id":"kia-ceed-jd","model":"Ceed","generation":"JD","years":[2012,2018],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["cee'd","pro_cee'd GT"],"home":{"market":"europe","onRoad":700000}},
+    {"id":"kia-ceed-cd","model":"Ceed","generation":"CD","years":[2018,null],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Ceed SW","ProCeed","XCeed"],"home":{"market":"europe","onRoad":800000}},
+    {"id":"kia-sonet","model":"Sonet","generation":"Sonet","years":[2020,null],"engine":"i3","body":"suv","naOnRoad":0,"home":{"market":"india","onRoad":500000}}
   ]
 }

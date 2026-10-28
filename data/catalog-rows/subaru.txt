@@ -58,3 +58,6 @@ Ascent | | | 2019 | | flat4 | suv | 300000 | |
 Solterra | | | 2023 | | electric | suv | 25000 | | Toyota bZ4X
 Trailseeker | | | 2026 | | electric | suv | 5000 | | 
 Uncharted | | | 2026 | | electric | suv | 4000 | | 
+# Never sold in North America
+Levorg | VM | | 2014 | 2020 | flat4 | wagon | 0 | | Levorg 1st gen | | japan:150000
+Levorg | VN | | 2020 | | flat4 | wagon | 0 | | Levorg 2nd gen; Levorg Layback | | japan:150000

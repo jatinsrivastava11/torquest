@@ -59,6 +59,8 @@
     {"id":"subaru-ascent","model":"Ascent","generation":"Ascent","years":[2019,null],"engine":"flat4","body":"suv","naOnRoad":300000},
     {"id":"subaru-solterra","model":"Solterra","generation":"Solterra","years":[2023,null],"engine":"electric","body":"suv","naOnRoad":25000,"aliases":["Toyota bZ4X"]},
     {"id":"subaru-trailseeker","model":"Trailseeker","generation":"Trailseeker","years":[2026,null],"engine":"electric","body":"suv","naOnRoad":5000},
-    {"id":"subaru-uncharted","model":"Uncharted","generation":"Uncharted","years":[2026,null],"engine":"electric","body":"suv","naOnRoad":4000}
+    {"id":"subaru-uncharted","model":"Uncharted","generation":"Uncharted","years":[2026,null],"engine":"electric","body":"suv","naOnRoad":4000},
+    {"id":"subaru-levorg-vm","model":"Levorg","generation":"VM","years":[2014,2020],"engine":"flat4","body":"wagon","naOnRoad":0,"aliases":["Levorg 1st gen"],"home":{"market":"japan","onRoad":150000}},
+    {"id":"subaru-levorg-vn","model":"Levorg","generation":"VN","years":[2020,null],"engine":"flat4","body":"wagon","naOnRoad":0,"aliases":["Levorg 2nd gen","Levorg Layback"],"home":{"market":"japan","onRoad":150000}}
   ]
 }

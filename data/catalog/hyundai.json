@@ -64,6 +64,16 @@
     {"id":"hyundai-ioniq-5-n","model":"Ioniq 5","generation":"Ioniq 5","variant":"N","years":[2025,null],"engine":"electric","body":"suv","naOnRoad":3000,"aliases":["Ioniq 5 N"],"hype":true},
     {"id":"hyundai-ioniq-6","model":"Ioniq 6","generation":"Ioniq 6","years":[2023,null],"engine":"electric","body":"sedan","naOnRoad":40000},
     {"id":"hyundai-ioniq-9","model":"Ioniq 9","generation":"Ioniq 9","years":[2025,null],"engine":"electric","body":"suv","naOnRoad":15000},
-    {"id":"hyundai-nexo","model":"Nexo","generation":"Nexo","years":[2019,null],"engine":"electric","body":"suv","naOnRoad":1500}
+    {"id":"hyundai-nexo","model":"Nexo","generation":"Nexo","years":[2019,null],"engine":"electric","body":"suv","naOnRoad":1500},
+    {"id":"hyundai-i10-1st-gen","model":"i10","generation":"1st gen","years":[2007,2013],"engine":"i4","body":"hatchback","naOnRoad":0,"home":{"market":"india","onRoad":800000}},
+    {"id":"hyundai-i10-2nd-gen","model":"i10","generation":"2nd gen","years":[2013,2019],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Grand i10"],"home":{"market":"india","onRoad":1200000}},
+    {"id":"hyundai-i10-3rd-gen","model":"i10","generation":"3rd gen","years":[2019,null],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Grand i10 Nios"],"home":{"market":"india","onRoad":700000}},
+    {"id":"hyundai-i20-1st-gen","model":"i20","generation":"1st gen","years":[2008,2014],"engine":"i4","body":"hatchback","naOnRoad":0,"home":{"market":"india","onRoad":500000}},
+    {"id":"hyundai-i20-2nd-gen","model":"i20","generation":"2nd gen","years":[2014,2020],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Elite i20"],"home":{"market":"india","onRoad":800000}},
+    {"id":"hyundai-i20-3rd-gen","model":"i20","generation":"3rd gen","years":[2020,null],"engine":"i4","body":"hatchback","naOnRoad":0,"home":{"market":"india","onRoad":500000}},
+    {"id":"hyundai-i20-3rd-gen-n","model":"i20","generation":"3rd gen","variant":"N","years":[2021,2024],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["i20 N"],"hype":true,"home":{"market":"europe","onRoad":15000}},
+    {"id":"hyundai-creta-1st-gen","model":"Creta","generation":"1st gen","years":[2015,2020],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["ix25"],"home":{"market":"india","onRoad":600000}},
+    {"id":"hyundai-creta-2nd-gen","model":"Creta","generation":"2nd gen","years":[2020,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Creta N Line"],"home":{"market":"india","onRoad":1200000}},
+    {"id":"hyundai-getz","model":"Getz","generation":"Getz","years":[2002,2011],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Click","Getz Prime"],"home":{"market":"europe","onRoad":300000}}
   ]
 }

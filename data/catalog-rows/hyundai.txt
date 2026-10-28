@@ -63,3 +63,14 @@ Ioniq 5 | Ioniq 5 | N | 2025 | | electric | suv | 3000 | | Ioniq 5 N | y
 Ioniq 6 | | | 2023 | | electric | sedan | 40000 | | 
 Ioniq 9 | | | 2025 | | electric | suv | 15000 | | 
 Nexo | | | 2019 | | electric | suv | 1500 | | 
+# Never sold in North America
+i10 | 1st gen | | 2007 | 2013 | i4 | hatchback | 0 | | | | india:800000
+i10 | 2nd gen | | 2013 | 2019 | i4 | hatchback | 0 | | Grand i10 | | india:1200000
+i10 | 3rd gen | | 2019 | | i4 | hatchback | 0 | | Grand i10 Nios | | india:700000
+i20 | 1st gen | | 2008 | 2014 | i4 | hatchback | 0 | | | | india:500000
+i20 | 2nd gen | | 2014 | 2020 | i4 | hatchback | 0 | | Elite i20 | | india:800000
+i20 | 3rd gen | | 2020 | | i4 | hatchback | 0 | | | | india:500000
+i20 | 3rd gen | N | 2021 | 2024 | i4 | hatchback | 0 | | i20 N | y | europe:15000
+Creta | 1st gen | | 2015 | 2020 | i4 | suv | 0 | | ix25 | | india:600000
+Creta | 2nd gen | | 2020 | | i4 | suv | 0 | | Creta N Line | | india:1200000
+Getz | | | 2002 | 2011 | i4 | hatchback | 0 | | Click; Getz Prime | | europe:300000

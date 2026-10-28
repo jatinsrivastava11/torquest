@@ -19,3 +19,23 @@ Kizashi | | | 2010 | 2013 | i4 | sedan | 12000 | |
 Equator | | | 2009 | 2012 | v6 | pickup | 2000 | | 
 Cappuccino | | | 1991 | 1997 | i3 | convertible | 1000 | 28010 | 
 Carry | | | 1985 | 1999 | i3 | pickup | 15000 | | Carry kei truck; Every
+# Never sold in North America
+Alto | 5th gen | | 2000 | 2012 | i3 | hatchback | 0 | | Maruti Alto; Maruti Suzuki Alto | | india:1500000
+Alto | 8th gen | | 2014 | 2021 | i3 | hatchback | 0 | | HA36; Alto Works | | japan:800000
+Alto | 9th gen | | 2021 | | i3 | hatchback | 0 | | HA37 | | japan:400000
+Alto 800 | | | 2012 | 2023 | i3 | hatchback | 0 | | Maruti Alto 800 | | india:3000000
+Alto K10 | 1st gen | | 2010 | 2014 | i3 | hatchback | 0 | | Maruti Alto K10 | | india:500000
+Alto K10 | 2nd gen | | 2014 | 2020 | i3 | hatchback | 0 | | Maruti Alto K10 | | india:1000000
+Alto K10 | 3rd gen | | 2022 | | i3 | hatchback | 0 | | Maruti Alto K10 | | india:600000
+Wagon R | MH34 | | 2012 | 2017 | i3 | hatchback | 0 | | Wagon R Stingray | | japan:1000000
+Wagon R | MH55 | | 2017 | | i3 | hatchback | 0 | | Wagon R Stingray | | japan:1200000
+Wagon R | India 2nd gen | | 2010 | 2019 | i3 | hatchback | 0 | | Maruti Wagon R; WagonR | | india:2000000
+Wagon R | India 3rd gen | | 2019 | | i3 | hatchback | 0 | | Maruti Wagon R; WagonR | | india:2500000
+Dzire | 1st gen | | 2008 | 2012 | i4 | sedan | 0 | | Swift Dzire; Maruti Swift Dzire | | india:800000
+Dzire | 2nd gen | | 2012 | 2017 | i4 | sedan | 0 | | Swift Dzire; Maruti Swift Dzire | | india:1200000
+Dzire | 3rd gen | | 2017 | 2024 | i4 | sedan | 0 | | Maruti Dzire | | india:2000000
+Dzire | 4th gen | | 2024 | | i3 | sedan | 0 | | Maruti Dzire | | india:500000
+Ertiga | 1st gen | | 2012 | 2018 | i4 | van | 0 | | Maruti Ertiga | | india:700000
+Ertiga | 2nd gen | | 2018 | | i4 | van | 0 | | Maruti Ertiga; XL6 | | india:1500000
+Baleno | 2nd gen | | 2015 | 2022 | i4 | hatchback | 0 | | Maruti Baleno; Toyota Glanza | | india:1200000
+Baleno | 3rd gen | | 2022 | | i4 | hatchback | 0 | | Maruti Baleno; Toyota Glanza | | india:800000

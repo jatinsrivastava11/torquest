@@ -65,3 +65,7 @@ CX-50 | | | 2023 | | i4 | suv | 200000 | | CX50
 CX-70 | | | 2025 | | i6 | suv | 15000 | | CX70
 CX-90 | | | 2024 | | i6 | suv | 120000 | | CX90
 MX-30 | | | 2022 | 2023 | electric | suv | 2000 | | MX30
+# Never sold in North America
+BT-50 | 1st gen | | 2006 | 2011 | i4 | pickup | 0 | | | | australia:40000
+BT-50 | 2nd gen | | 2011 | 2020 | i4 | pickup | 0 | | Ford Ranger T6 twin | | australia:150000
+BT-50 | 3rd gen | | 2020 | | i4 | pickup | 0 | | Isuzu D-Max twin | | australia:100000

@@ -37,6 +37,6 @@ RDX | 3rd gen | | 2019 | | i4 | suv | 350000 | |
 ZDX | 1st gen | | 2010 | 2013 | v6 | suv | 4000 | | 
 ZDX | 2nd gen | | 2024 | 2025 | electric | suv | 10000 | | ZDX Type S
 ADX | | | 2025 | | i4 | suv | 20000 | | 
-NSX | NA1 | | 1990 | 2005 | v6 | supercar | 8000 | 18685 | NA2; NSX (first generation); Honda NSX; NSX-T | y
-NSX | NC1 | | 2017 | 2022 | v6 | supercar | 1800 | 2908 | NSX (second generation); Honda NSX | y
+NSX | NA1 | | 1990 | 2005 | v6 | supercar | 8000 | 18685 | NA2; NSX (first generation); Honda NSX (first generation); Honda NSX; NSX-T | y
+NSX | NC1 | | 2017 | 2022 | v6 | supercar | 1800 | 2908 | NSX (second generation); Honda NSX (second generation); Honda NSX | y
 NSX | NC1 | Type S | 2022 | 2022 | v6 | supercar | 280 | 350 | NSX Type S | y

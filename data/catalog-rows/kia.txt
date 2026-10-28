@@ -49,3 +49,11 @@ Niro | SG2 | | 2023 | | i4 | suv | 80000 | | Niro EV
 EV6 | | | 2022 | | electric | suv | 100000 | | 
 EV6 | EV6 | GT | 2023 | | electric | suv | 3000 | | EV6 GT | y
 EV9 | | | 2024 | | electric | suv | 50000 | | 
+# Never sold in North America
+Picanto | SA | | 2004 | 2011 | i4 | hatchback | 0 | | Morning | | europe:300000
+Picanto | TA | | 2011 | 2017 | i3 | hatchback | 0 | | Morning | | europe:600000
+Picanto | JA | | 2017 | | i3 | hatchback | 0 | | Morning; Picanto GT-Line | | europe:700000
+Ceed | ED | | 2006 | 2012 | i4 | hatchback | 0 | | cee'd | | europe:400000
+Ceed | JD | | 2012 | 2018 | i4 | hatchback | 0 | | cee'd; pro_cee'd GT | | europe:700000
+Ceed | CD | | 2018 | | i4 | hatchback | 0 | | Ceed SW; ProCeed; XCeed | | europe:800000
+Sonet | | | 2020 | | i3 | suv | 0 | | | | india:500000
