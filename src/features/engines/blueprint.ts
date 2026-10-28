@@ -1,4 +1,4 @@
-// ENGINES MODULE (teammate-owned). Ported from Pavement.
+// ENGINES MODULE (teammate-owned). Simple placeholder engines.
 // Builds each engine layout from simple boxes and cylinders. Replacing these
 // with detailed glTF models in public/engines/ is the engines roadmap.
 

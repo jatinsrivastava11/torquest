@@ -16,9 +16,9 @@ Torquest is an app for car enthusiasts.
 
 ## The challenges
 
-1. **Catalog, tiers and points.** The starting list (914 models, 6 tiers, carried over from an
-   earlier prototype called Pavement) goes by make and model only, not by year. A 1995 Porsche 911
-   and a 2024 one count the same. It needs to be more complete and more granular.
+1. **Catalog, tiers and points.** Jatin's starting tier list (914 models, 6 tiers) goes by make and
+   model only, not by year. A 1995 Porsche 911 and a 2024 one count the same. It needs to be more
+   complete and more granular.
 2. **Accurate recognition.** Identify the car from the photo, ideally even from a partial view.
 3. **3D models.** One for each car body, plus engines with exploded views and labelled parts.
 4. **Legal, privacy and safety.** Number plates, people in photos, location privacy, spotting
@@ -35,26 +35,16 @@ Torquest is an app for car enthusiasts.
 | Date | Decision | Why |
 |---|---|---|
 | 2026-10-28 | **Installable web app (PWA), Next.js + TypeScript.** | $0 to publish (App Store is $99/yr), works on any phone, either of us can develop on any computer. |
-| 2026-10-28 | **Port Pavement's proven parts**, don't continue it wholesale. | Pavement got far (catalog, Supabase schema, engine blueprints, passenger check) but was native-iOS. |
+| 2026-10-28 | **Torquest is a new app, designed from scratch.** Nothing is carried over from earlier prototypes except Jatin's tier list as raw input. | Fresh design for a web app. |
 | 2026-10-28 | **Teammate owns the 3D engines (~20%).** Jatin owns the rest (~80%). | Self-contained, rarely touches core code. |
 | 2026-10-28 | **Engines are built in code from detailed parts**; the V8 is the reference. | Free realistic models cover few engine types, are too heavy for phones and usually can't be exploded. Code-built parts give accurate motion, labels and a consistent look across all 15 types. |
 | 2026-10-28 | **Catalog goes to generation level** (e.g. 911 993 / 996 / 992), not year. | Years within a generation look identical, but generations differ a lot in rarity. *(Proposed; to confirm.)* |
-
-## Lessons from Pavement (don't repeat these)
-
-- **Recognition hit a ceiling.** It named only ~15% of cars and was right 89% of the time when it
-  did. Training on more scraped photos stopped helping. It mistook a VW Beetle seen from behind for
-  a Bugatti Veyron at 99.9% confidence, which would have awarded 500 points by mistake.
-- **Free accurate 3D car models don't exist.** Manufacturers guard their CAD files. Design-patent
-  drawings are 2D outlines. Photogrammetry (rebuilding 3D from photos) needs many photos of *one*
-  physical car, not many different cars of the same model.
-- **Engines:** one model per engine *type* is realistic, not one per car.
 
 ## Engines: where the teammate starts
 
 The **V8** (`src/features/engines/detailed/v8.ts`) is built to the standard every engine should
 meet: real proportions and kinematics, detailed parts, staged explode, labelled parts. The other
-14 types still use Pavement's simple box-and-cylinder blueprints until they're rebuilt the same
+14 types still use simple box-and-cylinder blueprints until they're rebuilt the same
 way. The goals for every engine:
 
 1. Real-looking parts: cam covers, valve trains, connecting rods, turbos/superchargers where

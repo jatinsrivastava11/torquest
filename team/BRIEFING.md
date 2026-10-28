@@ -73,7 +73,7 @@ template**; the teammate builds the other 14 to the same standard.
 
 **What exists now**
 - A Next.js web app skeleton (it will become an installable PWA).
-- The engines module, ported from Pavement: all 15 engine types as simple shapes, with an explode
+- The engines module: all 15 engine types as simple shapes, with an explode
   slider, running animation and tap-to-learn labels. See it at `npm run dev` → `/engines`.
 - CI (typecheck, tests, build) on every PR, and the teammate gate that auto-merges green
   engines-only PRs.
