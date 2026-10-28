@@ -1,0 +1,7 @@
+{
+  "make": "VinFast",
+  "cars": [
+    {"id":"vinfast-vf-8","model":"VF 8","generation":"VF 8","years":[2023,null],"engine":"electric","body":"suv","naOnRoad":2000,"aliases":["VF8"]},
+    {"id":"vinfast-vf-9","model":"VF 9","generation":"VF 9","years":[2024,null],"engine":"electric","body":"suv","naOnRoad":300,"aliases":["VF9"]}
+  ]
+}

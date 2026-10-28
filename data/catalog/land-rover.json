@@ -1,0 +1,32 @@
+{
+  "make": "Land Rover",
+  "cars": [
+    {"id":"land-rover-series-i","model":"Series","generation":"I","years":[1948,1958],"engine":"i4","body":"suv","naOnRoad":500,"built":218000,"aliases":["Series One","Series 1"],"hype":true},
+    {"id":"land-rover-series-ii","model":"Series","generation":"II","years":[1958,1971],"engine":"i4","body":"suv","naOnRoad":3000,"aliases":["Series IIA","Series 2"],"hype":true},
+    {"id":"land-rover-series-iii","model":"Series","generation":"III","years":[1971,1985],"engine":"i4","body":"suv","naOnRoad":1500,"built":440000,"aliases":["Series 3"],"hype":true},
+    {"id":"land-rover-defender-classic","model":"Defender","generation":"Classic","years":[1983,2016],"engine":"i4","body":"suv","naOnRoad":15000,"aliases":["Defender 90","Defender 110","Defender 130","NAS Defender","L316","Ninety","One Ten"],"hype":true},
+    {"id":"land-rover-defender-l663","model":"Defender","generation":"L663","years":[2020,null],"engine":"i6","body":"suv","naOnRoad":150000,"aliases":["Defender 90","Defender 110","Defender 130"]},
+    {"id":"land-rover-defender-l663-octa","model":"Defender","generation":"L663","variant":"Octa","years":[2025,null],"engine":"v8","body":"suv","naOnRoad":1500,"aliases":["Defender Octa"],"hype":true},
+    {"id":"land-rover-range-rover-classic","model":"Range Rover","generation":"Classic","years":[1970,1996],"engine":"v8","body":"suv","naOnRoad":5000,"built":317000,"aliases":["Range Rover Classic","County LWB"],"hype":true},
+    {"id":"land-rover-range-rover-p38a","model":"Range Rover","generation":"P38A","years":[1994,2002],"engine":"v8","body":"suv","naOnRoad":5000,"built":167000,"aliases":["P38","4.6 HSE"]},
+    {"id":"land-rover-range-rover-l322","model":"Range Rover","generation":"L322","years":[2002,2012],"engine":"v8","body":"suv","naOnRoad":30000,"aliases":["Range Rover Supercharged"]},
+    {"id":"land-rover-range-rover-l405","model":"Range Rover","generation":"L405","years":[2013,2021],"engine":"v8","body":"suv","naOnRoad":110000,"aliases":["Range Rover Autobiography","SVAutobiography"]},
+    {"id":"land-rover-range-rover-l460","model":"Range Rover","generation":"L460","years":[2022,null],"engine":"v8","body":"suv","naOnRoad":90000,"aliases":["Range Rover SV"]},
+    {"id":"land-rover-range-rover-sport-l320","model":"Range Rover Sport","generation":"L320","years":[2005,2013],"engine":"v8","body":"suv","naOnRoad":50000,"aliases":["Range Rover Sport Supercharged"]},
+    {"id":"land-rover-range-rover-sport-l494","model":"Range Rover Sport","generation":"L494","years":[2014,2022],"engine":"v6","body":"suv","naOnRoad":110000},
+    {"id":"land-rover-range-rover-sport-l494-svr","model":"Range Rover Sport","generation":"L494","variant":"SVR","years":[2015,2022],"engine":"v8","body":"suv","naOnRoad":10000,"aliases":["Range Rover Sport SVR"],"hype":true},
+    {"id":"land-rover-range-rover-sport-l461","model":"Range Rover Sport","generation":"L461","years":[2023,null],"engine":"i6","body":"suv","naOnRoad":60000},
+    {"id":"land-rover-range-rover-sport-l461-sv","model":"Range Rover Sport","generation":"L461","variant":"SV","years":[2024,null],"engine":"v8","body":"suv","naOnRoad":1000,"aliases":["Range Rover Sport SV Edition One"],"hype":true},
+    {"id":"land-rover-range-rover-evoque-l538","model":"Range Rover Evoque","generation":"L538","years":[2012,2019],"engine":"i4","body":"suv","naOnRoad":55000,"aliases":["Evoque"]},
+    {"id":"land-rover-range-rover-evoque-l538-convertible","model":"Range Rover Evoque","generation":"L538","variant":"Convertible","years":[2017,2019],"engine":"i4","body":"convertible","naOnRoad":2000,"aliases":["Evoque Convertible"]},
+    {"id":"land-rover-range-rover-evoque-l551","model":"Range Rover Evoque","generation":"L551","years":[2020,null],"engine":"i4","body":"suv","naOnRoad":40000,"aliases":["Evoque"]},
+    {"id":"land-rover-range-rover-velar","model":"Range Rover Velar","generation":"Range Rover Velar","years":[2018,null],"engine":"i4","body":"suv","naOnRoad":55000,"aliases":["Velar"]},
+    {"id":"land-rover-discovery-series-i","model":"Discovery","generation":"Series I","years":[1994,1998],"engine":"v8","body":"suv","naOnRoad":6000,"aliases":["Discovery 1"]},
+    {"id":"land-rover-discovery-series-ii","model":"Discovery","generation":"Series II","years":[1999,2004],"engine":"v8","body":"suv","naOnRoad":10000,"aliases":["Discovery II","Disco 2"]},
+    {"id":"land-rover-discovery-l319","model":"Discovery","generation":"L319","years":[2005,2016],"engine":"v8","body":"suv","naOnRoad":60000,"aliases":["LR3","LR4","Discovery 3","Discovery 4"]},
+    {"id":"land-rover-discovery-l462","model":"Discovery","generation":"L462","years":[2017,null],"engine":"v6","body":"suv","naOnRoad":50000,"aliases":["Discovery 5"]},
+    {"id":"land-rover-discovery-sport","model":"Discovery Sport","generation":"Discovery Sport","years":[2015,null],"engine":"i4","body":"suv","naOnRoad":110000,"aliases":["L550"]},
+    {"id":"land-rover-freelander-l314","model":"Freelander","generation":"L314","years":[2002,2005],"engine":"v6","body":"suv","naOnRoad":3000,"aliases":["Freelander 1"]},
+    {"id":"land-rover-freelander-l359","model":"Freelander","generation":"L359","years":[2008,2015],"engine":"i6","body":"suv","naOnRoad":20000,"aliases":["LR2","Freelander 2"]}
+  ]
+}

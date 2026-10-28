@@ -1,0 +1,10 @@
+{
+  "make": "Hummer",
+  "cars": [
+    {"id":"hummer-h1","model":"H1","generation":"H1","years":[1992,2006],"engine":"v8","body":"suv","naOnRoad":8000,"built":11818,"aliases":["Hummer","H1 Alpha"],"hype":true},
+    {"id":"hummer-h2","model":"H2","generation":"H2","years":[2003,2009],"engine":"v8","body":"suv","naOnRoad":110000},
+    {"id":"hummer-h2-sut","model":"H2","generation":"H2","variant":"SUT","years":[2005,2009],"engine":"v8","body":"pickup","naOnRoad":15000,"aliases":["H2 SUT"]},
+    {"id":"hummer-h3","model":"H3","generation":"H3","years":[2006,2010],"engine":"i5","body":"suv","naOnRoad":90000,"aliases":["H3 Alpha"]},
+    {"id":"hummer-h3-h3t","model":"H3","generation":"H3","variant":"H3T","years":[2009,2010],"engine":"i5","body":"pickup","naOnRoad":2000}
+  ]
+}

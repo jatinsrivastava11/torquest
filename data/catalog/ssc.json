@@ -1,0 +1,7 @@
+{
+  "make": "SSC",
+  "cars": [
+    {"id":"ssc-ultimate-aero","model":"Ultimate Aero","generation":"Ultimate Aero","years":[2004,2013],"engine":"v8","body":"supercar","naOnRoad":15,"built":24,"aliases":["Aero","Ultimate Aero TT"],"hype":true},
+    {"id":"ssc-tuatara","model":"Tuatara","generation":"Tuatara","years":[2020,null],"engine":"v8","body":"supercar","naOnRoad":20,"aliases":["Tuatara Striker","Tuatara Aggressor"],"hype":true}
+  ]
+}

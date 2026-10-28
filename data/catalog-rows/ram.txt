@@ -1,0 +1,10 @@
+1500 | DS | | 2009 | 2024 | v8 | pickup | 4000000 | | Dodge Ram 1500 (2009);1500 Classic;Ram 1500 |
+1500 | DT | | 2019 | | v8 | pickup | 2500000 | | Ram 1500 |
+1500 | DT | TRX | 2021 | 2024 | v8 | pickup | 30000 | | Ram TRX;1500 TRX | y
+1500 | DT | RHO | 2025 | | i6 | pickup | 12000 | | Ram RHO;1500 RHO | y
+Heavy Duty | 4th gen | | 2010 | 2018 | i6 | pickup | 1000000 | | 2500;3500;Ram HD |
+Heavy Duty | 4th gen | Power Wagon | 2010 | 2018 | v8 | pickup | 30000 | | Ram Power Wagon | y
+Heavy Duty | 5th gen | | 2019 | | i6 | pickup | 900000 | | 2500;3500;Ram HD |
+Heavy Duty | 5th gen | Power Wagon | 2019 | | v8 | pickup | 25000 | | Ram Power Wagon | y
+ProMaster | | | 2014 | | v6 | van | 400000 | | ProMaster EV |
+ProMaster City | | | 2015 | 2022 | i4 | van | 100000 | | |

@@ -1,0 +1,7 @@
+# Geo. model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Metro | 1st gen | | 1989 | 1994 | i3 | hatchback | 15000 | | Geo Metro XFi | 
+Metro | 2nd gen | | 1995 | 1997 | i3 | hatchback | 10000 | | | 
+Prizm | 1st gen | | 1989 | 1992 | i4 | sedan | 3000 | | Geo Prizm GSi | 
+Prizm | 2nd gen | | 1993 | 1997 | i4 | sedan | 10000 | | | 
+Storm | | | 1990 | 1993 | i4 | coupe | 2000 | | Storm GSi | 
+Tracker | 1st gen | | 1989 | 1997 | i4 | suv | 15000 | | | 

@@ -1,0 +1,9 @@
+{
+  "make": "Rivian",
+  "cars": [
+    {"id":"rivian-r1t","model":"R1T","generation":"R1T","years":[2022,null],"engine":"electric","body":"pickup","naOnRoad":70000},
+    {"id":"rivian-r1s","model":"R1S","generation":"R1S","years":[2022,null],"engine":"electric","body":"suv","naOnRoad":80000},
+    {"id":"rivian-r2","model":"R2","generation":"R2","years":[2026,null],"engine":"electric","body":"suv","naOnRoad":3000},
+    {"id":"rivian-edv","model":"EDV","generation":"EDV","years":[2021,null],"engine":"electric","body":"van","naOnRoad":30000,"aliases":["Amazon van","Rivian Commercial Van","RCV"]}
+  ]
+}

@@ -1,0 +1,13 @@
+# Saturn. model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+S-Series | 1st gen | | 1991 | 1995 | i4 | sedan | 15000 | | SL;SL1;SL2;SC;SC1;SC2;SW1;SW2 | 
+S-Series | 2nd gen | | 1996 | 2002 | i4 | sedan | 60000 | | SL;SL1;SL2;SC;SC1;SC2;SW2 | 
+L-Series | | | 2000 | 2005 | i4 | sedan | 30000 | | L200;L300;LW300 | 
+Vue | 1st gen | | 2002 | 2007 | i4 | suv | 120000 | | Vue Red Line | 
+Ion | | | 2003 | 2007 | i4 | sedan | 150000 | | Ion Quad Coupe | 
+Ion | | Red Line | 2004 | 2007 | i4 | coupe | 3000 | | Ion Red Line | y
+Relay | | | 2005 | 2007 | v6 | van | 15000 | | | 
+Sky | | | 2007 | 2009 | i4 | convertible | 28000 | | Sky Red Line | 
+Aura | | | 2007 | 2009 | v6 | sedan | 60000 | | | 
+Outlook | | | 2007 | 2010 | v6 | suv | 60000 | | | 
+Vue | 2nd gen | | 2008 | 2010 | i4 | suv | 80000 | | | 
+Astra | | | 2008 | 2009 | i4 | hatchback | 10000 | | | 

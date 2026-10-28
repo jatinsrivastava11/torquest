@@ -1,0 +1,23 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+S Series | | | 1955 | 1965 | v8 | sedan | 800 | 7500 | S1; S2; S3; S1 Continental; S2 Continental | y
+R-Type Continental | | | 1952 | 1955 | i6 | coupe | 30 | 208 | | y
+Mulsanne | 1st gen | | 1980 | 1992 | v8 | sedan | 2000 | 15000 | Mulsanne Turbo; Mulsanne S; Eight; Turbo R; Brooklands | y
+Continental R | | | 1991 | 2003 | v8 | coupe | 400 | 1800 | Continental T; Continental SC | y
+Azure | 1st gen | | 1995 | 2003 | v8 | convertible | 600 | 1400 | | y
+Azure | 2nd gen | | 2006 | 2010 | v8 | convertible | 500 | 1100 | Azure T | y
+Arnage | | | 1998 | 2009 | v8 | sedan | 2500 | 7000 | Arnage T; Arnage R; Arnage RL; Red Label; Green Label | y
+Brooklands | | | 2008 | 2011 | v8 | coupe | 150 | 550 | Brooklands Coupe | y
+Continental GT | 1st gen | | 2003 | 2011 | w12 | coupe | 15000 | | Continental GTC; Continental GT Speed | y
+Continental GT | 1st gen | Supersports | 2009 | 2011 | w12 | coupe | 600 | 1800 | Continental Supersports | y
+Continental GT | 2nd gen | | 2011 | 2018 | w12 | coupe | 12000 | | Continental GTC; Continental GT V8; Continental GT Speed | y
+Continental GT | 2nd gen | Supersports | 2017 | 2017 | w12 | coupe | 250 | 710 | | y
+Continental GT | 2nd gen | GT3-R | 2015 | 2015 | v8 | coupe | 150 | 300 | Continental GT3-R | y
+Continental GT | 3rd gen | | 2018 | 2024 | w12 | coupe | 10000 | | Continental GTC; Continental GT Speed; Continental GT Mulliner | y
+Continental GT | 4th gen | | 2024 | | v8 | coupe | 2000 | | Continental GTC; Continental GT Speed Mulliner; Continental GT Speed | y
+Flying Spur | 1st gen | | 2005 | 2013 | w12 | sedan | 12000 | | Continental Flying Spur | y
+Flying Spur | 2nd gen | | 2013 | 2019 | w12 | sedan | 7000 | | Flying Spur V8 | y
+Flying Spur | 3rd gen | | 2019 | | w12 | sedan | 7000 | | Flying Spur Speed; Flying Spur Mulliner | y
+Mulsanne | 2nd gen | | 2010 | 2020 | v8 | sedan | 2500 | 7300 | Mulsanne Speed; Mulsanne EWB | y
+Bentayga | | | 2016 | | v8 | suv | 12000 | | Bentayga EWB; Bentayga Speed; Bentayga Hybrid | y
+Bacalar | | | 2021 | 2022 | w12 | convertible | 3 | 12 | | y
+Batur | | | 2023 | 2025 | w12 | coupe | 6 | 34 | Batur Convertible | y

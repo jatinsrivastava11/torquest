@@ -1,0 +1,6 @@
+{
+  "make": "Czinger",
+  "cars": [
+    {"id":"czinger-21c","model":"21C","generation":"21C","years":[2023,null],"engine":"v8","body":"supercar","naOnRoad":20,"built":80,"hype":true}
+  ]
+}

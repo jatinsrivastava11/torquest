@@ -1,0 +1,180 @@
+# Chevrolet. model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+# --- Pre-1980 icons ---
+3100 | Advance Design | | 1947 | 1955 | i6 | pickup | 30000 | | Advance Design;Chevy 3100;3600 | y
+3100 | Task Force | | 1955 | 1959 | i6 | pickup | 25000 | | Task Force;Apache;Cameo | y
+Bel Air | 2nd gen | | 1955 | 1957 | v8 | coupe | 80000 | | Tri-Five;'57 Chevy;1957 Bel Air;150;210 | y
+Bel Air | 2nd gen | Nomad | 1955 | 1957 | v8 | wagon | 6000 | 22519 | Nomad;Tri-Five Nomad | y
+Corvette | C1 | | 1953 | 1962 | v8 | convertible | 30000 | 69015 | C1 Corvette | y
+Corvette | C2 | | 1963 | 1967 | v8 | coupe | 70000 | 117964 | Sting Ray;C2 Corvette;midyear | y
+Corvette | C2 | Split-Window | 1963 | 1963 | v8 | coupe | 7000 | 10594 | 1963 split window;split-window coupe | y
+Corvair | 1st gen | | 1960 | 1964 | flat6 | coupe | 8000 | | Monza;Corvair Monza | 
+Corvair | 2nd gen | | 1965 | 1969 | flat6 | coupe | 7000 | | | 
+Impala | 1st gen | | 1958 | 1958 | v8 | coupe | 10000 | | '58 Impala;1958 Impala | y
+Impala | 2nd gen | | 1959 | 1960 | v8 | coupe | 15000 | | '59 Impala;batwing Impala | y
+Impala | 3rd gen | | 1961 | 1964 | v8 | coupe | 60000 | | '64 Impala;'63 Impala;Impala SS | y
+Impala | 4th gen | | 1965 | 1970 | v8 | coupe | 50000 | | '65 Impala;'67 Impala;Caprice | 
+Chevelle | 1st gen | | 1964 | 1967 | v8 | coupe | 40000 | | Malibu;Chevelle Malibu;Chevelle SS 396 | y
+Chevelle | 2nd gen | | 1968 | 1972 | v8 | coupe | 60000 | | Chevelle SS;Chevelle Malibu;'70 Chevelle | y
+Chevelle | 2nd gen | SS 454 LS6 | 1970 | 1970 | v8 | coupe | 2000 | 4475 | LS6 Chevelle;Chevelle SS 454 | y
+Camaro | 1st gen | | 1967 | 1969 | v8 | coupe | 100000 | | classic Camaro;'69 Camaro | y
+Camaro | 1st gen | Z/28 | 1967 | 1969 | v8 | coupe | 12000 | | Z28;'69 Z/28 | y
+Nova | 3rd gen | | 1968 | 1974 | v8 | coupe | 50000 | | Chevy II Nova;Nova SS | 
+El Camino | 3rd gen | | 1968 | 1972 | v8 | pickup | 15000 | | El Camino SS | 
+C/K | 2nd gen | | 1967 | 1972 | v8 | pickup | 150000 | | C10;K10;C20;Action Line;67-72 C10 | y
+K5 Blazer | 1st gen | | 1969 | 1972 | v8 | suv | 10000 | | Blazer;K5 | y
+Monte Carlo | 1st gen | | 1970 | 1972 | v8 | coupe | 10000 | | | 
+Caprice | 2nd gen | | 1971 | 1976 | v8 | sedan | 15000 | | Donk;Caprice Classic;Impala | 
+Corvette | C3 | | 1968 | 1982 | v8 | coupe | 200000 | 542861 | C3 Corvette;Stingray;Shark | y
+Camaro | 2nd gen | | 1970 | 1981 | v8 | coupe | 50000 | | Z28;Rally Sport | y
+Monza | | | 1975 | 1980 | i4 | hatchback | 1500 | | Monza 2+2;Monza Spyder | 
+LUV | | | 1972 | 1982 | i4 | pickup | 2000 | | Chevy LUV | 
+Chevette | | | 1976 | 1987 | i4 | hatchback | 3000 | | Scooter | 
+Monte Carlo | 3rd gen | | 1978 | 1980 | v8 | coupe | 4000 | | | 
+Malibu | 4th gen | | 1978 | 1983 | v8 | sedan | 25000 | | Malibu Classic;G-body Malibu | 
+El Camino | 5th gen | | 1978 | 1987 | v8 | pickup | 40000 | | El Camino SS;Conquista | 
+C/K | 3rd gen | | 1973 | 1987 | v8 | pickup | 400000 | | Square Body;C10;K10;C20;K20;C30;Silverado;Cheyenne;Scottsdale;R/V | 
+K5 Blazer | 2nd gen | | 1973 | 1991 | v8 | suv | 60000 | | Square Body Blazer;K5;Blazer | y
+Suburban | 7th gen | | 1973 | 1991 | v8 | suv | 50000 | | Square Body Suburban | 
+Chevy Van | 3rd gen | | 1971 | 1996 | v8 | van | 50000 | | G-Series;G10;G20;G30;Sportvan;Beauville | 
+Impala | 6th gen | | 1977 | 1985 | v8 | sedan | 15000 | | Box Chevy | 
+Caprice | 3rd gen | | 1977 | 1990 | v8 | sedan | 60000 | | Box Chevy;Caprice Classic;Caprice Brougham | 
+# --- 1980s ---
+Citation | | | 1980 | 1985 | i4 | hatchback | 2000 | | Citation X-11 | 
+Cavalier | 1st gen | | 1982 | 1987 | i4 | sedan | 5000 | | Cavalier Z24 | 
+Cavalier | 2nd gen | | 1988 | 1994 | i4 | sedan | 20000 | | Cavalier Z24 | 
+Cavalier | 3rd gen | | 1995 | 2005 | i4 | sedan | 250000 | | Cavalier Z24 | 
+Celebrity | | | 1982 | 1990 | v6 | sedan | 5000 | | Celebrity Eurosport | 
+Camaro | 3rd gen | | 1982 | 1992 | v8 | coupe | 100000 | | Berlinetta;Z28 | 
+Camaro | 3rd gen | IROC-Z | 1985 | 1990 | v8 | coupe | 20000 | | IROC;IROC Z28 | y
+Monte Carlo | 4th gen | | 1981 | 1988 | v8 | coupe | 100000 | | G-body Monte Carlo | 
+Monte Carlo | 4th gen | SS | 1983 | 1988 | v8 | coupe | 20000 | | Monte Carlo SS;Monte SS | y
+Monte Carlo | 4th gen | SS Aerocoupe | 1986 | 1987 | v8 | coupe | 3000 | 6252 | Aerocoupe;Monte Carlo SS Aerocoupe | y
+Corvette | C4 | | 1984 | 1996 | v8 | coupe | 250000 | 358180 | C4 Corvette | y
+Corvette | C4 | ZR-1 | 1990 | 1995 | v8 | coupe | 6000 | 6939 | ZR1;C4 ZR-1;King of the Hill | y
+Corvette | C4 | Grand Sport | 1996 | 1996 | v8 | coupe | 900 | 1000 | C4 Grand Sport | y
+S-10 | 1st gen | | 1982 | 1993 | v6 | pickup | 80000 | | S10 | 
+S-10 | 2nd gen | | 1994 | 2004 | v6 | pickup | 400000 | | S10 | 
+S-10 | 2nd gen | ZR2 | 1994 | 2004 | v6 | pickup | 10000 | | S-10 ZR2;S10 ZR2 | y
+S-10 Blazer | 1st gen | | 1983 | 1994 | v6 | suv | 40000 | | S10 Blazer;Blazer | 
+S-10 Blazer | 2nd gen | | 1995 | 2005 | v6 | suv | 200000 | | Blazer;S10 Blazer | 
+Astro | 1st gen | | 1985 | 1994 | v6 | van | 20000 | | Chevy Astro | 
+Astro | 2nd gen | | 1995 | 2005 | v6 | van | 100000 | | Chevy Astro | 
+Sprint | | | 1985 | 1988 | i3 | hatchback | 1000 | | Sprint Turbo | 
+Spectrum | | | 1985 | 1989 | i4 | hatchback | 700 | | Geo Spectrum | 
+Nova | 5th gen | | 1985 | 1988 | i4 | sedan | 2000 | | NUMMI Nova | 
+Corsica | | | 1987 | 1996 | i4 | sedan | 8000 | | | 
+Beretta | | | 1987 | 1996 | i4 | coupe | 8000 | | Beretta GT;Beretta GTZ | 
+C/K | GMT400 | | 1988 | 1998 | v8 | pickup | 600000 | | OBS;OBS Chevy;C1500;K1500;C2500;Silverado;Cheyenne | 
+C/K | GMT400 | 454 SS | 1990 | 1993 | v8 | pickup | 6000 | | 454 SS;C1500 454 SS | y
+Lumina | 1st gen | | 1990 | 1994 | v6 | sedan | 10000 | | Lumina Euro;Lumina Z34 | 
+Lumina | 2nd gen | | 1995 | 2001 | v6 | sedan | 30000 | | Lumina LTZ | 
+Lumina APV | | | 1990 | 1996 | v6 | van | 5000 | | Dustbuster;APV | 
+Caprice | 4th gen | | 1991 | 1996 | v8 | sedan | 60000 | | Whale Caprice;Caprice Classic;Caprice 9C1 | 
+Impala | 7th gen | | 1994 | 1996 | v8 | sedan | 30000 | 69768 | Impala SS;'96 Impala SS | y
+K5 Blazer | GMT400 | | 1992 | 1994 | v8 | suv | 25000 | | Blazer;full-size Blazer;OBS Blazer | 
+Suburban | GMT400 | | 1992 | 1999 | v8 | suv | 150000 | | OBS Suburban | 
+Tahoe | GMT400 | | 1995 | 1999 | v8 | suv | 120000 | | OBS Tahoe;Tahoe 2-door | 
+# --- 1995-2010 ---
+Monte Carlo | 5th gen | | 1995 | 1999 | v6 | coupe | 40000 | | Monte Carlo Z34 | 
+Monte Carlo | 6th gen | | 2000 | 2007 | v6 | coupe | 200000 | | Monte Carlo SS | 
+Camaro | 4th gen | | 1993 | 2002 | v8 | coupe | 150000 | | Z28;Camaro RS | 
+Camaro | 4th gen | SS | 1996 | 2002 | v8 | coupe | 35000 | | Camaro SS;SLP SS | y
+Corvette | C5 | | 1997 | 2004 | v8 | coupe | 200000 | 248715 | C5 Corvette | y
+Corvette | C5 | Z06 | 2001 | 2004 | v8 | coupe | 25000 | | C5 Z06 | y
+Malibu | 5th gen | | 1997 | 2003 | v6 | sedan | 150000 | | Malibu Classic | 
+Venture | | | 1997 | 2005 | v6 | van | 40000 | | | 
+Tracker | 2nd gen | | 1999 | 2004 | i4 | suv | 30000 | | Chevy Tracker | 
+Metro | 2nd gen | | 1998 | 2001 | i3 | hatchback | 15000 | | Chevy Metro | 
+Prizm | 3rd gen | | 1998 | 2002 | i4 | sedan | 25000 | | Chevy Prizm | 
+Silverado | GMT800 | | 1999 | 2006 | v8 | pickup | 1500000 | | Silverado 1500;Silverado Classic;Silverado SS | 
+Silverado HD | GMT800 | | 2001 | 2007 | v8 | pickup | 500000 | | Silverado 2500HD;Silverado 3500;Duramax | 
+Tahoe | GMT800 | | 2000 | 2006 | v8 | suv | 500000 | | | 
+Suburban | GMT800 | | 2000 | 2006 | v8 | suv | 350000 | | | 
+Impala | 8th gen | | 2000 | 2005 | v6 | sedan | 200000 | | Impala SS | 
+Avalanche | GMT800 | | 2002 | 2006 | v8 | pickup | 200000 | | | 
+Avalanche | GMT900 | | 2007 | 2013 | v8 | pickup | 160000 | | | 
+Trailblazer | 1st gen | | 2002 | 2009 | i6 | suv | 400000 | | TrailBlazer;TrailBlazer EXT | 
+Trailblazer | 1st gen | SS | 2006 | 2009 | v8 | suv | 12000 | | TrailBlazer SS | y
+SSR | | | 2003 | 2006 | v8 | pickup | 20000 | | Super Sport Roadster | y
+Colorado | 1st gen | | 2004 | 2012 | i5 | pickup | 350000 | | | 
+Aveo | | | 2004 | 2011 | i4 | hatchback | 150000 | | Aveo5 | 
+Optra | | | 2004 | 2008 | i4 | sedan | 3000 | | Optra5;Optra Wagon | 
+Epica | | | 2004 | 2006 | i6 | sedan | 500 | | | 
+Malibu | 6th gen | | 2004 | 2007 | v6 | sedan | 250000 | | | 
+Malibu | 6th gen | Maxx | 2004 | 2007 | v6 | hatchback | 20000 | | Malibu Maxx | 
+Equinox | 1st gen | | 2005 | 2009 | v6 | suv | 300000 | | | 
+Cobalt | | | 2005 | 2010 | i4 | sedan | 500000 | | | 
+Cobalt | | SS | 2005 | 2010 | i4 | coupe | 20000 | | Cobalt SS | y
+Uplander | | | 2005 | 2009 | v6 | van | 50000 | | | 
+HHR | | | 2006 | 2011 | i4 | wagon | 250000 | | | 
+HHR | | SS | 2008 | 2010 | i4 | wagon | 5000 | | HHR SS | y
+Impala | 9th gen | | 2006 | 2016 | v6 | sedan | 800000 | | Impala Limited | 
+Silverado | GMT900 | | 2007 | 2013 | v8 | pickup | 2500000 | | Silverado 1500 | 
+Silverado HD | GMT900 | | 2007 | 2014 | v8 | pickup | 600000 | | Silverado 2500HD;Silverado 3500HD | 
+Tahoe | GMT900 | | 2007 | 2014 | v8 | suv | 650000 | | | 
+Suburban | GMT900 | | 2007 | 2014 | v8 | suv | 300000 | | | 
+Malibu | 7th gen | | 2008 | 2012 | i4 | sedan | 900000 | | | 
+Traverse | 1st gen | | 2009 | 2017 | v6 | suv | 800000 | | | 
+Camaro | 5th gen | | 2010 | 2015 | v8 | coupe | 450000 | | Camaro SS | 
+Camaro | 5th gen | ZL1 | 2012 | 2015 | v8 | coupe | 20000 | | Camaro ZL1 | y
+Camaro | 5th gen | Z/28 | 2014 | 2015 | v8 | coupe | 2500 | | Camaro Z28 | y
+Equinox | 2nd gen | | 2010 | 2017 | i4 | suv | 1300000 | | | 
+Corvette | C6 | | 2005 | 2013 | v8 | coupe | 150000 | 215123 | C6 Corvette | y
+Corvette | C6 | Z06 | 2006 | 2013 | v8 | coupe | 26000 | | C6 Z06 | y
+Corvette | C6 | Grand Sport | 2010 | 2013 | v8 | coupe | 18000 | | C6 Grand Sport | y
+Corvette | C6 | ZR1 | 2009 | 2013 | v8 | coupe | 4500 | 4684 | C6 ZR1;Blue Devil | y
+# --- 2011 on ---
+Volt | 1st gen | | 2011 | 2015 | i4 | hatchback | 75000 | | | 
+Volt | 2nd gen | | 2016 | 2019 | i4 | hatchback | 65000 | | | 
+Cruze | 1st gen | | 2011 | 2016 | i4 | sedan | 900000 | | Cruze Limited | 
+Cruze | 2nd gen | | 2016 | 2019 | i4 | sedan | 450000 | | Cruze hatchback | 
+Sonic | | | 2012 | 2020 | i4 | hatchback | 400000 | | | 
+Orlando | | | 2012 | 2014 | i4 | van | 12000 | | | 
+Captiva Sport | | | 2012 | 2015 | i4 | suv | 60000 | | Captiva | 
+Caprice | 5th gen | | 2011 | 2017 | v8 | sedan | 15000 | | Caprice PPV | 
+Malibu | 8th gen | | 2013 | 2016 | i4 | sedan | 800000 | | Malibu Limited | 
+Malibu | 9th gen | | 2016 | 2025 | i4 | sedan | 1400000 | | | 
+Spark | M300 | | 2013 | 2015 | i4 | hatchback | 80000 | | Spark EV | 
+Spark | M400 | | 2016 | 2022 | i4 | hatchback | 180000 | | | 
+Impala | 10th gen | | 2014 | 2020 | v6 | sedan | 600000 | | | 
+Silverado | K2XX | | 2014 | 2018 | v8 | pickup | 2600000 | | Silverado 1500 | 
+Silverado HD | K2XX | | 2015 | 2019 | v8 | pickup | 650000 | | Silverado 2500HD;Silverado 3500HD | 
+Tahoe | K2XX | | 2015 | 2020 | v8 | suv | 640000 | | | 
+Suburban | K2XX | | 2015 | 2020 | v8 | suv | 280000 | | | 
+Colorado | 2nd gen | | 2015 | 2022 | v6 | pickup | 700000 | | | 
+Colorado | 2nd gen | ZR2 | 2017 | 2022 | v6 | pickup | 30000 | | Colorado ZR2;ZR2 Bison | y
+City Express | | | 2015 | 2018 | i4 | van | 10000 | | | 
+Trax | 1st gen | | 2015 | 2022 | i4 | suv | 550000 | | | 
+Camaro | 6th gen | | 2016 | 2024 | v8 | coupe | 370000 | | Camaro SS | 
+Camaro | 6th gen | ZL1 | 2017 | 2024 | v8 | coupe | 25000 | | Camaro ZL1 | y
+Camaro | 6th gen | ZL1 1LE | 2018 | 2024 | v8 | coupe | 5000 | | Camaro ZL1 1LE | y
+Bolt | 1st gen | | 2017 | 2023 | electric | hatchback | 160000 | | Bolt EV | 
+Bolt EUV | | | 2022 | 2023 | electric | suv | 55000 | | | 
+Bolt | 2nd gen | | 2027 | | electric | hatchback | 20000 | | 2027 Bolt | 
+Corvette | C7 | | 2014 | 2019 | v8 | coupe | 140000 | | C7 Corvette;Stingray | y
+Corvette | C7 | Z06 | 2015 | 2019 | v8 | coupe | 30000 | | C7 Z06 | y
+Corvette | C7 | Grand Sport | 2017 | 2019 | v8 | coupe | 25000 | | C7 Grand Sport | y
+Corvette | C7 | ZR1 | 2019 | 2019 | v8 | coupe | 2900 | | C7 ZR1 | y
+Equinox | 3rd gen | | 2018 | 2024 | i4 | suv | 1700000 | | | 
+Equinox | 4th gen | | 2025 | | i4 | suv | 350000 | | | 
+Equinox EV | | | 2024 | | electric | suv | 110000 | | | 
+Traverse | 2nd gen | | 2018 | 2023 | v6 | suv | 780000 | | | 
+Traverse | 3rd gen | | 2024 | | i4 | suv | 250000 | | | 
+Silverado | T1XX | | 2019 | | v8 | pickup | 3000000 | | Silverado 1500 | 
+Silverado | T1XX | ZR2 | 2022 | | v8 | pickup | 40000 | | Silverado ZR2 | y
+Silverado HD | T1XX | | 2020 | | v8 | pickup | 900000 | | Silverado 2500HD;Silverado 3500HD | 
+Silverado EV | | | 2024 | | electric | pickup | 20000 | | | 
+Blazer | | | 2019 | | v6 | suv | 450000 | | Blazer RS | 
+Blazer EV | | | 2024 | | electric | suv | 55000 | | Blazer EV SS | 
+Corvette | C8 | | 2020 | | v8 | coupe | 170000 | | C8 Corvette;Stingray;Corvette Stingray | y
+Corvette | C8 | Z06 | 2023 | | v8 | coupe | 20000 | | C8 Z06 | y
+Corvette | C8 | E-Ray | 2024 | | v8 | coupe | 12000 | | Corvette E-Ray | y
+Corvette | C8 | ZR1 | 2025 | | v8 | coupe | 3000 | | Corvette ZR1 (C8);C8 ZR1;ZR1X | y
+Tahoe | T1XX | | 2021 | | v8 | suv | 700000 | | | 
+Suburban | T1XX | | 2021 | | v8 | suv | 300000 | | | 
+Trailblazer | 2nd gen | | 2021 | | i3 | suv | 500000 | | | 
+Colorado | 3rd gen | | 2023 | | i4 | pickup | 300000 | | | 
+Colorado | 3rd gen | ZR2 | 2023 | | i4 | pickup | 25000 | | Colorado ZR2 | y
+Trax | 2nd gen | | 2024 | | i3 | suv | 550000 | | | 
+Express | | | 1996 | | v8 | van | 1500000 | | Express 2500;Express 3500 | 
+BrightDrop | | | 2025 | 2025 | electric | van | 4000 | | BrightDrop 400;BrightDrop 600;Zevo 600 | 

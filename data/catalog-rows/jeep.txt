@@ -1,0 +1,43 @@
+# Pre-1980 classics
+Willys MB | | | 1941 | 1945 | i4 | suv | 3000 | 640000 | MB;Ford GPW;GPW;Willys Jeep | y
+CJ | CJ-2A | | 1945 | 1953 | i4 | suv | 5000 | 300000 | CJ-3A;Willys CJ | y
+CJ | CJ-5 | | 1955 | 1983 | i6 | suv | 20000 | 600000 | | y
+CJ | CJ-7 | | 1976 | 1986 | i6 | suv | 30000 | 380000 | | y
+CJ | CJ-8 | | 1981 | 1986 | i6 | pickup | 5000 | 27800 | Scrambler | y
+Wagoneer | SJ | | 1963 | 1983 | v8 | suv | 8000 | | classic Wagoneer | y
+J-Series | | | 1963 | 1988 | v8 | pickup | 8000 | | Gladiator (1963);J10;J20;Honcho |
+Cherokee | SJ | | 1974 | 1983 | v8 | suv | 2000 | | Cherokee Chief |
+# 1984 on
+Grand Wagoneer | SJ | | 1984 | 1991 | v8 | suv | 15000 | | woodie Grand Wagoneer | y
+Grand Wagoneer | ZJ | | 1993 | 1993 | v8 | suv | 1000 | 6400 | |
+Wagoneer | XJ | | 1984 | 1990 | i6 | suv | 500 | | Wagoneer Limited |
+Cherokee | XJ | | 1984 | 2001 | i6 | suv | 250000 | 2900000 | |
+Comanche | | | 1986 | 1992 | i6 | pickup | 8000 | 190000 | MJ |
+Wrangler | YJ | | 1987 | 1995 | i6 | suv | 120000 | | |
+Wrangler | TJ | | 1997 | 2006 | i6 | suv | 350000 | | |
+Wrangler | TJ | Unlimited | 2004 | 2006 | i6 | suv | 25000 | | LJ;Wrangler Unlimited LJ |
+Wrangler | JK | | 2007 | 2018 | v6 | suv | 2000000 | | Wrangler Unlimited |
+Wrangler | JL | | 2018 | | v6 | suv | 1500000 | | Wrangler 4xe |
+Wrangler | JL | Rubicon 392 | 2021 | 2025 | v8 | suv | 20000 | | Wrangler 392 | y
+Grand Cherokee | ZJ | | 1993 | 1998 | v8 | suv | 150000 | | |
+Grand Cherokee | ZJ | 5.9 Limited | 1998 | 1998 | v8 | suv | 3000 | 14286 | Grand Cherokee 5.9 | y
+Grand Cherokee | WJ | | 1999 | 2004 | v8 | suv | 250000 | | |
+Grand Cherokee | WK | | 2005 | 2010 | v8 | suv | 400000 | | |
+Grand Cherokee | WK | SRT8 | 2006 | 2010 | v8 | suv | 7000 | | Grand Cherokee SRT8 | y
+Grand Cherokee | WK2 | | 2011 | 2021 | v6 | suv | 2000000 | | |
+Grand Cherokee | WK2 | SRT | 2012 | 2021 | v8 | suv | 40000 | | Grand Cherokee SRT8 | y
+Grand Cherokee | WK2 | Trackhawk | 2018 | 2021 | v8 | suv | 7000 | | Grand Cherokee Trackhawk | y
+Grand Cherokee | WL | | 2022 | | v6 | suv | 600000 | | Grand Cherokee L;Grand Cherokee 4xe |
+Liberty | KJ | | 2002 | 2007 | v6 | suv | 250000 | | Cherokee KJ |
+Liberty | KK | | 2008 | 2012 | v6 | suv | 300000 | | |
+Commander | XK | | 2006 | 2010 | v8 | suv | 80000 | 250000 | |
+Compass | MK | | 2007 | 2017 | i4 | suv | 400000 | | 1st gen |
+Compass | MP | | 2017 | | i4 | suv | 900000 | | 2nd gen |
+Patriot | MK | | 2007 | 2017 | i4 | suv | 700000 | | |
+Cherokee | KL | | 2014 | 2023 | i4 | suv | 1500000 | | |
+Cherokee | KM | | 2026 | | i4 | suv | 20000 | | Cherokee hybrid |
+Renegade | BU | | 2015 | 2023 | i4 | suv | 400000 | | |
+Gladiator | JT | | 2020 | | v6 | pickup | 300000 | | |
+Wagoneer | WS | | 2022 | | i6 | suv | 60000 | | Wagoneer (2022) |
+Grand Wagoneer | WS | | 2022 | | i6 | suv | 25000 | | Grand Wagoneer (2022);Grand Wagoneer L |
+Wagoneer S | | | 2024 | | electric | suv | 6000 | | |

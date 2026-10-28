@@ -1,0 +1,17 @@
+{
+  "make": "Saturn",
+  "cars": [
+    {"id":"saturn-s-series-1st-gen","model":"S-Series","generation":"1st gen","years":[1991,1995],"engine":"i4","body":"sedan","naOnRoad":15000,"aliases":["SL","SL1","SL2","SC","SC1","SC2","SW1","SW2"]},
+    {"id":"saturn-s-series-2nd-gen","model":"S-Series","generation":"2nd gen","years":[1996,2002],"engine":"i4","body":"sedan","naOnRoad":60000,"aliases":["SL","SL1","SL2","SC","SC1","SC2","SW2"]},
+    {"id":"saturn-l-series","model":"L-Series","generation":"L-Series","years":[2000,2005],"engine":"i4","body":"sedan","naOnRoad":30000,"aliases":["L200","L300","LW300"]},
+    {"id":"saturn-vue-1st-gen","model":"Vue","generation":"1st gen","years":[2002,2007],"engine":"i4","body":"suv","naOnRoad":120000,"aliases":["Vue Red Line"]},
+    {"id":"saturn-ion","model":"Ion","generation":"Ion","years":[2003,2007],"engine":"i4","body":"sedan","naOnRoad":150000,"aliases":["Ion Quad Coupe"]},
+    {"id":"saturn-ion-red-line","model":"Ion","generation":"Ion","variant":"Red Line","years":[2004,2007],"engine":"i4","body":"coupe","naOnRoad":3000,"aliases":["Ion Red Line"],"hype":true},
+    {"id":"saturn-relay","model":"Relay","generation":"Relay","years":[2005,2007],"engine":"v6","body":"van","naOnRoad":15000},
+    {"id":"saturn-sky","model":"Sky","generation":"Sky","years":[2007,2009],"engine":"i4","body":"convertible","naOnRoad":28000,"aliases":["Sky Red Line"]},
+    {"id":"saturn-aura","model":"Aura","generation":"Aura","years":[2007,2009],"engine":"v6","body":"sedan","naOnRoad":60000},
+    {"id":"saturn-outlook","model":"Outlook","generation":"Outlook","years":[2007,2010],"engine":"v6","body":"suv","naOnRoad":60000},
+    {"id":"saturn-vue-2nd-gen","model":"Vue","generation":"2nd gen","years":[2008,2010],"engine":"i4","body":"suv","naOnRoad":80000},
+    {"id":"saturn-astra","model":"Astra","generation":"Astra","years":[2008,2009],"engine":"i4","body":"hatchback","naOnRoad":10000}
+  ]
+}

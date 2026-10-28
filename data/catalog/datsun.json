@@ -1,0 +1,15 @@
+{
+  "make": "Datsun",
+  "cars": [
+    {"id":"datsun-fairlady-roadster","model":"Fairlady Roadster","generation":"Fairlady Roadster","years":[1963,1970],"engine":"i4","body":"convertible","naOnRoad":2500,"aliases":["1600 Roadster","2000 Roadster","SPL311","SRL311","Datsun Roadster"]},
+    {"id":"datsun-510-p510","model":"510","generation":"P510","years":[1968,1973],"engine":"i4","body":"sedan","naOnRoad":4000,"aliases":["Bluebird","BRE 510","Datsun 510"],"hype":true},
+    {"id":"datsun-240z","model":"240Z","generation":"240Z","years":[1969,1978],"engine":"i6","body":"coupe","naOnRoad":25000,"built":550000,"aliases":["260Z","280Z","S30","Fairlady Z","Nissan 240Z"],"hype":true},
+    {"id":"datsun-620","model":"620","generation":"620","years":[1972,1979],"engine":"i4","body":"pickup","naOnRoad":3000,"aliases":["Datsun pickup","Li'l Hustler"]},
+    {"id":"datsun-280zx","model":"280ZX","generation":"280ZX","years":[1979,1983],"engine":"i6","body":"coupe","naOnRoad":12000,"built":414000,"aliases":["S130","280ZX Turbo","Fairlady Z"]},
+    {"id":"datsun-510-a10","model":"510","generation":"A10","years":[1978,1981],"engine":"i4","body":"sedan","naOnRoad":800,"aliases":["Violet"]},
+    {"id":"datsun-210-b310","model":"210","generation":"B310","years":[1979,1982],"engine":"i4","body":"hatchback","naOnRoad":1500,"aliases":["Sunny"]},
+    {"id":"datsun-310-n10","model":"310","generation":"N10","years":[1979,1982],"engine":"i4","body":"hatchback","naOnRoad":500,"aliases":["Pulsar","Cherry"]},
+    {"id":"datsun-200sx-s110","model":"200SX","generation":"S110","years":[1980,1983],"engine":"i4","body":"coupe","naOnRoad":600,"aliases":["Silvia S110","Gazelle"]},
+    {"id":"datsun-720","model":"720","generation":"720","years":[1980,1986],"engine":"i4","body":"pickup","naOnRoad":12000,"aliases":["Nissan 720","Datsun pickup","King Cab"]}
+  ]
+}

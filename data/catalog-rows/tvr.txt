@@ -1,0 +1,4 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Tasmin | | | 1980 | 1991 | v6 | coupe | 80 | 2600 | 280i; Tasmin 280i; 350i | y
+Griffith | | | 1991 | 2002 | v8 | convertible | 60 | 2600 | Griffith 500 | y
+Chimaera | | | 1993 | 2003 | v8 | convertible | 60 | 6000 | | y

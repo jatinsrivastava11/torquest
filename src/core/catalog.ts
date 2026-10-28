@@ -7,6 +7,10 @@ import type { Tier } from "./tiers";
 export const BODY_STYLES = ["sedan", "hatchback", "wagon", "coupe", "convertible", "suv", "pickup", "van", "supercar"] as const;
 export type BodyStyle = (typeof BODY_STYLES)[number];
 
+/** Where a car that was never sold in North America is common. */
+export const HOME_MARKETS = ["europe", "uk", "china", "india", "japan", "korea", "australia", "latin-america", "middle-east", "russia", "southeast-asia", "africa"] as const;
+export type HomeMarket = (typeof HOME_MARKETS)[number];
+
 /** One entry as written in data/catalog/<make>.json. */
 export interface CatalogEntry {
   id: string;
@@ -18,6 +22,12 @@ export interface CatalogEntry {
   body: BodyStyle;
   /** Estimated number on (or regularly seen on) North American roads today. */
   naOnRoad: number;
+  /**
+   * Only for cars never sold in North America: their home market and how many
+   * are on its roads. The tier then comes from this, not from naOnRoad
+   * (Jatin's call, 2026-10-28: a Renault Clio is Common, as it is in Europe).
+   */
+  home?: { market: HomeMarket; onRoad: number };
   /** Worldwide production, if known. */
   built?: number;
   aliases?: string[];
@@ -57,7 +67,8 @@ export function tierFromOnRoad(onRoad: number): Tier {
 
 export function toCatalogCar(make: string, e: CatalogEntry): CatalogCar {
   const { tierOverride, tierReason: _reason, hype, ...rest } = e;
-  return { ...rest, make, tier: tierOverride ?? tierFromOnRoad(e.naOnRoad), hype: hype ?? e.body === "supercar" };
+  const onRoad = e.home ? e.home.onRoad : e.naOnRoad;
+  return { ...rest, make, tier: tierOverride ?? tierFromOnRoad(onRoad), hype: hype ?? e.body === "supercar" };
 }
 
 export const slug = (...parts: (string | undefined)[]) =>

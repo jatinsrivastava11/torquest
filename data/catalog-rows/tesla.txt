@@ -1,0 +1,6 @@
+Roadster | 1st gen | | 2008 | 2012 | electric | convertible | 1200 | 2450 | Roadster (2008);Tesla Roadster | y
+Model S | | | 2012 | 2026 | electric | sedan | 350000 | | Model S Plaid |
+Model X | | | 2016 | 2026 | electric | suv | 250000 | | Model X Plaid |
+Model 3 | | | 2017 | | electric | sedan | 1200000 | | Model 3 Highland |
+Model Y | | | 2020 | | electric | suv | 1500000 | | Model Y Juniper |
+Cybertruck | | | 2023 | | electric | pickup | 60000 | | Cyberbeast | y

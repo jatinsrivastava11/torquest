@@ -1,0 +1,6 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+T-Series | | | 1945 | 1955 | i4 | convertible | 6000 | 49000 | TC; TD; TF; MG TC; MG TD; MG TF | y
+MGA | | | 1955 | 1962 | i4 | convertible | 12000 | 101000 | MGA Twin Cam; MGA 1600 | y
+MGB | | | 1962 | 1980 | i4 | convertible | 40000 | 523000 | MGB Roadster; rubber bumper MGB; chrome bumper MGB | y
+MGB | | GT | 1965 | 1980 | i4 | coupe | 6000 | 125000 | MGB GT
+Midget | | | 1961 | 1979 | i4 | convertible | 15000 | 226000 | MG Midget

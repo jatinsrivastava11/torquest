@@ -1,0 +1,15 @@
+{
+  "make": "Ram",
+  "cars": [
+    {"id":"ram-1500-ds","model":"1500","generation":"DS","years":[2009,2024],"engine":"v8","body":"pickup","naOnRoad":4000000,"aliases":["Dodge Ram 1500 (2009)","1500 Classic","Ram 1500"]},
+    {"id":"ram-1500-dt","model":"1500","generation":"DT","years":[2019,null],"engine":"v8","body":"pickup","naOnRoad":2500000,"aliases":["Ram 1500"]},
+    {"id":"ram-1500-dt-trx","model":"1500","generation":"DT","variant":"TRX","years":[2021,2024],"engine":"v8","body":"pickup","naOnRoad":30000,"aliases":["Ram TRX","1500 TRX"],"hype":true},
+    {"id":"ram-1500-dt-rho","model":"1500","generation":"DT","variant":"RHO","years":[2025,null],"engine":"i6","body":"pickup","naOnRoad":12000,"aliases":["Ram RHO","1500 RHO"],"hype":true},
+    {"id":"ram-heavy-duty-4th-gen","model":"Heavy Duty","generation":"4th gen","years":[2010,2018],"engine":"i6","body":"pickup","naOnRoad":1000000,"aliases":["2500","3500","Ram HD"]},
+    {"id":"ram-heavy-duty-4th-gen-power-wagon","model":"Heavy Duty","generation":"4th gen","variant":"Power Wagon","years":[2010,2018],"engine":"v8","body":"pickup","naOnRoad":30000,"aliases":["Ram Power Wagon"],"hype":true},
+    {"id":"ram-heavy-duty-5th-gen","model":"Heavy Duty","generation":"5th gen","years":[2019,null],"engine":"i6","body":"pickup","naOnRoad":900000,"aliases":["2500","3500","Ram HD"]},
+    {"id":"ram-heavy-duty-5th-gen-power-wagon","model":"Heavy Duty","generation":"5th gen","variant":"Power Wagon","years":[2019,null],"engine":"v8","body":"pickup","naOnRoad":25000,"aliases":["Ram Power Wagon"],"hype":true},
+    {"id":"ram-promaster","model":"ProMaster","generation":"ProMaster","years":[2014,null],"engine":"v6","body":"van","naOnRoad":400000,"aliases":["ProMaster EV"]},
+    {"id":"ram-promaster-city","model":"ProMaster City","generation":"ProMaster City","years":[2015,2022],"engine":"i4","body":"van","naOnRoad":100000}
+  ]
+}

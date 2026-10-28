@@ -1,0 +1,13 @@
+{
+  "make": "Triumph",
+  "cars": [
+    {"id":"triumph-tr3","model":"TR3","generation":"TR3","years":[1955,1962],"engine":"i4","body":"convertible","naOnRoad":6000,"built":74800,"aliases":["TR2","TR3A","TR3B"],"hype":true},
+    {"id":"triumph-tr4","model":"TR4","generation":"TR4","years":[1961,1967],"engine":"i4","body":"convertible","naOnRoad":5000,"built":68700,"aliases":["TR4A","TR250","TR5"]},
+    {"id":"triumph-tr6","model":"TR6","generation":"TR6","years":[1968,1976],"engine":"i6","body":"convertible","naOnRoad":20000,"built":94619,"hype":true},
+    {"id":"triumph-spitfire","model":"Spitfire","generation":"Spitfire","years":[1962,1980],"engine":"i4","body":"convertible","naOnRoad":20000,"built":314000,"aliases":["Spitfire 1500","Spitfire Mk IV"]},
+    {"id":"triumph-gt6","model":"GT6","generation":"GT6","years":[1966,1973],"engine":"i6","body":"coupe","naOnRoad":3000,"built":40926},
+    {"id":"triumph-stag","model":"Stag","generation":"Stag","years":[1970,1977],"engine":"v8","body":"convertible","naOnRoad":1000,"built":25939},
+    {"id":"triumph-tr7","model":"TR7","generation":"TR7","years":[1975,1981],"engine":"i4","body":"coupe","naOnRoad":6000,"built":112368,"aliases":["TR7 Convertible","wedge"]},
+    {"id":"triumph-tr8","model":"TR8","generation":"TR8","years":[1980,1981],"engine":"v8","body":"convertible","naOnRoad":800,"built":2700}
+  ]
+}

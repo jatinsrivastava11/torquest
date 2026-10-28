@@ -1,0 +1,6 @@
+# Hummer. model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+H1 | | | 1992 | 2006 | v8 | suv | 8000 | 11818 | Hummer;H1 Alpha | y
+H2 | | | 2003 | 2009 | v8 | suv | 110000 | | | 
+H2 | | SUT | 2005 | 2009 | v8 | pickup | 15000 | | H2 SUT | 
+H3 | | | 2006 | 2010 | i5 | suv | 90000 | | H3 Alpha | 
+H3 | | H3T | 2009 | 2010 | i5 | pickup | 2000 | | | 

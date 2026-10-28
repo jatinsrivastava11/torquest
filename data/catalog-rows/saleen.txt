@@ -1,0 +1,6 @@
+S7 | | | 2000 | 2009 | v8 | supercar | 60 | 100 | S7 Twin Turbo | y
+S1 | | | 2019 | 2020 | i4 | supercar | 15 | | | y
+Mustang | Fox body | | 1984 | 1993 | v8 | coupe | 700 | 1700 | Saleen Mustang;SA-10;SSC | y
+Mustang | SN95 | | 1994 | 2004 | v8 | coupe | 2000 | | S351;S281 | y
+Mustang | S197 | | 2005 | 2014 | v8 | coupe | 2000 | | S281;S302 | y
+Mustang | S550 | | 2015 | | v8 | coupe | 800 | | S302;302 Black Label | y

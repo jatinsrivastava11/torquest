@@ -1,0 +1,34 @@
+# Pre-1980 classics
+Continental Mark II | | | 1956 | 1957 | v8 | coupe | 1000 | 3000 | Mark II | y
+Continental | 4th gen | | 1961 | 1969 | v8 | sedan | 15000 | | suicide door Continental | y
+Mark V | | | 1977 | 1979 | v8 | coupe | 6000 | 228000 | Continental Mark V |
+# 1980 on
+Mark VI | | | 1980 | 1983 | v8 | coupe | 1000 | | Continental Mark VI |
+Mark VII | | | 1984 | 1992 | v8 | coupe | 5000 | | Mark VII LSC |
+Mark VIII | | | 1993 | 1998 | v8 | coupe | 10000 | | |
+Town Car | 1st gen | | 1981 | 1989 | v8 | sedan | 20000 | | |
+Town Car | 2nd gen | | 1990 | 1997 | v8 | sedan | 40000 | | |
+Town Car | 3rd gen | | 1998 | 2011 | v8 | sedan | 200000 | | |
+Continental | 7th gen | | 1982 | 1987 | v8 | sedan | 1500 | | bustleback Continental |
+Continental | 8th gen | | 1988 | 1994 | v6 | sedan | 3000 | | |
+Continental | 9th gen | | 1995 | 2002 | v8 | sedan | 15000 | | |
+Continental | 10th gen | | 2017 | 2020 | v6 | sedan | 60000 | | Continental Coach Door Edition |
+Navigator | 1st gen | | 1998 | 2002 | v8 | suv | 60000 | | |
+Navigator | 2nd gen | | 2003 | 2006 | v8 | suv | 60000 | | |
+Navigator | 3rd gen | | 2007 | 2017 | v8 | suv | 120000 | | Navigator L |
+Navigator | 4th gen | | 2018 | 2024 | v6 | suv | 150000 | | Navigator L |
+Navigator | 5th gen | | 2025 | | v6 | suv | 25000 | | |
+LS | | | 2000 | 2006 | v8 | sedan | 40000 | | |
+Blackwood | | | 2002 | 2002 | v8 | pickup | 2000 | 3356 | |
+Aviator | 1st gen | | 2003 | 2005 | v8 | suv | 15000 | | |
+Aviator | 2nd gen | | 2020 | | v6 | suv | 150000 | | Aviator Grand Touring |
+Mark LT | | | 2006 | 2008 | v8 | pickup | 7000 | 40000 | |
+MKZ | 1st gen | | 2006 | 2012 | v6 | sedan | 120000 | | Zephyr |
+MKZ | 2nd gen | | 2013 | 2020 | i4 | sedan | 250000 | | MKZ Hybrid |
+MKX | | | 2007 | 2015 | v6 | suv | 200000 | | |
+Nautilus | 1st gen | | 2016 | 2023 | i4 | suv | 250000 | | MKX (2016) |
+Nautilus | 2nd gen | | 2024 | | i4 | suv | 60000 | | |
+MKS | | | 2009 | 2016 | v6 | sedan | 40000 | | |
+MKT | | | 2010 | 2019 | v6 | suv | 20000 | | |
+MKC | | | 2015 | 2019 | i4 | suv | 120000 | | |
+Corsair | | | 2020 | | i4 | suv | 200000 | | Corsair Grand Touring |

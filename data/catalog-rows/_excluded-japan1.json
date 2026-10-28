@@ -1,0 +1,9 @@
+{"models":[
+  {"make":"Toyota","model":"Fortuner","reason":"Never sold in North America."},
+  {"make":"Toyota","model":"Innova","reason":"Never sold in North America."},
+  {"make":"Toyota","model":"HiAce","reason":"Never sold in North America (the US 'Toyota Van' was a TownAce, catalogued as Van); grey imports too few to matter."},
+  {"make":"Toyota","model":"Alphard","reason":"Never sold in North America."},
+  {"make":"Toyota","model":"Vios","reason":"Never sold in North America."},
+  {"make":"Toyota","model":"GR Yaris (first edition)","reason":"Never sold in North America (GR Corolla sold instead) and too new for 25-year-rule imports."},
+  {"make":"Nissan","model":"240Z","reason":"Sold as the Datsun 240Z in North America; catalogued under Datsun."}
+]}

@@ -1,0 +1,54 @@
+# Pre-1980 classics
+Town & Country | Woody | | 1941 | 1950 | i6 | convertible | 600 | 12000 | Town and Country woody | y
+300 | Letter series | | 1955 | 1965 | v8 | coupe | 2000 | 17000 | C-300;300B;300C (1957);300 letter car | y
+# 1980s
+Cordoba | 2nd gen | | 1980 | 1983 | v8 | coupe | 600 | | |
+Newport | R-body | | 1979 | 1981 | v8 | sedan | 100 | | |
+New Yorker | R-body | | 1979 | 1981 | v8 | sedan | 200 | | |
+New Yorker | E-body | | 1983 | 1987 | i4 | sedan | 500 | | |
+New Yorker | C-body | | 1988 | 1993 | v6 | sedan | 3000 | | New Yorker Salon;New Yorker Landau |
+New Yorker | LH | | 1994 | 1996 | v6 | sedan | 2000 | | |
+Fifth Avenue | M-body | | 1982 | 1989 | v8 | sedan | 3000 | | New Yorker Fifth Avenue |
+Fifth Avenue | C-body | | 1990 | 1993 | v6 | sedan | 2000 | | |
+Imperial | 1st gen | | 1981 | 1983 | v8 | coupe | 1500 | 12000 | Frank Sinatra Imperial |
+Imperial | 2nd gen | | 1990 | 1993 | v6 | sedan | 1000 | | |
+LeBaron | M-body | | 1977 | 1981 | v8 | sedan | 300 | | |
+LeBaron | K-body | | 1982 | 1988 | i4 | convertible | 1500 | | LeBaron Town and Country |
+LeBaron | J-body | | 1987 | 1995 | v6 | convertible | 8000 | | LeBaron coupe;LeBaron convertible |
+LeBaron | AA-body | | 1990 | 1994 | v6 | sedan | 1000 | | LeBaron sedan |
+LeBaron GTS | | | 1985 | 1989 | i4 | hatchback | 300 | | |
+E-Class | | | 1983 | 1984 | i4 | sedan | 100 | | |
+Laser | | | 1984 | 1986 | i4 | hatchback | 200 | | |
+Conquest | | | 1987 | 1989 | i4 | coupe | 300 | | Mitsubishi Starion |
+TC by Maserati | | | 1989 | 1991 | i4 | convertible | 2000 | 7300 | TC;Chrysler TC |
+# Minivans
+Town & Country | 2nd gen | | 1990 | 1995 | v6 | van | 5000 | | |
+Town & Country | 3rd gen | | 1996 | 2000 | v6 | van | 40000 | | |
+Town & Country | 4th gen | | 2001 | 2007 | v6 | van | 300000 | | |
+Town & Country | 5th gen | | 2008 | 2016 | v6 | van | 900000 | | |
+Voyager | RS | | 2001 | 2003 | v6 | van | 20000 | | Chrysler Voyager 2001 |
+Pacifica | CS | | 2004 | 2008 | v6 | suv | 100000 | | Pacifica crossover |
+Pacifica | RU | | 2017 | | v6 | van | 700000 | | Pacifica Hybrid |
+Voyager | RU | | 2020 | | v6 | van | 60000 | | |
+Grand Caravan | RU | | 2021 | | v6 | van | 60000 | | Chrysler Grand Caravan (Canada) |
+# 1990s-today
+Concorde | 1st gen | | 1993 | 1997 | v6 | sedan | 5000 | | |
+Concorde | 2nd gen | | 1998 | 2004 | v6 | sedan | 40000 | | |
+LHS | 1st gen | | 1994 | 1997 | v6 | sedan | 3000 | | |
+LHS | 2nd gen | | 1999 | 2001 | v6 | sedan | 10000 | | |
+300M | | | 1999 | 2004 | v6 | sedan | 40000 | | |
+Cirrus | | | 1995 | 2000 | v6 | sedan | 10000 | | |
+Sebring | 1st gen | | 1995 | 2000 | v6 | coupe | 30000 | | Sebring JX convertible |
+Sebring | 2nd gen | | 2001 | 2006 | v6 | sedan | 150000 | | Sebring convertible |
+Sebring | 3rd gen | | 2007 | 2010 | i4 | sedan | 200000 | | |
+PT Cruiser | | | 2001 | 2010 | i4 | hatchback | 200000 | 1350000 | |
+PT Cruiser | | Convertible | 2005 | 2008 | i4 | convertible | 30000 | | PT Cruiser Convertible |
+Crossfire | | | 2004 | 2008 | v6 | coupe | 40000 | 76000 | |
+Crossfire | | SRT-6 | 2005 | 2006 | v6 | coupe | 2000 | | Crossfire SRT6 | y
+300 | LX | | 2005 | 2010 | v8 | sedan | 400000 | | 300C;300 Touring |
+300 | LX | SRT8 | 2005 | 2010 | v8 | sedan | 15000 | | 300C SRT8 | y
+300 | LD | | 2011 | 2023 | v8 | sedan | 700000 | | 300C;300S |
+300 | LD | SRT8 | 2012 | 2014 | v8 | sedan | 5000 | | 300 SRT;300 SRT8 | y
+Aspen | | | 2007 | 2009 | v8 | suv | 15000 | | |
+200 | 1st gen | | 2011 | 2014 | i4 | sedan | 250000 | | 200 convertible |
+200 | 2nd gen | | 2015 | 2017 | i4 | sedan | 350000 | | |

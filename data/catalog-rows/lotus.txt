@@ -1,0 +1,12 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Elan | 1st gen | | 1962 | 1975 | i4 | convertible | 1500 | 12000 | Elan +2; Elan Sprint; Type 26 | y
+Europa | | | 1966 | 1975 | i4 | coupe | 800 | 9200 | Europa Twin Cam; Type 54 | y
+Esprit | Giugiaro | | 1976 | 1987 | i4 | supercar | 800 | 4000 | Esprit S1; Esprit S2; Esprit S3; Esprit Turbo; Bond Esprit | y
+Esprit | X180 | | 1987 | 2004 | i4 | supercar | 1500 | 6600 | Esprit SE; Esprit S4; Esprit V8; Esprit GT3 | y
+Elan | M100 | | 1989 | 1995 | i4 | convertible | 400 | 4555 | Elan SE | y
+Elise | S2 | | 2005 | 2011 | i4 | convertible | 5500 | 20000 | Elise SC; Elise S2 | y
+Exige | S2 | | 2006 | 2011 | i4 | coupe | 1800 | 6000 | Exige S; Exige S260 | y
+Exige | S3 | | 2013 | 2014 | v6 | coupe | 300 | 4000 | Exige S V6; Exige Cup 430; Exige Sport 350; Exige 410 | y
+Evora | | | 2010 | 2020 | v6 | coupe | 2500 | 10000 | Evora S; Evora 400; Evora GT; Evora GT410 | y
+Emira | | | 2023 | | v6 | coupe | 2500 | | Emira i4; Emira V6 First Edition | y
+Evija | | | 2023 | | electric | supercar | 10 | | | y

@@ -1,0 +1,9 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+TR3 | | | 1955 | 1962 | i4 | convertible | 6000 | 74800 | TR2; TR3A; TR3B | y
+TR4 | | | 1961 | 1967 | i4 | convertible | 5000 | 68700 | TR4A; TR250; TR5
+TR6 | | | 1968 | 1976 | i6 | convertible | 20000 | 94619 | | y
+Spitfire | | | 1962 | 1980 | i4 | convertible | 20000 | 314000 | Spitfire 1500; Spitfire Mk IV
+GT6 | | | 1966 | 1973 | i6 | coupe | 3000 | 40926 |
+Stag | | | 1970 | 1977 | v8 | convertible | 1000 | 25939 |
+TR7 | | | 1975 | 1981 | i4 | coupe | 6000 | 112368 | TR7 Convertible; wedge
+TR8 | | | 1980 | 1981 | v8 | convertible | 800 | 2700 |

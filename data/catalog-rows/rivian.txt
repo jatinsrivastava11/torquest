@@ -1,0 +1,4 @@
+R1T | | | 2022 | | electric | pickup | 70000 | | |
+R1S | | | 2022 | | electric | suv | 80000 | | |
+R2 | | | 2026 | | electric | suv | 3000 | | |
+EDV | | | 2021 | | electric | van | 30000 | | Amazon van;Rivian Commercial Van;RCV |

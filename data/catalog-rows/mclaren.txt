@@ -1,0 +1,19 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+F1 | | | 1992 | 1998 | v12 | supercar | 12 | 106 | McLaren F1 LM; F1 GT | y
+12C | | | 2011 | 2014 | v8 | supercar | 1400 | 3500 | MP4-12C; 12C Spider | y
+650S | | | 2014 | 2017 | v8 | supercar | 1500 | 3500 | 650S Spider; 625C | y
+675LT | | | 2015 | 2017 | v8 | supercar | 350 | 1000 | 675LT Spider | y
+P1 | | | 2013 | 2015 | v8 | supercar | 130 | 375 | P1 GTR | y
+570S | | | 2015 | 2021 | v8 | supercar | 4500 | | 570S Spider; 570GT; 540C; Sports Series | y
+600LT | | | 2018 | 2020 | v8 | supercar | 800 | 2000 | 600LT Spider | y
+620R | | | 2020 | 2020 | v8 | supercar | 225 | 350 | | y
+720S | | | 2017 | 2023 | v8 | supercar | 3500 | | 720S Spider | y
+765LT | | | 2020 | 2022 | v8 | supercar | 500 | 1530 | 765LT Spider | y
+750S | | | 2023 | | v8 | supercar | 1500 | | 750S Spider | y
+Senna | | | 2018 | 2019 | v8 | supercar | 150 | 500 | Senna GTR | y
+Speedtail | | | 2020 | 2021 | v8 | supercar | 30 | 106 | | y
+Elva | | | 2020 | 2022 | v8 | supercar | 50 | 149 | | y
+GT | | | 2019 | | v8 | supercar | 1800 | | McLaren GT; GTS | y
+Artura | | | 2022 | | v6 | supercar | 2000 | | Artura Spider | y
+Sabre | | | 2021 | 2021 | v8 | supercar | 15 | 15 | | y
+W1 | | | 2025 | | v8 | supercar | 100 | 399 | | y

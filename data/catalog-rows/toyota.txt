@@ -1,0 +1,152 @@
+# Toyota. model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+# Pre-1980 classics
+2000GT | | | 1967 | 1970 | i6 | coupe | 60 | 351 | | y
+Land Cruiser | 40 Series | | 1960 | 1984 | i6 | suv | 8000 | | FJ40;BJ40;FJ45 | y
+Land Cruiser | 55 Series | | 1967 | 1980 | i6 | suv | 1000 | | FJ55;Iron Pig
+Celica | A20 | | 1970 | 1977 | i4 | coupe | 2000 | | 1st gen Celica;Celica liftback;TA22
+Century | G40 | | 1967 | 1997 | v8 | sedan | 150 | | Toyota Century | y
+Century | G50 | | 1997 | 2017 | v12 | sedan | 60 | | Toyota Century V12 | y
+# Corolla family
+Corolla | E70 | | 1979 | 1983 | i4 | sedan | 2000
+Corolla | E80 | | 1984 | 1987 | i4 | sedan | 12000
+Corolla | E80 | AE86 | 1984 | 1987 | i4 | coupe | 4000 | | AE86;Corolla GT-S;Sprinter Trueno;Levin;Hachiroku;Hachi-roku | y
+Corolla | E90 | | 1988 | 1992 | i4 | sedan | 20000 | | Corolla FX;All-Trac
+Corolla | E100 | | 1993 | 1997 | i4 | sedan | 120000
+Corolla | E110 | | 1998 | 2002 | i4 | sedan | 300000
+Corolla | E130 | | 2003 | 2008 | i4 | sedan | 800000 | | E120;Corolla XRS
+Corolla | E140 | | 2009 | 2013 | i4 | sedan | 1200000
+Corolla | E170 | | 2014 | 2019 | i4 | sedan | 2000000
+Corolla | E210 | | 2019 | | i4 | sedan | 1800000 | | Corolla hatchback
+GR Corolla | | | 2023 | | i3 | hatchback | 22000 | | Corolla GR | y
+Corolla iM | | | 2017 | 2018 | i4 | hatchback | 20000 | | Auris
+Corolla Cross | | | 2022 | | i4 | suv | 400000
+Matrix | E130 | | 2003 | 2008 | i4 | hatchback | 150000 | | Corolla Matrix
+Matrix | E140 | | 2009 | 2014 | i4 | hatchback | 120000 | | Corolla Matrix
+# Small cars
+Tercel | L10 | | 1980 | 1982 | i4 | hatchback | 300 | | Corolla Tercel
+Tercel | L20 | | 1983 | 1986 | i4 | hatchback | 2000 | | Tercel 4WD wagon
+Tercel | L30 | | 1987 | 1990 | i4 | hatchback | 2000
+Tercel | L40 | | 1991 | 1994 | i4 | sedan | 5000
+Tercel | L50 | | 1995 | 1999 | i4 | sedan | 25000
+Starlet | KP61 | | 1981 | 1984 | i4 | hatchback | 500
+Paseo | L40 | | 1992 | 1995 | i4 | coupe | 3000
+Paseo | L50 | | 1996 | 1999 | i4 | coupe | 3000
+Echo | | | 2000 | 2005 | i4 | sedan | 40000 | | Yaris XP10;Platz
+Yaris | XP90 | | 2007 | 2012 | i4 | hatchback | 200000 | | Vitz
+Yaris | XP130 | | 2012 | 2019 | i4 | hatchback | 120000
+Yaris | DJ | | 2017 | 2020 | i4 | sedan | 100000 | | Yaris iA;Yaris sedan;Yaris hatchback;Mazda2
+# Midsize / large sedans
+Camry | V10 | | 1983 | 1986 | i4 | sedan | 3000
+Camry | V20 | | 1987 | 1991 | i4 | sedan | 20000
+Camry | XV10 | | 1992 | 1996 | i4 | sedan | 120000
+Camry | XV20 | | 1997 | 2001 | i4 | sedan | 350000
+Camry | XV30 | | 2002 | 2006 | i4 | sedan | 900000
+Camry | XV40 | | 2007 | 2011 | i4 | sedan | 1200000
+Camry | XV50 | | 2012 | 2017 | i4 | sedan | 1800000
+Camry | XV70 | | 2018 | 2024 | i4 | sedan | 2200000
+Camry | XV70 | TRD | 2020 | 2024 | v6 | sedan | 20000 | | Camry TRD
+Camry | XV80 | | 2025 | | i4 | sedan | 500000
+Solara | 1st gen | | 1999 | 2003 | i4 | coupe | 100000 | | Camry Solara
+Solara | 2nd gen | | 2004 | 2008 | i4 | coupe | 150000 | | Camry Solara
+Avalon | XX10 | | 1995 | 1999 | v6 | sedan | 30000
+Avalon | XX20 | | 2000 | 2004 | v6 | sedan | 100000
+Avalon | XX30 | | 2005 | 2012 | v6 | sedan | 250000
+Avalon | XX40 | | 2013 | 2018 | v6 | sedan | 250000
+Avalon | XX50 | | 2019 | 2022 | v6 | sedan | 120000
+Cressida | X30 | | 1977 | 1980 | i6 | sedan | 200
+Cressida | X60 | | 1981 | 1984 | i6 | sedan | 1000
+Cressida | X70 | | 1985 | 1988 | i6 | sedan | 2000
+Cressida | X80 | | 1989 | 1992 | i6 | sedan | 4000
+Corona | T130 | | 1979 | 1982 | i4 | sedan | 300
+Crown | 16th gen | | 2023 | | i4 | sedan | 50000 | | Crown Crossover
+Crown Signia | | | 2025 | | i4 | suv | 50000 | | Crown Estate
+Chaser | JZX100 | | 1996 | 2001 | i6 | sedan | 500 | | Mark II;Cresta;JZX100 | y
+# Sports cars
+Celica | A40 | | 1978 | 1981 | i4 | coupe | 1000
+Celica | A60 | | 1982 | 1985 | i4 | coupe | 2000
+Celica | T160 | | 1986 | 1989 | i4 | coupe | 5000
+Celica | T180 | | 1990 | 1993 | i4 | coupe | 10000
+Celica | T180 | All-Trac | 1990 | 1993 | i4 | coupe | 1000 | | Celica GT-Four;Celica All-Trac Turbo | y
+Celica | T200 | | 1994 | 1999 | i4 | coupe | 15000
+Celica | T230 | | 2000 | 2005 | i4 | coupe | 80000 | | Celica GT-S
+Supra | A40 | | 1979 | 1981 | i6 | coupe | 800 | | Celica Supra;Mk1 Supra
+Supra | A60 | | 1982 | 1986 | i6 | coupe | 3000 | | Celica Supra;Mk2 Supra
+Supra | A70 | | 1986 | 1992 | i6 | coupe | 12000 | | Mk3 Supra | y
+Supra | A80 | | 1993 | 1998 | i6 | coupe | 9000 | | Mk4 Supra;JZA80 | y
+Supra | A90 | | 2020 | 2026 | i6 | coupe | 30000 | | Mk5 Supra;GR Supra | y
+MR2 | W10 | | 1985 | 1989 | i4 | coupe | 8000 | | AW11
+MR2 | W20 | | 1991 | 1995 | i4 | coupe | 6000 | | SW20 | y
+MR2 | W30 | | 2000 | 2005 | i4 | convertible | 12000 | | MR2 Spyder;MR-S
+86 | ZN6 | | 2017 | 2020 | flat4 | coupe | 20000 | | GT86;Toyota 86
+86 | ZN8 | | 2022 | | flat4 | coupe | 40000 | | GR86
+# Trucks and SUVs
+Hilux | N30 | | 1979 | 1983 | i4 | pickup | 15000 | | Toyota Pickup;Toyota Truck;N40
+Hilux | N50 | | 1984 | 1988 | i4 | pickup | 50000 | | Toyota Pickup;Toyota Truck;SR5;N60
+Hilux | N80 | | 1989 | 1995 | i4 | pickup | 120000 | | Toyota Pickup;Toyota Truck;N90;N100
+T100 | | | 1993 | 1998 | v6 | pickup | 40000
+Tacoma | 1st gen | | 1995 | 2004 | v6 | pickup | 500000
+Tacoma | 2nd gen | | 2005 | 2015 | v6 | pickup | 1600000
+Tacoma | 2nd gen | X-Runner | 2005 | 2013 | v6 | pickup | 12000 | | Tacoma X-Runner
+Tacoma | 3rd gen | | 2016 | 2023 | v6 | pickup | 1800000
+Tacoma | 3rd gen | TRD Pro | 2017 | 2023 | v6 | pickup | 50000 | | Tacoma TRD Pro | y
+Tacoma | 4th gen | | 2024 | | i4 | pickup | 400000
+Tacoma | 4th gen | TRD Pro | 2024 | | i4 | pickup | 15000 | | Tacoma TRD Pro | y
+Tundra | 1st gen | | 2000 | 2006 | v8 | pickup | 250000
+Tundra | 2nd gen | | 2007 | 2021 | v8 | pickup | 1300000
+Tundra | 2nd gen | TRD Pro | 2015 | 2021 | v8 | pickup | 25000 | | Tundra TRD Pro | y
+Tundra | 3rd gen | | 2022 | | v6 | pickup | 500000
+Tundra | 3rd gen | TRD Pro | 2022 | | v6 | pickup | 20000 | | Tundra TRD Pro | y
+4Runner | N60 | | 1984 | 1989 | i4 | suv | 15000 | | Hilux Surf
+4Runner | N120 | | 1990 | 1995 | v6 | suv | 50000 | | Hilux Surf;N130
+4Runner | N180 | | 1996 | 2002 | v6 | suv | 200000 | | Hilux Surf
+4Runner | N210 | | 2003 | 2009 | v6 | suv | 450000
+4Runner | N280 | | 2010 | 2024 | v6 | suv | 1500000
+4Runner | N280 | TRD Pro | 2015 | 2024 | v6 | suv | 60000 | | 4Runner TRD Pro | y
+4Runner | N300 | | 2025 | | i4 | suv | 120000 | | 6th gen 4Runner
+4Runner | N300 | TRD Pro | 2025 | | i4 | suv | 8000 | | 4Runner TRD Pro | y
+Land Cruiser | 60 Series | | 1980 | 1990 | i6 | suv | 15000 | | FJ60;FJ62
+Land Cruiser | 70 Series | | 1984 | | i6 | suv | 3000 | | FJ70;BJ70;HZJ75;Troopy
+Land Cruiser | 80 Series | | 1991 | 1997 | i6 | suv | 25000 | | FJ80;FZJ80
+Land Cruiser | 100 Series | | 1998 | 2007 | v8 | suv | 40000 | | UZJ100
+Land Cruiser | 200 Series | | 2008 | 2021 | v8 | suv | 35000 | | URJ200
+Land Cruiser | 250 Series | | 2024 | | i4 | suv | 60000 | | Land Cruiser Prado;Prado;J250
+FJ Cruiser | | | 2007 | 2014 | v6 | suv | 180000
+Sequoia | 1st gen | | 2001 | 2007 | v8 | suv | 150000
+Sequoia | 2nd gen | | 2008 | 2022 | v8 | suv | 250000
+Sequoia | 3rd gen | | 2023 | | v6 | suv | 120000
+Sequoia | 3rd gen | TRD Pro | 2023 | | v6 | suv | 8000 | | Sequoia TRD Pro | y
+RAV4 | XA10 | | 1996 | 2000 | i4 | suv | 40000
+RAV4 | XA10 | EV | 1997 | 2003 | electric | suv | 300 | 1575 | RAV4 EV
+RAV4 | XA20 | | 2001 | 2005 | i4 | suv | 150000
+RAV4 | XA30 | | 2006 | 2012 | i4 | suv | 600000
+RAV4 | XA30 | EV | 2012 | 2014 | electric | suv | 1000 | 2489 | RAV4 EV;Tesla RAV4
+RAV4 | XA40 | | 2013 | 2018 | i4 | suv | 1500000
+RAV4 | XA50 | | 2019 | 2025 | i4 | suv | 2500000 | | RAV4 Prime
+RAV4 | XA60 | | 2026 | | i4 | suv | 150000
+Highlander | XU20 | | 2001 | 2007 | v6 | suv | 350000 | | Kluger
+Highlander | XU40 | | 2008 | 2013 | v6 | suv | 600000 | | Kluger
+Highlander | XU50 | | 2014 | 2019 | v6 | suv | 1000000
+Highlander | XU70 | | 2020 | | v6 | suv | 1000000
+Grand Highlander | | | 2024 | | i4 | suv | 200000
+Venza | 1st gen | | 2009 | 2017 | i4 | suv | 200000
+Venza | 2nd gen | | 2021 | 2024 | i4 | suv | 150000 | | Harrier
+C-HR | 1st gen | | 2018 | 2022 | i4 | suv | 180000 | | Scion C-HR
+C-HR | 2nd gen | | 2026 | | electric | suv | 3000 | | C-HR BEV
+bZ4X | | | 2023 | | electric | suv | 50000 | | bZ
+# Vans
+Van | | | 1984 | 1989 | i4 | van | 1500 | | Toyota Van;Van Wagon;TownAce;MasterAce
+Previa | | | 1991 | 1997 | i4 | van | 15000 | | Estima
+Sienna | XL10 | | 1998 | 2003 | v6 | van | 100000
+Sienna | XL20 | | 2004 | 2010 | v6 | van | 400000
+Sienna | XL30 | | 2011 | 2020 | v6 | van | 1000000
+Sienna | XL40 | | 2021 | | i4 | van | 450000
+# Hybrids / alt fuel
+Prius | NHW11 | | 2001 | 2003 | i4 | sedan | 10000 | | 1st gen Prius;XW10
+Prius | XW20 | | 2004 | 2009 | i4 | hatchback | 400000
+Prius | XW30 | | 2010 | 2015 | i4 | hatchback | 900000
+Prius | XW50 | | 2016 | 2022 | i4 | hatchback | 550000 | | Prius Prime
+Prius | XW60 | | 2023 | | i4 | hatchback | 150000 | | Prius Prime
+Prius c | | | 2012 | 2019 | i4 | hatchback | 150000 | | Aqua
+Prius v | | | 2012 | 2017 | i4 | wagon | 100000 | | Prius Alpha
+Mirai | JPD10 | | 2016 | 2020 | electric | sedan | 3000 | 11000
+Mirai | JPD20 | | 2021 | | electric | sedan | 10000

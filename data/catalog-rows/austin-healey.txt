@@ -1,0 +1,6 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+100 | | | 1953 | 1956 | i4 | convertible | 3000 | 14634 | 100/4; 100M; BN1; BN2 | y
+100-6 | | | 1956 | 1959 | i6 | convertible | 3000 | 14436 | 100 Six; BN4; BN6 | y
+3000 | | | 1959 | 1967 | i6 | convertible | 12000 | 42926 | Big Healey; 3000 Mk I; 3000 Mk II; 3000 Mk III; BJ8 | y
+Sprite | Mk I | | 1958 | 1961 | i4 | convertible | 8000 | 48987 | Bugeye; Frogeye; Bugeye Sprite | y
+Sprite | Mk II-IV | | 1961 | 1971 | i4 | convertible | 4000 | 80000 | Sprite Mk II; Sprite Mk III; Sprite Mk IV

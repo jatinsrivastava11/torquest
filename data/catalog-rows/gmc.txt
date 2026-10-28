@@ -1,0 +1,51 @@
+# GMC. model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Motorhome | | | 1973 | 1978 | v8 | van | 7000 | 12921 | GMC Motorhome;GMC RV | y
+C/K | 3rd gen | | 1973 | 1987 | v8 | pickup | 100000 | | Square Body;Sierra Classic;GMC Sierra;C1500;K1500;High Sierra | 
+Jimmy | K5 | | 1973 | 1991 | v8 | suv | 15000 | | K5 Jimmy;Square Body Jimmy | y
+Suburban | 7th gen | | 1973 | 1991 | v8 | suv | 10000 | | GMC Suburban | 
+Vandura | | | 1971 | 1996 | v8 | van | 15000 | | Rally;Rally STX;G-Series | 
+Caballero | | | 1978 | 1987 | v8 | pickup | 3000 | | Diablo | 
+Sonoma | 1st gen | | 1982 | 1993 | v6 | pickup | 15000 | | S-15;S15 | 
+Sonoma | 2nd gen | | 1994 | 2004 | v6 | pickup | 100000 | | | 
+Jimmy | S-15 | | 1983 | 1994 | v6 | suv | 8000 | | S-15 Jimmy;S15 Jimmy | 
+Jimmy | GMT330 | | 1995 | 2005 | v6 | suv | 40000 | | Jimmy Envoy | 
+Safari | 1st gen | | 1985 | 1994 | v6 | van | 5000 | | | 
+Safari | 2nd gen | | 1995 | 2005 | v6 | van | 25000 | | | 
+Sierra | GMT400 | | 1988 | 1998 | v8 | pickup | 250000 | | OBS GMC;Sierra 1500;Sierra C3 | 
+Syclone | | | 1991 | 1991 | v6 | pickup | 2000 | 2995 | GMC Syclone | y
+Typhoon | | | 1992 | 1993 | v6 | suv | 3000 | 4697 | GMC Typhoon | y
+Yukon | GMT400 | | 1992 | 1999 | v8 | suv | 60000 | | Yukon 2-door;Yukon Denali | 
+Suburban | GMT400 | | 1992 | 1999 | v8 | suv | 50000 | | GMC Suburban | 
+Savana | | | 1996 | | v8 | van | 600000 | | Savana 2500;Savana 3500 | 
+Envoy | 1st gen | | 1998 | 2000 | v6 | suv | 5000 | | | 
+Envoy | 2nd gen | | 2002 | 2009 | i6 | suv | 150000 | | Envoy XL;Envoy Denali | 
+Envoy | 2nd gen | XUV | 2004 | 2005 | i6 | suv | 8000 | | Envoy XUV | 
+Sierra | GMT800 | | 1999 | 2006 | v8 | pickup | 600000 | | Sierra 1500;Sierra Classic | 
+Sierra HD | GMT800 | | 2001 | 2007 | v8 | pickup | 250000 | | Sierra 2500HD;Sierra 3500 | 
+Yukon | GMT800 | | 2000 | 2006 | v8 | suv | 250000 | | Yukon Denali | 
+Yukon XL | GMT800 | | 2000 | 2006 | v8 | suv | 200000 | | Yukon XL Denali | 
+Canyon | 1st gen | | 2004 | 2012 | i5 | pickup | 100000 | | | 
+Acadia | 1st gen | | 2007 | 2016 | v6 | suv | 600000 | | Acadia Denali | 
+Sierra | GMT900 | | 2007 | 2013 | v8 | pickup | 800000 | | Sierra 1500 | 
+Sierra HD | GMT900 | | 2007 | 2014 | v8 | pickup | 300000 | | Sierra 2500HD;Sierra 3500HD | 
+Yukon | GMT900 | | 2007 | 2014 | v8 | suv | 300000 | | Yukon Denali | 
+Yukon XL | GMT900 | | 2007 | 2014 | v8 | suv | 200000 | | | 
+Terrain | 1st gen | | 2010 | 2017 | i4 | suv | 600000 | | | 
+Sierra | K2XX | | 2014 | 2018 | v8 | pickup | 900000 | | Sierra 1500 | 
+Sierra HD | K2XX | | 2015 | 2019 | v8 | pickup | 350000 | | Sierra 2500HD;Sierra 3500HD | 
+Yukon | K2XX | | 2015 | 2020 | v8 | suv | 350000 | | Yukon Denali | 
+Yukon XL | K2XX | | 2015 | 2020 | v8 | suv | 250000 | | | 
+Canyon | 2nd gen | | 2015 | 2022 | v6 | pickup | 300000 | | | 
+Acadia | 2nd gen | | 2017 | 2023 | v6 | suv | 650000 | | | 
+Terrain | 2nd gen | | 2018 | 2024 | i4 | suv | 700000 | | | 
+Sierra | T1XX | | 2019 | | v8 | pickup | 1200000 | | Sierra 1500;Sierra AT4X | 
+Sierra HD | T1XX | | 2020 | | v8 | pickup | 450000 | | Sierra 2500HD;Sierra 3500HD | 
+Yukon | T1XX | | 2021 | | v8 | suv | 300000 | | Yukon Denali | 
+Yukon XL | T1XX | | 2021 | | v8 | suv | 250000 | | | 
+Hummer EV | | | 2022 | | electric | pickup | 20000 | | Hummer EV Pickup;GMC Hummer | y
+Hummer EV SUV | | | 2024 | | electric | suv | 12000 | | | y
+Sierra EV | | | 2024 | | electric | pickup | 12000 | | Sierra EV Denali | 
+Canyon | 3rd gen | | 2023 | | i4 | pickup | 120000 | | | 
+Canyon | 3rd gen | AT4X | 2023 | | i4 | pickup | 12000 | | Canyon AT4X | y
+Acadia | 3rd gen | | 2024 | | i4 | suv | 150000 | | | 
+Terrain | 3rd gen | | 2025 | | i4 | suv | 100000 | | | 

@@ -1,0 +1,15 @@
+{
+  "make": "Scion",
+  "cars": [
+    {"id":"scion-xa","model":"xA","generation":"xA","years":[2004,2006],"engine":"i4","body":"hatchback","naOnRoad":30000,"aliases":["ist"]},
+    {"id":"scion-xb-1st-gen","model":"xB","generation":"1st gen","years":[2004,2006],"engine":"i4","body":"wagon","naOnRoad":60000,"aliases":["bB"]},
+    {"id":"scion-xb-2nd-gen","model":"xB","generation":"2nd gen","years":[2008,2015],"engine":"i4","body":"wagon","naOnRoad":150000,"aliases":["Corolla Rumion"]},
+    {"id":"scion-tc-1st-gen","model":"tC","generation":"1st gen","years":[2005,2010],"engine":"i4","body":"coupe","naOnRoad":120000},
+    {"id":"scion-tc-2nd-gen","model":"tC","generation":"2nd gen","years":[2011,2016],"engine":"i4","body":"coupe","naOnRoad":120000},
+    {"id":"scion-xd","model":"xD","generation":"xD","years":[2008,2014],"engine":"i4","body":"hatchback","naOnRoad":50000,"aliases":["ist"]},
+    {"id":"scion-iq","model":"iQ","generation":"iQ","years":[2012,2015],"engine":"i4","body":"hatchback","naOnRoad":5000},
+    {"id":"scion-fr-s","model":"FR-S","generation":"FR-S","years":[2013,2016],"engine":"flat4","body":"coupe","naOnRoad":40000,"aliases":["86","GT86","Toyota 86"]},
+    {"id":"scion-ia","model":"iA","generation":"iA","years":[2016,2016],"engine":"i4","body":"sedan","naOnRoad":20000,"aliases":["Yaris iA","Mazda2"]},
+    {"id":"scion-im","model":"iM","generation":"iM","years":[2016,2016],"engine":"i4","body":"hatchback","naOnRoad":15000,"aliases":["Corolla iM","Auris"]}
+  ]
+}

@@ -17,8 +17,11 @@ How cars get into Torquest's catalog and how their tier is decided. The data liv
 - **Before 1980: iconic classics only**, cars people genuinely see at shows and on Sunday
   drives in North America: Mustang 1st gen, '57 Bel Air, E-Type, 300SL, Beetle, 911 classic,
   Corvette C1–C3, Model T. Not every pre-1980 generation.
-- **Sold or seen in North America.** Cars never sold there are included only if they're famous
-  enough to turn up (imports, shows): Nissan Skyline GT-R R32–R34, Toyota Century.
+- **Cars never sold in North America are included too** (Jatin, 2026-10-28: "no reasons to leave
+  any"). They carry a **`home`** market and how many are on its roads, and **their tier comes from
+  that**: a Renault Clio is Common, as it is in Europe; an Alpine A110 is Rare. `naOnRoad` stays
+  the honest North American count (usually near zero). For these makes, cover the generations still
+  common on their home roads (roughly 2005 on) plus famous older ones.
 
 ## How tiers work
 
@@ -71,7 +74,8 @@ about, and multiplies their points by 1.5 (Jatin's call, 2026-10-28). The tier d
   "built": 0,                        // optional; 0 or missing = unknown
   "aliases": ["992 GT3 RS"],         // optional; extra search terms
   "commons": "Porsche 911 GT3 RS (992)", // optional; Wikimedia Commons category with its photos
-  "hype": true                       // optional; points ×1.5 (see Hype)
+  "hype": true,                      // optional; points ×1.5 (see Hype)
+  "home": { "market": "europe", "onRoad": 2000000 } // only for cars never sold in North America
 }
 ```
 

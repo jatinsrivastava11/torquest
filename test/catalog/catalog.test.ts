@@ -3,7 +3,7 @@
 import { readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import { describe, expect, it } from "vitest";
-import { BODY_STYLES, carId, slug, tierFromOnRoad, toCatalogCar, type CatalogFile } from "@/core/catalog";
+import { BODY_STYLES, HOME_MARKETS, carId, slug, tierFromOnRoad, toCatalogCar, type CatalogFile } from "@/core/catalog";
 import { ENGINE_TYPES } from "@/core/engines";
 import { TIERS } from "@/core/tiers";
 
@@ -40,6 +40,11 @@ describe("catalog", () => {
       if (c.years[1] !== null) expect(c.years[1], at).toBeGreaterThanOrEqual(c.years[0]);
       expect(Number.isInteger(c.naOnRoad) && c.naOnRoad >= 0, at).toBe(true);
       if (c.built) expect(c.built, `${at}: more on NA roads than were ever built`).toBeGreaterThanOrEqual(c.naOnRoad);
+      if (c.home) {
+        expect(HOME_MARKETS, `${at}: home.market`).toContain(c.home.market);
+        expect(Number.isInteger(c.home.onRoad) && c.home.onRoad >= 0, `${at}: home.onRoad`).toBe(true);
+        expect(c.naOnRoad, `${at}: a car with a home market was never sold in North America`).toBeLessThan(1000);
+      }
       if (c.tierOverride) {
         expect(TIERS, at).toContain(c.tierOverride);
         expect(c.tierReason?.length, `${at}: tierOverride needs a tierReason`).toBeGreaterThan(10);

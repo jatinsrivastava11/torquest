@@ -1,0 +1,11 @@
+# Datsun (Nissan's North American brand until 1983). model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Fairlady Roadster | | | 1963 | 1970 | i4 | convertible | 2500 | | 1600 Roadster;2000 Roadster;SPL311;SRL311;Datsun Roadster
+510 | P510 | | 1968 | 1973 | i4 | sedan | 4000 | | Bluebird;BRE 510;Datsun 510 | y
+240Z | | | 1969 | 1978 | i6 | coupe | 25000 | 550000 | 260Z;280Z;S30;Fairlady Z;Nissan 240Z | y
+620 | | | 1972 | 1979 | i4 | pickup | 3000 | | Datsun pickup;Li'l Hustler
+280ZX | | | 1979 | 1983 | i6 | coupe | 12000 | 414000 | S130;280ZX Turbo;Fairlady Z
+510 | A10 | | 1978 | 1981 | i4 | sedan | 800 | | Violet
+210 | B310 | | 1979 | 1982 | i4 | hatchback | 1500 | | Sunny
+310 | N10 | | 1979 | 1982 | i4 | hatchback | 500 | | Pulsar;Cherry
+200SX | S110 | | 1980 | 1983 | i4 | coupe | 600 | | Silvia S110;Gazelle
+720 | | | 1980 | 1986 | i4 | pickup | 12000 | | Nissan 720;Datsun pickup;King Cab

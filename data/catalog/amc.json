@@ -1,0 +1,16 @@
+{
+  "make": "AMC",
+  "cars": [
+    {"id":"amc-sc-rambler","model":"SC/Rambler","generation":"SC/Rambler","years":[1969,1969],"engine":"v8","body":"sedan","naOnRoad":400,"built":1512,"aliases":["Rambler SC","Hurst SC/Rambler"],"hype":true},
+    {"id":"amc-amx","model":"AMX","generation":"AMX","years":[1968,1970],"engine":"v8","body":"coupe","naOnRoad":3000,"built":19134,"hype":true},
+    {"id":"amc-javelin-1st-gen","model":"Javelin","generation":"1st gen","years":[1968,1970],"engine":"v8","body":"coupe","naOnRoad":3000,"hype":true},
+    {"id":"amc-javelin-2nd-gen","model":"Javelin","generation":"2nd gen","years":[1971,1974],"engine":"v8","body":"coupe","naOnRoad":3000,"aliases":["Javelin AMX"],"hype":true},
+    {"id":"amc-amx-3","model":"AMX/3","generation":"AMX/3","years":[1970,1970],"engine":"v8","body":"supercar","naOnRoad":4,"built":6,"hype":true},
+    {"id":"amc-hornet","model":"Hornet","generation":"Hornet","years":[1970,1977],"engine":"i6","body":"sedan","naOnRoad":2000},
+    {"id":"amc-gremlin","model":"Gremlin","generation":"Gremlin","years":[1970,1978],"engine":"i6","body":"hatchback","naOnRoad":3000,"built":670000},
+    {"id":"amc-pacer","model":"Pacer","generation":"Pacer","years":[1975,1980],"engine":"i6","body":"hatchback","naOnRoad":2000,"built":280000},
+    {"id":"amc-concord","model":"Concord","generation":"Concord","years":[1978,1983],"engine":"i6","body":"sedan","naOnRoad":1000},
+    {"id":"amc-spirit","model":"Spirit","generation":"Spirit","years":[1979,1983],"engine":"i6","body":"hatchback","naOnRoad":800},
+    {"id":"amc-eagle","model":"Eagle","generation":"Eagle","years":[1980,1988],"engine":"i6","body":"wagon","naOnRoad":3000,"built":200000,"aliases":["Eagle Wagon","AMC Eagle","Eagle SX/4"]}
+  ]
+}

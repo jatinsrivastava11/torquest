@@ -1,0 +1,27 @@
+# Pre-1980 classics
+Fury | 1st gen | | 1956 | 1958 | v8 | coupe | 500 | | Christine;1958 Fury | y
+Barracuda | 2nd gen | | 1967 | 1969 | v8 | coupe | 3000 | | | y
+Barracuda | 3rd gen | | 1970 | 1974 | v8 | coupe | 10000 | 105000 | 'Cuda;Cuda;Hemi Cuda | y
+Road Runner | 1st gen | | 1968 | 1970 | v8 | coupe | 12000 | 170000 | | y
+Road Runner | 1st gen | Superbird | 1970 | 1970 | v8 | coupe | 900 | 1935 | Superbird;Road Runner Superbird | y
+Road Runner | 2nd gen | | 1971 | 1974 | v8 | coupe | 4000 | | | y
+GTX | | | 1967 | 1971 | v8 | coupe | 3000 | 50000 | | y
+Duster | | | 1970 | 1976 | v8 | coupe | 8000 | | Duster 340 |
+Volare | | | 1976 | 1980 | i6 | sedan | 800 | | Road Runner (Volare) |
+# 1980 on
+Horizon | | | 1978 | 1990 | i4 | hatchback | 1500 | | |
+Horizon TC3 | | | 1979 | 1987 | i4 | hatchback | 300 | | Turismo;TC3 |
+Reliant | | | 1981 | 1989 | i4 | sedan | 2500 | | K-car |
+Caravelle | | | 1983 | 1988 | i4 | sedan | 300 | | |
+Gran Fury | | | 1980 | 1989 | v8 | sedan | 1000 | | |
+Colt | | | 1979 | 1994 | i4 | hatchback | 300 | | Champ;Plymouth Champ |
+Voyager | 1st gen | | 1984 | 1990 | i4 | van | 3000 | | Grand Voyager |
+Voyager | 2nd gen | | 1991 | 1995 | v6 | van | 10000 | | Grand Voyager |
+Voyager | 3rd gen | | 1996 | 2000 | v6 | van | 40000 | | Grand Voyager |
+Sundance | | | 1987 | 1994 | i4 | hatchback | 2000 | | Duster (1992) |
+Acclaim | | | 1989 | 1995 | i4 | sedan | 3000 | | |
+Laser | | | 1990 | 1994 | i4 | coupe | 1500 | | |
+Neon | 1st gen | | 1995 | 1999 | i4 | sedan | 8000 | | |
+Neon | 2nd gen | | 2000 | 2001 | i4 | sedan | 15000 | | |
+Breeze | | | 1996 | 2000 | i4 | sedan | 5000 | | |
+Prowler | | | 1997 | 2002 | v6 | convertible | 10000 | 11702 | Chrysler Prowler | y

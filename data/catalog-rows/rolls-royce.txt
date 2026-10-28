@@ -1,0 +1,23 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Silver Ghost | | | 1907 | 1926 | i6 | convertible | 400 | 7874 | 40/50 | y
+Silver Cloud | | | 1955 | 1966 | v8 | sedan | 1500 | 7400 | Silver Cloud I; Silver Cloud II; Silver Cloud III | y
+Phantom | V | | 1959 | 1968 | v8 | sedan | 100 | 516 | Phantom V | y
+Silver Shadow | | | 1965 | 1980 | v8 | sedan | 7000 | 30000 | Silver Shadow II; Silver Wraith II | y
+Corniche | 1st gen | | 1971 | 1995 | v8 | convertible | 2000 | 5000 | Corniche II; Corniche III; Corniche IV | y
+Camargue | | | 1975 | 1986 | v8 | coupe | 200 | 531 | | y
+Silver Spirit | | | 1980 | 1998 | v8 | sedan | 4000 | 18000 | Silver Spur; Silver Dawn; Flying Spur (1994) | y
+Silver Seraph | | | 1998 | 2002 | v12 | sedan | 600 | 1570 | Park Ward | y
+Corniche | 2nd gen | | 2000 | 2002 | v8 | convertible | 150 | 374 | Corniche V | y
+Phantom | VII | | 2003 | 2017 | v12 | sedan | 3000 | | Phantom EWB; Phantom Series II | y
+Phantom | VII | Drophead Coupe | 2007 | 2016 | v12 | convertible | 600 | | Phantom Drophead | y
+Phantom | VII | Coupe | 2008 | 2016 | v12 | coupe | 450 | | Phantom Coupe | y
+Phantom | VIII | | 2017 | | v12 | sedan | 1500 | | Phantom EWB | y
+Ghost | 1st gen | | 2009 | 2020 | v12 | sedan | 7000 | | Ghost Series II; Ghost EWB | y
+Ghost | 2nd gen | | 2020 | | v12 | sedan | 5000 | | Ghost Black Badge; Ghost EWB | y
+Wraith | | | 2013 | 2023 | v12 | coupe | 4500 | 13000 | Wraith Black Badge | y
+Dawn | | | 2015 | 2023 | v12 | convertible | 1700 | 4500 | Dawn Black Badge | y
+Cullinan | | | 2018 | | v12 | suv | 8000 | | Cullinan Black Badge | y
+Spectre | | | 2023 | | electric | coupe | 1500 | | | y
+Sweptail | | | 2017 | 2017 | v12 | coupe | 1 | 1 | | y
+Boat Tail | | | 2021 | 2022 | v12 | convertible | 1 | 3 | | y
+Droptail | | | 2023 | 2025 | v12 | convertible | 1 | 4 | La Rose Noire | y

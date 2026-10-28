@@ -1,0 +1,14 @@
+{
+  "make": "Eagle",
+  "cars": [
+    {"id":"eagle-premier","model":"Premier","generation":"Premier","years":[1988,1992],"engine":"v6","body":"sedan","naOnRoad":300},
+    {"id":"eagle-medallion","model":"Medallion","generation":"Medallion","years":[1988,1989],"engine":"i4","body":"sedan","naOnRoad":50,"aliases":["Renault 21"]},
+    {"id":"eagle-vista","model":"Vista","generation":"Vista","years":[1989,1991],"engine":"i4","body":"hatchback","naOnRoad":100},
+    {"id":"eagle-summit-1st-gen","model":"Summit","generation":"1st gen","years":[1989,1992],"engine":"i4","body":"sedan","naOnRoad":200},
+    {"id":"eagle-summit-2nd-gen","model":"Summit","generation":"2nd gen","years":[1993,1996],"engine":"i4","body":"coupe","naOnRoad":400},
+    {"id":"eagle-summit-wagon","model":"Summit Wagon","generation":"Summit Wagon","years":[1992,1996],"engine":"i4","body":"wagon","naOnRoad":300,"aliases":["Vista Wagon"]},
+    {"id":"eagle-talon-1st-gen","model":"Talon","generation":"1st gen","years":[1990,1994],"engine":"i4","body":"coupe","naOnRoad":1500,"aliases":["Talon TSi AWD","DSM"]},
+    {"id":"eagle-talon-2nd-gen","model":"Talon","generation":"2nd gen","years":[1995,1998],"engine":"i4","body":"coupe","naOnRoad":3000,"aliases":["Talon TSi AWD","DSM"]},
+    {"id":"eagle-vision","model":"Vision","generation":"Vision","years":[1993,1997],"engine":"v6","body":"sedan","naOnRoad":1500}
+  ]
+}

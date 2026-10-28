@@ -1,0 +1,11 @@
+{
+  "make": "Tesla",
+  "cars": [
+    {"id":"tesla-roadster-1st-gen","model":"Roadster","generation":"1st gen","years":[2008,2012],"engine":"electric","body":"convertible","naOnRoad":1200,"built":2450,"aliases":["Roadster (2008)","Tesla Roadster"],"hype":true},
+    {"id":"tesla-model-s","model":"Model S","generation":"Model S","years":[2012,2026],"engine":"electric","body":"sedan","naOnRoad":350000,"aliases":["Model S Plaid"]},
+    {"id":"tesla-model-x","model":"Model X","generation":"Model X","years":[2016,2026],"engine":"electric","body":"suv","naOnRoad":250000,"aliases":["Model X Plaid"]},
+    {"id":"tesla-model-3","model":"Model 3","generation":"Model 3","years":[2017,null],"engine":"electric","body":"sedan","naOnRoad":1200000,"aliases":["Model 3 Highland"]},
+    {"id":"tesla-model-y","model":"Model Y","generation":"Model Y","years":[2020,null],"engine":"electric","body":"suv","naOnRoad":1500000,"aliases":["Model Y Juniper"]},
+    {"id":"tesla-cybertruck","model":"Cybertruck","generation":"Cybertruck","years":[2023,null],"engine":"electric","body":"pickup","naOnRoad":60000,"aliases":["Cyberbeast"],"hype":true}
+  ]
+}

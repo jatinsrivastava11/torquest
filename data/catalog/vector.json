@@ -1,0 +1,7 @@
+{
+  "make": "Vector",
+  "cars": [
+    {"id":"vector-w8","model":"W8","generation":"W8","years":[1990,1993],"engine":"v8","body":"supercar","naOnRoad":12,"built":19,"hype":true},
+    {"id":"vector-m12","model":"M12","generation":"M12","years":[1996,1999],"engine":"v12","body":"supercar","naOnRoad":10,"built":14,"hype":true}
+  ]
+}

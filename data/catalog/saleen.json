@@ -1,0 +1,11 @@
+{
+  "make": "Saleen",
+  "cars": [
+    {"id":"saleen-s7","model":"S7","generation":"S7","years":[2000,2009],"engine":"v8","body":"supercar","naOnRoad":60,"built":100,"aliases":["S7 Twin Turbo"],"hype":true},
+    {"id":"saleen-s1","model":"S1","generation":"S1","years":[2019,2020],"engine":"i4","body":"supercar","naOnRoad":15,"hype":true},
+    {"id":"saleen-mustang-fox-body","model":"Mustang","generation":"Fox body","years":[1984,1993],"engine":"v8","body":"coupe","naOnRoad":700,"built":1700,"aliases":["Saleen Mustang","SA-10","SSC"],"hype":true},
+    {"id":"saleen-mustang-sn95","model":"Mustang","generation":"SN95","years":[1994,2004],"engine":"v8","body":"coupe","naOnRoad":2000,"aliases":["S351","S281"],"hype":true},
+    {"id":"saleen-mustang-s197","model":"Mustang","generation":"S197","years":[2005,2014],"engine":"v8","body":"coupe","naOnRoad":2000,"aliases":["S281","S302"],"hype":true},
+    {"id":"saleen-mustang-s550","model":"Mustang","generation":"S550","years":[2015,null],"engine":"v8","body":"coupe","naOnRoad":800,"aliases":["S302","302 Black Label"],"hype":true}
+  ]
+}

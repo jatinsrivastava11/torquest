@@ -1,0 +1,10 @@
+{
+  "make": "Austin-Healey",
+  "cars": [
+    {"id":"austin-healey-100","model":"100","generation":"100","years":[1953,1956],"engine":"i4","body":"convertible","naOnRoad":3000,"built":14634,"aliases":["100/4","100M","BN1","BN2"],"hype":true},
+    {"id":"austin-healey-100-6","model":"100-6","generation":"100-6","years":[1956,1959],"engine":"i6","body":"convertible","naOnRoad":3000,"built":14436,"aliases":["100 Six","BN4","BN6"],"hype":true},
+    {"id":"austin-healey-3000","model":"3000","generation":"3000","years":[1959,1967],"engine":"i6","body":"convertible","naOnRoad":12000,"built":42926,"aliases":["Big Healey","3000 Mk I","3000 Mk II","3000 Mk III","BJ8"],"hype":true},
+    {"id":"austin-healey-sprite-mk-i","model":"Sprite","generation":"Mk I","years":[1958,1961],"engine":"i4","body":"convertible","naOnRoad":8000,"built":48987,"aliases":["Bugeye","Frogeye","Bugeye Sprite"],"hype":true},
+    {"id":"austin-healey-sprite-mk-ii-iv","model":"Sprite","generation":"Mk II-IV","years":[1961,1971],"engine":"i4","body":"convertible","naOnRoad":4000,"built":80000,"aliases":["Sprite Mk II","Sprite Mk III","Sprite Mk IV"]}
+  ]
+}

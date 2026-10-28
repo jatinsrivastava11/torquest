@@ -1,0 +1,30 @@
+{
+  "make": "Plymouth",
+  "cars": [
+    {"id":"plymouth-fury-1st-gen","model":"Fury","generation":"1st gen","years":[1956,1958],"engine":"v8","body":"coupe","naOnRoad":500,"aliases":["Christine","1958 Fury"],"hype":true},
+    {"id":"plymouth-barracuda-2nd-gen","model":"Barracuda","generation":"2nd gen","years":[1967,1969],"engine":"v8","body":"coupe","naOnRoad":3000,"hype":true},
+    {"id":"plymouth-barracuda-3rd-gen","model":"Barracuda","generation":"3rd gen","years":[1970,1974],"engine":"v8","body":"coupe","naOnRoad":10000,"built":105000,"aliases":["'Cuda","Cuda","Hemi Cuda"],"hype":true},
+    {"id":"plymouth-road-runner-1st-gen","model":"Road Runner","generation":"1st gen","years":[1968,1970],"engine":"v8","body":"coupe","naOnRoad":12000,"built":170000,"hype":true},
+    {"id":"plymouth-road-runner-1st-gen-superbird","model":"Road Runner","generation":"1st gen","variant":"Superbird","years":[1970,1970],"engine":"v8","body":"coupe","naOnRoad":900,"built":1935,"aliases":["Superbird","Road Runner Superbird"],"hype":true},
+    {"id":"plymouth-road-runner-2nd-gen","model":"Road Runner","generation":"2nd gen","years":[1971,1974],"engine":"v8","body":"coupe","naOnRoad":4000,"hype":true},
+    {"id":"plymouth-gtx","model":"GTX","generation":"GTX","years":[1967,1971],"engine":"v8","body":"coupe","naOnRoad":3000,"built":50000,"hype":true},
+    {"id":"plymouth-duster","model":"Duster","generation":"Duster","years":[1970,1976],"engine":"v8","body":"coupe","naOnRoad":8000,"aliases":["Duster 340"]},
+    {"id":"plymouth-volare","model":"Volare","generation":"Volare","years":[1976,1980],"engine":"i6","body":"sedan","naOnRoad":800,"aliases":["Road Runner (Volare)"]},
+    {"id":"plymouth-horizon","model":"Horizon","generation":"Horizon","years":[1978,1990],"engine":"i4","body":"hatchback","naOnRoad":1500},
+    {"id":"plymouth-horizon-tc3","model":"Horizon TC3","generation":"Horizon TC3","years":[1979,1987],"engine":"i4","body":"hatchback","naOnRoad":300,"aliases":["Turismo","TC3"]},
+    {"id":"plymouth-reliant","model":"Reliant","generation":"Reliant","years":[1981,1989],"engine":"i4","body":"sedan","naOnRoad":2500,"aliases":["K-car"]},
+    {"id":"plymouth-caravelle","model":"Caravelle","generation":"Caravelle","years":[1983,1988],"engine":"i4","body":"sedan","naOnRoad":300},
+    {"id":"plymouth-gran-fury","model":"Gran Fury","generation":"Gran Fury","years":[1980,1989],"engine":"v8","body":"sedan","naOnRoad":1000},
+    {"id":"plymouth-colt","model":"Colt","generation":"Colt","years":[1979,1994],"engine":"i4","body":"hatchback","naOnRoad":300,"aliases":["Champ","Plymouth Champ"]},
+    {"id":"plymouth-voyager-1st-gen","model":"Voyager","generation":"1st gen","years":[1984,1990],"engine":"i4","body":"van","naOnRoad":3000,"aliases":["Grand Voyager"]},
+    {"id":"plymouth-voyager-2nd-gen","model":"Voyager","generation":"2nd gen","years":[1991,1995],"engine":"v6","body":"van","naOnRoad":10000,"aliases":["Grand Voyager"]},
+    {"id":"plymouth-voyager-3rd-gen","model":"Voyager","generation":"3rd gen","years":[1996,2000],"engine":"v6","body":"van","naOnRoad":40000,"aliases":["Grand Voyager"]},
+    {"id":"plymouth-sundance","model":"Sundance","generation":"Sundance","years":[1987,1994],"engine":"i4","body":"hatchback","naOnRoad":2000,"aliases":["Duster (1992)"]},
+    {"id":"plymouth-acclaim","model":"Acclaim","generation":"Acclaim","years":[1989,1995],"engine":"i4","body":"sedan","naOnRoad":3000},
+    {"id":"plymouth-laser","model":"Laser","generation":"Laser","years":[1990,1994],"engine":"i4","body":"coupe","naOnRoad":1500},
+    {"id":"plymouth-neon-1st-gen","model":"Neon","generation":"1st gen","years":[1995,1999],"engine":"i4","body":"sedan","naOnRoad":8000},
+    {"id":"plymouth-neon-2nd-gen","model":"Neon","generation":"2nd gen","years":[2000,2001],"engine":"i4","body":"sedan","naOnRoad":15000},
+    {"id":"plymouth-breeze","model":"Breeze","generation":"Breeze","years":[1996,2000],"engine":"i4","body":"sedan","naOnRoad":5000},
+    {"id":"plymouth-prowler","model":"Prowler","generation":"Prowler","years":[1997,2002],"engine":"v6","body":"convertible","naOnRoad":10000,"built":11702,"aliases":["Chrysler Prowler"],"hype":true}
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "make": "Ariel",
+  "cars": [
+    {"id":"ariel-atom","model":"Atom","generation":"Atom","years":[2000,null],"engine":"i4","body":"convertible","naOnRoad":300,"built":3000,"aliases":["Atom 3","Atom 4","Atom 500"],"hype":true},
+    {"id":"ariel-nomad","model":"Nomad","generation":"Nomad","years":[2015,null],"engine":"i4","body":"suv","naOnRoad":100,"aliases":["Nomad 2"],"hype":true}
+  ]
+}

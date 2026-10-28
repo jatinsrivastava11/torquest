@@ -1,0 +1,3 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+M12 | | | 2000 | 2008 | v6 | supercar | 250 | | M12 GTO-3R; M400; Rossion Q1 | y
+M600 | | | 2010 | 2018 | v8 | supercar | 5 | 100 | | y

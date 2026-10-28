@@ -1,0 +1,11 @@
+{
+  "make": "Geo",
+  "cars": [
+    {"id":"geo-metro-1st-gen","model":"Metro","generation":"1st gen","years":[1989,1994],"engine":"i3","body":"hatchback","naOnRoad":15000,"aliases":["Geo Metro XFi"]},
+    {"id":"geo-metro-2nd-gen","model":"Metro","generation":"2nd gen","years":[1995,1997],"engine":"i3","body":"hatchback","naOnRoad":10000},
+    {"id":"geo-prizm-1st-gen","model":"Prizm","generation":"1st gen","years":[1989,1992],"engine":"i4","body":"sedan","naOnRoad":3000,"aliases":["Geo Prizm GSi"]},
+    {"id":"geo-prizm-2nd-gen","model":"Prizm","generation":"2nd gen","years":[1993,1997],"engine":"i4","body":"sedan","naOnRoad":10000},
+    {"id":"geo-storm","model":"Storm","generation":"Storm","years":[1990,1993],"engine":"i4","body":"coupe","naOnRoad":2000,"aliases":["Storm GSi"]},
+    {"id":"geo-tracker-1st-gen","model":"Tracker","generation":"1st gen","years":[1989,1997],"engine":"i4","body":"suv","naOnRoad":15000}
+  ]
+}

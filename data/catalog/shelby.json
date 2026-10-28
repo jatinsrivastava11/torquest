@@ -1,0 +1,18 @@
+{
+  "make": "Shelby",
+  "cars": [
+    {"id":"shelby-cobra-original","model":"Cobra","generation":"Original","years":[1962,1967],"engine":"v8","body":"convertible","naOnRoad":600,"built":998,"aliases":["Shelby Cobra","AC Cobra","Cobra 289","Cobra 427"],"hype":true},
+    {"id":"shelby-cobra-continuation","model":"Cobra","generation":"Continuation","years":[1997,null],"engine":"v8","body":"convertible","naOnRoad":3000,"aliases":["CSX4000","CSX6000","Superformance Cobra","Cobra replica"],"hype":true},
+    {"id":"shelby-daytona-coupe","model":"Daytona Coupe","generation":"Daytona Coupe","years":[1964,1965],"engine":"v8","body":"coupe","naOnRoad":4,"built":6,"aliases":["Cobra Daytona Coupe"],"hype":true},
+    {"id":"shelby-gt350-1st-gen","model":"GT350","generation":"1st gen","years":[1965,1970],"engine":"v8","body":"coupe","naOnRoad":3500,"built":6700,"aliases":["Shelby GT350 (1965)","Shelby Mustang GT350","GT350H"],"hype":true},
+    {"id":"shelby-glhs","model":"GLHS","generation":"GLHS","years":[1986,1986],"engine":"i4","body":"hatchback","naOnRoad":100,"built":500,"aliases":["Omni GLHS","Shelby GLHS"],"hype":true},
+    {"id":"shelby-charger-glhs","model":"Charger GLHS","generation":"Charger GLHS","years":[1987,1987],"engine":"i4","body":"hatchback","naOnRoad":200,"built":1000,"aliases":["Shelby Charger GLHS"],"hype":true},
+    {"id":"shelby-lancer","model":"Lancer","generation":"Lancer","years":[1987,1989],"engine":"i4","body":"hatchback","naOnRoad":150,"built":800,"aliases":["Shelby Lancer"],"hype":true},
+    {"id":"shelby-csx","model":"CSX","generation":"CSX","years":[1987,1989],"engine":"i4","body":"hatchback","naOnRoad":400,"built":2700,"aliases":["Shelby CSX","CSX-T","CSX-VNT"],"hype":true},
+    {"id":"shelby-dakota","model":"Dakota","generation":"Dakota","years":[1989,1989],"engine":"v8","body":"pickup","naOnRoad":400,"built":1475,"aliases":["Shelby Dakota"],"hype":true},
+    {"id":"shelby-series-1","model":"Series 1","generation":"Series 1","years":[1999,2005],"engine":"v8","body":"convertible","naOnRoad":200,"built":249,"aliases":["Shelby Series 1"],"hype":true},
+    {"id":"shelby-gt-h","model":"GT-H","generation":"GT-H","years":[2006,2007],"engine":"v8","body":"coupe","naOnRoad":700,"built":1000,"aliases":["Shelby GT-H","Hertz Shelby"],"hype":true},
+    {"id":"shelby-gt","model":"GT","generation":"GT","years":[2007,2009],"engine":"v8","body":"coupe","naOnRoad":5000,"aliases":["Shelby GT"],"hype":true},
+    {"id":"shelby-super-snake","model":"Super Snake","generation":"Super Snake","years":[2008,null],"engine":"v8","body":"coupe","naOnRoad":2000,"aliases":["Shelby Super Snake"],"hype":true}
+  ]
+}

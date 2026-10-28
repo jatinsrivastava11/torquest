@@ -1,0 +1,49 @@
+# Lexus. model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+LS | XF10 | | 1990 | 1994 | v8 | sedan | 15000 | | LS 400;Celsior
+LS | XF20 | | 1995 | 2000 | v8 | sedan | 20000 | | LS 400;Celsior
+LS | XF30 | | 2001 | 2006 | v8 | sedan | 60000 | | LS 430;Celsior
+LS | XF40 | | 2007 | 2017 | v8 | sedan | 90000 | | LS 460;LS 600h
+LS | XF50 | | 2018 | | v6 | sedan | 25000 | | LS 500;LS 500h
+ES | V20 | | 1990 | 1991 | v6 | sedan | 1000 | | ES 250
+ES | XV10 | | 1992 | 1996 | v6 | sedan | 20000 | | ES 300;Windom
+ES | XV20 | | 1997 | 2001 | v6 | sedan | 60000 | | ES 300
+ES | XV30 | | 2002 | 2006 | v6 | sedan | 150000 | | ES 300;ES 330
+ES | XV40 | | 2007 | 2012 | v6 | sedan | 300000 | | ES 350
+ES | XV60 | | 2013 | 2018 | v6 | sedan | 450000 | | ES 350;ES 300h
+ES | XZ10 | | 2019 | 2025 | v6 | sedan | 330000 | | ES 350;ES 300h;ES 250
+ES | 8th gen | | 2026 | | i4 | sedan | 5000 | | ES 350h;ES 350e;ES 500e
+GS | S140 | | 1993 | 1997 | i6 | sedan | 6000 | | GS 300;Aristo
+GS | S160 | | 1998 | 2005 | i6 | sedan | 30000 | | GS 300;GS 400;GS 430;Aristo
+GS | S190 | | 2006 | 2011 | v6 | sedan | 50000 | | GS 350;GS 430;GS 460;GS 450h
+GS | L10 | | 2013 | 2020 | v6 | sedan | 50000 | | GS 350;GS 450h
+GS | L10 | GS F | 2016 | 2020 | v8 | sedan | 1000 | | GS F | y
+IS | XE10 | | 2001 | 2005 | i6 | sedan | 20000 | | IS 300;Altezza;IS SportCross
+IS | XE20 | | 2006 | 2013 | v6 | sedan | 150000 | | IS 250;IS 350;IS 250C;IS 350C
+IS | XE20 | IS F | 2008 | 2014 | v8 | sedan | 4000 | | IS F | y
+IS | XE30 | | 2014 | | v6 | sedan | 250000 | | IS 300;IS 350
+IS | XE30 | 500 F Sport Performance | 2022 | | v8 | sedan | 6000 | | IS 500;IS 500 F Sport Performance | y
+SC | Z30 | | 1992 | 2000 | i6 | coupe | 20000 | | SC 300;SC 400;Soarer
+SC | Z40 | | 2002 | 2010 | v8 | convertible | 30000 | | SC 430;Soarer
+RC | | | 2015 | 2025 | v6 | coupe | 60000 | | RC 350;RC 300
+RC | | RC F | 2015 | 2025 | v8 | coupe | 8000 | | RC F | y
+LC | | | 2018 | | v8 | coupe | 12000 | | LC 500;LC 500h;LC 500 Convertible | y
+LFA | | | 2010 | 2012 | v10 | supercar | 170 | 500 | | y
+HS | | | 2010 | 2012 | i4 | sedan | 15000 | | HS 250h
+CT | | | 2011 | 2017 | i4 | hatchback | 60000 | | CT 200h
+RX | XU10 | | 1999 | 2003 | v6 | suv | 100000 | | RX 300;Harrier
+RX | XU30 | | 2004 | 2009 | v6 | suv | 350000 | | RX 330;RX 350;RX 400h
+RX | AL10 | | 2010 | 2015 | v6 | suv | 550000 | | RX 350;RX 450h
+RX | AL20 | | 2016 | 2022 | v6 | suv | 800000 | | RX 350;RX 350L;RX 450h
+RX | 5th gen | | 2023 | | i4 | suv | 350000 | | RX 350;RX 500h;RX 450h+;TALA10
+NX | AZ10 | | 2015 | 2021 | i4 | suv | 330000 | | NX 200t;NX 300;NX 300h
+NX | AZ20 | | 2022 | | i4 | suv | 280000 | | NX 250;NX 350;NX 350h;NX 450h+
+UX | | | 2019 | | i4 | suv | 150000 | | UX 200;UX 250h;UX 300h
+GX | J120 | | 2003 | 2009 | v8 | suv | 100000 | | GX 470;Land Cruiser Prado
+GX | J150 | | 2010 | 2023 | v8 | suv | 250000 | | GX 460;Land Cruiser Prado
+GX | J250 | | 2024 | | v6 | suv | 70000 | | GX 550
+LX | J80 | | 1996 | 1997 | i6 | suv | 4000 | | LX 450
+LX | J100 | | 1998 | 2007 | v8 | suv | 40000 | | LX 470
+LX | J200 | | 2008 | 2021 | v8 | suv | 55000 | | LX 570
+LX | J300 | | 2022 | | v6 | suv | 25000 | | LX 600;LX 700h
+TX | | | 2024 | | i4 | suv | 80000 | | TX 350;TX 500h;TX 550h+
+RZ | | | 2023 | | electric | suv | 10000 | | RZ 450e;RZ 300e

@@ -1,0 +1,102 @@
+# Pre-1980 classics
+Power Wagon | 1st gen | | 1946 | 1968 | i6 | pickup | 3000 | 95000 | WDX;WM300 | y
+Charger | 1st gen | | 1966 | 1967 | v8 | coupe | 3000 | 53000 | | y
+Charger | 2nd gen | | 1968 | 1970 | v8 | coupe | 25000 | 230000 | General Lee;Charger R/T | y
+Charger | 2nd gen | Daytona | 1969 | 1969 | v8 | coupe | 300 | 503 | Charger Daytona (1969);Charger Daytona 1969 | y
+Charger | 3rd gen | | 1971 | 1974 | v8 | coupe | 6000 | | |
+Super Bee | 1st gen | | 1968 | 1971 | v8 | coupe | 4000 | 60000 | Coronet Super Bee | y
+Dart | 4th gen | | 1967 | 1976 | v8 | sedan | 15000 | | Dart Swinger;Dart GTS;Demon |
+Challenger | 1st gen | | 1970 | 1974 | v8 | coupe | 20000 | 188000 | classic Challenger;E-body | y
+Challenger | 1st gen | T/A | 1970 | 1970 | v8 | coupe | 1500 | 2399 | Challenger T/A | y
+Li'l Red Express | | | 1978 | 1979 | v8 | pickup | 2000 | 7300 | Lil Red Express;Li'l Red Express Truck | y
+# 1980s
+Aspen | | | 1976 | 1980 | i6 | sedan | 800 | | |
+St. Regis | | | 1979 | 1981 | v8 | sedan | 100 | | |
+Mirada | | | 1980 | 1983 | v8 | coupe | 500 | 53000 | |
+Diplomat | | | 1977 | 1989 | v8 | sedan | 1500 | | |
+Challenger | 2nd gen | | 1978 | 1983 | i4 | coupe | 300 | | Mitsubishi Sapporo |
+Omni | | | 1978 | 1990 | i4 | hatchback | 1500 | | |
+Omni | | GLH | 1984 | 1986 | i4 | hatchback | 400 | | Omni GLH;Goes Like Hell | y
+Aries | | | 1981 | 1989 | i4 | sedan | 3000 | 1000000 | K-car |
+400 | | | 1982 | 1983 | i4 | coupe | 100 | | |
+600 | | | 1983 | 1988 | i4 | sedan | 300 | | |
+Rampage | | | 1982 | 1984 | i4 | pickup | 300 | 37000 | |
+Charger | L-body | | 1982 | 1987 | i4 | hatchback | 2000 | | Omni 024;Charger 2.2 |
+Charger | L-body | Shelby Charger | 1983 | 1987 | i4 | hatchback | 600 | 33000 | Dodge Shelby Charger | y
+Lancer | | | 1985 | 1989 | i4 | hatchback | 300 | | |
+Daytona | | | 1984 | 1993 | i4 | hatchback | 1500 | | Daytona Shelby;Daytona IROC |
+Shadow | | | 1987 | 1994 | i4 | hatchback | 3000 | | |
+Dynasty | | | 1988 | 1993 | v6 | sedan | 2000 | | |
+Spirit | | | 1989 | 1995 | i4 | sedan | 3000 | | |
+Spirit | | R/T | 1991 | 1992 | i4 | sedan | 200 | 1400 | Spirit R/T | y
+Monaco | | | 1990 | 1992 | v6 | sedan | 80 | | Eagle Premier twin |
+Colt | 1st gen | | 1979 | 1984 | i4 | hatchback | 150 | | Mitsubishi Mirage;Plymouth Champ |
+Colt | 2nd gen | | 1985 | 1988 | i4 | hatchback | 200 | | |
+Colt | 3rd gen | | 1989 | 1992 | i4 | hatchback | 400 | | |
+Colt | 4th gen | | 1993 | 1994 | i4 | sedan | 400 | | |
+Colt Vista | | | 1984 | 1994 | i4 | wagon | 200 | | Plymouth Colt Vista;Eagle Vista Wagon |
+Conquest | | | 1984 | 1986 | i4 | coupe | 300 | | Plymouth Conquest;Mitsubishi Starion |
+Raider | | | 1987 | 1989 | v6 | suv | 200 | | Mitsubishi Montero |
+Ram 50 | | | 1979 | 1993 | i4 | pickup | 3000 | | D-50;Mitsubishi Mighty Max |
+Ramcharger | 2nd gen | | 1981 | 1993 | v8 | suv | 3000 | | |
+Ram Van | | | 1971 | 2003 | v8 | van | 40000 | | B-series;B250;Ram Wagon;Tradesman |
+Ram | 1st gen | | 1981 | 1993 | v8 | pickup | 60000 | | D150;W150;Dodge D-series;first gen Cummins |
+Ram | 2nd gen | | 1994 | 2002 | v8 | pickup | 400000 | | Dodge Ram 1500;Ram 2500;second gen Cummins |
+Ram | 3rd gen | | 2002 | 2009 | v8 | pickup | 1200000 | | Dodge Ram 1500;Ram 2500;Ram 3500 |
+Ram | 3rd gen | SRT-10 | 2004 | 2006 | v10 | pickup | 7000 | 10000 | Ram SRT-10;Viper truck | y
+Ram | 3rd gen | Power Wagon | 2005 | 2009 | v8 | pickup | 15000 | | Ram Power Wagon | y
+Dakota | 1st gen | | 1987 | 1996 | v6 | pickup | 40000 | | |
+Dakota | 2nd gen | | 1997 | 2004 | v6 | pickup | 250000 | | Dakota R/T |
+Dakota | 3rd gen | | 2005 | 2011 | v6 | pickup | 150000 | | Ram Dakota |
+Stealth | | | 1991 | 1996 | v6 | coupe | 5000 | | Stealth R/T Twin Turbo;Mitsubishi 3000GT | y
+# Minivans
+Caravan | 1st gen | | 1984 | 1990 | i4 | van | 5000 | | Grand Caravan;Mini Ram Van |
+Caravan | 2nd gen | | 1991 | 1995 | v6 | van | 15000 | | Grand Caravan |
+Caravan | 3rd gen | | 1996 | 2000 | v6 | van | 60000 | | Grand Caravan |
+Caravan | 4th gen | | 2001 | 2007 | v6 | van | 300000 | | Grand Caravan |
+Grand Caravan | 5th gen | | 2008 | 2020 | v6 | van | 1500000 | | Caravan;Ram C/V |
+# 1990s-today
+Viper | SR I | | 1992 | 1995 | v10 | convertible | 4500 | 6000 | Viper RT/10;1st gen | y
+Viper | SR II | | 1996 | 2002 | v10 | coupe | 7000 | 10000 | Viper GTS;2nd gen | y
+Viper | ZB I | | 2003 | 2006 | v10 | convertible | 4500 | 6000 | Viper SRT-10;3rd gen | y
+Viper | ZB II | | 2008 | 2010 | v10 | coupe | 1800 | 2200 | 4th gen | y
+Viper | ZB II | ACR | 2008 | 2010 | v10 | coupe | 350 | 450 | Viper ACR | y
+Viper | VX I | | 2013 | 2017 | v10 | coupe | 2900 | 3300 | SRT Viper;5th gen | y
+Viper | VX I | ACR | 2016 | 2017 | v10 | coupe | 600 | 700 | Viper ACR | y
+Intrepid | 1st gen | | 1993 | 1997 | v6 | sedan | 8000 | | Chrysler Intrepid |
+Intrepid | 2nd gen | | 1998 | 2004 | v6 | sedan | 50000 | | Chrysler Intrepid |
+Stratus | 1st gen | | 1995 | 2000 | i4 | sedan | 15000 | | |
+Stratus | 2nd gen | | 2001 | 2006 | i4 | sedan | 60000 | | Stratus coupe |
+Avenger | 1st gen | | 1995 | 2000 | i4 | coupe | 3000 | | |
+Avenger | 2nd gen | | 2008 | 2014 | i4 | sedan | 250000 | | |
+Neon | 1st gen | | 1995 | 1999 | i4 | sedan | 15000 | | Plymouth Neon;Chrysler Neon |
+Neon | 2nd gen | | 2000 | 2005 | i4 | sedan | 60000 | | Chrysler Neon;SX 2.0 |
+Neon | 2nd gen | SRT-4 | 2003 | 2005 | i4 | sedan | 6000 | 25000 | Neon SRT-4 | y
+Durango | DN | | 1998 | 2003 | v8 | suv | 60000 | | 1st gen |
+Durango | HB | | 2004 | 2009 | v8 | suv | 80000 | | 2nd gen |
+Durango | WD | | 2011 | | v6 | suv | 900000 | | 3rd gen |
+Durango | WD | SRT 392 | 2018 | | v8 | suv | 15000 | | Durango SRT | y
+Durango | WD | SRT Hellcat | 2021 | 2025 | v8 | suv | 5000 | | Durango Hellcat | y
+Sprinter | T1N | | 2003 | 2006 | i5 | van | 20000 | | Dodge Sprinter |
+Sprinter | NCV3 | | 2007 | 2009 | v6 | van | 30000 | | Dodge Sprinter |
+Magnum | | | 2005 | 2008 | v8 | wagon | 60000 | 170000 | |
+Magnum | | SRT8 | 2006 | 2008 | v8 | wagon | 2500 | | Magnum SRT8 | y
+Charger | LX | | 2006 | 2010 | v8 | sedan | 350000 | | Charger Daytona (2006) |
+Charger | LX | SRT8 | 2006 | 2010 | v8 | sedan | 20000 | | Charger SRT8 | y
+Charger | LD | | 2011 | 2023 | v8 | sedan | 1300000 | | Charger Pursuit;Charger Scat Pack |
+Charger | LD | SRT 392 | 2012 | 2018 | v8 | sedan | 40000 | | Charger SRT8 | y
+Charger | LD | SRT Hellcat | 2015 | 2023 | v8 | sedan | 15000 | | Charger Hellcat;Hellcat Redeye;Jailbreak | y
+Charger | LD | SRT Hellcat Widebody | 2020 | 2023 | v8 | sedan | 10000 | | Charger Hellcat Widebody;Redeye Widebody | y
+Charger | LB | | 2024 | | electric | coupe | 15000 | | Charger Daytona;Charger Sixpack;Charger Daytona EV |
+Caliber | | | 2007 | 2012 | i4 | hatchback | 120000 | | |
+Caliber | | SRT-4 | 2008 | 2009 | i4 | hatchback | 2500 | | Caliber SRT4 | y
+Nitro | | | 2007 | 2011 | v6 | suv | 60000 | 200000 | |
+Challenger | LC | | 2008 | 2023 | v8 | coupe | 700000 | | 3rd gen;Challenger Scat Pack |
+Challenger | LC | SRT 392 | 2008 | 2023 | v8 | coupe | 40000 | | Challenger SRT8 | y
+Challenger | LC | SRT Hellcat | 2015 | 2023 | v8 | coupe | 20000 | | Challenger Hellcat;Hellcat Redeye;Jailbreak | y
+Challenger | LC | SRT Hellcat Widebody | 2018 | 2023 | v8 | coupe | 12000 | | Challenger Widebody;Redeye Widebody;Super Stock | y
+Challenger | LC | SRT Demon | 2018 | 2018 | v8 | coupe | 3000 | 3300 | Demon | y
+Challenger | LC | SRT Demon 170 | 2023 | 2023 | v8 | coupe | 3000 | 3300 | Demon 170 | y
+Journey | | | 2009 | 2020 | i4 | suv | 900000 | | |
+Dart | PF | | 2013 | 2016 | i4 | sedan | 250000 | | |
+Hornet | | | 2023 | | i4 | suv | 35000 | | Hornet R/T |

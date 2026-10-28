@@ -1,0 +1,11 @@
+SC/Rambler | | | 1969 | 1969 | v8 | sedan | 400 | 1512 | Rambler SC;Hurst SC/Rambler | y
+AMX | | | 1968 | 1970 | v8 | coupe | 3000 | 19134 | | y
+Javelin | 1st gen | | 1968 | 1970 | v8 | coupe | 3000 | | | y
+Javelin | 2nd gen | | 1971 | 1974 | v8 | coupe | 3000 | | Javelin AMX | y
+AMX/3 | | | 1970 | 1970 | v8 | supercar | 4 | 6 | | y
+Hornet | | | 1970 | 1977 | i6 | sedan | 2000 | | |
+Gremlin | | | 1970 | 1978 | i6 | hatchback | 3000 | 670000 | |
+Pacer | | | 1975 | 1980 | i6 | hatchback | 2000 | 280000 | |
+Concord | | | 1978 | 1983 | i6 | sedan | 1000 | | |
+Spirit | | | 1979 | 1983 | i6 | hatchback | 800 | | |
+Eagle | | | 1980 | 1988 | i6 | wagon | 3000 | 200000 | Eagle Wagon;AMC Eagle;Eagle SX/4 |

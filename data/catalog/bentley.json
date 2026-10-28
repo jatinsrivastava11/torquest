@@ -1,0 +1,27 @@
+{
+  "make": "Bentley",
+  "cars": [
+    {"id":"bentley-s-series","model":"S Series","generation":"S Series","years":[1955,1965],"engine":"v8","body":"sedan","naOnRoad":800,"built":7500,"aliases":["S1","S2","S3","S1 Continental","S2 Continental"],"hype":true},
+    {"id":"bentley-r-type-continental","model":"R-Type Continental","generation":"R-Type Continental","years":[1952,1955],"engine":"i6","body":"coupe","naOnRoad":30,"built":208,"hype":true},
+    {"id":"bentley-mulsanne-1st-gen","model":"Mulsanne","generation":"1st gen","years":[1980,1992],"engine":"v8","body":"sedan","naOnRoad":2000,"built":15000,"aliases":["Mulsanne Turbo","Mulsanne S","Eight","Turbo R","Brooklands"],"hype":true},
+    {"id":"bentley-continental-r","model":"Continental R","generation":"Continental R","years":[1991,2003],"engine":"v8","body":"coupe","naOnRoad":400,"built":1800,"aliases":["Continental T","Continental SC"],"hype":true},
+    {"id":"bentley-azure-1st-gen","model":"Azure","generation":"1st gen","years":[1995,2003],"engine":"v8","body":"convertible","naOnRoad":600,"built":1400,"hype":true},
+    {"id":"bentley-azure-2nd-gen","model":"Azure","generation":"2nd gen","years":[2006,2010],"engine":"v8","body":"convertible","naOnRoad":500,"built":1100,"aliases":["Azure T"],"hype":true},
+    {"id":"bentley-arnage","model":"Arnage","generation":"Arnage","years":[1998,2009],"engine":"v8","body":"sedan","naOnRoad":2500,"built":7000,"aliases":["Arnage T","Arnage R","Arnage RL","Red Label","Green Label"],"hype":true},
+    {"id":"bentley-brooklands","model":"Brooklands","generation":"Brooklands","years":[2008,2011],"engine":"v8","body":"coupe","naOnRoad":150,"built":550,"aliases":["Brooklands Coupe"],"hype":true},
+    {"id":"bentley-continental-gt-1st-gen","model":"Continental GT","generation":"1st gen","years":[2003,2011],"engine":"w12","body":"coupe","naOnRoad":15000,"aliases":["Continental GTC","Continental GT Speed"],"hype":true},
+    {"id":"bentley-continental-gt-1st-gen-supersports","model":"Continental GT","generation":"1st gen","variant":"Supersports","years":[2009,2011],"engine":"w12","body":"coupe","naOnRoad":600,"built":1800,"aliases":["Continental Supersports"],"hype":true},
+    {"id":"bentley-continental-gt-2nd-gen","model":"Continental GT","generation":"2nd gen","years":[2011,2018],"engine":"w12","body":"coupe","naOnRoad":12000,"aliases":["Continental GTC","Continental GT V8","Continental GT Speed"],"hype":true},
+    {"id":"bentley-continental-gt-2nd-gen-supersports","model":"Continental GT","generation":"2nd gen","variant":"Supersports","years":[2017,2017],"engine":"w12","body":"coupe","naOnRoad":250,"built":710,"hype":true},
+    {"id":"bentley-continental-gt-2nd-gen-gt3-r","model":"Continental GT","generation":"2nd gen","variant":"GT3-R","years":[2015,2015],"engine":"v8","body":"coupe","naOnRoad":150,"built":300,"aliases":["Continental GT3-R"],"hype":true},
+    {"id":"bentley-continental-gt-3rd-gen","model":"Continental GT","generation":"3rd gen","years":[2018,2024],"engine":"w12","body":"coupe","naOnRoad":10000,"aliases":["Continental GTC","Continental GT Speed","Continental GT Mulliner"],"hype":true},
+    {"id":"bentley-continental-gt-4th-gen","model":"Continental GT","generation":"4th gen","years":[2024,null],"engine":"v8","body":"coupe","naOnRoad":2000,"aliases":["Continental GTC","Continental GT Speed Mulliner","Continental GT Speed"],"hype":true},
+    {"id":"bentley-flying-spur-1st-gen","model":"Flying Spur","generation":"1st gen","years":[2005,2013],"engine":"w12","body":"sedan","naOnRoad":12000,"aliases":["Continental Flying Spur"],"hype":true},
+    {"id":"bentley-flying-spur-2nd-gen","model":"Flying Spur","generation":"2nd gen","years":[2013,2019],"engine":"w12","body":"sedan","naOnRoad":7000,"aliases":["Flying Spur V8"],"hype":true},
+    {"id":"bentley-flying-spur-3rd-gen","model":"Flying Spur","generation":"3rd gen","years":[2019,null],"engine":"w12","body":"sedan","naOnRoad":7000,"aliases":["Flying Spur Speed","Flying Spur Mulliner"],"hype":true},
+    {"id":"bentley-mulsanne-2nd-gen","model":"Mulsanne","generation":"2nd gen","years":[2010,2020],"engine":"v8","body":"sedan","naOnRoad":2500,"built":7300,"aliases":["Mulsanne Speed","Mulsanne EWB"],"hype":true},
+    {"id":"bentley-bentayga","model":"Bentayga","generation":"Bentayga","years":[2016,null],"engine":"v8","body":"suv","naOnRoad":12000,"aliases":["Bentayga EWB","Bentayga Speed","Bentayga Hybrid"],"hype":true},
+    {"id":"bentley-bacalar","model":"Bacalar","generation":"Bacalar","years":[2021,2022],"engine":"w12","body":"convertible","naOnRoad":3,"built":12,"hype":true},
+    {"id":"bentley-batur","model":"Batur","generation":"Batur","years":[2023,2025],"engine":"w12","body":"coupe","naOnRoad":6,"built":34,"aliases":["Batur Convertible"],"hype":true}
+  ]
+}

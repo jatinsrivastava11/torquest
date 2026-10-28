@@ -1,0 +1,14 @@
+# Ford already has the Mustang Shelby GT500 (1967-70) and the Ford-built S197/S550 Shelbys.
+Cobra | Original | | 1962 | 1967 | v8 | convertible | 600 | 998 | Shelby Cobra;AC Cobra;Cobra 289;Cobra 427 | y
+Cobra | Continuation | | 1997 | | v8 | convertible | 3000 | | CSX4000;CSX6000;Superformance Cobra;Cobra replica | y
+Daytona Coupe | | | 1964 | 1965 | v8 | coupe | 4 | 6 | Cobra Daytona Coupe | y
+GT350 | 1st gen | | 1965 | 1970 | v8 | coupe | 3500 | 6700 | Shelby GT350 (1965);Shelby Mustang GT350;GT350H | y
+GLHS | | | 1986 | 1986 | i4 | hatchback | 100 | 500 | Omni GLHS;Shelby GLHS | y
+Charger GLHS | | | 1987 | 1987 | i4 | hatchback | 200 | 1000 | Shelby Charger GLHS | y
+Lancer | | | 1987 | 1989 | i4 | hatchback | 150 | 800 | Shelby Lancer | y
+CSX | | | 1987 | 1989 | i4 | hatchback | 400 | 2700 | Shelby CSX;CSX-T;CSX-VNT | y
+Dakota | | | 1989 | 1989 | v8 | pickup | 400 | 1475 | Shelby Dakota | y
+Series 1 | | | 1999 | 2005 | v8 | convertible | 200 | 249 | Shelby Series 1 | y
+GT-H | | | 2006 | 2007 | v8 | coupe | 700 | 1000 | Shelby GT-H;Hertz Shelby | y
+GT | | | 2007 | 2009 | v8 | coupe | 5000 | | Shelby GT | y
+Super Snake | | | 2008 | | v8 | coupe | 2000 | | Shelby Super Snake | y

@@ -1,0 +1,13 @@
+{
+  "make": "Morgan",
+  "cars": [
+    {"id":"morgan-4-4","model":"4/4","generation":"4/4","years":[1936,2018],"engine":"i4","body":"convertible","naOnRoad":1500,"built":10000,"aliases":["Four-Four","4-4"],"hype":true},
+    {"id":"morgan-plus-four-traditional","model":"Plus Four","generation":"Traditional","years":[1950,2020],"engine":"i4","body":"convertible","naOnRoad":2500,"aliases":["Plus 4"],"hype":true},
+    {"id":"morgan-plus-four-cx","model":"Plus Four","generation":"CX","years":[2020,null],"engine":"i4","body":"convertible","naOnRoad":200,"aliases":["Plus 4"],"hype":true},
+    {"id":"morgan-plus-8","model":"Plus 8","generation":"Plus 8","years":[1968,2004],"engine":"v8","body":"convertible","naOnRoad":300,"built":6000,"aliases":["Plus Eight"],"hype":true},
+    {"id":"morgan-aero-8","model":"Aero 8","generation":"Aero 8","years":[2001,2018],"engine":"v8","body":"convertible","naOnRoad":150,"aliases":["Aero Supersports","AeroMax","Aero Coupe"],"hype":true},
+    {"id":"morgan-plus-six","model":"Plus Six","generation":"Plus Six","years":[2019,2023],"engine":"i6","body":"convertible","naOnRoad":150,"aliases":["Plus 6"],"hype":true},
+    {"id":"morgan-3-wheeler","model":"3 Wheeler","generation":"3 Wheeler","years":[2012,2021],"engine":"i3","body":"convertible","naOnRoad":800,"built":2500,"aliases":["Three Wheeler","Morgan 3-Wheeler"],"hype":true},
+    {"id":"morgan-super-3","model":"Super 3","generation":"Super 3","years":[2022,null],"engine":"i3","body":"convertible","naOnRoad":300,"hype":true}
+  ]
+}

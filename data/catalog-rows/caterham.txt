@@ -1,0 +1,2 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Seven | | | 1973 | | i4 | convertible | 1500 | 20000 | Super Seven; Seven 360; Seven 485; Seven 620; CSR | y

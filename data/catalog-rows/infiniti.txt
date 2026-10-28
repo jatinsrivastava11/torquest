@@ -1,0 +1,29 @@
+# Infiniti. model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Q45 | G50 | | 1990 | 1996 | v8 | sedan | 3000 | | President
+Q45 | Y33 | | 1997 | 2001 | v8 | sedan | 3000 | | Cima
+Q45 | F50 | | 2002 | 2006 | v8 | sedan | 5000 | | Cima
+M30 | | | 1990 | 1992 | v6 | coupe | 300 | | Leopard;M30 convertible
+J30 | | | 1993 | 1997 | v6 | sedan | 3000 | | Leopard J Ferie
+G20 | P10 | | 1991 | 1996 | i4 | sedan | 1500 | | Primera
+G20 | P11 | | 1999 | 2002 | i4 | sedan | 4000 | | Primera
+I30 | A32 | | 1996 | 1999 | v6 | sedan | 5000 | | Cefiro
+I30 | A33 | | 2000 | 2004 | v6 | sedan | 15000 | | I35
+QX4 | | | 1997 | 2003 | v6 | suv | 10000 | | Pathfinder R50
+G | V35 | | 2003 | 2007 | v6 | sedan | 100000 | | G35;G35 coupe;Skyline V35
+G | V36 | | 2007 | 2015 | v6 | sedan | 250000 | | G37;G25;G37 coupe;G37 convertible;Q40;Skyline V36
+Q50 | V37 | | 2014 | 2024 | v6 | sedan | 350000 | | Skyline V37;Q50 Red Sport
+Q60 | CV37 | | 2017 | 2022 | v6 | coupe | 40000 | | Q60 Red Sport
+M | Y34 | | 2003 | 2004 | v8 | sedan | 1500 | | M45;Gloria
+M | Y50 | | 2006 | 2010 | v6 | sedan | 30000 | | M35;M45;Fuga
+Q70 | Y51 | | 2011 | 2019 | v6 | sedan | 40000 | | M37;M56;M35h;Q70L;Fuga
+FX | S50 | | 2003 | 2008 | v6 | suv | 40000 | | FX35;FX45
+FX | S51 | | 2009 | 2017 | v6 | suv | 50000 | | FX35;FX37;FX50;QX70
+QX50 | J50 | | 2008 | 2017 | v6 | suv | 60000 | | EX35;EX37;EX
+QX50 | J55 | | 2019 | 2025 | i4 | suv | 130000
+QX55 | | | 2022 | 2025 | i4 | suv | 20000
+QX30 | | | 2017 | 2019 | i4 | suv | 15000
+QX60 | L50 | | 2013 | 2020 | v6 | suv | 250000 | | JX35;JX
+QX60 | L51 | | 2022 | | v6 | suv | 120000
+QX80 | JA60 | | 2004 | 2010 | v8 | suv | 40000 | | QX56
+QX80 | Z62 | | 2011 | 2024 | v8 | suv | 180000 | | QX56
+QX80 | Z63 | | 2025 | | v6 | suv | 25000

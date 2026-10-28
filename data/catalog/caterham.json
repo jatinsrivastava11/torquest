@@ -1,0 +1,6 @@
+{
+  "make": "Caterham",
+  "cars": [
+    {"id":"caterham-seven","model":"Seven","generation":"Seven","years":[1973,null],"engine":"i4","body":"convertible","naOnRoad":1500,"built":20000,"aliases":["Super Seven","Seven 360","Seven 485","Seven 620","CSR"],"hype":true}
+  ]
+}

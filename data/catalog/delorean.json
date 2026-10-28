@@ -1,0 +1,6 @@
+{
+  "make": "DeLorean",
+  "cars": [
+    {"id":"delorean-dmc-12","model":"DMC-12","generation":"DMC-12","years":[1981,1983],"engine":"v6","body":"coupe","naOnRoad":5000,"built":9000,"aliases":["DeLorean","Back to the Future"],"hype":true}
+  ]
+}

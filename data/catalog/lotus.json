@@ -1,0 +1,16 @@
+{
+  "make": "Lotus",
+  "cars": [
+    {"id":"lotus-elan-1st-gen","model":"Elan","generation":"1st gen","years":[1962,1975],"engine":"i4","body":"convertible","naOnRoad":1500,"built":12000,"aliases":["Elan +2","Elan Sprint","Type 26"],"hype":true},
+    {"id":"lotus-europa","model":"Europa","generation":"Europa","years":[1966,1975],"engine":"i4","body":"coupe","naOnRoad":800,"built":9200,"aliases":["Europa Twin Cam","Type 54"],"hype":true},
+    {"id":"lotus-esprit-giugiaro","model":"Esprit","generation":"Giugiaro","years":[1976,1987],"engine":"i4","body":"supercar","naOnRoad":800,"built":4000,"aliases":["Esprit S1","Esprit S2","Esprit S3","Esprit Turbo","Bond Esprit"],"hype":true},
+    {"id":"lotus-esprit-x180","model":"Esprit","generation":"X180","years":[1987,2004],"engine":"i4","body":"supercar","naOnRoad":1500,"built":6600,"aliases":["Esprit SE","Esprit S4","Esprit V8","Esprit GT3"],"hype":true},
+    {"id":"lotus-elan-m100","model":"Elan","generation":"M100","years":[1989,1995],"engine":"i4","body":"convertible","naOnRoad":400,"built":4555,"aliases":["Elan SE"],"hype":true},
+    {"id":"lotus-elise-s2","model":"Elise","generation":"S2","years":[2005,2011],"engine":"i4","body":"convertible","naOnRoad":5500,"built":20000,"aliases":["Elise SC","Elise S2"],"hype":true},
+    {"id":"lotus-exige-s2","model":"Exige","generation":"S2","years":[2006,2011],"engine":"i4","body":"coupe","naOnRoad":1800,"built":6000,"aliases":["Exige S","Exige S260"],"hype":true},
+    {"id":"lotus-exige-s3","model":"Exige","generation":"S3","years":[2013,2014],"engine":"v6","body":"coupe","naOnRoad":300,"built":4000,"aliases":["Exige S V6","Exige Cup 430","Exige Sport 350","Exige 410"],"hype":true},
+    {"id":"lotus-evora","model":"Evora","generation":"Evora","years":[2010,2020],"engine":"v6","body":"coupe","naOnRoad":2500,"built":10000,"aliases":["Evora S","Evora 400","Evora GT","Evora GT410"],"hype":true},
+    {"id":"lotus-emira","model":"Emira","generation":"Emira","years":[2023,null],"engine":"v6","body":"coupe","naOnRoad":2500,"aliases":["Emira i4","Emira V6 First Edition"],"hype":true},
+    {"id":"lotus-evija","model":"Evija","generation":"Evija","years":[2023,null],"engine":"electric","body":"supercar","naOnRoad":10,"hype":true}
+  ]
+}

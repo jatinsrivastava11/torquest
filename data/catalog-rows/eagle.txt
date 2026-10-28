@@ -1,0 +1,9 @@
+Premier | | | 1988 | 1992 | v6 | sedan | 300 | | |
+Medallion | | | 1988 | 1989 | i4 | sedan | 50 | | Renault 21 |
+Vista | | | 1989 | 1991 | i4 | hatchback | 100 | | |
+Summit | 1st gen | | 1989 | 1992 | i4 | sedan | 200 | | |
+Summit | 2nd gen | | 1993 | 1996 | i4 | coupe | 400 | | |
+Summit Wagon | | | 1992 | 1996 | i4 | wagon | 300 | | Vista Wagon |
+Talon | 1st gen | | 1990 | 1994 | i4 | coupe | 1500 | | Talon TSi AWD;DSM |
+Talon | 2nd gen | | 1995 | 1998 | i4 | coupe | 3000 | | Talon TSi AWD;DSM |
+Vision | | | 1993 | 1997 | v6 | sedan | 1500 | | |

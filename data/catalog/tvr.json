@@ -1,0 +1,8 @@
+{
+  "make": "TVR",
+  "cars": [
+    {"id":"tvr-tasmin","model":"Tasmin","generation":"Tasmin","years":[1980,1991],"engine":"v6","body":"coupe","naOnRoad":80,"built":2600,"aliases":["280i","Tasmin 280i","350i"],"hype":true},
+    {"id":"tvr-griffith","model":"Griffith","generation":"Griffith","years":[1991,2002],"engine":"v8","body":"convertible","naOnRoad":60,"built":2600,"aliases":["Griffith 500"],"hype":true},
+    {"id":"tvr-chimaera","model":"Chimaera","generation":"Chimaera","years":[1993,2003],"engine":"v8","body":"convertible","naOnRoad":60,"built":6000,"hype":true}
+  ]
+}

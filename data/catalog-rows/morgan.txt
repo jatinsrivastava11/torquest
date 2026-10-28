@@ -1,0 +1,9 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+4/4 | | | 1936 | 2018 | i4 | convertible | 1500 | 10000 | Four-Four; 4-4 | y
+Plus Four | Traditional | | 1950 | 2020 | i4 | convertible | 2500 | | Plus 4 | y
+Plus Four | CX | | 2020 | | i4 | convertible | 200 | | Plus 4 | y
+Plus 8 | | | 1968 | 2004 | v8 | convertible | 300 | 6000 | Plus Eight | y
+Aero 8 | | | 2001 | 2018 | v8 | convertible | 150 | | Aero Supersports; AeroMax; Aero Coupe | y
+Plus Six | | | 2019 | 2023 | i6 | convertible | 150 | | Plus 6 | y
+3 Wheeler | | | 2012 | 2021 | i3 | convertible | 800 | 2500 | Three Wheeler; Morgan 3-Wheeler | y
+Super 3 | | | 2022 | | i3 | convertible | 300 | | | y

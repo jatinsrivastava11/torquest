@@ -1,0 +1,28 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Series | I | | 1948 | 1958 | i4 | suv | 500 | 218000 | Series One; Series 1 | y
+Series | II | | 1958 | 1971 | i4 | suv | 3000 | | Series IIA; Series 2 | y
+Series | III | | 1971 | 1985 | i4 | suv | 1500 | 440000 | Series 3 | y
+Defender | Classic | | 1983 | 2016 | i4 | suv | 15000 | | Defender 90; Defender 110; Defender 130; NAS Defender; L316; Ninety; One Ten | y
+Defender | L663 | | 2020 | | i6 | suv | 150000 | | Defender 90; Defender 110; Defender 130
+Defender | L663 | Octa | 2025 | | v8 | suv | 1500 | | Defender Octa | y
+Range Rover | Classic | | 1970 | 1996 | v8 | suv | 5000 | 317000 | Range Rover Classic; County LWB | y
+Range Rover | P38A | | 1994 | 2002 | v8 | suv | 5000 | 167000 | P38; 4.6 HSE
+Range Rover | L322 | | 2002 | 2012 | v8 | suv | 30000 | | Range Rover Supercharged
+Range Rover | L405 | | 2013 | 2021 | v8 | suv | 110000 | | Range Rover Autobiography; SVAutobiography
+Range Rover | L460 | | 2022 | | v8 | suv | 90000 | | Range Rover SV
+Range Rover Sport | L320 | | 2005 | 2013 | v8 | suv | 50000 | | Range Rover Sport Supercharged
+Range Rover Sport | L494 | | 2014 | 2022 | v6 | suv | 110000 | |
+Range Rover Sport | L494 | SVR | 2015 | 2022 | v8 | suv | 10000 | | Range Rover Sport SVR | y
+Range Rover Sport | L461 | | 2023 | | i6 | suv | 60000 | |
+Range Rover Sport | L461 | SV | 2024 | | v8 | suv | 1000 | | Range Rover Sport SV Edition One | y
+Range Rover Evoque | L538 | | 2012 | 2019 | i4 | suv | 55000 | | Evoque
+Range Rover Evoque | L538 | Convertible | 2017 | 2019 | i4 | convertible | 2000 | | Evoque Convertible
+Range Rover Evoque | L551 | | 2020 | | i4 | suv | 40000 | | Evoque
+Range Rover Velar | | | 2018 | | i4 | suv | 55000 | | Velar
+Discovery | Series I | | 1994 | 1998 | v8 | suv | 6000 | | Discovery 1
+Discovery | Series II | | 1999 | 2004 | v8 | suv | 10000 | | Discovery II; Disco 2
+Discovery | L319 | | 2005 | 2016 | v8 | suv | 60000 | | LR3; LR4; Discovery 3; Discovery 4
+Discovery | L462 | | 2017 | | v6 | suv | 50000 | | Discovery 5
+Discovery Sport | | | 2015 | | i4 | suv | 110000 | | L550
+Freelander | L314 | | 2002 | 2005 | v6 | suv | 3000 | | Freelander 1
+Freelander | L359 | | 2008 | 2015 | i6 | suv | 20000 | | LR2; Freelander 2

@@ -1,0 +1,7 @@
+{
+  "make": "Fisker",
+  "cars": [
+    {"id":"fisker-karma","model":"Karma","generation":"Karma","years":[2011,2012],"engine":"i4","body":"sedan","naOnRoad":1200,"built":2450},
+    {"id":"fisker-ocean","model":"Ocean","generation":"Ocean","years":[2023,2024],"engine":"electric","body":"suv","naOnRoad":5000,"built":11000}
+  ]
+}

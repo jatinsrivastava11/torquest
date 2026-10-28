@@ -1,0 +1,23 @@
+{
+  "make": "McLaren",
+  "cars": [
+    {"id":"mclaren-f1","model":"F1","generation":"F1","years":[1992,1998],"engine":"v12","body":"supercar","naOnRoad":12,"built":106,"aliases":["McLaren F1 LM","F1 GT"],"hype":true},
+    {"id":"mclaren-12c","model":"12C","generation":"12C","years":[2011,2014],"engine":"v8","body":"supercar","naOnRoad":1400,"built":3500,"aliases":["MP4-12C","12C Spider"],"hype":true},
+    {"id":"mclaren-650s","model":"650S","generation":"650S","years":[2014,2017],"engine":"v8","body":"supercar","naOnRoad":1500,"built":3500,"aliases":["650S Spider","625C"],"hype":true},
+    {"id":"mclaren-675lt","model":"675LT","generation":"675LT","years":[2015,2017],"engine":"v8","body":"supercar","naOnRoad":350,"built":1000,"aliases":["675LT Spider"],"hype":true},
+    {"id":"mclaren-p1","model":"P1","generation":"P1","years":[2013,2015],"engine":"v8","body":"supercar","naOnRoad":130,"built":375,"aliases":["P1 GTR"],"hype":true},
+    {"id":"mclaren-570s","model":"570S","generation":"570S","years":[2015,2021],"engine":"v8","body":"supercar","naOnRoad":4500,"aliases":["570S Spider","570GT","540C","Sports Series"],"hype":true},
+    {"id":"mclaren-600lt","model":"600LT","generation":"600LT","years":[2018,2020],"engine":"v8","body":"supercar","naOnRoad":800,"built":2000,"aliases":["600LT Spider"],"hype":true},
+    {"id":"mclaren-620r","model":"620R","generation":"620R","years":[2020,2020],"engine":"v8","body":"supercar","naOnRoad":225,"built":350,"hype":true},
+    {"id":"mclaren-720s","model":"720S","generation":"720S","years":[2017,2023],"engine":"v8","body":"supercar","naOnRoad":3500,"aliases":["720S Spider"],"hype":true},
+    {"id":"mclaren-765lt","model":"765LT","generation":"765LT","years":[2020,2022],"engine":"v8","body":"supercar","naOnRoad":500,"built":1530,"aliases":["765LT Spider"],"hype":true},
+    {"id":"mclaren-750s","model":"750S","generation":"750S","years":[2023,null],"engine":"v8","body":"supercar","naOnRoad":1500,"aliases":["750S Spider"],"hype":true},
+    {"id":"mclaren-senna","model":"Senna","generation":"Senna","years":[2018,2019],"engine":"v8","body":"supercar","naOnRoad":150,"built":500,"aliases":["Senna GTR"],"hype":true},
+    {"id":"mclaren-speedtail","model":"Speedtail","generation":"Speedtail","years":[2020,2021],"engine":"v8","body":"supercar","naOnRoad":30,"built":106,"hype":true},
+    {"id":"mclaren-elva","model":"Elva","generation":"Elva","years":[2020,2022],"engine":"v8","body":"supercar","naOnRoad":50,"built":149,"hype":true},
+    {"id":"mclaren-gt","model":"GT","generation":"GT","years":[2019,null],"engine":"v8","body":"supercar","naOnRoad":1800,"aliases":["McLaren GT","GTS"],"hype":true},
+    {"id":"mclaren-artura","model":"Artura","generation":"Artura","years":[2022,null],"engine":"v6","body":"supercar","naOnRoad":2000,"aliases":["Artura Spider"],"hype":true},
+    {"id":"mclaren-sabre","model":"Sabre","generation":"Sabre","years":[2021,2021],"engine":"v8","body":"supercar","naOnRoad":15,"built":15,"hype":true},
+    {"id":"mclaren-w1","model":"W1","generation":"W1","years":[2025,null],"engine":"v8","body":"supercar","naOnRoad":100,"built":399,"hype":true}
+  ]
+}

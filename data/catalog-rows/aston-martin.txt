@@ -1,0 +1,36 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+DB4 | | | 1958 | 1963 | i6 | coupe | 250 | 1100 | DB4 GT | y
+DB5 | | | 1963 | 1965 | i6 | coupe | 250 | 1059 | Bond car; DB5 Convertible | y
+DB6 | | | 1965 | 1971 | i6 | coupe | 400 | 1788 | DB6 Volante | y
+DBS | 1st gen | | 1967 | 1972 | i6 | coupe | 200 | 1000 | DBS V8 | y
+V8 | | | 1972 | 1989 | v8 | coupe | 700 | 3000 | AM V8; V8 Volante; V8 Vantage; V8 Saloon | y
+Lagonda | | | 1976 | 1990 | v8 | sedan | 150 | 645 | Lagonda wedge | y
+Virage | 1st gen | | 1989 | 2000 | v8 | coupe | 250 | 1400 | Virage Volante; V8 Coupe; Vantage V550; Vantage V600 | y
+Virage | 2nd gen | | 2011 | 2012 | v12 | coupe | 150 | 1000 | Virage Volante | y
+DB7 | | | 1994 | 2004 | i6 | coupe | 2500 | 7100 | DB7 Vantage; DB7 Volante; DB7 GT; DB7 GTA | y
+DB7 | | Zagato | 2002 | 2003 | v12 | convertible | 120 | 199 | DB7 Zagato; DB AR1 | y
+Vanquish | 1st gen | | 2001 | 2007 | v12 | coupe | 800 | 2589 | V12 Vanquish; Vanquish S | y
+Vanquish | 2nd gen | | 2012 | 2018 | v12 | coupe | 1000 | | Vanquish Volante; Vanquish S | y
+Vanquish | 2nd gen | Zagato | 2016 | 2018 | v12 | coupe | 80 | 325 | Vanquish Zagato Volante; Vanquish Zagato Speedster; Vanquish Zagato Shooting Brake | y
+Vanquish | 3rd gen | | 2024 | | v12 | coupe | 300 | | Vanquish Volante | y
+DB9 | | | 2004 | 2016 | v12 | coupe | 6000 | 16500 | DB9 Volante; DB9 GT | y
+Vantage | 1st gen | | 2005 | 2017 | v8 | coupe | 7000 | | V8 Vantage; V8 Vantage S; Vantage Roadster; Vantage N430; Vantage GT | y
+Vantage | 1st gen | V12 Vantage | 2009 | 2017 | v12 | coupe | 500 | 3000 | V12 Vantage S; Vantage GT12; Vantage GT8 | y
+Vantage | 2nd gen | | 2018 | | v8 | coupe | 5000 | | Vantage Roadster; Vantage AMR; Vantage F1 Edition | y
+Vantage | 2nd gen | V12 Vantage | 2022 | 2023 | v12 | coupe | 200 | 582 | V12 Vantage Roadster | y
+V12 Zagato | | | 2012 | 2013 | v12 | coupe | 15 | 65 | | y
+Rapide | | | 2010 | 2020 | v12 | sedan | 2500 | 8000 | Rapide S; Rapide AMR | y
+One-77 | | | 2009 | 2012 | v12 | coupe | 12 | 77 | One 77 | y
+DBS | 2nd gen | | 2007 | 2012 | v12 | coupe | 1200 | 3400 | DBS V12; DBS Volante | y
+DBS | Superleggera | | 2018 | 2023 | v12 | coupe | 1500 | | DBS Superleggera; DBS Volante | y
+DBS | Superleggera | 770 Ultimate | 2023 | 2023 | v12 | coupe | 150 | 499 | DBS 770 Ultimate | y
+DB11 | | | 2016 | 2023 | v12 | coupe | 4000 | 11000 | DB11 AMR; DB11 Volante; DB11 V8 | y
+DB12 | | | 2023 | | v8 | coupe | 1500 | | DB12 Volante | y
+DBX | | | 2020 | | v8 | suv | 5000 | | DBX707 | y
+Vulcan | | | 2015 | 2016 | v12 | supercar | 6 | 24 | | y
+Valkyrie | | | 2021 | | v12 | supercar | 70 | 235 | Valkyrie Spider; Valkyrie AMR Pro | y
+Valhalla | | | 2025 | | v8 | supercar | 100 | 999 | | y
+V12 Speedster | | | 2021 | 2021 | v12 | convertible | 30 | 88 | | y
+Victor | | | 2020 | 2020 | v12 | coupe | 1 | 1 | | y
+Valour | | | 2023 | 2024 | v12 | coupe | 40 | 110 | | y
+Valiant | | | 2025 | 2025 | v12 | coupe | 10 | 38 | | y

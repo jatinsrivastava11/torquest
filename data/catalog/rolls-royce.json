@@ -1,0 +1,27 @@
+{
+  "make": "Rolls-Royce",
+  "cars": [
+    {"id":"rolls-royce-silver-ghost","model":"Silver Ghost","generation":"Silver Ghost","years":[1907,1926],"engine":"i6","body":"convertible","naOnRoad":400,"built":7874,"aliases":["40/50"],"hype":true},
+    {"id":"rolls-royce-silver-cloud","model":"Silver Cloud","generation":"Silver Cloud","years":[1955,1966],"engine":"v8","body":"sedan","naOnRoad":1500,"built":7400,"aliases":["Silver Cloud I","Silver Cloud II","Silver Cloud III"],"hype":true},
+    {"id":"rolls-royce-phantom-v","model":"Phantom","generation":"V","years":[1959,1968],"engine":"v8","body":"sedan","naOnRoad":100,"built":516,"aliases":["Phantom V"],"hype":true},
+    {"id":"rolls-royce-silver-shadow","model":"Silver Shadow","generation":"Silver Shadow","years":[1965,1980],"engine":"v8","body":"sedan","naOnRoad":7000,"built":30000,"aliases":["Silver Shadow II","Silver Wraith II"],"hype":true},
+    {"id":"rolls-royce-corniche-1st-gen","model":"Corniche","generation":"1st gen","years":[1971,1995],"engine":"v8","body":"convertible","naOnRoad":2000,"built":5000,"aliases":["Corniche II","Corniche III","Corniche IV"],"hype":true},
+    {"id":"rolls-royce-camargue","model":"Camargue","generation":"Camargue","years":[1975,1986],"engine":"v8","body":"coupe","naOnRoad":200,"built":531,"hype":true},
+    {"id":"rolls-royce-silver-spirit","model":"Silver Spirit","generation":"Silver Spirit","years":[1980,1998],"engine":"v8","body":"sedan","naOnRoad":4000,"built":18000,"aliases":["Silver Spur","Silver Dawn","Flying Spur (1994)"],"hype":true},
+    {"id":"rolls-royce-silver-seraph","model":"Silver Seraph","generation":"Silver Seraph","years":[1998,2002],"engine":"v12","body":"sedan","naOnRoad":600,"built":1570,"aliases":["Park Ward"],"hype":true},
+    {"id":"rolls-royce-corniche-2nd-gen","model":"Corniche","generation":"2nd gen","years":[2000,2002],"engine":"v8","body":"convertible","naOnRoad":150,"built":374,"aliases":["Corniche V"],"hype":true},
+    {"id":"rolls-royce-phantom-vii","model":"Phantom","generation":"VII","years":[2003,2017],"engine":"v12","body":"sedan","naOnRoad":3000,"aliases":["Phantom EWB","Phantom Series II"],"hype":true},
+    {"id":"rolls-royce-phantom-vii-drophead-coupe","model":"Phantom","generation":"VII","variant":"Drophead Coupe","years":[2007,2016],"engine":"v12","body":"convertible","naOnRoad":600,"aliases":["Phantom Drophead"],"hype":true},
+    {"id":"rolls-royce-phantom-vii-coupe","model":"Phantom","generation":"VII","variant":"Coupe","years":[2008,2016],"engine":"v12","body":"coupe","naOnRoad":450,"aliases":["Phantom Coupe"],"hype":true},
+    {"id":"rolls-royce-phantom-viii","model":"Phantom","generation":"VIII","years":[2017,null],"engine":"v12","body":"sedan","naOnRoad":1500,"aliases":["Phantom EWB"],"hype":true},
+    {"id":"rolls-royce-ghost-1st-gen","model":"Ghost","generation":"1st gen","years":[2009,2020],"engine":"v12","body":"sedan","naOnRoad":7000,"aliases":["Ghost Series II","Ghost EWB"],"hype":true},
+    {"id":"rolls-royce-ghost-2nd-gen","model":"Ghost","generation":"2nd gen","years":[2020,null],"engine":"v12","body":"sedan","naOnRoad":5000,"aliases":["Ghost Black Badge","Ghost EWB"],"hype":true},
+    {"id":"rolls-royce-wraith","model":"Wraith","generation":"Wraith","years":[2013,2023],"engine":"v12","body":"coupe","naOnRoad":4500,"built":13000,"aliases":["Wraith Black Badge"],"hype":true},
+    {"id":"rolls-royce-dawn","model":"Dawn","generation":"Dawn","years":[2015,2023],"engine":"v12","body":"convertible","naOnRoad":1700,"built":4500,"aliases":["Dawn Black Badge"],"hype":true},
+    {"id":"rolls-royce-cullinan","model":"Cullinan","generation":"Cullinan","years":[2018,null],"engine":"v12","body":"suv","naOnRoad":8000,"aliases":["Cullinan Black Badge"],"hype":true},
+    {"id":"rolls-royce-spectre","model":"Spectre","generation":"Spectre","years":[2023,null],"engine":"electric","body":"coupe","naOnRoad":1500,"hype":true},
+    {"id":"rolls-royce-sweptail","model":"Sweptail","generation":"Sweptail","years":[2017,2017],"engine":"v12","body":"coupe","naOnRoad":1,"built":1,"hype":true},
+    {"id":"rolls-royce-boat-tail","model":"Boat Tail","generation":"Boat Tail","years":[2021,2022],"engine":"v12","body":"convertible","naOnRoad":1,"built":3,"hype":true},
+    {"id":"rolls-royce-droptail","model":"Droptail","generation":"Droptail","years":[2023,2025],"engine":"v12","body":"convertible","naOnRoad":1,"built":4,"aliases":["La Rose Noire"],"hype":true}
+  ]
+}

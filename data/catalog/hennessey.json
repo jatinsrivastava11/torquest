@@ -1,0 +1,9 @@
+{
+  "make": "Hennessey",
+  "cars": [
+    {"id":"hennessey-venom-gt","model":"Venom GT","generation":"Venom GT","years":[2011,2017],"engine":"v8","body":"supercar","naOnRoad":8,"built":13,"aliases":["Venom GT Spyder"],"hype":true},
+    {"id":"hennessey-venom-f5","model":"Venom F5","generation":"Venom F5","years":[2021,null],"engine":"v8","body":"supercar","naOnRoad":30,"aliases":["Venom F5 Roadster","F5 Revolution"],"hype":true},
+    {"id":"hennessey-velociraptor","model":"VelociRaptor","generation":"VelociRaptor","years":[2010,null],"engine":"v8","body":"pickup","naOnRoad":800,"aliases":["Hennessey Raptor","VelociRaptor 600"],"hype":true},
+    {"id":"hennessey-velociraptor-6x6","model":"VelociRaptor 6x6","generation":"VelociRaptor 6x6","years":[2017,null],"engine":"v8","body":"pickup","naOnRoad":80,"hype":true}
+  ]
+}

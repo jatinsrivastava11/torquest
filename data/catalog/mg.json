@@ -1,0 +1,10 @@
+{
+  "make": "MG",
+  "cars": [
+    {"id":"mg-t-series","model":"T-Series","generation":"T-Series","years":[1945,1955],"engine":"i4","body":"convertible","naOnRoad":6000,"built":49000,"aliases":["TC","TD","TF","MG TC","MG TD","MG TF"],"hype":true},
+    {"id":"mg-mga","model":"MGA","generation":"MGA","years":[1955,1962],"engine":"i4","body":"convertible","naOnRoad":12000,"built":101000,"aliases":["MGA Twin Cam","MGA 1600"],"hype":true},
+    {"id":"mg-mgb","model":"MGB","generation":"MGB","years":[1962,1980],"engine":"i4","body":"convertible","naOnRoad":40000,"built":523000,"aliases":["MGB Roadster","rubber bumper MGB","chrome bumper MGB"],"hype":true},
+    {"id":"mg-mgb-gt","model":"MGB","generation":"MGB","variant":"GT","years":[1965,1980],"engine":"i4","body":"coupe","naOnRoad":6000,"built":125000,"aliases":["MGB GT"]},
+    {"id":"mg-midget","model":"Midget","generation":"Midget","years":[1961,1979],"engine":"i4","body":"convertible","naOnRoad":15000,"built":226000,"aliases":["MG Midget"]}
+  ]
+}
