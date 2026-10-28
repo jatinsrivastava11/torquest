@@ -10,3 +10,10 @@ Exige | S3 | | 2013 | 2014 | v6 | coupe | 300 | 4000 | Exige S V6; Exige Cup 430
 Evora | | | 2010 | 2020 | v6 | coupe | 2500 | 10000 | Evora S; Evora 400; Evora GT; Evora GT410 | y
 Emira | | | 2023 | | v6 | coupe | 2500 | | Emira i4; Emira V6 First Edition | y
 Evija | | | 2023 | | electric | supercar | 10 | | | y
+# never sold in North America (home market)
+Elise | S1 | | 1996 | 2001 | i4 | convertible | 50 | 10600 | Elise S1; Elise 111S; 340R | y | uk:6000
+Elise | S3 | | 2011 | 2021 | i4 | convertible | 20 | | Elise S3; Elise Cup 250; Elise Sport 220 | y | uk:4000
+Exige | S1 | | 2000 | 2001 | i4 | coupe | 10 | 604 | Exige S1 | y | uk:400
+Carlton | | | 1990 | 1992 | i6 | sedan | 10 | 950 | Lotus Omega; Vauxhall Lotus Carlton; Opel Lotus Omega | y | uk:300
+Eletre | | | 2023 | | electric | suv | 20 | | Eletre S; Eletre R | | china:6000
+Emeya | | | 2024 | | electric | sedan | 5 | | | | china:1500

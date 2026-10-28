@@ -14,7 +14,7 @@
     {"id": "honda-civic-11th-gen", "model": "Civic", "generation": "11th gen", "years": [2022, null], "engine": "i4", "body": "sedan", "naOnRoad": 1200000, "commons": "Honda Civic (2021)"},
     {"id": "honda-civic-11th-gen-type-r", "model": "Civic", "generation": "11th gen", "variant": "Type R", "years": [2023, null], "engine": "i4", "body": "hatchback", "naOnRoad": 20000, "aliases": ["FL5"], "hype": true, "commons": "Honda Civic Type R (2022)"},
     {"id": "honda-crx", "model": "CRX", "generation": "CRX", "years": [1984, 1991], "engine": "i4", "body": "hatchback", "naOnRoad": 12000, "commons": "Honda CR-X"},
-    {"id": "honda-civic-del-sol", "model": "Civic del Sol", "generation": "Civic del Sol", "years": [1993, 1997], "engine": "i4", "body": "convertible", "naOnRoad": 15000, "commons": "Honda Civic Del Sol"},
+    {"id": "honda-civic-del-sol", "model": "Civic del Sol", "generation": "Civic del Sol", "years": [1993, 1997], "engine": "i4", "body": "convertible", "naOnRoad": 15000, "commons": "Honda Civic Del Sol", "aliases": ["Del Sol"]},
     {"id": "honda-accord-2nd-gen", "model": "Accord", "generation": "2nd gen", "years": [1982, 1985], "engine": "i4", "body": "sedan", "naOnRoad": 3000},
     {"id": "honda-accord-3rd-gen", "model": "Accord", "generation": "3rd gen", "years": [1986, 1989], "engine": "i4", "body": "sedan", "naOnRoad": 20000, "commons": "Honda Accord (1985)"},
     {"id": "honda-accord-4th-gen", "model": "Accord", "generation": "4th gen", "years": [1990, 1993], "engine": "i4", "body": "sedan", "naOnRoad": 60000, "commons": "Honda Accord (1989)"},
@@ -63,6 +63,10 @@
     {"id": "honda-s2000-ap1-ap2-cr", "model": "S2000", "generation": "AP1/AP2", "variant": "CR", "years": [2008, 2009], "engine": "i4", "body": "convertible", "naOnRoad": 600, "built": 722, "hype": true},
     {"id": "honda-cr-z", "model": "CR-Z", "generation": "CR-Z", "years": [2011, 2016], "engine": "i4", "body": "hatchback", "naOnRoad": 25000},
     {"id": "honda-clarity", "model": "Clarity", "generation": "Clarity", "years": [2017, 2021], "engine": "i4", "body": "sedan", "naOnRoad": 15000},
-    {"id": "honda-prologue", "model": "Prologue", "generation": "Prologue", "years": [2024, null], "engine": "electric", "body": "suv", "naOnRoad": 40000, "commons": "Honda Prologue"}
+    {"id": "honda-prologue", "model": "Prologue", "generation": "Prologue", "years": [2024, null], "engine": "electric", "body": "suv", "naOnRoad": 40000, "commons": "Honda Prologue"},
+    {"id": "honda-city-4th-gen", "model": "City", "generation": "4th gen", "years": [2008, 2013], "engine": "i4", "body": "sedan", "naOnRoad": 0, "home": {"market": "southeast-asia", "onRoad": 1500000}},
+    {"id": "honda-city-5th-gen", "model": "City", "generation": "5th gen", "years": [2014, 2019], "engine": "i4", "body": "sedan", "naOnRoad": 0, "home": {"market": "southeast-asia", "onRoad": 2000000}},
+    {"id": "honda-city-6th-gen", "model": "City", "generation": "6th gen", "years": [2020, null], "engine": "i4", "body": "sedan", "naOnRoad": 0, "home": {"market": "southeast-asia", "onRoad": 1500000}},
+    {"id": "honda-e", "model": "e", "generation": "e", "years": [2020, 2024], "engine": "electric", "body": "hatchback", "naOnRoad": 0, "built": 12000, "home": {"market": "europe", "onRoad": 9000}}
   ]
 }

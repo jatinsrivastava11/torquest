@@ -5,6 +5,26 @@
     {"id":"mg-mga","model":"MGA","generation":"MGA","years":[1955,1962],"engine":"i4","body":"convertible","naOnRoad":12000,"built":101000,"aliases":["MGA Twin Cam","MGA 1600"],"hype":true},
     {"id":"mg-mgb","model":"MGB","generation":"MGB","years":[1962,1980],"engine":"i4","body":"convertible","naOnRoad":40000,"built":523000,"aliases":["MGB Roadster","rubber bumper MGB","chrome bumper MGB"],"hype":true},
     {"id":"mg-mgb-gt","model":"MGB","generation":"MGB","variant":"GT","years":[1965,1980],"engine":"i4","body":"coupe","naOnRoad":6000,"built":125000,"aliases":["MGB GT"]},
-    {"id":"mg-midget","model":"Midget","generation":"Midget","years":[1961,1979],"engine":"i4","body":"convertible","naOnRoad":15000,"built":226000,"aliases":["MG Midget"]}
+    {"id":"mg-midget","model":"Midget","generation":"Midget","years":[1961,1979],"engine":"i4","body":"convertible","naOnRoad":15000,"built":226000,"aliases":["MG Midget"]},
+    {"id":"mg-mgf","model":"MGF","generation":"MGF","years":[1995,2011],"engine":"i4","body":"convertible","naOnRoad":20,"built":117000,"aliases":["MG F","MG TF","TF 135","TF 160"],"home":{"market":"uk","onRoad":20000}},
+    {"id":"mg-zr","model":"ZR","generation":"ZR","years":[2001,2005],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["MG ZR"],"home":{"market":"uk","onRoad":5000}},
+    {"id":"mg-zs-rover-45","model":"ZS","generation":"Rover 45","years":[2001,2005],"engine":"i4","body":"sedan","naOnRoad":0,"aliases":["MG ZS 180"],"home":{"market":"uk","onRoad":2000}},
+    {"id":"mg-zt","model":"ZT","generation":"ZT","years":[2001,2005],"engine":"v6","body":"sedan","naOnRoad":0,"aliases":["MG ZT","ZT-T","ZT 260"],"home":{"market":"uk","onRoad":3000}},
+    {"id":"mg-mg3-2nd-gen","model":"MG3","generation":"2nd gen","years":[2011,2024],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["MG 3"],"home":{"market":"uk","onRoad":60000}},
+    {"id":"mg-mg3-3rd-gen","model":"MG3","generation":"3rd gen","years":[2024,null],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["MG3 Hybrid+"],"home":{"market":"uk","onRoad":30000}},
+    {"id":"mg-zs-1st-gen","model":"ZS","generation":"1st gen","years":[2017,2024],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["ZS EV","MG ZS"],"home":{"market":"europe","onRoad":250000}},
+    {"id":"mg-zs-2nd-gen","model":"ZS","generation":"2nd gen","years":[2024,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["ZS Hybrid+","MG ZS"],"home":{"market":"europe","onRoad":150000}},
+    {"id":"mg-hs-1st-gen","model":"HS","generation":"1st gen","years":[2018,2024],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["HS PHEV","MG HS"],"home":{"market":"europe","onRoad":150000}},
+    {"id":"mg-hs-2nd-gen","model":"HS","generation":"2nd gen","years":[2024,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["MG HS"],"home":{"market":"europe","onRoad":80000}},
+    {"id":"mg-mg4","model":"MG4","generation":"MG4","years":[2022,null],"engine":"electric","body":"hatchback","naOnRoad":0,"aliases":["MG4 EV","MG4 XPower","Mulan"],"home":{"market":"europe","onRoad":250000}},
+    {"id":"mg-mg5-ev","model":"MG5","generation":"EV","years":[2020,null],"engine":"electric","body":"wagon","naOnRoad":0,"aliases":["MG5 EV","MG5 Estate"],"home":{"market":"uk","onRoad":40000}},
+    {"id":"mg-mg5-sedan","model":"MG5","generation":"Sedan","years":[2020,null],"engine":"i4","body":"sedan","naOnRoad":0,"aliases":["MG5 sedan","MG GT"],"home":{"market":"australia","onRoad":20000}},
+    {"id":"mg-marvel-r","model":"Marvel R","generation":"Marvel R","years":[2021,2024],"engine":"electric","body":"suv","naOnRoad":0,"home":{"market":"europe","onRoad":5000}},
+    {"id":"mg-cyberster","model":"Cyberster","generation":"Cyberster","years":[2024,null],"engine":"electric","body":"convertible","naOnRoad":0,"hype":true,"home":{"market":"europe","onRoad":6000}},
+    {"id":"mg-s5-ev","model":"S5 EV","generation":"S5 EV","years":[2025,null],"engine":"electric","body":"suv","naOnRoad":0,"aliases":["MG S5"],"home":{"market":"europe","onRoad":15000}},
+    {"id":"mg-hector","model":"Hector","generation":"Hector","years":[2019,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Hector Plus","Baojun 530"],"home":{"market":"india","onRoad":200000}},
+    {"id":"mg-astor","model":"Astor","generation":"Astor","years":[2021,null],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"india","onRoad":80000}},
+    {"id":"mg-windsor","model":"Windsor","generation":"Windsor","years":[2024,null],"engine":"electric","body":"suv","naOnRoad":0,"aliases":["Windsor EV","Cloud EV"],"home":{"market":"india","onRoad":60000}},
+    {"id":"mg-comet","model":"Comet","generation":"Comet","years":[2023,null],"engine":"electric","body":"hatchback","naOnRoad":0,"aliases":["Comet EV"],"home":{"market":"india","onRoad":30000}}
   ]
 }

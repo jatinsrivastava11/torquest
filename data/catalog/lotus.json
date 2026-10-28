@@ -11,6 +11,12 @@
     {"id":"lotus-exige-s3","model":"Exige","generation":"S3","years":[2013,2014],"engine":"v6","body":"coupe","naOnRoad":300,"built":4000,"aliases":["Exige S V6","Exige Cup 430","Exige Sport 350","Exige 410"],"hype":true},
     {"id":"lotus-evora","model":"Evora","generation":"Evora","years":[2010,2020],"engine":"v6","body":"coupe","naOnRoad":2500,"built":10000,"aliases":["Evora S","Evora 400","Evora GT","Evora GT410"],"hype":true},
     {"id":"lotus-emira","model":"Emira","generation":"Emira","years":[2023,null],"engine":"v6","body":"coupe","naOnRoad":2500,"aliases":["Emira i4","Emira V6 First Edition"],"hype":true},
-    {"id":"lotus-evija","model":"Evija","generation":"Evija","years":[2023,null],"engine":"electric","body":"supercar","naOnRoad":10,"hype":true}
+    {"id":"lotus-evija","model":"Evija","generation":"Evija","years":[2023,null],"engine":"electric","body":"supercar","naOnRoad":10,"hype":true},
+    {"id":"lotus-elise-s1","model":"Elise","generation":"S1","years":[1996,2001],"engine":"i4","body":"convertible","naOnRoad":50,"built":10600,"aliases":["Elise S1","Elise 111S","340R"],"hype":true,"home":{"market":"uk","onRoad":6000}},
+    {"id":"lotus-elise-s3","model":"Elise","generation":"S3","years":[2011,2021],"engine":"i4","body":"convertible","naOnRoad":20,"aliases":["Elise S3","Elise Cup 250","Elise Sport 220"],"hype":true,"home":{"market":"uk","onRoad":4000}},
+    {"id":"lotus-exige-s1","model":"Exige","generation":"S1","years":[2000,2001],"engine":"i4","body":"coupe","naOnRoad":10,"built":604,"aliases":["Exige S1"],"hype":true,"home":{"market":"uk","onRoad":400}},
+    {"id":"lotus-carlton","model":"Carlton","generation":"Carlton","years":[1990,1992],"engine":"i6","body":"sedan","naOnRoad":10,"built":950,"aliases":["Lotus Omega","Vauxhall Lotus Carlton","Opel Lotus Omega"],"hype":true,"home":{"market":"uk","onRoad":300}},
+    {"id":"lotus-eletre","model":"Eletre","generation":"Eletre","years":[2023,null],"engine":"electric","body":"suv","naOnRoad":20,"aliases":["Eletre S","Eletre R"],"home":{"market":"china","onRoad":6000}},
+    {"id":"lotus-emeya","model":"Emeya","generation":"Emeya","years":[2024,null],"engine":"electric","body":"sedan","naOnRoad":5,"home":{"market":"china","onRoad":1500}}
   ]
 }

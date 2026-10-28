@@ -13,18 +13,26 @@ const list = readdirSync("data/source/jatin-list")
   .map(([make, model]) => ({ make, model }));
 
 const names = new Set();
+// Full "Make Model" names, so a car filed under another make can carry the
+// list's name as an alias ("Nissan 240Z" on the Datsun 240Z).
+const fullNames = new Set();
 for (const f of readdirSync("data/catalog").filter((f) => f.endsWith(".json") && !f.startsWith("_"))) {
   const d = JSON.parse(readFileSync(`data/catalog/${f}`, "utf8"));
   for (const c of d.cars) {
     const forms = [c.model, `${c.model} ${c.variant ?? ""}`, `${c.model} ${c.generation}`, c.variant, `${c.generation} ${c.variant ?? ""}`, ...(c.aliases ?? [])];
-    for (const n of forms) if (n) names.add(`${norm(d.make)}|${norm(n)}`);
+    for (const n of forms) {
+      if (!n) continue;
+      names.add(`${norm(d.make)}|${norm(n)}`);
+      fullNames.add(norm(`${d.make} ${n}`));
+    }
+    for (const a of c.aliases ?? []) fullNames.add(norm(a));
   }
 }
 const excluded = new Map(JSON.parse(readFileSync("data/catalog/_excluded.json", "utf8")).models.map((x) => [`${norm(x.make)}|${norm(x.model)}`, x.reason]));
 
 const misses = list.filter(({ make, model }) => {
   const k = `${norm(make)}|${norm(model)}`;
-  return !names.has(k) && !excluded.has(k);
+  return !names.has(k) && !fullNames.has(norm(`${make} ${model}`)) && !excluded.has(k);
 });
 const byMake = new Map();
 for (const m of misses) byMake.set(m.make, [...(byMake.get(m.make) ?? []), m.model]);

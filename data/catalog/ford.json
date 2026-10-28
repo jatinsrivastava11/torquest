@@ -44,8 +44,8 @@
     {"id": "ford-mustang-s650", "model": "Mustang", "generation": "S650", "years": [2024, null], "engine": "v8", "body": "coupe", "naOnRoad": 120000},
     {"id": "ford-mustang-s650-dark-horse", "model": "Mustang", "generation": "S650", "variant": "Dark Horse", "years": [2024, null], "engine": "v8", "body": "coupe", "naOnRoad": 10000, "hype": true, "commons": "Ford Mustang Dark Horse"},
     {"id": "ford-mustang-mach-e", "model": "Mustang Mach-E", "generation": "Mustang Mach-E", "years": [2021, null], "engine": "electric", "body": "suv", "naOnRoad": 150000, "aliases": ["Mach-E"], "commons": "Ford Mustang Mach-E"},
-    {"id": "ford-ford-gt-1st-gen", "model": "Ford GT", "generation": "1st gen", "years": [2005, 2006], "engine": "v8", "body": "supercar", "naOnRoad": 3500, "built": 4038, "hype": true},
-    {"id": "ford-ford-gt-2nd-gen", "model": "Ford GT", "generation": "2nd gen", "years": [2017, 2022], "engine": "v6", "body": "supercar", "naOnRoad": 1100, "built": 1350, "hype": true},
+    {"id": "ford-ford-gt-1st-gen", "model": "Ford GT", "generation": "1st gen", "years": [2005, 2006], "engine": "v8", "body": "supercar", "naOnRoad": 3500, "built": 4038, "hype": true, "aliases": ["GT (2005)"]},
+    {"id": "ford-ford-gt-2nd-gen", "model": "Ford GT", "generation": "2nd gen", "years": [2017, 2022], "engine": "v6", "body": "supercar", "naOnRoad": 1100, "built": 1350, "hype": true, "aliases": ["GT (2017)"]},
     {"id": "ford-explorer-1st-gen", "model": "Explorer", "generation": "1st gen", "years": [1991, 1994], "engine": "v6", "body": "suv", "naOnRoad": 50000, "commons": "Ford Explorer (first generation)"},
     {"id": "ford-explorer-2nd-gen", "model": "Explorer", "generation": "2nd gen", "years": [1995, 2001], "engine": "v6", "body": "suv", "naOnRoad": 300000, "commons": "Ford Explorer (second generation)"},
     {"id": "ford-explorer-3rd-gen", "model": "Explorer", "generation": "3rd gen", "years": [2002, 2005], "engine": "v6", "body": "suv", "naOnRoad": 400000, "commons": "Ford Explorer (third generation)"},
@@ -102,9 +102,16 @@
     {"id": "ford-windstar", "model": "Windstar", "generation": "Windstar", "years": [1995, 2003], "engine": "v6", "body": "van", "naOnRoad": 60000},
     {"id": "ford-five-hundred", "model": "Five Hundred", "generation": "Five Hundred", "years": [2005, 2007], "engine": "v6", "body": "sedan", "naOnRoad": 40000, "commons": "Ford Five Hundred"},
     {"id": "ford-mustang-1st-gen-boss-429", "model": "Mustang", "generation": "1st gen", "variant": "Boss 429", "years": [1969, 1970], "engine": "v8", "body": "coupe", "naOnRoad": 700, "built": 1359, "hype": true},
-    {"id": "ford-mustang-1st-gen-shelby-gt500", "model": "Mustang", "generation": "1st gen", "variant": "Shelby GT500", "years": [1967, 1970], "engine": "v8", "body": "coupe", "naOnRoad": 2500, "hype": true},
+    {"id": "ford-mustang-1st-gen-shelby-gt500", "model": "Mustang", "generation": "1st gen", "variant": "Shelby GT500", "years": [1967, 1970], "engine": "v8", "body": "coupe", "naOnRoad": 2500, "hype": true, "aliases": ["Mustang Shelby GT500 (1967)"]},
     {"id": "ford-rs200", "model": "RS200", "generation": "RS200", "years": [1984, 1986], "engine": "i4", "body": "supercar", "naOnRoad": 15, "built": 200, "hype": true},
     {"id": "ford-escort-rs-cosworth", "model": "Escort RS Cosworth", "generation": "Escort RS Cosworth", "years": [1992, 1996], "engine": "i4", "body": "hatchback", "naOnRoad": 40, "built": 7145, "hype": true},
-    {"id": "ford-sierra-rs500-cosworth", "model": "Sierra RS500 Cosworth", "generation": "Sierra RS500 Cosworth", "years": [1987, 1987], "engine": "i4", "body": "hatchback", "naOnRoad": 15, "built": 500, "hype": true}
+    {"id": "ford-sierra-rs500-cosworth", "model": "Sierra RS500 Cosworth", "generation": "Sierra RS500 Cosworth", "years": [1987, 1987], "engine": "i4", "body": "hatchback", "naOnRoad": 15, "built": 500, "hype": true},
+    {"id": "ford-puma-1st-gen", "model": "Puma", "generation": "1st gen", "years": [1997, 2002], "engine": "i4", "body": "coupe", "naOnRoad": 0, "built": 133000, "home": {"market": "europe", "onRoad": 40000}},
+    {"id": "ford-puma-2nd-gen", "model": "Puma", "generation": "2nd gen", "years": [2019, null], "engine": "i3", "body": "suv", "naOnRoad": 0, "home": {"market": "europe", "onRoad": 800000}},
+    {"id": "ford-ka-1st-gen", "model": "Ka", "generation": "1st gen", "years": [1996, 2008], "engine": "i4", "body": "hatchback", "naOnRoad": 0, "home": {"market": "europe", "onRoad": 600000}},
+    {"id": "ford-ka-2nd-gen", "model": "Ka", "generation": "2nd gen", "years": [2008, 2016], "engine": "i4", "body": "hatchback", "naOnRoad": 0, "home": {"market": "europe", "onRoad": 500000}},
+    {"id": "ford-ka-ka", "model": "Ka", "generation": "Ka+", "years": [2016, 2019], "engine": "i4", "body": "hatchback", "naOnRoad": 0, "home": {"market": "europe", "onRoad": 200000}},
+    {"id": "ford-everest-2nd-gen", "model": "Everest", "generation": "2nd gen", "years": [2015, 2022], "engine": "i4", "body": "suv", "naOnRoad": 0, "home": {"market": "australia", "onRoad": 120000}},
+    {"id": "ford-everest-3rd-gen", "model": "Everest", "generation": "3rd gen", "years": [2022, null], "engine": "v6", "body": "suv", "naOnRoad": 0, "home": {"market": "australia", "onRoad": 100000}}
   ]
 }

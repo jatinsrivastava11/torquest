@@ -4,3 +4,24 @@ MGA | | | 1955 | 1962 | i4 | convertible | 12000 | 101000 | MGA Twin Cam; MGA 16
 MGB | | | 1962 | 1980 | i4 | convertible | 40000 | 523000 | MGB Roadster; rubber bumper MGB; chrome bumper MGB | y
 MGB | | GT | 1965 | 1980 | i4 | coupe | 6000 | 125000 | MGB GT
 Midget | | | 1961 | 1979 | i4 | convertible | 15000 | 226000 | MG Midget
+# Rover-era and SAIC-era MG, never sold in the US or Canada (home market)
+MGF | | | 1995 | 2011 | i4 | convertible | 20 | 117000 | MG F; MG TF; TF 135; TF 160 | | uk:20000
+ZR | | | 2001 | 2005 | i4 | hatchback | 0 | | MG ZR | | uk:5000
+ZS | Rover 45 | | 2001 | 2005 | i4 | sedan | 0 | | MG ZS 180 | | uk:2000
+ZT | | | 2001 | 2005 | v6 | sedan | 0 | | MG ZT; ZT-T; ZT 260 | | uk:3000
+MG3 | 2nd gen | | 2011 | 2024 | i4 | hatchback | 0 | | MG 3 | | uk:60000
+MG3 | 3rd gen | | 2024 | | i4 | hatchback | 0 | | MG3 Hybrid+ | | uk:30000
+ZS | 1st gen | | 2017 | 2024 | i4 | suv | 0 | | ZS EV; MG ZS | | europe:250000
+ZS | 2nd gen | | 2024 | | i4 | suv | 0 | | ZS Hybrid+; MG ZS | | europe:150000
+HS | 1st gen | | 2018 | 2024 | i4 | suv | 0 | | HS PHEV; MG HS | | europe:150000
+HS | 2nd gen | | 2024 | | i4 | suv | 0 | | MG HS | | europe:80000
+MG4 | | | 2022 | | electric | hatchback | 0 | | MG4 EV; MG4 XPower; Mulan | | europe:250000
+MG5 | EV | | 2020 | | electric | wagon | 0 | | MG5 EV; MG5 Estate | | uk:40000
+MG5 | Sedan | | 2020 | | i4 | sedan | 0 | | MG5 sedan; MG GT | | australia:20000
+Marvel R | | | 2021 | 2024 | electric | suv | 0 | | | | europe:5000
+Cyberster | | | 2024 | | electric | convertible | 0 | | | y | europe:6000
+S5 EV | | | 2025 | | electric | suv | 0 | | MG S5 | | europe:15000
+Hector | | | 2019 | | i4 | suv | 0 | | Hector Plus; Baojun 530 | | india:200000
+Astor | | | 2021 | | i4 | suv | 0 | | | | india:80000
+Windsor | | | 2024 | | electric | suv | 0 | | Windsor EV; Cloud EV | | india:60000
+Comet | | | 2023 | | electric | hatchback | 0 | | Comet EV | | india:30000
