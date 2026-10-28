@@ -35,7 +35,7 @@ export interface CatalogFile {
 }
 
 /** A catalog car as the app uses it. */
-export interface CatalogCar extends Omit<CatalogEntry, "naOnRoad" | "tierOverride" | "tierReason" | "hype"> {
+export interface CatalogCar extends Omit<CatalogEntry, "tierOverride" | "tierReason" | "hype"> {
   make: string;
   tier: Tier;
   hype: boolean;
@@ -56,8 +56,8 @@ export function tierFromOnRoad(onRoad: number): Tier {
 }
 
 export function toCatalogCar(make: string, e: CatalogEntry): CatalogCar {
-  const { naOnRoad, tierOverride, tierReason: _reason, hype, ...rest } = e;
-  return { ...rest, make, tier: tierOverride ?? tierFromOnRoad(naOnRoad), hype: hype ?? e.body === "supercar" };
+  const { tierOverride, tierReason: _reason, hype, ...rest } = e;
+  return { ...rest, make, tier: tierOverride ?? tierFromOnRoad(e.naOnRoad), hype: hype ?? e.body === "supercar" };
 }
 
 export const slug = (...parts: (string | undefined)[]) =>

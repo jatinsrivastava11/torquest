@@ -12,7 +12,11 @@ export interface DemoSpot {
   paint: string;
 }
 
-const car = (c: Omit<CatalogCar, "hype"> & { hype?: boolean }): CatalogCar => ({ ...c, hype: c.hype ?? c.body === "supercar" });
+const car = (c: Omit<CatalogCar, "hype" | "naOnRoad"> & { hype?: boolean }): CatalogCar => ({
+  ...c,
+  naOnRoad: 0,
+  hype: c.hype ?? c.body === "supercar",
+});
 // Demo cars are written with their tier directly; real ones come from data/catalog.
 
 export const DEMO_SPOTS: DemoSpot[] = [
