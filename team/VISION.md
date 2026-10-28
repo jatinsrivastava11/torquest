@@ -38,7 +38,28 @@ Torquest is an app for car enthusiasts.
 | 2026-10-28 | **Torquest is a new app, designed from scratch.** Nothing is carried over from earlier prototypes except Jatin's tier list as raw input. | Fresh design for a web app. |
 | 2026-10-28 | **Teammate owns the 3D engines (~20%).** Jatin owns the rest (~80%). | Self-contained, rarely touches core code. |
 | 2026-10-28 | **Engines are built in code from detailed parts**; the V8 is the reference. | Free realistic models cover few engine types, are too heavy for phones and usually can't be exploded. Code-built parts give accurate motion, labels and a consistent look across all 15 types. |
-| 2026-10-28 | **Catalog goes to generation level** (e.g. 911 993 / 996 / 992), not year. | Years within a generation look identical, but generations differ a lot in rarity. *(Proposed; to confirm.)* |
+| 2026-10-28 | **Catalog: one entry per generation, plus key variants** (911 992 *and* 911 992 GT3 RS). | Years within a generation look identical; variants that look different and are far rarer get their own entry and tier. |
+| 2026-10-28 | **Recognition: hybrid.** An open model on the phone suggests its top 5; the user confirms. Rare and above are double-checked by a free cloud AI (Gemini free tier, via a server function so the key stays secret). | Accurate where points matter, private and free for everyday spots, low enough volume to stay in free limits. |
+| 2026-10-28 | **Backend: Supabase** (free plan, no card): auth, Postgres with row-level security, storage, edge functions. | Everything needed in one free service. Watch: pauses after 7 days idle; 500 MB DB, 1 GB files. |
+| 2026-10-28 | **Hosting: Cloudflare Pages**, the app as a static export. | Free, commercial use allowed. Server logic lives in Supabase edge functions. |
+| 2026-10-28 | **Login: Google + email magic link.** No Apple sign-in (needs $99/yr). | No passwords to leak. |
+| 2026-10-28 | **Privacy: friends see your cards** (photo, car, tier, city); strangers see username, score and car names. Plates and faces are blurred on the phone before upload. Location is city-level only, shown a day later. | Social without letting anyone track a rare car (or a person) in real time. |
+| 2026-10-28 | **Points: tier points + bonuses**: first time *you* spot a car +50%, first in Torquest +100%, classics 25+ years +25%. Re-spotting the same car scores little. | Rewards discovery, discourages farming one car. |
+| 2026-10-28 | **Style: dark garage, holographic cards** for Rare and above. | Premium motorsport feel; collectible. |
+
+## Roadmap
+
+1. **Foundation:** design system, app shell (Spot, Collection, Friends, Profile), static export
+   for Cloudflare Pages.
+2. **Accounts:** Supabase project, Google + email login, profiles, row-level security.
+3. **Catalog:** your tier list rebuilt at generation + variant level, with production numbers,
+   tiers and points.
+4. **Spotting:** camera, car detection, on-phone top-5 suggestions, confirm, plate/face blur,
+   passenger check, rare-car cloud check, scoring.
+5. **Collection & cards:** holo cards, card detail, engine view (teammate's engines).
+6. **Friends:** search, requests, friend profiles and collections, leaderboard.
+7. **3D car bodies:** per-generation body models (approach to be decided).
+8. **Launch basics:** PWA install, offline, privacy policy and terms, report/block.
 
 ## Engines: where the teammate starts
 

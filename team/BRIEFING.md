@@ -5,6 +5,30 @@ Newest entry on top.
 
 ---
 
+## 2026-10-28 (evening): The rest of the app has started
+
+**Jatin's decisions** (full table in `team/VISION.md`, with a new **Roadmap** section):
+- **Hosting:** Cloudflare Pages, so the app is a **static export**. No server code in Next.js;
+  anything server-side runs as a Supabase edge function.
+- **Backend:** Supabase.
+- **Login:** Google + email magic link.
+- **Recognition:** hybrid (top-5 on the phone, cloud double-check for rare cars).
+- **Catalog:** one entry per generation, plus key variants.
+- **Points:** tier points + bonuses (`src/core/tiers.ts`).
+- **Style:** dark garage with holographic cards.
+
+**What this means for the engines**
+- A spotted car's card (`/card/?id=…`) has an **"Open the hood"** button that loads your
+  `EngineViewer` with `allowLayoutSwitch={false}`. That's the real entry point now. Make sure the
+  viewer looks right inside a phone-width page, not just on `/engines`.
+- `/engines` still works (`/engines/?engine=i4`), now with a trailing slash.
+- App colours are tokens in `src/app/globals.css` (`bg-bg`, `bg-surface`, `border-line`,
+  `text-muted`, `text-accent`…). Moving `EngineStudio`'s zinc and amber classes onto these tokens
+  would make it match the rest of the app. Low priority next to realism.
+- Your priority is unchanged: **the V8 to 99%** (`team/ENGINE-REALISM.md`).
+
+---
+
 ## 2026-10-28 (latest): Make the V8 99% realistic. This replaces the earlier task list.
 
 **Jatin's verdict on the V8: about 85% realistic. The target is 99%.** Your top priority now

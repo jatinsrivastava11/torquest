@@ -1,11 +1,73 @@
 @import "tailwindcss";
 
-:root {
-  --bg: #0d0e11;
-  --fg: #ececf0;
+/* static: keep every token, including ones only referenced from inline styles. */
+@theme static {
+  --color-bg: #0b0c0f;
+  --color-surface: #14161b;
+  --color-raised: #1c1f26;
+  --color-line: #2a2e37;
+  --color-ink: #ececf0;
+  --color-muted: #9aa0ab;
+  --color-accent: #f5a524;
+  --color-accent-ink: #1a1203;
+
+  --color-tier-common: #8b93a1;
+  --color-tier-occasional: #3fb27f;
+  --color-tier-niche: #3d8bfd;
+  --color-tier-rare: #a55cf7;
+  --color-tier-exotic: #ff6a3d;
+  --color-tier-legendary: #f5c542;
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-barlow), var(--font-inter), ui-sans-serif, sans-serif;
+}
+
+html {
+  color-scheme: dark;
 }
 
 body {
-  background: var(--bg);
-  color: var(--fg);
+  background: var(--color-bg);
+  color: var(--color-ink);
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Holographic foil for Rare and above. --hx/--hy follow the pointer; with
+   no pointer the foil drifts on its own. */
+.holo {
+  position: relative;
+  isolation: isolate;
+}
+.holo::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  pointer-events: none;
+  background:
+    repeating-linear-gradient(115deg, transparent 0 6px, rgb(255 255 255 / 0.05) 6px 7px),
+    linear-gradient(
+      115deg,
+      transparent 25%,
+      rgb(255 0 170 / 0.3) 40%,
+      rgb(0 230 255 / 0.3) 47%,
+      rgb(255 235 0 / 0.3) 54%,
+      transparent 64%
+    );
+  background-size: 100% 100%, 260% 260%;
+  background-position: 0 0, var(--hx, 50%) var(--hy, 50%);
+  mix-blend-mode: color-dodge;
+  opacity: 0.35;
+  animation: holo-drift 6s ease-in-out infinite alternate;
+}
+.holo[data-active="true"]::after {
+  animation: none;
+  opacity: 0.55;
+}
+@keyframes holo-drift {
+  from { background-position: 0 0, 10% 20%; }
+  to { background-position: 0 0, 90% 80%; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .holo::after { animation: none; }
 }
