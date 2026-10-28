@@ -9,7 +9,7 @@ import { TIERS } from "@/core/tiers";
 
 const dir = join(__dirname, "../../data/catalog");
 const files = readdirSync(dir)
-  .filter((f) => f.endsWith(".json"))
+  .filter((f) => f.endsWith(".json") && !f.startsWith("_"))
   .map((f) => ({ file: f, data: JSON.parse(readFileSync(join(dir, f), "utf8")) as CatalogFile }));
 const all = files.flatMap(({ data }) => data.cars.map((c) => ({ make: data.make, c })));
 const thisYear = new Date().getFullYear();

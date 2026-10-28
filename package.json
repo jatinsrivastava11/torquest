@@ -16,7 +16,8 @@
     "shots": "node scripts/shots.mjs",
     "catalog": "node --experimental-strip-types --no-warnings scripts/build-catalog.ts",
     "predev": "npm run catalog",
-    "prebuild": "npm run catalog"
+    "prebuild": "npm run catalog",
+    "coverage": "node scripts/catalog-coverage.mjs"
   },
   "dependencies": {
     "@huggingface/transformers": "^4.3.2",

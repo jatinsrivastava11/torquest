@@ -7,7 +7,7 @@ import { toCatalogCar, type CatalogFile } from "../src/core/catalog.ts";
 
 const dir = "data/catalog";
 const cars = readdirSync(dir)
-  .filter((f) => f.endsWith(".json"))
+  .filter((f) => f.endsWith(".json") && !f.startsWith("_"))
   .sort()
   .flatMap((f) => {
     const file = JSON.parse(readFileSync(join(dir, f), "utf8")) as CatalogFile;

@@ -1,0 +1,13 @@
+{
+  "_about": "Models from Jatin's list (data/source/jatin-list) deliberately left out of the catalog, each with a reason. npm run coverage checks every list model is either in the catalog or here.",
+  "models": [
+    { "make": "Honda", "model": "City", "reason": "Never sold in North America." },
+    { "make": "Honda", "model": "e", "reason": "Never sold in North America." },
+    { "make": "Ford", "model": "Puma", "reason": "Never sold in North America." },
+    { "make": "Ford", "model": "Ka", "reason": "Never sold in North America." },
+    { "make": "Ford", "model": "Everest", "reason": "Never sold in North America." },
+    { "make": "Ferrari", "model": "488 Pista", "reason": "About as rare as the 488 it's based on, so it fails the variant rule; spotted as a 488." },
+    { "make": "Honda", "model": "NSX (first generation)", "reason": "Sold as the Acura NSX in North America; catalogued under Acura." },
+    { "make": "Honda", "model": "NSX (second generation)", "reason": "Sold as the Acura NSX in North America; catalogued under Acura." }
+  ]
+}
