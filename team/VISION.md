@@ -37,6 +37,7 @@ Torquest is an app for car enthusiasts.
 | 2026-10-28 | **Installable web app (PWA), Next.js + TypeScript.** | $0 to publish (App Store is $99/yr), works on any phone, either of us can develop on any computer. |
 | 2026-10-28 | **Port Pavement's proven parts**, don't continue it wholesale. | Pavement got far (catalog, Supabase schema, engine blueprints, passenger check) but was native-iOS. |
 | 2026-10-28 | **Teammate owns the 3D engines (~20%).** Jatin owns the rest (~80%). | Self-contained, rarely touches core code. |
+| 2026-10-28 | **Engines are built in code from detailed parts**; the V8 is the reference. | Free realistic models cover few engine types, are too heavy for phones and usually can't be exploded. Code-built parts give accurate motion, labels and a consistent look across all 15 types. |
 | 2026-10-28 | **Catalog goes to generation level** (e.g. 911 993 / 996 / 992), not year. | Years within a generation look identical, but generations differ a lot in rarity. *(Proposed; to confirm.)* |
 
 ## Lessons from Pavement (don't repeat these)
@@ -51,10 +52,10 @@ Torquest is an app for car enthusiasts.
 
 ## Engines: where the teammate starts
 
-`src/features/engines/` already holds Pavement's engine studio. It builds all 15 engine types from
-simple boxes and cylinders: an explode slider, a running animation with an RPM slider, and tap a
-part to read what it does. It works but looks basic. The goal is engines that look real and
-teach well:
+The **V8** (`src/features/engines/detailed/v8.ts`) is built to the standard every engine should
+meet: real proportions and kinematics, detailed parts, staged explode, labelled parts. The other
+14 types still use Pavement's simple box-and-cylinder blueprints until they're rebuilt the same
+way. The goals for every engine:
 
 1. Real-looking parts: cam covers, valve trains, connecting rods, turbos/superchargers where
    typical, timing chain/belt, spark plugs, and the battery/inverter/gearbox for EVs.
