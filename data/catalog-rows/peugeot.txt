@@ -1,0 +1,6 @@
+# Peugeot: left North America after 1991. 205 T16 is a famous Group B import.
+504 | | | 1968 | 1983 | i4 | sedan | 400 | 3700000 | 504 Diesel;504 wagon
+604 | | | 1975 | 1985 | v6 | sedan | 60 | 153252
+505 | | | 1979 | 1991 | i4 | sedan | 1500 | 1351254 | 505 Turbo;505 wagon;505 STI
+405 | | | 1989 | 1991 | i4 | sedan | 300 | | 405 Mi16;405 wagon
+205 T16 | | | 1984 | 1985 | i4 | hatchback | 5 | 200 | 205 Turbo 16;Peugeot 205 T16 | y

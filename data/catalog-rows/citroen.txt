@@ -1,0 +1,3 @@
+# Citroën: classic imports only (left the US after 1974).
+DS | | | 1955 | 1975 | i4 | sedan | 800 | 1455746 | ID;ID19;DS19;DS21;DS23;Déesse | y
+SM | | | 1970 | 1975 | v6 | coupe | 300 | 12920 | Citroën SM;Maserati SM | y

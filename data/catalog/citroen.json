@@ -1,0 +1,7 @@
+{
+  "make": "Citroën",
+  "cars": [
+    {"id":"citroen-ds","model":"DS","generation":"DS","years":[1955,1975],"engine":"i4","body":"sedan","naOnRoad":800,"built":1455746,"aliases":["ID","ID19","DS19","DS21","DS23","Déesse"],"hype":true},
+    {"id":"citroen-sm","model":"SM","generation":"SM","years":[1970,1975],"engine":"v6","body":"coupe","naOnRoad":300,"built":12920,"aliases":["Citroën SM","Maserati SM"],"hype":true}
+  ]
+}

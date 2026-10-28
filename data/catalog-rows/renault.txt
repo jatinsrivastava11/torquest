@@ -1,0 +1,9 @@
+# Renault: North American history (left after 1987; Medallion carried on as an Eagle).
+Dauphine | | | 1956 | 1967 | i4 | sedan | 300 | 2150738 | R1090
+Le Car | | | 1976 | 1983 | i4 | hatchback | 250 | | R5;Renault 5;LeCar
+5 Turbo | | | 1980 | 1986 | i4 | hatchback | 40 | 4987 | R5 Turbo;Renault 5 Turbo;5 Turbo 2 | y
+18i | | | 1981 | 1986 | i4 | sedan | 80 | | 18;R18;Sportwagon;18i Sportwagon
+Fuego | | | 1982 | 1985 | i4 | coupe | 250 | 265367 | Fuego Turbo
+Alliance | | | 1983 | 1987 | i4 | sedan | 300 | | R9;Alliance GTA;Alliance convertible
+Encore | | | 1984 | 1987 | i4 | hatchback | 150 | | R11;Encore GS
+Medallion | | | 1987 | 1989 | i4 | sedan | 60 | | Eagle Medallion;R21;Renault 21

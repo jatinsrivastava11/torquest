@@ -34,7 +34,7 @@ function score(title, make, car, otherVariants) {
 }
 
 const groups = new Map();
-const files = readdirSync("data/catalog").filter((f) => f.endsWith(".json"));
+const files = readdirSync("data/catalog").filter((f) => f.endsWith(".json") && !f.startsWith("_"));
 const data = files.map((f) => ({ path: `data/catalog/${f}`, d: JSON.parse(readFileSync(`data/catalog/${f}`, "utf8")) }));
 for (const { d } of data) for (const c of d.cars) {
   const key = `${d.make} ${c.model}`;

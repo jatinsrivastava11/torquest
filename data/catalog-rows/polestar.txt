@@ -1,0 +1,5 @@
+# Polestar
+1 | | | 2020 | 2021 | i4 | coupe | 450 | 1500 | Polestar 1 | y
+2 | | | 2021 | | electric | sedan | 25000 | | Polestar 2
+3 | | | 2024 | | electric | suv | 4000 | | Polestar 3
+4 | | | 2025 | | electric | suv | 2000 | | Polestar 4

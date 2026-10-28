@@ -55,7 +55,7 @@ async function photosIn(category, avoid) {
 }
 
 const all = readdirSync("data/catalog")
-  .filter((f) => f.endsWith(".json"))
+  .filter((f) => f.endsWith(".json") && !f.startsWith("_"))
   .flatMap((f) => JSON.parse(readFileSync(`data/catalog/${f}`, "utf8")).cars);
 const cars = all.filter((c) => c.commons);
 

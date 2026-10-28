@@ -1,0 +1,9 @@
+{
+  "make": "Polestar",
+  "cars": [
+    {"id":"polestar-1","model":"1","generation":"1","years":[2020,2021],"engine":"i4","body":"coupe","naOnRoad":450,"built":1500,"aliases":["Polestar 1"],"hype":true},
+    {"id":"polestar-2","model":"2","generation":"2","years":[2021,null],"engine":"electric","body":"sedan","naOnRoad":25000,"aliases":["Polestar 2"]},
+    {"id":"polestar-3","model":"3","generation":"3","years":[2024,null],"engine":"electric","body":"suv","naOnRoad":4000,"aliases":["Polestar 3"]},
+    {"id":"polestar-4","model":"4","generation":"4","years":[2025,null],"engine":"electric","body":"suv","naOnRoad":2000,"aliases":["Polestar 4"]}
+  ]
+}

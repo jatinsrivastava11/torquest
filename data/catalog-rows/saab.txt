@@ -1,0 +1,17 @@
+# Saab: sold in North America until 2011-2012.
+96 | | | 1960 | 1980 | i4 | sedan | 400 | 547221 | Saab 96;96 V4
+Sonett | | | 1966 | 1974 | i4 | coupe | 1200 | 10236 | Sonett II;Sonett III;Sonett V4
+99 | | | 1968 | 1984 | i4 | sedan | 800 | 588643 | 99 Turbo;99 EMS
+900 | classic | | 1979 | 1994 | i4 | hatchback | 20000 | 908817 | classic 900;C900;900 Turbo;900 convertible
+900 | classic | SPG | 1985 | 1991 | i4 | hatchback | 2000 | | 900 SPG;900 Aero;Special Performance Group | y
+900 | NG | | 1994 | 1998 | i4 | hatchback | 8000 | 273568 | NG900;GM900;new generation 900
+9000 | | | 1985 | 1998 | i4 | hatchback | 2500 | 503000 | 9000 Aero;9000 CS;9000 CD
+9-3 | 1st gen | | 1998 | 2002 | i4 | hatchback | 15000 | 326370 | OG 9-3;9-3 SE
+9-3 | 1st gen | Viggen | 1999 | 2002 | i4 | hatchback | 700 | 4600 | 9-3 Viggen | y
+9-3 | 2nd gen | | 2003 | 2012 | i4 | sedan | 50000 | | 9-3 Aero;9-3 SportCombi;9-3 convertible;9-3X
+9-3 | 2nd gen | Turbo X | 2008 | 2008 | v6 | sedan | 500 | 2000 | 9-3 Turbo X | y
+9-5 | 1st gen | | 1997 | 2010 | i4 | sedan | 20000 | 483593 | 9-5 Aero;9-5 wagon
+9-5 | 2nd gen | | 2010 | 2012 | i4 | sedan | 2000 | 11280 | NG 9-5
+9-2X | | | 2005 | 2006 | flat4 | wagon | 3000 | 10000 | Saabaru;9-2X Aero
+9-7X | | | 2005 | 2009 | i6 | suv | 8000 | | Trollblazer;9-7X Aero
+9-4X | | | 2011 | 2011 | v6 | suv | 400 | | 9-4X Aero

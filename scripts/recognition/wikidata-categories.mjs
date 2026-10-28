@@ -45,7 +45,7 @@ function candidates(make, car) {
   return out.map((s) => s.toLowerCase());
 }
 
-const files = readdirSync("data/catalog").filter((f) => f.endsWith(".json"));
+const files = readdirSync("data/catalog").filter((f) => f.endsWith(".json") && !f.startsWith("_"));
 let hit = 0, miss = 0;
 for (const f of files) {
   const path = `data/catalog/${f}`;

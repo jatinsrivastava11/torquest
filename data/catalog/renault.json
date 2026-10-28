@@ -1,0 +1,13 @@
+{
+  "make": "Renault",
+  "cars": [
+    {"id":"renault-dauphine","model":"Dauphine","generation":"Dauphine","years":[1956,1967],"engine":"i4","body":"sedan","naOnRoad":300,"built":2150738,"aliases":["R1090"]},
+    {"id":"renault-le-car","model":"Le Car","generation":"Le Car","years":[1976,1983],"engine":"i4","body":"hatchback","naOnRoad":250,"aliases":["R5","Renault 5","LeCar"]},
+    {"id":"renault-5-turbo","model":"5 Turbo","generation":"5 Turbo","years":[1980,1986],"engine":"i4","body":"hatchback","naOnRoad":40,"built":4987,"aliases":["R5 Turbo","Renault 5 Turbo","5 Turbo 2"],"hype":true},
+    {"id":"renault-18i","model":"18i","generation":"18i","years":[1981,1986],"engine":"i4","body":"sedan","naOnRoad":80,"aliases":["18","R18","Sportwagon","18i Sportwagon"]},
+    {"id":"renault-fuego","model":"Fuego","generation":"Fuego","years":[1982,1985],"engine":"i4","body":"coupe","naOnRoad":250,"built":265367,"aliases":["Fuego Turbo"]},
+    {"id":"renault-alliance","model":"Alliance","generation":"Alliance","years":[1983,1987],"engine":"i4","body":"sedan","naOnRoad":300,"aliases":["R9","Alliance GTA","Alliance convertible"]},
+    {"id":"renault-encore","model":"Encore","generation":"Encore","years":[1984,1987],"engine":"i4","body":"hatchback","naOnRoad":150,"aliases":["R11","Encore GS"]},
+    {"id":"renault-medallion","model":"Medallion","generation":"Medallion","years":[1987,1989],"engine":"i4","body":"sedan","naOnRoad":60,"aliases":["Eagle Medallion","R21","Renault 21"]}
+  ]
+}

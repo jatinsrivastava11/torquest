@@ -40,7 +40,7 @@ const keys = process.argv.slice(2).length ? process.argv.slice(2) : Object.keys(
 
 // ---------------------------------------------------------------- catalog
 const catalog = readdirSync("data/catalog")
-  .filter((f) => f.endsWith(".json"))
+  .filter((f) => f.endsWith(".json") && !f.startsWith("_"))
   .flatMap((f) => {
     const d = JSON.parse(readFileSync(`data/catalog/${f}`, "utf8"));
     return d.cars.map((c) => ({ ...c, make: d.make }));

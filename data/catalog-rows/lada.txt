@@ -1,0 +1,4 @@
+# Lada: sold in Canada until 1997.
+Niva | | | 1977 | | i4 | suv | 600 | | 2121;Niva Legend;Lada 4x4
+Signet | | | 1980 | 1997 | i4 | sedan | 100 | | 2105;2104;2107;Riva;Lada Classic;Signet wagon
+Samara | | | 1988 | 1997 | i4 | hatchback | 80 | | 2108;2109;Sputnik

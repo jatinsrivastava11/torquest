@@ -1,0 +1,21 @@
+{
+  "make": "Saab",
+  "cars": [
+    {"id":"saab-96","model":"96","generation":"96","years":[1960,1980],"engine":"i4","body":"sedan","naOnRoad":400,"built":547221,"aliases":["Saab 96","96 V4"]},
+    {"id":"saab-sonett","model":"Sonett","generation":"Sonett","years":[1966,1974],"engine":"i4","body":"coupe","naOnRoad":1200,"built":10236,"aliases":["Sonett II","Sonett III","Sonett V4"]},
+    {"id":"saab-99","model":"99","generation":"99","years":[1968,1984],"engine":"i4","body":"sedan","naOnRoad":800,"built":588643,"aliases":["99 Turbo","99 EMS"]},
+    {"id":"saab-900-classic","model":"900","generation":"classic","years":[1979,1994],"engine":"i4","body":"hatchback","naOnRoad":20000,"built":908817,"aliases":["classic 900","C900","900 Turbo","900 convertible"]},
+    {"id":"saab-900-classic-spg","model":"900","generation":"classic","variant":"SPG","years":[1985,1991],"engine":"i4","body":"hatchback","naOnRoad":2000,"aliases":["900 SPG","900 Aero","Special Performance Group"],"hype":true},
+    {"id":"saab-900-ng","model":"900","generation":"NG","years":[1994,1998],"engine":"i4","body":"hatchback","naOnRoad":8000,"built":273568,"aliases":["NG900","GM900","new generation 900"]},
+    {"id":"saab-9000","model":"9000","generation":"9000","years":[1985,1998],"engine":"i4","body":"hatchback","naOnRoad":2500,"built":503000,"aliases":["9000 Aero","9000 CS","9000 CD"]},
+    {"id":"saab-9-3-1st-gen","model":"9-3","generation":"1st gen","years":[1998,2002],"engine":"i4","body":"hatchback","naOnRoad":15000,"built":326370,"aliases":["OG 9-3","9-3 SE"]},
+    {"id":"saab-9-3-1st-gen-viggen","model":"9-3","generation":"1st gen","variant":"Viggen","years":[1999,2002],"engine":"i4","body":"hatchback","naOnRoad":700,"built":4600,"aliases":["9-3 Viggen"],"hype":true},
+    {"id":"saab-9-3-2nd-gen","model":"9-3","generation":"2nd gen","years":[2003,2012],"engine":"i4","body":"sedan","naOnRoad":50000,"aliases":["9-3 Aero","9-3 SportCombi","9-3 convertible","9-3X"]},
+    {"id":"saab-9-3-2nd-gen-turbo-x","model":"9-3","generation":"2nd gen","variant":"Turbo X","years":[2008,2008],"engine":"v6","body":"sedan","naOnRoad":500,"built":2000,"aliases":["9-3 Turbo X"],"hype":true},
+    {"id":"saab-9-5-1st-gen","model":"9-5","generation":"1st gen","years":[1997,2010],"engine":"i4","body":"sedan","naOnRoad":20000,"built":483593,"aliases":["9-5 Aero","9-5 wagon"]},
+    {"id":"saab-9-5-2nd-gen","model":"9-5","generation":"2nd gen","years":[2010,2012],"engine":"i4","body":"sedan","naOnRoad":2000,"built":11280,"aliases":["NG 9-5"]},
+    {"id":"saab-9-2x","model":"9-2X","generation":"9-2X","years":[2005,2006],"engine":"flat4","body":"wagon","naOnRoad":3000,"built":10000,"aliases":["Saabaru","9-2X Aero"]},
+    {"id":"saab-9-7x","model":"9-7X","generation":"9-7X","years":[2005,2009],"engine":"i6","body":"suv","naOnRoad":8000,"aliases":["Trollblazer","9-7X Aero"]},
+    {"id":"saab-9-4x","model":"9-4X","generation":"9-4X","years":[2011,2011],"engine":"v6","body":"suv","naOnRoad":400,"aliases":["9-4X Aero"]}
+  ]
+}

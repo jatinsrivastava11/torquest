@@ -1,0 +1,6 @@
+{
+  "make": "Alpine",
+  "cars": [
+    {"id":"alpine-a110-1st-gen","model":"A110","generation":"1st gen","years":[1961,1977],"engine":"i4","body":"coupe","naOnRoad":40,"built":7500,"aliases":["A110 Berlinette","Berlinette","Alpine-Renault A110"],"hype":true}
+  ]
+}

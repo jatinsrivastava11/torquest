@@ -1,0 +1,10 @@
+{
+  "make": "Peugeot",
+  "cars": [
+    {"id":"peugeot-504","model":"504","generation":"504","years":[1968,1983],"engine":"i4","body":"sedan","naOnRoad":400,"built":3700000,"aliases":["504 Diesel","504 wagon"]},
+    {"id":"peugeot-604","model":"604","generation":"604","years":[1975,1985],"engine":"v6","body":"sedan","naOnRoad":60,"built":153252},
+    {"id":"peugeot-505","model":"505","generation":"505","years":[1979,1991],"engine":"i4","body":"sedan","naOnRoad":1500,"built":1351254,"aliases":["505 Turbo","505 wagon","505 STI"]},
+    {"id":"peugeot-405","model":"405","generation":"405","years":[1989,1991],"engine":"i4","body":"sedan","naOnRoad":300,"aliases":["405 Mi16","405 wagon"]},
+    {"id":"peugeot-205-t16","model":"205 T16","generation":"205 T16","years":[1984,1985],"engine":"i4","body":"hatchback","naOnRoad":5,"built":200,"aliases":["205 Turbo 16","Peugeot 205 T16"],"hype":true}
+  ]
+}

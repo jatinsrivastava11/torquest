@@ -26,7 +26,7 @@ function score(title, make, car) {
   return s;
 }
 
-const files = readdirSync("data/catalog").filter((f) => f.endsWith(".json"));
+const files = readdirSync("data/catalog").filter((f) => f.endsWith(".json") && !f.startsWith("_"));
 let found = 0;
 const unsure = [];
 for (const f of files) {
