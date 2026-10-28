@@ -1,0 +1,11 @@
+# SEAT: never sold in North America (home: europe). Sold in Mexico.
+Ibiza | 3rd gen | | 2002 | 2008 | i4 | hatchback | 0 | | | | europe:500000
+Ibiza | 4th gen | | 2008 | 2017 | i4 | hatchback | 0 | | | | europe:1500000
+Ibiza | 5th gen | | 2017 | | i3 | hatchback | 0 | | | | europe:1200000
+Leon | 1st gen | | 1999 | 2005 | i4 | hatchback | 0 | | León | | europe:200000
+Leon | 2nd gen | | 2005 | 2012 | i4 | hatchback | 0 | | León | | europe:600000
+Leon | 3rd gen | | 2012 | 2020 | i4 | hatchback | 0 | | León;Leon ST | | europe:1200000
+Leon | 3rd gen | Cupra | 2014 | 2020 | i4 | hatchback | 0 | | Leon Cupra;Leon Cupra 290;Leon Cupra R | y | europe:50000
+Leon | 4th gen | | 2020 | | i4 | hatchback | 0 | | León;Leon Sportstourer | | europe:600000
+Ateca | | | 2016 | | i4 | suv | 0 | | | | europe:700000
+Arona | | | 2017 | | i3 | suv | 0 | | | | europe:600000

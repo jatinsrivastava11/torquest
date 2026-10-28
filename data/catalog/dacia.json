@@ -1,0 +1,16 @@
+{
+  "make": "Dacia",
+  "cars": [
+    {"id":"dacia-logan-1st-gen","model":"Logan","generation":"1st gen","years":[2004,2012],"engine":"i4","body":"sedan","naOnRoad":0,"aliases":["Renault Logan","Logan MCV"],"home":{"market":"europe","onRoad":800000}},
+    {"id":"dacia-logan-2nd-gen","model":"Logan","generation":"2nd gen","years":[2012,2020],"engine":"i4","body":"sedan","naOnRoad":0,"aliases":["Logan MCV"],"home":{"market":"europe","onRoad":600000}},
+    {"id":"dacia-logan-3rd-gen","model":"Logan","generation":"3rd gen","years":[2020,null],"engine":"i4","body":"sedan","naOnRoad":0,"home":{"market":"europe","onRoad":300000}},
+    {"id":"dacia-sandero-1st-gen","model":"Sandero","generation":"1st gen","years":[2008,2012],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Sandero Stepway"],"home":{"market":"europe","onRoad":600000}},
+    {"id":"dacia-sandero-2nd-gen","model":"Sandero","generation":"2nd gen","years":[2012,2020],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Sandero Stepway"],"home":{"market":"europe","onRoad":2000000}},
+    {"id":"dacia-sandero-3rd-gen","model":"Sandero","generation":"3rd gen","years":[2020,null],"engine":"i3","body":"hatchback","naOnRoad":0,"aliases":["Sandero Stepway"],"home":{"market":"europe","onRoad":2000000}},
+    {"id":"dacia-duster-1st-gen","model":"Duster","generation":"1st gen","years":[2010,2017],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Renault Duster"],"home":{"market":"europe","onRoad":1000000}},
+    {"id":"dacia-duster-2nd-gen","model":"Duster","generation":"2nd gen","years":[2017,2024],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Renault Duster"],"home":{"market":"europe","onRoad":1500000}},
+    {"id":"dacia-duster-3rd-gen","model":"Duster","generation":"3rd gen","years":[2024,null],"engine":"i3","body":"suv","naOnRoad":0,"home":{"market":"europe","onRoad":300000}},
+    {"id":"dacia-spring","model":"Spring","generation":"Spring","years":[2021,null],"engine":"electric","body":"hatchback","naOnRoad":0,"home":{"market":"europe","onRoad":150000}},
+    {"id":"dacia-jogger","model":"Jogger","generation":"Jogger","years":[2022,null],"engine":"i3","body":"wagon","naOnRoad":0,"home":{"market":"europe","onRoad":250000}}
+  ]
+}

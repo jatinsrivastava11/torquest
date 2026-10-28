@@ -1,0 +1,7 @@
+{
+  "make": "Cupra",
+  "cars": [
+    {"id":"cupra-formentor","model":"Formentor","generation":"Formentor","years":[2020,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Formentor VZ","Formentor VZ5"],"home":{"market":"europe","onRoad":400000}},
+    {"id":"cupra-born","model":"Born","generation":"Born","years":[2021,null],"engine":"electric","body":"hatchback","naOnRoad":0,"home":{"market":"europe","onRoad":120000}}
+  ]
+}

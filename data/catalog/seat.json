@@ -1,0 +1,15 @@
+{
+  "make": "SEAT",
+  "cars": [
+    {"id":"seat-ibiza-3rd-gen","model":"Ibiza","generation":"3rd gen","years":[2002,2008],"engine":"i4","body":"hatchback","naOnRoad":0,"home":{"market":"europe","onRoad":500000}},
+    {"id":"seat-ibiza-4th-gen","model":"Ibiza","generation":"4th gen","years":[2008,2017],"engine":"i4","body":"hatchback","naOnRoad":0,"home":{"market":"europe","onRoad":1500000}},
+    {"id":"seat-ibiza-5th-gen","model":"Ibiza","generation":"5th gen","years":[2017,null],"engine":"i3","body":"hatchback","naOnRoad":0,"home":{"market":"europe","onRoad":1200000}},
+    {"id":"seat-leon-1st-gen","model":"Leon","generation":"1st gen","years":[1999,2005],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["León"],"home":{"market":"europe","onRoad":200000}},
+    {"id":"seat-leon-2nd-gen","model":"Leon","generation":"2nd gen","years":[2005,2012],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["León"],"home":{"market":"europe","onRoad":600000}},
+    {"id":"seat-leon-3rd-gen","model":"Leon","generation":"3rd gen","years":[2012,2020],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["León","Leon ST"],"home":{"market":"europe","onRoad":1200000}},
+    {"id":"seat-leon-3rd-gen-cupra","model":"Leon","generation":"3rd gen","variant":"Cupra","years":[2014,2020],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Leon Cupra","Leon Cupra 290","Leon Cupra R"],"hype":true,"home":{"market":"europe","onRoad":50000}},
+    {"id":"seat-leon-4th-gen","model":"Leon","generation":"4th gen","years":[2020,null],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["León","Leon Sportstourer"],"home":{"market":"europe","onRoad":600000}},
+    {"id":"seat-ateca","model":"Ateca","generation":"Ateca","years":[2016,null],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"europe","onRoad":700000}},
+    {"id":"seat-arona","model":"Arona","generation":"Arona","years":[2017,null],"engine":"i3","body":"suv","naOnRoad":0,"home":{"market":"europe","onRoad":600000}}
+  ]
+}

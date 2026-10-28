@@ -1,3 +1,18 @@
 # Citroën: classic imports only (left the US after 1974).
 DS | | | 1955 | 1975 | i4 | sedan | 800 | 1455746 | ID;ID19;DS19;DS21;DS23;Déesse | y
 SM | | | 1970 | 1975 | v6 | coupe | 300 | 12920 | Citroën SM;Maserati SM | y
+# Never sold in North America (home: europe)
+C1 | 1st gen | | 2005 | 2014 | i3 | hatchback | 0 | | | | europe:800000
+C1 | 2nd gen | | 2014 | 2022 | i3 | hatchback | 0 | | | | europe:700000
+C3 | 1st gen | | 2002 | 2009 | i4 | hatchback | 0 | | C3 Pluriel | | europe:800000
+C3 | 2nd gen | | 2009 | 2016 | i4 | hatchback | 0 | | | | europe:1000000
+C3 | 3rd gen | | 2016 | 2024 | i3 | hatchback | 0 | | | | europe:1500000
+C3 | 4th gen | | 2024 | | i3 | hatchback | 0 | | ë-C3 | | europe:200000
+C4 | 1st gen | | 2004 | 2010 | i4 | hatchback | 0 | | C4 Coupe | | europe:700000
+C4 | 2nd gen | | 2010 | 2018 | i4 | hatchback | 0 | | | | europe:700000
+C4 | 3rd gen | | 2020 | | i4 | hatchback | 0 | | ë-C4;C4 X | | europe:400000
+C5 Aircross | 1st gen | | 2018 | 2025 | i4 | suv | 0 | | | | europe:900000
+C5 Aircross | 2nd gen | | 2025 | | i4 | suv | 0 | | ë-C5 Aircross | | europe:20000
+Berlingo | 1st gen | | 1996 | 2008 | i4 | van | 0 | | | | europe:300000
+Berlingo | 2nd gen | | 2008 | 2018 | i4 | van | 0 | | | | europe:1000000
+Berlingo | 3rd gen | | 2018 | | i4 | van | 0 | | ë-Berlingo | | europe:800000

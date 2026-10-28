@@ -22,6 +22,9 @@ How cars get into Torquest's catalog and how their tier is decided. The data liv
   that**: a Renault Clio is Common, as it is in Europe; an Alpine A110 is Rare. `naOnRoad` stays
   the honest North American count (usually near zero). For these makes, cover the generations still
   common on their home roads (roughly 2005 on) plus famous older ones.
+- **Famous imports keep their North American count, with no `home`.** Cars that are in the catalog
+  because people spot them here (Skyline GT-R, Renault 5 Turbo, Peugeot 205 T16, classic Alpine
+  A110, Lancia Delta Integrale) are rare finds *here*, so their tier comes from `naOnRoad`.
 
 ## How tiers work
 

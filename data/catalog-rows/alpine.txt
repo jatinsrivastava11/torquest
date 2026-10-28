@@ -1,2 +1,5 @@
-# Alpine: classic A110 only, as a famous import. The modern A110 was never sold in North America.
+# Alpine: never sold in North America; the classic A110 turns up as an import.
 A110 | 1st gen | | 1961 | 1977 | i4 | coupe | 40 | 7500 | A110 Berlinette;Berlinette;Alpine-Renault A110 | y
+A110 | 2nd gen | | 2017 | | i4 | coupe | 0 | 30000 | A110 S;A110 GT;modern A110 | y | europe:25000
+A110 | 2nd gen | R | 2022 | | i4 | coupe | 0 | | A110 R | y | europe:1000
+A290 | | | 2024 | | electric | hatchback | 0 | | | y | europe:15000

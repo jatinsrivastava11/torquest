@@ -2,6 +2,20 @@
   "make": "Citroën",
   "cars": [
     {"id":"citroen-ds","model":"DS","generation":"DS","years":[1955,1975],"engine":"i4","body":"sedan","naOnRoad":800,"built":1455746,"aliases":["ID","ID19","DS19","DS21","DS23","Déesse"],"hype":true},
-    {"id":"citroen-sm","model":"SM","generation":"SM","years":[1970,1975],"engine":"v6","body":"coupe","naOnRoad":300,"built":12920,"aliases":["Citroën SM","Maserati SM"],"hype":true}
+    {"id":"citroen-sm","model":"SM","generation":"SM","years":[1970,1975],"engine":"v6","body":"coupe","naOnRoad":300,"built":12920,"aliases":["Citroën SM","Maserati SM"],"hype":true},
+    {"id":"citroen-c1-1st-gen","model":"C1","generation":"1st gen","years":[2005,2014],"engine":"i3","body":"hatchback","naOnRoad":0,"home":{"market":"europe","onRoad":800000}},
+    {"id":"citroen-c1-2nd-gen","model":"C1","generation":"2nd gen","years":[2014,2022],"engine":"i3","body":"hatchback","naOnRoad":0,"home":{"market":"europe","onRoad":700000}},
+    {"id":"citroen-c3-1st-gen","model":"C3","generation":"1st gen","years":[2002,2009],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["C3 Pluriel"],"home":{"market":"europe","onRoad":800000}},
+    {"id":"citroen-c3-2nd-gen","model":"C3","generation":"2nd gen","years":[2009,2016],"engine":"i4","body":"hatchback","naOnRoad":0,"home":{"market":"europe","onRoad":1000000}},
+    {"id":"citroen-c3-3rd-gen","model":"C3","generation":"3rd gen","years":[2016,2024],"engine":"i3","body":"hatchback","naOnRoad":0,"home":{"market":"europe","onRoad":1500000}},
+    {"id":"citroen-c3-4th-gen","model":"C3","generation":"4th gen","years":[2024,null],"engine":"i3","body":"hatchback","naOnRoad":0,"aliases":["ë-C3"],"home":{"market":"europe","onRoad":200000}},
+    {"id":"citroen-c4-1st-gen","model":"C4","generation":"1st gen","years":[2004,2010],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["C4 Coupe"],"home":{"market":"europe","onRoad":700000}},
+    {"id":"citroen-c4-2nd-gen","model":"C4","generation":"2nd gen","years":[2010,2018],"engine":"i4","body":"hatchback","naOnRoad":0,"home":{"market":"europe","onRoad":700000}},
+    {"id":"citroen-c4-3rd-gen","model":"C4","generation":"3rd gen","years":[2020,null],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["ë-C4","C4 X"],"home":{"market":"europe","onRoad":400000}},
+    {"id":"citroen-c5-aircross-1st-gen","model":"C5 Aircross","generation":"1st gen","years":[2018,2025],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"europe","onRoad":900000}},
+    {"id":"citroen-c5-aircross-2nd-gen","model":"C5 Aircross","generation":"2nd gen","years":[2025,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["ë-C5 Aircross"],"home":{"market":"europe","onRoad":20000}},
+    {"id":"citroen-berlingo-1st-gen","model":"Berlingo","generation":"1st gen","years":[1996,2008],"engine":"i4","body":"van","naOnRoad":0,"home":{"market":"europe","onRoad":300000}},
+    {"id":"citroen-berlingo-2nd-gen","model":"Berlingo","generation":"2nd gen","years":[2008,2018],"engine":"i4","body":"van","naOnRoad":0,"home":{"market":"europe","onRoad":1000000}},
+    {"id":"citroen-berlingo-3rd-gen","model":"Berlingo","generation":"3rd gen","years":[2018,null],"engine":"i4","body":"van","naOnRoad":0,"aliases":["ë-Berlingo"],"home":{"market":"europe","onRoad":800000}}
   ]
 }

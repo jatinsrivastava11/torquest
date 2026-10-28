@@ -1,0 +1,24 @@
+{
+  "make": "Skoda",
+  "cars": [
+    {"id":"skoda-octavia-1st-gen","model":"Octavia","generation":"1st gen","years":[1996,2010],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Octavia Tour"],"home":{"market":"europe","onRoad":400000}},
+    {"id":"skoda-octavia-2nd-gen","model":"Octavia","generation":"2nd gen","years":[2004,2013],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Octavia Combi"],"home":{"market":"europe","onRoad":1500000}},
+    {"id":"skoda-octavia-3rd-gen","model":"Octavia","generation":"3rd gen","years":[2012,2020],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Octavia Combi"],"home":{"market":"europe","onRoad":3000000}},
+    {"id":"skoda-octavia-3rd-gen-rs","model":"Octavia","generation":"3rd gen","variant":"RS","years":[2013,2020],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Octavia vRS","Octavia RS 245"],"hype":true,"home":{"market":"europe","onRoad":150000}},
+    {"id":"skoda-octavia-4th-gen","model":"Octavia","generation":"4th gen","years":[2020,null],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Octavia Combi"],"home":{"market":"europe","onRoad":1500000}},
+    {"id":"skoda-fabia-1st-gen","model":"Fabia","generation":"1st gen","years":[1999,2007],"engine":"i4","body":"hatchback","naOnRoad":0,"home":{"market":"europe","onRoad":600000}},
+    {"id":"skoda-fabia-2nd-gen","model":"Fabia","generation":"2nd gen","years":[2007,2014],"engine":"i4","body":"hatchback","naOnRoad":0,"home":{"market":"europe","onRoad":1000000}},
+    {"id":"skoda-fabia-3rd-gen","model":"Fabia","generation":"3rd gen","years":[2014,2021],"engine":"i3","body":"hatchback","naOnRoad":0,"home":{"market":"europe","onRoad":1500000}},
+    {"id":"skoda-fabia-4th-gen","model":"Fabia","generation":"4th gen","years":[2021,null],"engine":"i3","body":"hatchback","naOnRoad":0,"home":{"market":"europe","onRoad":700000}},
+    {"id":"skoda-superb-1st-gen","model":"Superb","generation":"1st gen","years":[2001,2008],"engine":"i4","body":"sedan","naOnRoad":0,"home":{"market":"europe","onRoad":100000}},
+    {"id":"skoda-superb-2nd-gen","model":"Superb","generation":"2nd gen","years":[2008,2015],"engine":"i4","body":"sedan","naOnRoad":0,"aliases":["Superb Combi"],"home":{"market":"europe","onRoad":500000}},
+    {"id":"skoda-superb-3rd-gen","model":"Superb","generation":"3rd gen","years":[2015,2023],"engine":"i4","body":"sedan","naOnRoad":0,"aliases":["Superb Combi"],"home":{"market":"europe","onRoad":900000}},
+    {"id":"skoda-superb-4th-gen","model":"Superb","generation":"4th gen","years":[2024,null],"engine":"i4","body":"sedan","naOnRoad":0,"aliases":["Superb Combi"],"home":{"market":"europe","onRoad":150000}},
+    {"id":"skoda-kodiaq-1st-gen","model":"Kodiaq","generation":"1st gen","years":[2016,2024],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Kodiaq RS"],"home":{"market":"europe","onRoad":900000}},
+    {"id":"skoda-kodiaq-2nd-gen","model":"Kodiaq","generation":"2nd gen","years":[2024,null],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"europe","onRoad":150000}},
+    {"id":"skoda-karoq","model":"Karoq","generation":"Karoq","years":[2017,null],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"europe","onRoad":600000}},
+    {"id":"skoda-kamiq","model":"Kamiq","generation":"Kamiq","years":[2019,null],"engine":"i3","body":"suv","naOnRoad":0,"home":{"market":"europe","onRoad":400000}},
+    {"id":"skoda-enyaq","model":"Enyaq","generation":"Enyaq","years":[2020,null],"engine":"electric","body":"suv","naOnRoad":0,"aliases":["Enyaq iV","Enyaq Coupe"],"home":{"market":"europe","onRoad":300000}},
+    {"id":"skoda-yeti","model":"Yeti","generation":"Yeti","years":[2009,2017],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"europe","onRoad":500000}}
+  ]
+}

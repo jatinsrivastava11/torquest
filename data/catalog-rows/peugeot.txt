@@ -4,3 +4,28 @@
 505 | | | 1979 | 1991 | i4 | sedan | 1500 | 1351254 | 505 Turbo;505 wagon;505 STI
 405 | | | 1989 | 1991 | i4 | sedan | 300 | | 405 Mi16;405 wagon
 205 T16 | | | 1984 | 1985 | i4 | hatchback | 5 | 200 | 205 Turbo 16;Peugeot 205 T16 | y
+# Never sold in North America (home: europe)
+205 | | | 1983 | 1998 | i4 | hatchback | 20 | 5278300 | Peugeot 205 | | europe:150000
+205 | | GTI | 1984 | 1994 | i4 | hatchback | 10 | | 205 GTI | y | europe:15000
+206 | | | 1998 | 2010 | i4 | hatchback | 0 | 8358217 | 206 CC;206 SW | | europe:1500000
+207 | | | 2006 | 2014 | i4 | hatchback | 0 | | 207 CC;207 SW | | europe:1500000
+208 | 1st gen | | 2012 | 2019 | i3 | hatchback | 0 | | | | europe:2000000
+208 | 1st gen | GTi | 2013 | 2019 | i4 | hatchback | 0 | | 208 GTi | y | europe:20000
+208 | 2nd gen | | 2019 | | i3 | hatchback | 0 | | e-208 | | europe:2000000
+308 | 1st gen | | 2007 | 2013 | i4 | hatchback | 0 | | 308 SW;308 CC | | europe:1500000
+308 | T9 | | 2013 | 2021 | i3 | hatchback | 0 | | 308 2nd gen;308 SW | | europe:2500000
+308 | T9 | GTi | 2015 | 2021 | i4 | hatchback | 0 | | 308 GTi | y | europe:15000
+308 | 3rd gen | | 2021 | | i3 | hatchback | 0 | | e-308;308 SW | | europe:700000
+2008 | 1st gen | | 2013 | 2019 | i3 | suv | 0 | | | | europe:1500000
+2008 | 2nd gen | | 2019 | | i3 | suv | 0 | | e-2008 | | europe:1500000
+3008 | 1st gen | | 2008 | 2016 | i4 | suv | 0 | | | | europe:800000
+3008 | 2nd gen | | 2016 | 2023 | i4 | suv | 0 | | | | europe:2000000
+3008 | 3rd gen | | 2023 | | i4 | suv | 0 | | e-3008 | | europe:400000
+5008 | 1st gen | | 2009 | 2017 | i4 | van | 0 | | | | europe:500000
+5008 | 2nd gen | | 2017 | 2024 | i4 | suv | 0 | | | | europe:900000
+5008 | 3rd gen | | 2024 | | i4 | suv | 0 | | e-5008 | | europe:150000
+508 | 1st gen | | 2010 | 2018 | i4 | sedan | 0 | | 508 SW;508 RXH | | europe:600000
+508 | 2nd gen | | 2018 | 2025 | i4 | sedan | 0 | | 508 SW | | europe:300000
+508 | 2nd gen | PSE | 2020 | 2023 | i4 | sedan | 0 | | 508 PSE;Peugeot Sport Engineered | y | europe:5000
+RCZ | | | 2010 | 2015 | i4 | coupe | 0 | 68000 | | | europe:50000
+RCZ | | R | 2013 | 2015 | i4 | coupe | 0 | | RCZ R | y | europe:3000

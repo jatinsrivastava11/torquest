@@ -7,3 +7,45 @@ Fuego | | | 1982 | 1985 | i4 | coupe | 250 | 265367 | Fuego Turbo
 Alliance | | | 1983 | 1987 | i4 | sedan | 300 | | R9;Alliance GTA;Alliance convertible
 Encore | | | 1984 | 1987 | i4 | hatchback | 150 | | R11;Encore GS
 Medallion | | | 1987 | 1989 | i4 | sedan | 60 | | Eagle Medallion;R21;Renault 21
+# Never sold in North America (home: europe unless noted)
+Clio | 1st gen | | 1990 | 1998 | i4 | hatchback | 0 | | | | europe:300000
+Clio | 1st gen | Williams | 1993 | 1995 | i4 | hatchback | 5 | 12100 | Clio Williams | y | europe:4000
+Clio | 2nd gen | | 1998 | 2012 | i4 | hatchback | 0 | | Clio II;Clio Campus | | europe:2000000
+Clio | 2nd gen | V6 | 2001 | 2005 | v6 | hatchback | 5 | 2822 | Clio V6;Clio V6 Renault Sport | y | europe:1800
+Clio | 3rd gen | | 2005 | 2014 | i4 | hatchback | 0 | | Clio III | | europe:2500000
+Clio | 3rd gen | RS | 2006 | 2013 | i4 | hatchback | 0 | | Clio RS 197;Clio RS 200 | y | europe:30000
+Clio | 4th gen | | 2012 | 2019 | i4 | hatchback | 0 | | Clio IV | | europe:3500000
+Clio | 4th gen | RS | 2013 | 2019 | i4 | hatchback | 0 | | Clio RS 200 EDC;Clio RS Trophy | y | europe:30000
+Clio | 5th gen | | 2019 | | i4 | hatchback | 0 | | Clio V;Clio E-Tech | | europe:3000000
+Megane | 2nd gen | | 2002 | 2009 | i4 | hatchback | 0 | | Mégane;Megane II | | europe:1000000
+Megane | 2nd gen | RS | 2004 | 2009 | i4 | hatchback | 0 | | Megane RS R26;Mégane RS | y | europe:20000
+Megane | 3rd gen | | 2008 | 2016 | i4 | hatchback | 0 | | Mégane;Megane III | | europe:1500000
+Megane | 3rd gen | RS | 2010 | 2016 | i4 | hatchback | 0 | | Megane RS 250;Megane RS 265;Megane RS 275 Trophy-R | y | europe:30000
+Megane | 4th gen | | 2016 | 2023 | i4 | hatchback | 0 | | Mégane;Megane IV | | europe:1000000
+Megane | 4th gen | RS | 2018 | 2023 | i4 | hatchback | 0 | | Megane RS 280;Megane RS 300 Trophy | y | europe:20000
+Megane E-Tech | | | 2022 | | electric | suv | 0 | | Mégane E-Tech;Megane E-Tech Electric | | europe:100000
+Captur | 1st gen | | 2013 | 2019 | i3 | suv | 0 | | | | europe:1500000
+Captur | 2nd gen | | 2019 | | i3 | suv | 0 | | | | europe:1500000
+Kadjar | | | 2015 | 2022 | i4 | suv | 0 | | | | europe:800000
+Twingo | 1st gen | | 1993 | 2007 | i4 | hatchback | 0 | | | | europe:600000
+Twingo | 2nd gen | | 2007 | 2014 | i4 | hatchback | 0 | | | | europe:1000000
+Twingo | 2nd gen | RS | 2008 | 2013 | i4 | hatchback | 0 | | Twingo RS 133 | y | europe:10000
+Twingo | 3rd gen | | 2014 | 2024 | i3 | hatchback | 0 | | Twingo E-Tech | | europe:700000
+Scenic | 2nd gen | | 2003 | 2009 | i4 | van | 0 | | Scénic;Grand Scenic | | europe:800000
+Scenic | 3rd gen | | 2009 | 2016 | i4 | van | 0 | | Scénic;Grand Scenic | | europe:1000000
+Scenic | 4th gen | | 2016 | 2022 | i4 | van | 0 | | Scénic;Grand Scenic | | europe:500000
+Scenic | 5th gen | | 2024 | | electric | suv | 0 | | Scénic E-Tech;Scenic E-Tech | | europe:60000
+Espace | 4th gen | | 2002 | 2014 | i4 | van | 0 | | Grand Espace | | europe:200000
+Espace | 5th gen | | 2015 | 2023 | i4 | van | 0 | | | | europe:150000
+Espace | 6th gen | | 2023 | | i4 | suv | 0 | | | | europe:50000
+Zoe | | | 2012 | 2024 | electric | hatchback | 0 | | Zoé | | europe:350000
+Kangoo | 1st gen | | 1997 | 2007 | i4 | van | 0 | | | | europe:600000
+Kangoo | 2nd gen | | 2008 | 2021 | i4 | van | 0 | | Kangoo Z.E. | | europe:1500000
+Kangoo | 3rd gen | | 2021 | | i4 | van | 0 | | Kangoo E-Tech | | europe:400000
+Arkana | | | 2019 | | i4 | suv | 0 | | Samsung XM3 | | europe:300000
+Kwid | | | 2015 | | i3 | hatchback | 0 | | | | india:800000
+Laguna | 1st gen | | 1994 | 2001 | i4 | sedan | 0 | | | | europe:100000
+Laguna | 2nd gen | | 2001 | 2007 | i4 | sedan | 0 | | | | europe:300000
+Laguna | 3rd gen | | 2007 | 2015 | i4 | sedan | 0 | | Laguna Coupe | | europe:300000
+5 E-Tech | | | 2024 | | electric | hatchback | 0 | | R5 E-Tech;Renault 5 E-Tech;Renault 5 electric | | europe:120000
+Sport Spider | | | 1996 | 1999 | i4 | convertible | 5 | 1685 | Spider;Renault Sport Spider | y | europe:1200

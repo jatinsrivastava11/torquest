@@ -1,6 +1,9 @@
 {
   "make": "Alpine",
   "cars": [
-    {"id":"alpine-a110-1st-gen","model":"A110","generation":"1st gen","years":[1961,1977],"engine":"i4","body":"coupe","naOnRoad":40,"built":7500,"aliases":["A110 Berlinette","Berlinette","Alpine-Renault A110"],"hype":true}
+    {"id":"alpine-a110-1st-gen","model":"A110","generation":"1st gen","years":[1961,1977],"engine":"i4","body":"coupe","naOnRoad":40,"built":7500,"aliases":["A110 Berlinette","Berlinette","Alpine-Renault A110"],"hype":true},
+    {"id":"alpine-a110-2nd-gen","model":"A110","generation":"2nd gen","years":[2017,null],"engine":"i4","body":"coupe","naOnRoad":0,"built":30000,"aliases":["A110 S","A110 GT","modern A110"],"hype":true,"home":{"market":"europe","onRoad":25000}},
+    {"id":"alpine-a110-2nd-gen-r","model":"A110","generation":"2nd gen","variant":"R","years":[2022,null],"engine":"i4","body":"coupe","naOnRoad":0,"aliases":["A110 R"],"hype":true,"home":{"market":"europe","onRoad":1000}},
+    {"id":"alpine-a290","model":"A290","generation":"A290","years":[2024,null],"engine":"electric","body":"hatchback","naOnRoad":0,"hype":true,"home":{"market":"europe","onRoad":15000}}
   ]
 }

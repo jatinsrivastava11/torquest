@@ -1,0 +1,12 @@
+# Dacia: never sold in North America (home: europe). Some are sold in Mexico as Renaults.
+Logan | 1st gen | | 2004 | 2012 | i4 | sedan | 0 | | Renault Logan;Logan MCV | | europe:800000
+Logan | 2nd gen | | 2012 | 2020 | i4 | sedan | 0 | | Logan MCV | | europe:600000
+Logan | 3rd gen | | 2020 | | i4 | sedan | 0 | | | | europe:300000
+Sandero | 1st gen | | 2008 | 2012 | i4 | hatchback | 0 | | Sandero Stepway | | europe:600000
+Sandero | 2nd gen | | 2012 | 2020 | i4 | hatchback | 0 | | Sandero Stepway | | europe:2000000
+Sandero | 3rd gen | | 2020 | | i3 | hatchback | 0 | | Sandero Stepway | | europe:2000000
+Duster | 1st gen | | 2010 | 2017 | i4 | suv | 0 | | Renault Duster | | europe:1000000
+Duster | 2nd gen | | 2017 | 2024 | i4 | suv | 0 | | Renault Duster | | europe:1500000
+Duster | 3rd gen | | 2024 | | i3 | suv | 0 | | | | europe:300000
+Spring | | | 2021 | | electric | hatchback | 0 | | | | europe:150000
+Jogger | | | 2022 | | i3 | wagon | 0 | | | | europe:250000

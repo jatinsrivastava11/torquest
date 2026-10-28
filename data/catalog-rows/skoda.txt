@@ -1,0 +1,20 @@
+# Skoda: never sold in North America (home: europe).
+Octavia | 1st gen | | 1996 | 2010 | i4 | hatchback | 0 | | Octavia Tour | | europe:400000
+Octavia | 2nd gen | | 2004 | 2013 | i4 | hatchback | 0 | | Octavia Combi | | europe:1500000
+Octavia | 3rd gen | | 2012 | 2020 | i4 | hatchback | 0 | | Octavia Combi | | europe:3000000
+Octavia | 3rd gen | RS | 2013 | 2020 | i4 | hatchback | 0 | | Octavia vRS;Octavia RS 245 | y | europe:150000
+Octavia | 4th gen | | 2020 | | i4 | hatchback | 0 | | Octavia Combi | | europe:1500000
+Fabia | 1st gen | | 1999 | 2007 | i4 | hatchback | 0 | | | | europe:600000
+Fabia | 2nd gen | | 2007 | 2014 | i4 | hatchback | 0 | | | | europe:1000000
+Fabia | 3rd gen | | 2014 | 2021 | i3 | hatchback | 0 | | | | europe:1500000
+Fabia | 4th gen | | 2021 | | i3 | hatchback | 0 | | | | europe:700000
+Superb | 1st gen | | 2001 | 2008 | i4 | sedan | 0 | | | | europe:100000
+Superb | 2nd gen | | 2008 | 2015 | i4 | sedan | 0 | | Superb Combi | | europe:500000
+Superb | 3rd gen | | 2015 | 2023 | i4 | sedan | 0 | | Superb Combi | | europe:900000
+Superb | 4th gen | | 2024 | | i4 | sedan | 0 | | Superb Combi | | europe:150000
+Kodiaq | 1st gen | | 2016 | 2024 | i4 | suv | 0 | | Kodiaq RS | | europe:900000
+Kodiaq | 2nd gen | | 2024 | | i4 | suv | 0 | | | | europe:150000
+Karoq | | | 2017 | | i4 | suv | 0 | | | | europe:600000
+Kamiq | | | 2019 | | i3 | suv | 0 | | | | europe:400000
+Enyaq | | | 2020 | | electric | suv | 0 | | Enyaq iV;Enyaq Coupe | | europe:300000
+Yeti | | | 2009 | 2017 | i4 | suv | 0 | | | | europe:500000
