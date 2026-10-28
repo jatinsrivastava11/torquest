@@ -159,7 +159,14 @@ async function loadModel({ id, kind, dtype }) {
     };
   }
   const model = await AutoModel.from_pretrained(id, { dtype });
-  return { image: async (img) => norm(Array.from((await model(await processor(img))).pooler_output.data)), text: null };
+  // DINOv2 exports may not include a pooled output: use the class token
+  // (first row of the last hidden state) instead.
+  const pooled = (out) => {
+    if (out.pooler_output) return Array.from(out.pooler_output.data);
+    const h = out.last_hidden_state;
+    return Array.from(h.data.slice(0, h.dims[2]));
+  };
+  return { image: async (img) => norm(pooled(await model(await processor(img)))), text: null };
 }
 
 const zscore = (xs) => {

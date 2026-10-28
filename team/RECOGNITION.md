@@ -38,3 +38,25 @@ How Torquest names the car in a photo. Decided with Jatin on 2026-10-28.
 
 Rule: no model ships without benchmark numbers. A change to the recognition pipeline must be
 re-run on the benchmark, and must not lower top-5.
+
+## Results (2026-10-28)
+
+813 test photos the models had not seen, from 151 benchmark cars; each model chooses among those
+151 cars, using 1,774 reference photos. "Top 5" is whether the right car is among the five
+suggestions the app shows. Models quantized to 8 bits (~90 MB), run in Node with the same
+transformers.js runtime the app uses.
+
+| Model | Method | Full: top 1 | Full: top 5 | Full: make | Partial: top 5 |
+|---|---|---|---|---|---|
+| **CLIP ViT-B/16** | **fused** | **43.5%** | **81.9%** | **91.4%** | **69.6%** |
+| CLIP ViT-B/16 | text | 35.4% | 75.4% | 90.4% | 65.3% |
+| CLIP ViT-B/16 | gallery | 35.2% | 70.1% | 86.1% | 52.5% |
+| SigLIP 2 B/16 | gallery | 39.0% | 64.9% | 81.5% | 42.4% |
+| SigLIP 2 B/16 | text | 8.5% | 27.1% | 57.3% | 24.7% |
+| DINOv2-B | gallery | 20.4% | 45.5% | 64.5% | 27.7% |
+
+- **Leader: CLIP ViT-B/16, fused** (text description + nearest reference photo).
+- SigLIP 2's text score is near chance, which points to a setup problem in our text preparation
+  rather than the model; worth fixing before ruling it out.
+- Partial views (a corner or side of the car) cost about 12 points of top-5.
+- Not yet tested: the full 3,209-car catalog (harder than 151), real phone photos, rear views.
