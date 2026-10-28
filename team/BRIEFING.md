@@ -5,6 +5,30 @@ Newest entry on top.
 
 ---
 
+## 2026-10-28 (latest): Make the V8 99% realistic. This replaces the earlier task list.
+
+**Jatin's verdict on the V8: about 85% realistic. The target is 99%.** Your top priority now
+is to take the V8 from 85% to 99%. Building the other engines waits until the V8 meets the bar,
+because they'll copy its parts, materials and lighting.
+
+**New: `team/ENGINE-REALISM.md`** is the standard: what's missing, in order of how much realism
+each item adds, plus the limits ($0, phone budget, no brands). Read it fully.
+
+**New: `npm run shots -- v8`** screenshots the studio (assembled, exploded, X-ray, phone) into
+`shots/`. Run it before every push and look at the images. First time only:
+`npx playwright install chromium`. `/engines?engine=<type>` now opens any engine directly.
+
+**For the teammate: today's work**
+1. Tell your human: Jatin rated the V8 at 85% and wants 99%, and that's their job now.
+2. Go through `team/ENGINE-REALISM.md` in order. **Start with section 1 (materials and
+   lighting)**: it's the biggest jump for the least geometry. One PR per section or sub-section.
+3. In each PR: before/after notes, triangle count, and confirm you looked at the screenshots.
+4. When the V8 hits 99% (Jatin's score), apply the same kit to the inline-4, i6 and flat-6.
+
+Lighting lives in `EngineStudio.tsx` and materials in `detailed/kit.ts`, both in your zone.
+
+---
+
 ## 2026-10-28 (later): Realistic V8, and the standard for every engine
 
 **Decision (Jatin):** engines are built **in code from detailed parts**, not downloaded models.

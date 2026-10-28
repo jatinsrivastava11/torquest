@@ -1,8 +1,9 @@
 # AGENTS.md: how to work on Torquest
 
 Read this whole file at the start of **every** session, after pulling. It changes; the version on
-`main` is the one that counts. Then read `team/VISION.md` (what we're building) and
-`team/BRIEFING.md` (what's new and what to do today).
+`main` is the one that counts. Then read `team/VISION.md` (what we're building),
+`team/BRIEFING.md` (what's new and what to do today) and, for engine work,
+`team/ENGINE-REALISM.md` (the quality bar).
 
 ## 0. Who you are working for
 
@@ -80,6 +81,8 @@ test `test/contract/engines.test.ts` enforces that.
    npm run zone    # must say "All changes are in the teammate zone"
    ```
    Add or update tests in `test/engines/` for what you built.
+   For anything visual, also run `npm run shots -- <engine>` (with `npm run dev` running) and
+   **look at the images in `shots/`** before pushing. The bar is `team/ENGINE-REALISM.md`.
 7. **Log it.** Append an entry to `team/engines-log.md`: date, what you did, what's next,
    and any questions for Jatin.
 8. **Push and open a PR:**
@@ -119,14 +122,16 @@ disable tests, or force-push to anyone else's branch.
    - `gh pr list --state open`: anything labelled `needs-jatin` needs a decision.
    - `gh pr list --state merged --search "head:friend/"`: what auto-merged since last time.
    - New entries and questions in `team/engines-log.md`.
-3. For each `needs-jatin` PR: check it out, run `npm run check` and `npm run zone`, and summarise
+3. For engine PRs that merged, run `npm run shots`, show Jatin the images, ask for a realism score
+   out of 100, and record it in `team/engines-log.md`.
+4. For each `needs-jatin` PR: check it out, run `npm run check` and `npm run zone`, and summarise
    it for Jatin in plain words with options (merge / merge part / request changes / close).
    Merge only on Jatin's say-so.
-4. Do Jatin's work. Commit straight to `main` or via a branch; keep `main` green.
-5. **Before every push to main, update `team/BRIEFING.md`:** what changed (in words the teammate's
+5. Do Jatin's work. Commit straight to `main` or via a branch; keep `main` green.
+6. **Before every push to main, update `team/BRIEFING.md`:** what changed (in words the teammate's
    agent can act on), the teammate's next tasks, and answers to their questions. That file is
    how the teammate's agent learns what we did.
-6. If you change the contract, zones or this protocol, say so at the top of the briefing.
+7. If you change the contract, zones or this protocol, say so at the top of the briefing.
 
 ## 4. Commands
 
@@ -136,6 +141,7 @@ disable tests, or force-push to anyone else's branch.
 | `npm run check` | Typecheck, test and build: must pass before any push |
 | `npm test` | Tests only |
 | `npm run zone` | Lists changed files as teammate zone or core |
+| `npm run shots -- v8` | Screenshots an engine (needs `npm run dev`; first run `npx playwright install chromium`) |
 
 <!-- BEGIN:nextjs-agent-rules -->
 

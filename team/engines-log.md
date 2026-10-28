@@ -18,3 +18,6 @@ Questions for Jatin: … (or "none")
 Did: realistic code-built V8 (detailed/v8.ts), shared kit, EngineModel, new EngineStudio viewer.
 Next: teammate builds inline-4, then i6 and flat-6, following the V8 pattern (see BRIEFING.md).
 Questions for Jatin: none
+
+## 2026-10-28: Realism score
+Jatin's score for the V8: **85/100**. Target: 99. See team/ENGINE-REALISM.md.
