@@ -1,0 +1,7 @@
+{
+  "make": "Iso",
+  "cars": [
+    {"id":"iso-rivolta","model":"Rivolta","generation":"Rivolta","years":[1962,1970],"engine":"v8","body":"coupe","naOnRoad":80,"built":799,"aliases":["IR 300","Iso Rivolta GT"]},
+    {"id":"iso-grifo","model":"Grifo","generation":"Grifo","years":[1965,1974],"engine":"v8","body":"coupe","naOnRoad":120,"built":412,"aliases":["Iso Grifo GL","Grifo 7 Litri"],"hype":true}
+  ]
+}

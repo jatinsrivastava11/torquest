@@ -1,0 +1,3 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Concept One | | | 2013 | 2014 | electric | supercar | 1 | 8 | Concept_One | y
+Nevera | | | 2021 | | electric | supercar | 25 | 150 | C_Two; Concept Two; Nevera R; Nevera Time Attack | y

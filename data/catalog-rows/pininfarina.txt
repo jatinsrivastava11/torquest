@@ -1,0 +1,3 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Battista | | | 2022 | | electric | supercar | 20 | 150 | Battista Anniversario; Battista Edizione Nino Farina | y
+B95 | | | 2025 | | electric | supercar | 2 | 10 | Battista Barchetta | y

@@ -1,0 +1,16 @@
+{
+  "make": "Fiat",
+  "cars": [
+    {"id":"fiat-500-nuova-500","model":"500","generation":"Nuova 500","years":[1957,1975],"engine":"i3","body":"hatchback","naOnRoad":4000,"built":3893294,"aliases":["classic 500","Cinquecento","Fiat 500 F","500 L classic"],"hype":true},
+    {"id":"fiat-124-spider-1st-gen","model":"124 Spider","generation":"1st gen","years":[1966,1985],"engine":"i4","body":"convertible","naOnRoad":15000,"built":198000,"aliases":["Spider 2000","Pininfarina Spider Europa","Spider Azzurra","classic 124 Spider"]},
+    {"id":"fiat-x1-9","model":"X1/9","generation":"X1/9","years":[1972,1989],"engine":"i4","body":"coupe","naOnRoad":6000,"built":160000,"aliases":["X19","Bertone X1/9"]},
+    {"id":"fiat-131","model":"131","generation":"131","years":[1975,1981],"engine":"i4","body":"sedan","naOnRoad":150,"aliases":["Brava","131 Brava","Super Brava"]},
+    {"id":"fiat-strada","model":"Strada","generation":"Strada","years":[1979,1982],"engine":"i4","body":"hatchback","naOnRoad":150,"aliases":["Ritmo"]},
+    {"id":"fiat-500-312","model":"500","generation":"312","years":[2012,2019],"engine":"i4","body":"hatchback","naOnRoad":150000,"aliases":["500c","500 Pop","500 Lounge","500e (2013-2019)"]},
+    {"id":"fiat-500-312-abarth","model":"500","generation":"312","variant":"Abarth","years":[2012,2019],"engine":"i4","body":"hatchback","naOnRoad":20000,"aliases":["500 Abarth","Abarth 500","595","695"],"hype":true},
+    {"id":"fiat-500l","model":"500L","generation":"500L","years":[2014,2020],"engine":"i4","body":"hatchback","naOnRoad":25000,"aliases":["500 L"]},
+    {"id":"fiat-500x","model":"500X","generation":"500X","years":[2016,2023],"engine":"i4","body":"suv","naOnRoad":55000,"aliases":["500 X"]},
+    {"id":"fiat-124-spider-2nd-gen","model":"124 Spider","generation":"2nd gen","years":[2017,2020],"engine":"i4","body":"convertible","naOnRoad":15000,"aliases":["124 Spider Abarth","Abarth 124 Spider","124 Lusso"]},
+    {"id":"fiat-500-332","model":"500","generation":"332","years":[2024,null],"engine":"electric","body":"hatchback","naOnRoad":1500,"aliases":["500e","new 500e"]}
+  ]
+}

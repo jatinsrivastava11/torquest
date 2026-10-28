@@ -1,0 +1,7 @@
+{
+  "make": "Pininfarina",
+  "cars": [
+    {"id":"pininfarina-battista","model":"Battista","generation":"Battista","years":[2022,null],"engine":"electric","body":"supercar","naOnRoad":20,"built":150,"aliases":["Battista Anniversario","Battista Edizione Nino Farina"],"hype":true},
+    {"id":"pininfarina-b95","model":"B95","generation":"B95","years":[2025,null],"engine":"electric","body":"supercar","naOnRoad":2,"built":10,"aliases":["Battista Barchetta"],"hype":true}
+  ]
+}

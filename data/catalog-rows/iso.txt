@@ -1,0 +1,3 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Rivolta | | | 1962 | 1970 | v8 | coupe | 80 | 799 | IR 300; Iso Rivolta GT
+Grifo | | | 1965 | 1974 | v8 | coupe | 120 | 412 | Iso Grifo GL; Grifo 7 Litri | y

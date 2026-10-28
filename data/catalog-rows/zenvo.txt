@@ -1,0 +1,5 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+ST1 | | | 2009 | 2016 | v8 | supercar | 1 | 7 | | y
+TS1 GT | | | 2016 | 2019 | v8 | supercar | 0 | 5 | TS1 | y
+TSR-S | | | 2019 | | v8 | supercar | 1 | 15 | TSR | y
+Aurora | | | 2026 | | v12 | supercar | 0 | | Aurora Tur; Aurora Agil | y

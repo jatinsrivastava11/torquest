@@ -1,0 +1,2 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+C8 | | | 2000 | 2014 | v8 | supercar | 60 | 267 | C8 Laviolette; C8 Spyder; C8 Aileron; C8 Preliator | y

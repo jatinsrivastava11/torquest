@@ -1,0 +1,9 @@
+{
+  "make": "Pagani",
+  "cars": [
+    {"id":"pagani-zonda","model":"Zonda","generation":"Zonda","years":[1999,2019],"engine":"v12","body":"supercar","naOnRoad":15,"built":140,"aliases":["Zonda C12","Zonda S","Zonda F","Zonda Cinque","Zonda Tricolore","Zonda HP Barchetta"],"hype":true},
+    {"id":"pagani-huayra","model":"Huayra","generation":"Huayra","years":[2012,2022],"engine":"v12","body":"supercar","naOnRoad":80,"built":300,"aliases":["Huayra Roadster","Huayra Codalunga"],"hype":true},
+    {"id":"pagani-huayra-bc","model":"Huayra","generation":"Huayra","variant":"BC","years":[2016,2022],"engine":"v12","body":"supercar","naOnRoad":20,"built":60,"aliases":["Huayra Roadster BC"],"hype":true},
+    {"id":"pagani-utopia","model":"Utopia","generation":"Utopia","years":[2023,null],"engine":"v12","body":"supercar","naOnRoad":30,"aliases":["Utopia Roadster"],"hype":true}
+  ]
+}

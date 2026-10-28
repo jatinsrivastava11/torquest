@@ -1,0 +1,24 @@
+{
+  "make": "Alfa Romeo",
+  "cars": [
+    {"id":"alfa-romeo-giulietta-spider","model":"Giulietta Spider","generation":"Giulietta Spider","years":[1955,1962],"engine":"i4","body":"convertible","naOnRoad":2000,"built":17000,"aliases":["Giulietta Spider Veloce","750 Spider","101 Spider"]},
+    {"id":"alfa-romeo-giulia-sprint-gt","model":"Giulia Sprint GT","generation":"Giulia Sprint GT","years":[1963,1977],"engine":"i4","body":"coupe","naOnRoad":3000,"aliases":["GTV 1750","GTV 2000","GT Junior","105 coupe","Bertone coupe","Sprint GT Veloce"],"hype":true},
+    {"id":"alfa-romeo-spider-series-1","model":"Spider","generation":"Series 1","years":[1966,1969],"engine":"i4","body":"convertible","naOnRoad":2000,"aliases":["Duetto","boattail Spider","Spider 1600"],"hype":true},
+    {"id":"alfa-romeo-spider-series-2","model":"Spider","generation":"Series 2","years":[1970,1982],"engine":"i4","body":"convertible","naOnRoad":7000,"aliases":["Spider Veloce","Kamm tail Spider"]},
+    {"id":"alfa-romeo-spider-series-3","model":"Spider","generation":"Series 3","years":[1983,1989],"engine":"i4","body":"convertible","naOnRoad":7000,"aliases":["Spider Graduate","Spider Quadrifoglio"]},
+    {"id":"alfa-romeo-spider-series-4","model":"Spider","generation":"Series 4","years":[1990,1994],"engine":"i4","body":"convertible","naOnRoad":5000,"built":18500,"aliases":["Spider Veloce","Spider Commemorative Edition"]},
+    {"id":"alfa-romeo-33-stradale-tipo-33","model":"33 Stradale","generation":"Tipo 33","years":[1967,1969],"engine":"v8","body":"supercar","naOnRoad":3,"built":18,"hype":true},
+    {"id":"alfa-romeo-33-stradale-2nd-gen","model":"33 Stradale","generation":"2nd gen","years":[2024,null],"engine":"v6","body":"supercar","naOnRoad":3,"built":33,"aliases":["new 33 Stradale"],"hype":true},
+    {"id":"alfa-romeo-gtv6","model":"GTV6","generation":"GTV6","years":[1981,1986],"engine":"v6","body":"coupe","naOnRoad":1200,"built":22380,"aliases":["Alfetta GTV6","GTV 6"],"hype":true},
+    {"id":"alfa-romeo-milano","model":"Milano","generation":"Milano","years":[1987,1989],"engine":"v6","body":"sedan","naOnRoad":800,"aliases":["75","Milano Verde","Milano Platinum"]},
+    {"id":"alfa-romeo-sz","model":"SZ","generation":"SZ","years":[1989,1991],"engine":"v6","body":"coupe","naOnRoad":40,"built":1036,"aliases":["ES-30","Il Mostro","RZ"],"hype":true},
+    {"id":"alfa-romeo-164","model":"164","generation":"164","years":[1991,1995],"engine":"v6","body":"sedan","naOnRoad":600,"aliases":["164L","164S","164LS","164 Quadrifoglio"]},
+    {"id":"alfa-romeo-8c-competizione","model":"8C Competizione","generation":"8C Competizione","years":[2007,2010],"engine":"v8","body":"coupe","naOnRoad":170,"built":1000,"aliases":["8C","8C Spider"],"hype":true},
+    {"id":"alfa-romeo-4c","model":"4C","generation":"4C","years":[2015,2020],"engine":"i4","body":"coupe","naOnRoad":2700,"aliases":["4C Spider","4C Coupe"],"hype":true},
+    {"id":"alfa-romeo-giulia-952","model":"Giulia","generation":"952","years":[2017,null],"engine":"i4","body":"sedan","naOnRoad":40000,"aliases":["Giulia Ti","Giulia Veloce"]},
+    {"id":"alfa-romeo-giulia-952-quadrifoglio","model":"Giulia","generation":"952","variant":"Quadrifoglio","years":[2017,null],"engine":"v6","body":"sedan","naOnRoad":4000,"aliases":["Giulia QV","Giulia Quadrifoglio"],"hype":true},
+    {"id":"alfa-romeo-stelvio","model":"Stelvio","generation":"Stelvio","years":[2018,null],"engine":"i4","body":"suv","naOnRoad":65000,"aliases":["Stelvio Ti","Stelvio Veloce"]},
+    {"id":"alfa-romeo-stelvio-quadrifoglio","model":"Stelvio","generation":"Stelvio","variant":"Quadrifoglio","years":[2018,null],"engine":"v6","body":"suv","naOnRoad":3500,"aliases":["Stelvio QV","Stelvio Quadrifoglio"],"hype":true},
+    {"id":"alfa-romeo-tonale","model":"Tonale","generation":"Tonale","years":[2023,null],"engine":"i4","body":"suv","naOnRoad":15000,"aliases":["Tonale PHEV"]}
+  ]
+}

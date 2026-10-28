@@ -1,0 +1,7 @@
+{
+  "make": "Gordon Murray",
+  "cars": [
+    {"id":"gordon-murray-t-50","model":"T.50","generation":"T.50","years":[2023,null],"engine":"v12","body":"supercar","naOnRoad":6,"built":100,"aliases":["T50","GMA T.50"],"hype":true},
+    {"id":"gordon-murray-t-33","model":"T.33","generation":"T.33","years":[2024,null],"engine":"v12","body":"supercar","naOnRoad":8,"built":100,"aliases":["T33","T.33 Spider","GMA T.33"],"hype":true}
+  ]
+}

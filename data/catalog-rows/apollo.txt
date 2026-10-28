@@ -1,0 +1,2 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Intensa Emozione | | | 2019 | 2021 | v12 | supercar | 1 | 10 | Apollo IE; IE | y

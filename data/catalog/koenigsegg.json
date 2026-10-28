@@ -1,0 +1,15 @@
+{
+  "make": "Koenigsegg",
+  "cars": [
+    {"id":"koenigsegg-cc8s","model":"CC8S","generation":"CC8S","years":[2002,2003],"engine":"v8","body":"supercar","naOnRoad":1,"built":6,"hype":true},
+    {"id":"koenigsegg-ccr","model":"CCR","generation":"CCR","years":[2004,2006],"engine":"v8","body":"supercar","naOnRoad":1,"built":14,"hype":true},
+    {"id":"koenigsegg-ccx","model":"CCX","generation":"CCX","years":[2006,2010],"engine":"v8","body":"supercar","naOnRoad":10,"aliases":["CCXR","CCXR Trevita","CCX Edition","CCXR Edition"],"hype":true},
+    {"id":"koenigsegg-agera","model":"Agera","generation":"Agera","years":[2011,2018],"engine":"v8","body":"supercar","naOnRoad":25,"built":85,"aliases":["Agera R","Agera S","Agera RS","Agera Final"],"hype":true},
+    {"id":"koenigsegg-one-1","model":"One:1","generation":"One:1","years":[2014,2015],"engine":"v8","body":"supercar","naOnRoad":1,"built":7,"aliases":["One1","One 1"],"hype":true},
+    {"id":"koenigsegg-regera","model":"Regera","generation":"Regera","years":[2016,2022],"engine":"v8","body":"supercar","naOnRoad":25,"built":80,"hype":true},
+    {"id":"koenigsegg-jesko","model":"Jesko","generation":"Jesko","years":[2022,null],"engine":"v8","body":"supercar","naOnRoad":35,"built":125,"aliases":["Jesko Absolut","Jesko Attack"],"hype":true},
+    {"id":"koenigsegg-cc850","model":"CC850","generation":"CC850","years":[2024,null],"engine":"v8","body":"supercar","naOnRoad":15,"built":70,"hype":true},
+    {"id":"koenigsegg-gemera","model":"Gemera","generation":"Gemera","years":[2025,null],"engine":"v8","body":"supercar","naOnRoad":5,"built":300,"aliases":["Gemera HV8"],"hype":true},
+    {"id":"koenigsegg-sadair-s-spear","model":"Sadair's Spear","generation":"Sadair's Spear","years":[2025,null],"engine":"v8","body":"supercar","naOnRoad":3,"built":30,"aliases":["Sadairs Spear"],"hype":true}
+  ]
+}

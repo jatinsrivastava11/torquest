@@ -1,0 +1,27 @@
+{
+  "make": "Maserati",
+  "cars": [
+    {"id":"maserati-3500-gt","model":"3500 GT","generation":"3500 GT","years":[1957,1964],"engine":"i6","body":"coupe","naOnRoad":250,"built":2226,"aliases":["3500 GTI","Vignale Spyder"],"hype":true},
+    {"id":"maserati-ghibli-am115","model":"Ghibli","generation":"AM115","years":[1967,1973],"engine":"v8","body":"coupe","naOnRoad":300,"built":1295,"aliases":["Ghibli (1967)","classic Ghibli","Ghibli Spyder"],"hype":true},
+    {"id":"maserati-bora","model":"Bora","generation":"Bora","years":[1971,1978],"engine":"v8","body":"supercar","naOnRoad":150,"built":564,"hype":true},
+    {"id":"maserati-merak","model":"Merak","generation":"Merak","years":[1972,1983],"engine":"v6","body":"supercar","naOnRoad":400,"built":1830,"aliases":["Merak SS"],"hype":true},
+    {"id":"maserati-khamsin","model":"Khamsin","generation":"Khamsin","years":[1974,1982],"engine":"v8","body":"coupe","naOnRoad":80,"built":435,"hype":true},
+    {"id":"maserati-quattroporte-iii","model":"Quattroporte","generation":"III","years":[1979,1990],"engine":"v8","body":"sedan","naOnRoad":100,"built":2155,"aliases":["Quattroporte Royale"]},
+    {"id":"maserati-biturbo","model":"Biturbo","generation":"Biturbo","years":[1984,1990],"engine":"v6","body":"coupe","naOnRoad":1500,"aliases":["228","425","430","Biturbo Spyder","Biturbo Spider"]},
+    {"id":"maserati-spyder","model":"Spyder","generation":"Spyder","years":[2001,2007],"engine":"v8","body":"convertible","naOnRoad":2500,"aliases":["4200 Spyder","GT Spyder","Spyder 90th Anniversary"]},
+    {"id":"maserati-coupe","model":"Coupé","generation":"Coupé","years":[2002,2007],"engine":"v8","body":"coupe","naOnRoad":3500,"aliases":["Coupe","4200 GT","GranSport","Cambiocorsa"]},
+    {"id":"maserati-quattroporte-v","model":"Quattroporte","generation":"V","years":[2004,2012],"engine":"v8","body":"sedan","naOnRoad":5000,"built":25256,"aliases":["Quattroporte Sport GT S"]},
+    {"id":"maserati-mc12","model":"MC12","generation":"MC12","years":[2004,2005],"engine":"v12","body":"supercar","naOnRoad":8,"built":50,"aliases":["MC12 Stradale"],"hype":true},
+    {"id":"maserati-granturismo-1st-gen","model":"GranTurismo","generation":"1st gen","years":[2008,2019],"engine":"v8","body":"coupe","naOnRoad":9000,"built":28805,"aliases":["Granturismo S","GranTurismo Sport"]},
+    {"id":"maserati-granturismo-1st-gen-mc-stradale","model":"GranTurismo","generation":"1st gen","variant":"MC Stradale","years":[2011,2019],"engine":"v8","body":"coupe","naOnRoad":700,"aliases":["GranTurismo MC","MC Stradale"],"hype":true},
+    {"id":"maserati-grancabrio-1st-gen","model":"GranCabrio","generation":"1st gen","years":[2010,2019],"engine":"v8","body":"convertible","naOnRoad":5000,"built":11715,"aliases":["Gran Cabrio","GranTurismo Convertible"]},
+    {"id":"maserati-quattroporte-vi","model":"Quattroporte","generation":"VI","years":[2013,2024],"engine":"v6","body":"sedan","naOnRoad":13000,"aliases":["Quattroporte S Q4","Quattroporte Trofeo"]},
+    {"id":"maserati-ghibli-m157","model":"Ghibli","generation":"M157","years":[2014,2024],"engine":"v6","body":"sedan","naOnRoad":40000,"aliases":["Ghibli S Q4","Ghibli Trofeo"]},
+    {"id":"maserati-levante","model":"Levante","generation":"Levante","years":[2017,2024],"engine":"v6","body":"suv","naOnRoad":30000,"aliases":["Levante Trofeo"]},
+    {"id":"maserati-mc20","model":"MC20","generation":"MC20","years":[2021,null],"engine":"v6","body":"supercar","naOnRoad":1100,"aliases":["MC20 Cielo","MCPura"],"hype":true},
+    {"id":"maserati-grecale","model":"Grecale","generation":"Grecale","years":[2023,null],"engine":"i4","body":"suv","naOnRoad":8000,"aliases":["Grecale Trofeo","Grecale Folgore"]},
+    {"id":"maserati-granturismo-2nd-gen","model":"GranTurismo","generation":"2nd gen","years":[2023,null],"engine":"v6","body":"coupe","naOnRoad":2000,"aliases":["GranTurismo Folgore","GranTurismo Trofeo"]},
+    {"id":"maserati-grancabrio-2nd-gen","model":"GranCabrio","generation":"2nd gen","years":[2024,null],"engine":"v6","body":"convertible","naOnRoad":700,"aliases":["GranCabrio Folgore"]},
+    {"id":"maserati-gt2-stradale","model":"GT2 Stradale","generation":"GT2 Stradale","years":[2024,null],"engine":"v6","body":"supercar","naOnRoad":100,"hype":true}
+  ]
+}

@@ -1,0 +1,13 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Type 35 | | | 1924 | 1930 | i6 | convertible | 40 | 340 | Type 35B; Type 35C | y
+Type 57 | | | 1934 | 1940 | i6 | coupe | 80 | 710 | Type 57SC; Atlantic; Atalante | y
+EB110 | | | 1991 | 1995 | v12 | supercar | 10 | 139 | EB 110; EB110 GT; EB110 SS | y
+Veyron | | | 2005 | 2015 | w16 | supercar | 110 | 450 | Veyron 16.4; Veyron Grand Sport; Veyron Super Sport; Vitesse | y
+Chiron | | | 2016 | 2024 | w16 | supercar | 150 | 500 | Chiron Sport; Chiron Pur Sport | y
+Chiron | | Super Sport | 2021 | 2023 | w16 | supercar | 20 | 90 | Chiron Super Sport 300+; Super Sport 300+ | y
+Divo | | | 2019 | 2021 | w16 | supercar | 8 | 40 | | y
+La Voiture Noire | | | 2019 | 2019 | w16 | supercar | 0 | 1 | | y
+Centodieci | | | 2022 | 2022 | w16 | supercar | 3 | 10 | | y
+Bolide | | | 2024 | 2025 | w16 | supercar | 6 | 40 | | y
+Mistral | | | 2024 | 2025 | w16 | supercar | 30 | 99 | W16 Mistral | y
+Tourbillon | | | 2026 | | v16 | supercar | 3 | | | y

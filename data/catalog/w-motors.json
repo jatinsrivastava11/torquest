@@ -1,0 +1,7 @@
+{
+  "make": "W Motors",
+  "cars": [
+    {"id":"w-motors-lykan-hypersport","model":"Lykan HyperSport","generation":"Lykan HyperSport","years":[2013,2017],"engine":"flat6","body":"supercar","naOnRoad":0,"built":7,"aliases":["Lykan","Fast and Furious 7 car"],"hype":true},
+    {"id":"w-motors-fenyr-supersport","model":"Fenyr SuperSport","generation":"Fenyr SuperSport","years":[2018,2020],"engine":"flat6","body":"supercar","naOnRoad":0,"built":25,"aliases":["Fenyr"],"hype":true}
+  ]
+}

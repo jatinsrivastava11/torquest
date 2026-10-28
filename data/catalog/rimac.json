@@ -1,0 +1,7 @@
+{
+  "make": "Rimac",
+  "cars": [
+    {"id":"rimac-concept-one","model":"Concept One","generation":"Concept One","years":[2013,2014],"engine":"electric","body":"supercar","naOnRoad":1,"built":8,"aliases":["Concept_One"],"hype":true},
+    {"id":"rimac-nevera","model":"Nevera","generation":"Nevera","years":[2021,null],"engine":"electric","body":"supercar","naOnRoad":25,"built":150,"aliases":["C_Two","Concept Two","Nevera R","Nevera Time Attack"],"hype":true}
+  ]
+}

@@ -1,0 +1,23 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+3500 GT | | | 1957 | 1964 | i6 | coupe | 250 | 2226 | 3500 GTI; Vignale Spyder | y
+Ghibli | AM115 | | 1967 | 1973 | v8 | coupe | 300 | 1295 | Ghibli (1967); classic Ghibli; Ghibli Spyder | y
+Bora | | | 1971 | 1978 | v8 | supercar | 150 | 564 | | y
+Merak | | | 1972 | 1983 | v6 | supercar | 400 | 1830 | Merak SS | y
+Khamsin | | | 1974 | 1982 | v8 | coupe | 80 | 435 | | y
+Quattroporte | III | | 1979 | 1990 | v8 | sedan | 100 | 2155 | Quattroporte Royale
+Biturbo | | | 1984 | 1990 | v6 | coupe | 1500 | | 228; 425; 430; Biturbo Spyder; Biturbo Spider
+Spyder | | | 2001 | 2007 | v8 | convertible | 2500 | | 4200 Spyder; GT Spyder; Spyder 90th Anniversary
+Coupé | | | 2002 | 2007 | v8 | coupe | 3500 | | Coupe; 4200 GT; GranSport; Cambiocorsa
+Quattroporte | V | | 2004 | 2012 | v8 | sedan | 5000 | 25256 | Quattroporte Sport GT S
+MC12 | | | 2004 | 2005 | v12 | supercar | 8 | 50 | MC12 Stradale | y
+GranTurismo | 1st gen | | 2008 | 2019 | v8 | coupe | 9000 | 28805 | Granturismo S; GranTurismo Sport
+GranTurismo | 1st gen | MC Stradale | 2011 | 2019 | v8 | coupe | 700 | | GranTurismo MC; MC Stradale | y
+GranCabrio | 1st gen | | 2010 | 2019 | v8 | convertible | 5000 | 11715 | Gran Cabrio; GranTurismo Convertible
+Quattroporte | VI | | 2013 | 2024 | v6 | sedan | 13000 | | Quattroporte S Q4; Quattroporte Trofeo
+Ghibli | M157 | | 2014 | 2024 | v6 | sedan | 40000 | | Ghibli S Q4; Ghibli Trofeo
+Levante | | | 2017 | 2024 | v6 | suv | 30000 | | Levante Trofeo
+MC20 | | | 2021 | | v6 | supercar | 1100 | | MC20 Cielo; MCPura | y
+Grecale | | | 2023 | | i4 | suv | 8000 | | Grecale Trofeo; Grecale Folgore
+GranTurismo | 2nd gen | | 2023 | | v6 | coupe | 2000 | | GranTurismo Folgore; GranTurismo Trofeo
+GranCabrio | 2nd gen | | 2024 | | v6 | convertible | 700 | | GranCabrio Folgore
+GT2 Stradale | | | 2024 | | v6 | supercar | 100 | | | y

@@ -1,0 +1,5 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Stratos | | | 1973 | 1978 | v6 | supercar | 40 | 492 | Stratos HF; Stratos Stradale | y
+037 | | | 1982 | 1983 | i4 | supercar | 10 | 207 | Rally 037; 037 Stradale | y
+Delta S4 | | | 1985 | 1986 | i4 | supercar | 3 | 200 | S4 Stradale; Delta S4 Stradale | y
+Delta Integrale | | | 1987 | 1994 | i4 | hatchback | 400 | 44000 | Delta HF Integrale; Integrale Evo; Delta Integrale Evoluzione; Deltona | y

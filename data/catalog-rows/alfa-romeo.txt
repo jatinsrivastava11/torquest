@@ -1,0 +1,20 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Giulietta Spider | | | 1955 | 1962 | i4 | convertible | 2000 | 17000 | Giulietta Spider Veloce; 750 Spider; 101 Spider
+Giulia Sprint GT | | | 1963 | 1977 | i4 | coupe | 3000 | | GTV 1750; GTV 2000; GT Junior; 105 coupe; Bertone coupe; Sprint GT Veloce | y
+Spider | Series 1 | | 1966 | 1969 | i4 | convertible | 2000 | | Duetto; boattail Spider; Spider 1600 | y
+Spider | Series 2 | | 1970 | 1982 | i4 | convertible | 7000 | | Spider Veloce; Kamm tail Spider
+Spider | Series 3 | | 1983 | 1989 | i4 | convertible | 7000 | | Spider Graduate; Spider Quadrifoglio
+Spider | Series 4 | | 1990 | 1994 | i4 | convertible | 5000 | 18500 | Spider Veloce; Spider Commemorative Edition
+33 Stradale | Tipo 33 | | 1967 | 1969 | v8 | supercar | 3 | 18 | | y
+33 Stradale | 2nd gen | | 2024 | | v6 | supercar | 3 | 33 | new 33 Stradale | y
+GTV6 | | | 1981 | 1986 | v6 | coupe | 1200 | 22380 | Alfetta GTV6; GTV 6 | y
+Milano | | | 1987 | 1989 | v6 | sedan | 800 | | 75; Milano Verde; Milano Platinum
+SZ | | | 1989 | 1991 | v6 | coupe | 40 | 1036 | ES-30; Il Mostro; RZ | y
+164 | | | 1991 | 1995 | v6 | sedan | 600 | | 164L; 164S; 164LS; 164 Quadrifoglio
+8C Competizione | | | 2007 | 2010 | v8 | coupe | 170 | 1000 | 8C; 8C Spider | y
+4C | | | 2015 | 2020 | i4 | coupe | 2700 | | 4C Spider; 4C Coupe | y
+Giulia | 952 | | 2017 | | i4 | sedan | 40000 | | Giulia Ti; Giulia Veloce
+Giulia | 952 | Quadrifoglio | 2017 | | v6 | sedan | 4000 | | Giulia QV; Giulia Quadrifoglio | y
+Stelvio | | | 2018 | | i4 | suv | 65000 | | Stelvio Ti; Stelvio Veloce
+Stelvio | | Quadrifoglio | 2018 | | v6 | suv | 3500 | | Stelvio QV; Stelvio Quadrifoglio | y
+Tonale | | | 2023 | | i4 | suv | 15000 | | Tonale PHEV

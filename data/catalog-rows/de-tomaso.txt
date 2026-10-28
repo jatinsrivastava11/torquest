@@ -1,0 +1,6 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Mangusta | | | 1967 | 1971 | v8 | supercar | 150 | 401 | | y
+Pantera | | | 1971 | 1992 | v8 | supercar | 3000 | 7260 | Pantera L; Pantera GTS | y
+Pantera | | GT5 | 1980 | 1990 | v8 | supercar | 60 | 435 | Pantera GT5-S; GT5-S | y
+Guarà | | | 1993 | 2004 | v8 | supercar | 2 | 50 | Guara | y
+P72 | | | 2025 | | v8 | supercar | 3 | | | y

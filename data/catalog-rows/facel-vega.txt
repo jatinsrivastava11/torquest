@@ -1,0 +1,5 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Excellence | | | 1958 | 1964 | v8 | sedan | 30 | 230 | Facel Excellence | y
+HK500 | | | 1958 | 1961 | v8 | coupe | 100 | 490 | HK 500 | y
+Facellia | | | 1960 | 1963 | i4 | convertible | 80 | 1100 | Facel III
+Facel II | | | 1962 | 1964 | v8 | coupe | 40 | 184 | | y

@@ -1,0 +1,10 @@
+{
+  "make": "De Tomaso",
+  "cars": [
+    {"id":"de-tomaso-mangusta","model":"Mangusta","generation":"Mangusta","years":[1967,1971],"engine":"v8","body":"supercar","naOnRoad":150,"built":401,"hype":true},
+    {"id":"de-tomaso-pantera","model":"Pantera","generation":"Pantera","years":[1971,1992],"engine":"v8","body":"supercar","naOnRoad":3000,"built":7260,"aliases":["Pantera L","Pantera GTS"],"hype":true},
+    {"id":"de-tomaso-pantera-gt5","model":"Pantera","generation":"Pantera","variant":"GT5","years":[1980,1990],"engine":"v8","body":"supercar","naOnRoad":60,"built":435,"aliases":["Pantera GT5-S","GT5-S"],"hype":true},
+    {"id":"de-tomaso-guara","model":"Guarà","generation":"Guarà","years":[1993,2004],"engine":"v8","body":"supercar","naOnRoad":2,"built":50,"aliases":["Guara"],"hype":true},
+    {"id":"de-tomaso-p72","model":"P72","generation":"P72","years":[2025,null],"engine":"v8","body":"supercar","naOnRoad":3,"hype":true}
+  ]
+}

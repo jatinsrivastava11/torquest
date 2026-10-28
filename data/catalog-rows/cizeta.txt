@@ -1,0 +1,2 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+V16T | | | 1991 | 1995 | v16 | supercar | 4 | 13 | Cizeta-Moroder V16T; Moroder | y

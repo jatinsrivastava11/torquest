@@ -1,0 +1,9 @@
+{
+  "make": "Lancia",
+  "cars": [
+    {"id":"lancia-stratos","model":"Stratos","generation":"Stratos","years":[1973,1978],"engine":"v6","body":"supercar","naOnRoad":40,"built":492,"aliases":["Stratos HF","Stratos Stradale"],"hype":true},
+    {"id":"lancia-037","model":"037","generation":"037","years":[1982,1983],"engine":"i4","body":"supercar","naOnRoad":10,"built":207,"aliases":["Rally 037","037 Stradale"],"hype":true},
+    {"id":"lancia-delta-s4","model":"Delta S4","generation":"Delta S4","years":[1985,1986],"engine":"i4","body":"supercar","naOnRoad":3,"built":200,"aliases":["S4 Stradale","Delta S4 Stradale"],"hype":true},
+    {"id":"lancia-delta-integrale","model":"Delta Integrale","generation":"Delta Integrale","years":[1987,1994],"engine":"i4","body":"hatchback","naOnRoad":400,"built":44000,"aliases":["Delta HF Integrale","Integrale Evo","Delta Integrale Evoluzione","Deltona"],"hype":true}
+  ]
+}

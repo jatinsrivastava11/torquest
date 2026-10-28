@@ -1,0 +1,3 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Lykan HyperSport | | | 2013 | 2017 | flat6 | supercar | 0 | 7 | Lykan; Fast and Furious 7 car | y
+Fenyr SuperSport | | | 2018 | 2020 | flat6 | supercar | 0 | 25 | Fenyr | y

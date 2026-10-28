@@ -1,0 +1,5 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Zonda | | | 1999 | 2019 | v12 | supercar | 15 | 140 | Zonda C12; Zonda S; Zonda F; Zonda Cinque; Zonda Tricolore; Zonda HP Barchetta | y
+Huayra | | | 2012 | 2022 | v12 | supercar | 80 | 300 | Huayra Roadster; Huayra Codalunga | y
+Huayra | | BC | 2016 | 2022 | v12 | supercar | 20 | 60 | Huayra Roadster BC | y
+Utopia | | | 2023 | | v12 | supercar | 30 | | Utopia Roadster | y

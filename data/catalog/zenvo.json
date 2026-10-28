@@ -1,0 +1,9 @@
+{
+  "make": "Zenvo",
+  "cars": [
+    {"id":"zenvo-st1","model":"ST1","generation":"ST1","years":[2009,2016],"engine":"v8","body":"supercar","naOnRoad":1,"built":7,"hype":true},
+    {"id":"zenvo-ts1-gt","model":"TS1 GT","generation":"TS1 GT","years":[2016,2019],"engine":"v8","body":"supercar","naOnRoad":0,"built":5,"aliases":["TS1"],"hype":true},
+    {"id":"zenvo-tsr-s","model":"TSR-S","generation":"TSR-S","years":[2019,null],"engine":"v8","body":"supercar","naOnRoad":1,"built":15,"aliases":["TSR"],"hype":true},
+    {"id":"zenvo-aurora","model":"Aurora","generation":"Aurora","years":[2026,null],"engine":"v12","body":"supercar","naOnRoad":0,"aliases":["Aurora Tur","Aurora Agil"],"hype":true}
+  ]
+}

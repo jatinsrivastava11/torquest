@@ -1,0 +1,3 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+T.50 | | | 2023 | | v12 | supercar | 6 | 100 | T50; GMA T.50 | y
+T.33 | | | 2024 | | v12 | supercar | 8 | 100 | T33; T.33 Spider; GMA T.33 | y

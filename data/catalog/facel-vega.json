@@ -1,0 +1,9 @@
+{
+  "make": "Facel Vega",
+  "cars": [
+    {"id":"facel-vega-excellence","model":"Excellence","generation":"Excellence","years":[1958,1964],"engine":"v8","body":"sedan","naOnRoad":30,"built":230,"aliases":["Facel Excellence"],"hype":true},
+    {"id":"facel-vega-hk500","model":"HK500","generation":"HK500","years":[1958,1961],"engine":"v8","body":"coupe","naOnRoad":100,"built":490,"aliases":["HK 500"],"hype":true},
+    {"id":"facel-vega-facellia","model":"Facellia","generation":"Facellia","years":[1960,1963],"engine":"i4","body":"convertible","naOnRoad":80,"built":1100,"aliases":["Facel III"]},
+    {"id":"facel-vega-facel-ii","model":"Facel II","generation":"Facel II","years":[1962,1964],"engine":"v8","body":"coupe","naOnRoad":40,"built":184,"hype":true}
+  ]
+}

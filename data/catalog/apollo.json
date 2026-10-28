@@ -1,0 +1,6 @@
+{
+  "make": "Apollo",
+  "cars": [
+    {"id":"apollo-intensa-emozione","model":"Intensa Emozione","generation":"Intensa Emozione","years":[2019,2021],"engine":"v12","body":"supercar","naOnRoad":1,"built":10,"aliases":["Apollo IE","IE"],"hype":true}
+  ]
+}

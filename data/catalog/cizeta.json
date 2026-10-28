@@ -1,0 +1,6 @@
+{
+  "make": "Cizeta",
+  "cars": [
+    {"id":"cizeta-v16t","model":"V16T","generation":"V16T","years":[1991,1995],"engine":"v16","body":"supercar","naOnRoad":4,"built":13,"aliases":["Cizeta-Moroder V16T","Moroder"],"hype":true}
+  ]
+}

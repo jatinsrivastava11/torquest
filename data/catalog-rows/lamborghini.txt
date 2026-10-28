@@ -1,0 +1,35 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+350 GT | | | 1964 | 1966 | v12 | coupe | 40 | 120 | 350GT | y
+400 GT | | | 1966 | 1968 | v12 | coupe | 60 | 273 | 400 GT 2+2; 400GT | y
+Miura | | | 1966 | 1973 | v12 | supercar | 150 | 764 | P400; Miura S; Miura SV | y
+Islero | | | 1968 | 1969 | v12 | coupe | 50 | 225 | | y
+Espada | | | 1968 | 1978 | v12 | coupe | 200 | 1217 | | y
+Jarama | | | 1970 | 1976 | v12 | coupe | 70 | 328 | | y
+Urraco | | | 1972 | 1979 | v8 | supercar | 120 | 791 | P250; P300 | y
+Countach | 1st gen | | 1974 | 1990 | v12 | supercar | 700 | 1983 | LP400; LP500S; 5000 QV; Quattrovalvole; 25th Anniversary | y
+Silhouette | | | 1976 | 1979 | v8 | supercar | 10 | 54 | P300 Silhouette | y
+Jalpa | | | 1981 | 1988 | v8 | supercar | 100 | 410 | P350 | y
+LM002 | | | 1986 | 1993 | v12 | suv | 80 | 328 | Rambo Lambo | y
+Diablo | | | 1990 | 2001 | v12 | supercar | 1000 | 2884 | Diablo VT; Diablo SV; Diablo Roadster; Diablo 6.0 | y
+Diablo | | GT | 1999 | 2000 | v12 | supercar | 10 | 80 | | y
+Murciélago | | | 2001 | 2010 | v12 | supercar | 1500 | 4099 | Murcielago; LP640; Murcielago Roadster | y
+Murciélago | | SV | 2009 | 2010 | v12 | supercar | 60 | 186 | LP670-4 SV; Murcielago SV | y
+Gallardo | | | 2003 | 2013 | v10 | supercar | 4500 | 14022 | LP560-4; Gallardo Spyder | y
+Gallardo | | Superleggera | 2007 | 2013 | v10 | supercar | 400 | | LP570-4 Superleggera; Super Trofeo Stradale | y
+Reventón | | | 2008 | 2010 | v12 | supercar | 10 | 36 | Reventon; Reventon Roadster | y
+Sesto Elemento | | | 2011 | 2012 | v10 | supercar | 4 | 20 | | y
+Aventador | | | 2011 | 2022 | v12 | supercar | 4500 | 11465 | LP700-4; Aventador S; Aventador Ultimae; Aventador Roadster | y
+Aventador | | SV | 2015 | 2017 | v12 | supercar | 350 | 1100 | LP750-4 SV; Aventador Superveloce | y
+Aventador | | SVJ | 2018 | 2021 | v12 | supercar | 500 | | LP770-4 SVJ | y
+Veneno | | | 2013 | 2014 | v12 | supercar | 4 | 13 | Veneno Roadster | y
+Huracán | | | 2014 | 2024 | v10 | supercar | 10000 | | Huracan; LP610-4; Huracan EVO; Huracan Tecnica; Huracan Spyder | y
+Huracán | | Performante | 2017 | 2019 | v10 | supercar | 1200 | | Huracan Performante | y
+Huracán | | STO | 2021 | 2024 | v10 | supercar | 700 | | Huracan STO | y
+Huracán | | Sterrato | 2023 | 2024 | v10 | supercar | 450 | 1499 | Huracan Sterrato | y
+Centenario | | | 2016 | 2017 | v12 | supercar | 15 | 40 | LP770-4 Centenario; Centenario Roadster | y
+Urus | | | 2018 | | v8 | suv | 11000 | | Urus S; Urus Performante; Urus SE | y
+Sián | | | 2020 | 2022 | v12 | supercar | 25 | 82 | Sian; Sian FKP 37; Sian Roadster | y
+Countach | LPI 800-4 | | 2022 | 2022 | v12 | supercar | 40 | 112 | new Countach | y
+Revuelto | | | 2023 | | v12 | supercar | 1000 | | | y
+Temerario | | | 2025 | | v8 | supercar | 500 | | | y
+Fenomeno | | | 2026 | | v12 | supercar | 2 | 29 | | y

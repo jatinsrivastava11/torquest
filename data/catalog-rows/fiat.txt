@@ -1,0 +1,12 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+500 | Nuova 500 | | 1957 | 1975 | i3 | hatchback | 4000 | 3893294 | classic 500; Cinquecento; Fiat 500 F; 500 L classic | y
+124 Spider | 1st gen | | 1966 | 1985 | i4 | convertible | 15000 | 198000 | Spider 2000; Pininfarina Spider Europa; Spider Azzurra; classic 124 Spider
+X1/9 | | | 1972 | 1989 | i4 | coupe | 6000 | 160000 | X19; Bertone X1/9
+131 | | | 1975 | 1981 | i4 | sedan | 150 | | Brava; 131 Brava; Super Brava
+Strada | | | 1979 | 1982 | i4 | hatchback | 150 | | Ritmo
+500 | 312 | | 2012 | 2019 | i4 | hatchback | 150000 | | 500c; 500 Pop; 500 Lounge; 500e (2013-2019)
+500 | 312 | Abarth | 2012 | 2019 | i4 | hatchback | 20000 | | 500 Abarth; Abarth 500; 595; 695 | y
+500L | | | 2014 | 2020 | i4 | hatchback | 25000 | | 500 L
+500X | | | 2016 | 2023 | i4 | suv | 55000 | | 500 X
+124 Spider | 2nd gen | | 2017 | 2020 | i4 | convertible | 15000 | | 124 Spider Abarth; Abarth 124 Spider; 124 Lusso
+500 | 332 | | 2024 | | electric | hatchback | 1500 | | 500e; new 500e

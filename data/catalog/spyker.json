@@ -1,0 +1,6 @@
+{
+  "make": "Spyker",
+  "cars": [
+    {"id":"spyker-c8","model":"C8","generation":"C8","years":[2000,2014],"engine":"v8","body":"supercar","naOnRoad":60,"built":267,"aliases":["C8 Laviolette","C8 Spyder","C8 Aileron","C8 Preliator"],"hype":true}
+  ]
+}

@@ -1,0 +1,11 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+CC8S | | | 2002 | 2003 | v8 | supercar | 1 | 6 | | y
+CCR | | | 2004 | 2006 | v8 | supercar | 1 | 14 | | y
+CCX | | | 2006 | 2010 | v8 | supercar | 10 | | CCXR; CCXR Trevita; CCX Edition; CCXR Edition | y
+Agera | | | 2011 | 2018 | v8 | supercar | 25 | 85 | Agera R; Agera S; Agera RS; Agera Final | y
+One:1 | | | 2014 | 2015 | v8 | supercar | 1 | 7 | One1; One 1 | y
+Regera | | | 2016 | 2022 | v8 | supercar | 25 | 80 | | y
+Jesko | | | 2022 | | v8 | supercar | 35 | 125 | Jesko Absolut; Jesko Attack | y
+CC850 | | | 2024 | | v8 | supercar | 15 | 70 | | y
+Gemera | | | 2025 | | v8 | supercar | 5 | 300 | Gemera HV8 | y
+Sadair's Spear | | | 2025 | | v8 | supercar | 3 | 30 | Sadairs Spear | y

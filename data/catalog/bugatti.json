@@ -1,0 +1,17 @@
+{
+  "make": "Bugatti",
+  "cars": [
+    {"id":"bugatti-type-35","model":"Type 35","generation":"Type 35","years":[1924,1930],"engine":"i6","body":"convertible","naOnRoad":40,"built":340,"aliases":["Type 35B","Type 35C"],"hype":true},
+    {"id":"bugatti-type-57","model":"Type 57","generation":"Type 57","years":[1934,1940],"engine":"i6","body":"coupe","naOnRoad":80,"built":710,"aliases":["Type 57SC","Atlantic","Atalante"],"hype":true},
+    {"id":"bugatti-eb110","model":"EB110","generation":"EB110","years":[1991,1995],"engine":"v12","body":"supercar","naOnRoad":10,"built":139,"aliases":["EB 110","EB110 GT","EB110 SS"],"hype":true},
+    {"id":"bugatti-veyron","model":"Veyron","generation":"Veyron","years":[2005,2015],"engine":"w16","body":"supercar","naOnRoad":110,"built":450,"aliases":["Veyron 16.4","Veyron Grand Sport","Veyron Super Sport","Vitesse"],"hype":true},
+    {"id":"bugatti-chiron","model":"Chiron","generation":"Chiron","years":[2016,2024],"engine":"w16","body":"supercar","naOnRoad":150,"built":500,"aliases":["Chiron Sport","Chiron Pur Sport"],"hype":true},
+    {"id":"bugatti-chiron-super-sport","model":"Chiron","generation":"Chiron","variant":"Super Sport","years":[2021,2023],"engine":"w16","body":"supercar","naOnRoad":20,"built":90,"aliases":["Chiron Super Sport 300+","Super Sport 300+"],"hype":true},
+    {"id":"bugatti-divo","model":"Divo","generation":"Divo","years":[2019,2021],"engine":"w16","body":"supercar","naOnRoad":8,"built":40,"hype":true},
+    {"id":"bugatti-la-voiture-noire","model":"La Voiture Noire","generation":"La Voiture Noire","years":[2019,2019],"engine":"w16","body":"supercar","naOnRoad":0,"built":1,"hype":true},
+    {"id":"bugatti-centodieci","model":"Centodieci","generation":"Centodieci","years":[2022,2022],"engine":"w16","body":"supercar","naOnRoad":3,"built":10,"hype":true},
+    {"id":"bugatti-bolide","model":"Bolide","generation":"Bolide","years":[2024,2025],"engine":"w16","body":"supercar","naOnRoad":6,"built":40,"hype":true},
+    {"id":"bugatti-mistral","model":"Mistral","generation":"Mistral","years":[2024,2025],"engine":"w16","body":"supercar","naOnRoad":30,"built":99,"aliases":["W16 Mistral"],"hype":true},
+    {"id":"bugatti-tourbillon","model":"Tourbillon","generation":"Tourbillon","years":[2026,null],"engine":"v16","body":"supercar","naOnRoad":3,"hype":true}
+  ]
+}
