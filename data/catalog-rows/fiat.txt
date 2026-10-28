@@ -10,3 +10,28 @@ Strada | | | 1979 | 1982 | i4 | hatchback | 150 | | Ritmo
 500X | | | 2016 | 2023 | i4 | suv | 55000 | | 500 X
 124 Spider | 2nd gen | | 2017 | 2020 | i4 | convertible | 15000 | | 124 Spider Abarth; Abarth 124 Spider; 124 Lusso
 500 | 332 | | 2024 | | electric | hatchback | 1500 | | 500e; new 500e
+# --- Never sold in North America (home market) ---
+Panda | 141 | | 1980 | 2003 | i4 | hatchback | 150 | 4500000 | Panda 4x4; original Panda | | europe:400000
+Panda | 169 | | 2003 | 2012 | i4 | hatchback | 5 | 2200000 | Panda 2nd gen; Panda Cross | | europe:1200000
+Panda | 319 | | 2012 | | i4 | hatchback | 5 | 2500000 | Panda 3rd gen; Pandina | | europe:2300000
+Grande Panda | | | 2025 | | i3 | hatchback | 0 | | Grande Panda Elettrica | | europe:80000
+Punto | 176 | | 1993 | 1999 | i4 | hatchback | 5 | | Punto 1st gen | | europe:150000
+Punto | 188 | | 1999 | 2010 | i4 | hatchback | 5 | | Punto 2nd gen; Punto Classic | | europe:700000
+Punto | 199 | | 2005 | 2018 | i4 | hatchback | 5 | | Grande Punto; Punto Evo | | europe:1800000
+Coupé | | | 1993 | 2000 | i5 | coupe | 10 | 72762 | Fiat Coupe; Coupe 20V Turbo | | europe:12000
+Barchetta | | | 1995 | 2005 | i4 | convertible | 10 | 57700 | | | europe:20000
+Seicento | | | 1998 | 2010 | i4 | hatchback | 5 | 1300000 | 600 (1998) | | europe:250000
+Multipla | | | 1998 | 2010 | i4 | van | 5 | 400000 | | | europe:100000
+Stilo | | | 2001 | 2007 | i4 | hatchback | 0 | | | | europe:150000
+Croma | 194 | | 2005 | 2010 | i4 | wagon | 0 | | | | europe:40000
+Sedici | | | 2006 | 2014 | i4 | suv | 0 | | | | europe:50000
+Bravo | 198 | | 2007 | 2014 | i4 | hatchback | 0 | | | | europe:200000
+Fiorino | 3rd gen | | 2007 | 2024 | i4 | van | 0 | | Qubo; Fiorino Qubo | | europe:400000
+Freemont | | | 2011 | 2016 | i4 | suv | 0 | | | | europe:70000
+Tipo | 356 | | 2015 | | i4 | sedan | 0 | 1000000 | Tipo hatchback; Tipo Station Wagon; Egea; Tipo Cross | | europe:650000
+600 | 2nd gen | | 2023 | | i3 | suv | 0 | | 600e; 600 Hybrid | | europe:70000
+Ducato | 2nd gen | | 1994 | 2006 | i4 | van | 0 | | Ducato 230; Ducato 244 | | europe:300000
+Ducato | 3rd gen | | 2006 | | i4 | van | 0 | | Ducato 250; Ducato X290; E-Ducato | | europe:2500000
+Doblo | 1st gen | | 2000 | 2010 | i4 | van | 0 | | Doblò | | europe:300000
+Doblo | 2nd gen | | 2010 | 2022 | i4 | van | 0 | | Doblò 263 | | europe:700000
+Doblo | 3rd gen | | 2022 | | i4 | van | 0 | | E-Doblò | | europe:120000

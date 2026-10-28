@@ -18,3 +18,17 @@ Giulia | 952 | Quadrifoglio | 2017 | | v6 | sedan | 4000 | | Giulia QV; Giulia Q
 Stelvio | | | 2018 | | i4 | suv | 65000 | | Stelvio Ti; Stelvio Veloce
 Stelvio | | Quadrifoglio | 2018 | | v6 | suv | 3500 | | Stelvio QV; Stelvio Quadrifoglio | y
 Tonale | | | 2023 | | i4 | suv | 15000 | | Tonale PHEV
+# --- Never sold in North America (home market) ---
+Montreal | | | 1970 | 1977 | v8 | coupe | 50 | 3925 | | y | europe:2000
+GTV | 916 | | 1995 | 2005 | v6 | coupe | 10 | 41700 | GTV 916; Alfa GTV | | europe:20000
+Spider | 916 | | 1995 | 2005 | i4 | convertible | 10 | 39000 | Spider 916 | | europe:20000
+156 | | | 1997 | 2007 | i4 | sedan | 20 | 680000 | 156 Sportwagon; 156 GTA | | europe:120000
+166 | | | 1998 | 2007 | v6 | sedan | 5 | 100000 | | | europe:15000
+147 | | | 2000 | 2010 | i4 | hatchback | 10 | 650000 | 147 GTA | | europe:200000
+GT | | | 2003 | 2010 | i4 | coupe | 5 | 80000 | Alfa GT; GT Bertone | | europe:40000
+159 | | | 2005 | 2011 | i4 | sedan | 5 | 250000 | 159 Sportwagon | | europe:150000
+Brera | | | 2005 | 2010 | v6 | coupe | 10 | 21786 | | | europe:15000
+Spider | 939 | | 2006 | 2010 | i4 | convertible | 5 | 12500 | Spider 939; Brera Spider | | europe:9000
+MiTo | | | 2008 | 2018 | i4 | hatchback | 5 | 290000 | Mito | | europe:200000
+Giulietta | 940 | | 2010 | 2020 | i4 | hatchback | 5 | 400000 | Giulietta hatchback | | europe:300000
+Junior | | | 2024 | | i3 | suv | 0 | | Junior Ibrida; Junior Elettrica; Milano (2024) | | europe:60000

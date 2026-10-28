@@ -3,3 +3,14 @@ Stratos | | | 1973 | 1978 | v6 | supercar | 40 | 492 | Stratos HF; Stratos Strad
 037 | | | 1982 | 1983 | i4 | supercar | 10 | 207 | Rally 037; 037 Stradale | y
 Delta S4 | | | 1985 | 1986 | i4 | supercar | 3 | 200 | S4 Stradale; Delta S4 Stradale | y
 Delta Integrale | | | 1987 | 1994 | i4 | hatchback | 400 | 44000 | Delta HF Integrale; Integrale Evo; Delta Integrale Evoluzione; Deltona | y
+# --- Common at home, never sold in North America ---
+Lybra | | | 1999 | 2005 | i4 | sedan | 0 | | Lybra SW | | europe:40000
+Thesis | | | 2002 | 2009 | i5 | sedan | 0 | 16000 | | | europe:5000
+Phedra | | | 2002 | 2010 | i4 | van | 0 | | | | europe:30000
+Ypsilon | 843 | | 2003 | 2011 | i4 | hatchback | 0 | | Ypsilon 2nd gen | | europe:300000
+Musa | | | 2004 | 2012 | i4 | hatchback | 0 | | | | europe:100000
+Delta | 844 | | 2008 | 2014 | i4 | hatchback | 0 | | New Delta | | europe:50000
+Ypsilon | 846 | | 2011 | 2024 | i4 | hatchback | 0 | 1000000 | Ypsilon 3rd gen | | europe:800000
+Thema | 2nd gen | | 2011 | 2014 | v6 | sedan | 0 | | Thema (Chrysler 300) | | europe:5000
+Voyager | | | 2011 | 2015 | v6 | van | 0 | | Lancia Voyager | | europe:8000
+Ypsilon | 4th gen | | 2024 | | i3 | hatchback | 0 | | new Ypsilon; Ypsilon HF | | europe:40000

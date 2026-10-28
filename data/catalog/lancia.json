@@ -4,6 +4,16 @@
     {"id":"lancia-stratos","model":"Stratos","generation":"Stratos","years":[1973,1978],"engine":"v6","body":"supercar","naOnRoad":40,"built":492,"aliases":["Stratos HF","Stratos Stradale"],"hype":true},
     {"id":"lancia-037","model":"037","generation":"037","years":[1982,1983],"engine":"i4","body":"supercar","naOnRoad":10,"built":207,"aliases":["Rally 037","037 Stradale"],"hype":true},
     {"id":"lancia-delta-s4","model":"Delta S4","generation":"Delta S4","years":[1985,1986],"engine":"i4","body":"supercar","naOnRoad":3,"built":200,"aliases":["S4 Stradale","Delta S4 Stradale"],"hype":true},
-    {"id":"lancia-delta-integrale","model":"Delta Integrale","generation":"Delta Integrale","years":[1987,1994],"engine":"i4","body":"hatchback","naOnRoad":400,"built":44000,"aliases":["Delta HF Integrale","Integrale Evo","Delta Integrale Evoluzione","Deltona"],"hype":true}
+    {"id":"lancia-delta-integrale","model":"Delta Integrale","generation":"Delta Integrale","years":[1987,1994],"engine":"i4","body":"hatchback","naOnRoad":400,"built":44000,"aliases":["Delta HF Integrale","Integrale Evo","Delta Integrale Evoluzione","Deltona"],"hype":true},
+    {"id":"lancia-lybra","model":"Lybra","generation":"Lybra","years":[1999,2005],"engine":"i4","body":"sedan","naOnRoad":0,"aliases":["Lybra SW"],"home":{"market":"europe","onRoad":40000}},
+    {"id":"lancia-thesis","model":"Thesis","generation":"Thesis","years":[2002,2009],"engine":"i5","body":"sedan","naOnRoad":0,"built":16000,"home":{"market":"europe","onRoad":5000}},
+    {"id":"lancia-phedra","model":"Phedra","generation":"Phedra","years":[2002,2010],"engine":"i4","body":"van","naOnRoad":0,"home":{"market":"europe","onRoad":30000}},
+    {"id":"lancia-ypsilon-843","model":"Ypsilon","generation":"843","years":[2003,2011],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Ypsilon 2nd gen"],"home":{"market":"europe","onRoad":300000}},
+    {"id":"lancia-musa","model":"Musa","generation":"Musa","years":[2004,2012],"engine":"i4","body":"hatchback","naOnRoad":0,"home":{"market":"europe","onRoad":100000}},
+    {"id":"lancia-delta-844","model":"Delta","generation":"844","years":[2008,2014],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["New Delta"],"home":{"market":"europe","onRoad":50000}},
+    {"id":"lancia-ypsilon-846","model":"Ypsilon","generation":"846","years":[2011,2024],"engine":"i4","body":"hatchback","naOnRoad":0,"built":1000000,"aliases":["Ypsilon 3rd gen"],"home":{"market":"europe","onRoad":800000}},
+    {"id":"lancia-thema-2nd-gen","model":"Thema","generation":"2nd gen","years":[2011,2014],"engine":"v6","body":"sedan","naOnRoad":0,"aliases":["Thema (Chrysler 300)"],"home":{"market":"europe","onRoad":5000}},
+    {"id":"lancia-voyager","model":"Voyager","generation":"Voyager","years":[2011,2015],"engine":"v6","body":"van","naOnRoad":0,"aliases":["Lancia Voyager"],"home":{"market":"europe","onRoad":8000}},
+    {"id":"lancia-ypsilon-4th-gen","model":"Ypsilon","generation":"4th gen","years":[2024,null],"engine":"i3","body":"hatchback","naOnRoad":0,"aliases":["new Ypsilon","Ypsilon HF"],"home":{"market":"europe","onRoad":40000}}
   ]
 }

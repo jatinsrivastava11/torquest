@@ -19,6 +19,19 @@
     {"id":"alfa-romeo-giulia-952-quadrifoglio","model":"Giulia","generation":"952","variant":"Quadrifoglio","years":[2017,null],"engine":"v6","body":"sedan","naOnRoad":4000,"aliases":["Giulia QV","Giulia Quadrifoglio"],"hype":true},
     {"id":"alfa-romeo-stelvio","model":"Stelvio","generation":"Stelvio","years":[2018,null],"engine":"i4","body":"suv","naOnRoad":65000,"aliases":["Stelvio Ti","Stelvio Veloce"]},
     {"id":"alfa-romeo-stelvio-quadrifoglio","model":"Stelvio","generation":"Stelvio","variant":"Quadrifoglio","years":[2018,null],"engine":"v6","body":"suv","naOnRoad":3500,"aliases":["Stelvio QV","Stelvio Quadrifoglio"],"hype":true},
-    {"id":"alfa-romeo-tonale","model":"Tonale","generation":"Tonale","years":[2023,null],"engine":"i4","body":"suv","naOnRoad":15000,"aliases":["Tonale PHEV"]}
+    {"id":"alfa-romeo-tonale","model":"Tonale","generation":"Tonale","years":[2023,null],"engine":"i4","body":"suv","naOnRoad":15000,"aliases":["Tonale PHEV"]},
+    {"id":"alfa-romeo-montreal","model":"Montreal","generation":"Montreal","years":[1970,1977],"engine":"v8","body":"coupe","naOnRoad":50,"built":3925,"hype":true,"home":{"market":"europe","onRoad":2000}},
+    {"id":"alfa-romeo-gtv-916","model":"GTV","generation":"916","years":[1995,2005],"engine":"v6","body":"coupe","naOnRoad":10,"built":41700,"aliases":["GTV 916","Alfa GTV"],"home":{"market":"europe","onRoad":20000}},
+    {"id":"alfa-romeo-spider-916","model":"Spider","generation":"916","years":[1995,2005],"engine":"i4","body":"convertible","naOnRoad":10,"built":39000,"aliases":["Spider 916"],"home":{"market":"europe","onRoad":20000}},
+    {"id":"alfa-romeo-156","model":"156","generation":"156","years":[1997,2007],"engine":"i4","body":"sedan","naOnRoad":20,"built":680000,"aliases":["156 Sportwagon","156 GTA"],"home":{"market":"europe","onRoad":120000}},
+    {"id":"alfa-romeo-166","model":"166","generation":"166","years":[1998,2007],"engine":"v6","body":"sedan","naOnRoad":5,"built":100000,"home":{"market":"europe","onRoad":15000}},
+    {"id":"alfa-romeo-147","model":"147","generation":"147","years":[2000,2010],"engine":"i4","body":"hatchback","naOnRoad":10,"built":650000,"aliases":["147 GTA"],"home":{"market":"europe","onRoad":200000}},
+    {"id":"alfa-romeo-gt","model":"GT","generation":"GT","years":[2003,2010],"engine":"i4","body":"coupe","naOnRoad":5,"built":80000,"aliases":["Alfa GT","GT Bertone"],"home":{"market":"europe","onRoad":40000}},
+    {"id":"alfa-romeo-159","model":"159","generation":"159","years":[2005,2011],"engine":"i4","body":"sedan","naOnRoad":5,"built":250000,"aliases":["159 Sportwagon"],"home":{"market":"europe","onRoad":150000}},
+    {"id":"alfa-romeo-brera","model":"Brera","generation":"Brera","years":[2005,2010],"engine":"v6","body":"coupe","naOnRoad":10,"built":21786,"home":{"market":"europe","onRoad":15000}},
+    {"id":"alfa-romeo-spider-939","model":"Spider","generation":"939","years":[2006,2010],"engine":"i4","body":"convertible","naOnRoad":5,"built":12500,"aliases":["Spider 939","Brera Spider"],"home":{"market":"europe","onRoad":9000}},
+    {"id":"alfa-romeo-mito","model":"MiTo","generation":"MiTo","years":[2008,2018],"engine":"i4","body":"hatchback","naOnRoad":5,"built":290000,"aliases":["Mito"],"home":{"market":"europe","onRoad":200000}},
+    {"id":"alfa-romeo-giulietta-940","model":"Giulietta","generation":"940","years":[2010,2020],"engine":"i4","body":"hatchback","naOnRoad":5,"built":400000,"aliases":["Giulietta hatchback"],"home":{"market":"europe","onRoad":300000}},
+    {"id":"alfa-romeo-junior","model":"Junior","generation":"Junior","years":[2024,null],"engine":"i3","body":"suv","naOnRoad":0,"aliases":["Junior Ibrida","Junior Elettrica","Milano (2024)"],"home":{"market":"europe","onRoad":60000}}
   ]
 }
