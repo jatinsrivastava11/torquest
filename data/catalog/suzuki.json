@@ -1,0 +1,25 @@
+{
+  "make": "Suzuki",
+  "cars": [
+    {"id":"suzuki-jimny-sj","model":"Jimny","generation":"SJ","years":[1981,1998],"engine":"i4","body":"suv","naOnRoad":20000,"aliases":["Samurai","Suzuki Samurai","SJ410","SJ413","JA11","Jimny SJ"]},
+    {"id":"suzuki-jimny-jb23","model":"Jimny","generation":"JB23","years":[1998,2018],"engine":"i3","body":"suv","naOnRoad":1500,"aliases":["Jimny JB23","JB33","Jimny Sierra"]},
+    {"id":"suzuki-sidekick","model":"Sidekick","generation":"Sidekick","years":[1989,1998],"engine":"i4","body":"suv","naOnRoad":15000,"aliases":["Vitara","Escudo","Geo Tracker"]},
+    {"id":"suzuki-grand-vitara-2nd-gen","model":"Grand Vitara","generation":"2nd gen","years":[1999,2005],"engine":"v6","body":"suv","naOnRoad":10000,"aliases":["Vitara","Escudo"]},
+    {"id":"suzuki-grand-vitara-3rd-gen","model":"Grand Vitara","generation":"3rd gen","years":[2006,2013],"engine":"i4","body":"suv","naOnRoad":20000,"aliases":["Escudo"]},
+    {"id":"suzuki-xl-7-1st-gen","model":"XL-7","generation":"1st gen","years":[2001,2006],"engine":"v6","body":"suv","naOnRoad":3000,"aliases":["XL7","Grand Vitara XL-7"]},
+    {"id":"suzuki-xl-7-2nd-gen","model":"XL-7","generation":"2nd gen","years":[2007,2009],"engine":"v6","body":"suv","naOnRoad":5000,"aliases":["XL7"]},
+    {"id":"suzuki-x-90","model":"X-90","generation":"X-90","years":[1996,1998],"engine":"i4","body":"suv","naOnRoad":1500,"built":7205,"aliases":["X90"]},
+    {"id":"suzuki-swift-2nd-gen","model":"Swift","generation":"2nd gen","years":[1989,1994],"engine":"i4","body":"hatchback","naOnRoad":1000,"aliases":["Cultus","Swift GT","Swift GTi"]},
+    {"id":"suzuki-swift-3rd-gen","model":"Swift","generation":"3rd gen","years":[1995,2001],"engine":"i4","body":"hatchback","naOnRoad":2000,"aliases":["Cultus","Geo Metro"]},
+    {"id":"suzuki-esteem","model":"Esteem","generation":"Esteem","years":[1995,2002],"engine":"i4","body":"sedan","naOnRoad":2000,"aliases":["Baleno (1st gen)","Cultus Crescent"]},
+    {"id":"suzuki-aerio","model":"Aerio","generation":"Aerio","years":[2002,2007],"engine":"i4","body":"hatchback","naOnRoad":6000,"aliases":["Liana"]},
+    {"id":"suzuki-forenza","model":"Forenza","generation":"Forenza","years":[2004,2008],"engine":"i4","body":"sedan","naOnRoad":4000,"aliases":["Daewoo Lacetti"]},
+    {"id":"suzuki-reno","model":"Reno","generation":"Reno","years":[2005,2008],"engine":"i4","body":"hatchback","naOnRoad":2000},
+    {"id":"suzuki-verona","model":"Verona","generation":"Verona","years":[2004,2006],"engine":"i6","body":"sedan","naOnRoad":1000,"aliases":["Daewoo Magnus"]},
+    {"id":"suzuki-sx4","model":"SX4","generation":"SX4","years":[2007,2013],"engine":"i4","body":"hatchback","naOnRoad":25000,"aliases":["SX4 Crossover","SX4 Sport"]},
+    {"id":"suzuki-kizashi","model":"Kizashi","generation":"Kizashi","years":[2010,2013],"engine":"i4","body":"sedan","naOnRoad":12000},
+    {"id":"suzuki-equator","model":"Equator","generation":"Equator","years":[2009,2012],"engine":"v6","body":"pickup","naOnRoad":2000},
+    {"id":"suzuki-cappuccino","model":"Cappuccino","generation":"Cappuccino","years":[1991,1997],"engine":"i3","body":"convertible","naOnRoad":1000,"built":28010},
+    {"id":"suzuki-carry","model":"Carry","generation":"Carry","years":[1985,1999],"engine":"i3","body":"pickup","naOnRoad":15000,"aliases":["Carry kei truck","Every"]}
+  ]
+}

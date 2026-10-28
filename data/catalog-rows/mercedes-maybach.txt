@@ -1,0 +1,8 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases(;) | hype(y)
+S-Class | X222 | | 2015 | 2020 | v8 | sedan | 9000 | | S 560 Maybach;S 650 Maybach;S-Class Maybach;Maybach S 560;Maybach S 650 | y
+S-Class | Z223 | | 2021 | | v8 | sedan | 8000 | | S 580 Maybach;S 680 Maybach;S-Class Maybach;Maybach S 580;Maybach S 680 | y
+S 650 Cabriolet | | | 2016 | 2017 | v12 | convertible | 60 | 300 | Maybach S 650 Cabriolet;A217 Maybach | y
+GLS | | | 2020 | | v8 | suv | 12000 | | GLS 600;Maybach GLS;Maybach GLS 600;X167 Maybach | y
+EQS SUV | | | 2023 | | electric | suv | 2000 | | EQS 680 SUV;Maybach EQS SUV | y
+SL 680 | | | 2025 | | v8 | convertible | 500 | | Maybach SL;SL 680 Monogram Series;R232 Maybach | y
+G 650 Landaulet | | | 2017 | 2017 | v12 | suv | 5 | 99 | Maybach G 650 Landaulet;G650 Landaulet | y

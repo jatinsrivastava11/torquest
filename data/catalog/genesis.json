@@ -1,0 +1,14 @@
+{
+  "make": "Genesis",
+  "cars": [
+    {"id":"genesis-g70","model":"G70","generation":"G70","years":[2019,null],"engine":"v6","body":"sedan","naOnRoad":60000},
+    {"id":"genesis-g80-dh","model":"G80","generation":"DH","years":[2017,2020],"engine":"v6","body":"sedan","naOnRoad":40000,"aliases":["Hyundai Genesis"]},
+    {"id":"genesis-g80-rg3","model":"G80","generation":"RG3","years":[2021,null],"engine":"v6","body":"sedan","naOnRoad":60000,"aliases":["Electrified G80"]},
+    {"id":"genesis-g90-hi","model":"G90","generation":"HI","years":[2017,2022],"engine":"v6","body":"sedan","naOnRoad":8000,"aliases":["EQ900"]},
+    {"id":"genesis-g90-rs4","model":"G90","generation":"RS4","years":[2023,null],"engine":"v6","body":"sedan","naOnRoad":4000},
+    {"id":"genesis-gv60","model":"GV60","generation":"GV60","years":[2023,null],"engine":"electric","body":"suv","naOnRoad":15000,"aliases":["GV60 Magma"]},
+    {"id":"genesis-gv70","model":"GV70","generation":"GV70","years":[2022,null],"engine":"i4","body":"suv","naOnRoad":120000,"aliases":["Electrified GV70"]},
+    {"id":"genesis-gv80","model":"GV80","generation":"GV80","years":[2021,null],"engine":"i4","body":"suv","naOnRoad":100000},
+    {"id":"genesis-gv80-coupe","model":"GV80","generation":"GV80","variant":"Coupe","years":[2025,null],"engine":"i4","body":"suv","naOnRoad":10000,"aliases":["GV80 Coupe"]}
+  ]
+}

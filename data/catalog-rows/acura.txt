@@ -1,0 +1,42 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Legend | 1st gen | | 1986 | 1990 | v6 | sedan | 2000 | | Legend coupe
+Legend | 2nd gen | | 1991 | 1995 | v6 | sedan | 4000 | | Legend coupe
+Integra | 1st gen | | 1986 | 1989 | i4 | hatchback | 1500 | | DA
+Integra | 2nd gen | | 1990 | 1993 | i4 | coupe | 6000 | | DA9; DB1; Integra GS-R
+Integra | 3rd gen | | 1994 | 2001 | i4 | coupe | 25000 | | DC2; DB8; Integra GS-R
+Integra | 3rd gen | Type R | 1997 | 2001 | i4 | coupe | 3000 | | DC2 Type R; ITR | y
+Integra | 5th gen | | 2023 | | i4 | hatchback | 90000 | | DE4
+Integra | 5th gen | Type R | 2024 | | i4 | hatchback | 5000 | | DE5; Integra Type S | y
+RSX | | | 2002 | 2006 | i4 | coupe | 40000 | | DC5; RSX Type-S; Integra DC5
+EL | | | 1997 | 2005 | i4 | sedan | 15000 | | 1.6EL; 1.7EL
+CSX | | | 2006 | 2011 | i4 | sedan | 15000 | | CSX Type-S
+Vigor | | | 1992 | 1994 | i5 | sedan | 1000 | | 
+TL | 1st gen | | 1996 | 1998 | i5 | sedan | 3000 | | 2.5TL; 3.2TL
+TL | 2nd gen | | 1999 | 2003 | v6 | sedan | 25000 | | 3.2TL; TL Type-S
+TL | 3rd gen | | 2004 | 2008 | v6 | sedan | 100000 | | TL Type-S
+TL | 4th gen | | 2009 | 2014 | v6 | sedan | 120000 | | TL SH-AWD
+CL | 1st gen | | 1997 | 1999 | i4 | coupe | 3000 | | 2.3CL; 3.0CL
+CL | 2nd gen | | 2001 | 2003 | v6 | coupe | 15000 | | CL Type-S
+TSX | 1st gen | | 2004 | 2008 | i4 | sedan | 80000 | | CL9; Accord Euro
+TSX | 2nd gen | | 2009 | 2014 | i4 | sedan | 100000 | | CU2
+TSX | 2nd gen | Sport Wagon | 2011 | 2014 | i4 | wagon | 6000 | | TSX wagon
+ILX | | | 2013 | 2022 | i4 | sedan | 150000 | | 
+TLX | 1st gen | | 2015 | 2020 | i4 | sedan | 200000 | | 
+TLX | 2nd gen | | 2021 | | i4 | sedan | 120000 | | TLX Type S
+RL | 1st gen | | 1996 | 2004 | v6 | sedan | 6000 | | 3.5RL
+RL | 2nd gen | | 2005 | 2012 | v6 | sedan | 15000 | | 
+RLX | | | 2014 | 2020 | v6 | sedan | 12000 | | 
+SLX | | | 1996 | 1999 | v6 | suv | 200 | | Isuzu Trooper
+MDX | 1st gen | | 2001 | 2006 | v6 | suv | 80000 | | 
+MDX | 2nd gen | | 2007 | 2013 | v6 | suv | 200000 | | 
+MDX | 3rd gen | | 2014 | 2020 | v6 | suv | 400000 | | 
+MDX | 4th gen | | 2022 | | v6 | suv | 250000 | | MDX Type S
+RDX | 1st gen | | 2007 | 2012 | i4 | suv | 60000 | | 
+RDX | 2nd gen | | 2013 | 2018 | v6 | suv | 250000 | | 
+RDX | 3rd gen | | 2019 | | i4 | suv | 350000 | | 
+ZDX | 1st gen | | 2010 | 2013 | v6 | suv | 4000 | | 
+ZDX | 2nd gen | | 2024 | 2025 | electric | suv | 10000 | | ZDX Type S
+ADX | | | 2025 | | i4 | suv | 20000 | | 
+NSX | NA1 | | 1990 | 2005 | v6 | supercar | 8000 | 18685 | NA2; NSX (first generation); Honda NSX; NSX-T | y
+NSX | NC1 | | 2017 | 2022 | v6 | supercar | 1800 | 2908 | NSX (second generation); Honda NSX | y
+NSX | NC1 | Type S | 2022 | 2022 | v6 | supercar | 280 | 350 | NSX Type S | y

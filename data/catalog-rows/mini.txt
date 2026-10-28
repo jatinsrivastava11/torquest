@@ -1,0 +1,16 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases(;) | hype(y)
+Classic Mini | | | 1959 | 2000 | i4 | hatchback | 12000 | 5300000 | Mini (classic);Mini Cooper (classic);Austin Mini;Morris Mini;Mini Mk1;Rover Mini | y
+Cooper | R50 | | 2001 | 2006 | i4 | hatchback | 90000 | | R53;R52;Cooper S;Mini Hardtop;Cooper Convertible
+Cooper | R56 | | 2006 | 2013 | i4 | hatchback | 180000 | | R57;Cooper S;Mini Hardtop;John Cooper Works;Cooper Convertible
+Cooper | R56 | John Cooper Works GP | 2012 | 2013 | i4 | hatchback | 500 | 2000 | JCW GP;GP2;R56 GP | y
+Cooper | F56 | | 2013 | 2024 | i4 | hatchback | 250000 | | F55;F57;Cooper S;Cooper SE;Mini Hardtop;John Cooper Works;Mini Electric
+Cooper | F56 | John Cooper Works GP | 2020 | 2021 | i4 | hatchback | 900 | 3000 | JCW GP;GP3;F56 GP | y
+Cooper | F66 | | 2024 | | i4 | hatchback | 25000 | | J01;F67;Cooper S;Mini Hardtop;Cooper Convertible
+Coupe | | | 2011 | 2015 | i4 | coupe | 6000 | | R58;Mini Coupe;helmet roof
+Roadster | | | 2012 | 2015 | i4 | convertible | 6000 | | R59;Mini Roadster
+Clubman | R55 | | 2007 | 2014 | i4 | wagon | 40000 | | Cooper Clubman;Cooper S Clubman
+Clubman | F54 | | 2015 | 2024 | i4 | wagon | 50000 | | Cooper Clubman;JCW Clubman
+Countryman | R60 | | 2010 | 2016 | i4 | suv | 70000 | | Cooper Countryman;Cooper S Countryman
+Countryman | F60 | | 2017 | 2024 | i4 | suv | 100000 | | Cooper Countryman;Countryman SE ALL4
+Countryman | U25 | | 2023 | | i4 | suv | 20000 | | Countryman S ALL4;Countryman SE
+Paceman | | | 2012 | 2016 | i4 | suv | 12000 | | R61;Cooper Paceman

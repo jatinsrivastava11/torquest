@@ -1,0 +1,10 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+G70 | | | 2019 | | v6 | sedan | 60000 | | 
+G80 | DH | | 2017 | 2020 | v6 | sedan | 40000 | | Hyundai Genesis
+G80 | RG3 | | 2021 | | v6 | sedan | 60000 | | Electrified G80
+G90 | HI | | 2017 | 2022 | v6 | sedan | 8000 | | EQ900
+G90 | RS4 | | 2023 | | v6 | sedan | 4000 | | 
+GV60 | | | 2023 | | electric | suv | 15000 | | GV60 Magma
+GV70 | | | 2022 | | i4 | suv | 120000 | | Electrified GV70
+GV80 | | | 2021 | | i4 | suv | 100000 | | 
+GV80 | GV80 | Coupe | 2025 | | i4 | suv | 10000 | | GV80 Coupe

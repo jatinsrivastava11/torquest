@@ -1,0 +1,51 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Sephia | 1st gen | | 1994 | 1997 | i4 | sedan | 300 | | Mentor
+Sephia | 2nd gen | | 1998 | 2001 | i4 | sedan | 1500 | | Mentor; Shuma
+Spectra | 1st gen | | 2000 | 2004 | i4 | sedan | 3000 | | Shuma; Spectra5
+Spectra | LD | | 2004 | 2009 | i4 | sedan | 15000 | | Cerato; Spectra5
+Rio | DC | | 2001 | 2005 | i4 | sedan | 3000 | | Rio Cinco
+Rio | JB | | 2006 | 2011 | i4 | sedan | 30000 | | Rio5
+Rio | UB | | 2012 | 2017 | i4 | hatchback | 150000 | | Rio5
+Rio | YB | | 2018 | 2023 | i4 | hatchback | 150000 | | Rio5
+Forte | TD | | 2010 | 2013 | i4 | sedan | 150000 | | Cerato; Forte Koup; Forte5
+Forte | YD | | 2014 | 2018 | i4 | sedan | 400000 | | Cerato; Forte Koup; Forte5
+Forte | BD | | 2019 | 2024 | i4 | sedan | 600000 | | Cerato; K3; Forte GT
+K4 | | | 2025 | | i4 | sedan | 150000 | | K4 hatchback
+Optima | MS | | 2001 | 2005 | v6 | sedan | 10000 | | Magentis
+Optima | MG | | 2006 | 2010 | i4 | sedan | 30000 | | Magentis
+Optima | TF | | 2011 | 2015 | i4 | sedan | 400000 | | K5
+Optima | JF | | 2016 | 2020 | i4 | sedan | 600000 | | K5
+K5 | DL3 | | 2021 | | i4 | sedan | 400000 | | Optima; K5 GT
+Amanti | | | 2004 | 2009 | v6 | sedan | 3000 | | Opirus
+Cadenza | VG | | 2014 | 2016 | v6 | sedan | 15000 | | K7
+Cadenza | YG | | 2017 | 2020 | v6 | sedan | 5000 | | K7
+K900 | KH | | 2015 | 2018 | v8 | sedan | 2500 | | K9; Quoris
+K900 | RJ | | 2019 | 2021 | v6 | sedan | 700 | | K9
+Stinger | | | 2018 | 2023 | v6 | sedan | 50000 | | Stinger GT | y
+Soul | AM | | 2010 | 2013 | i4 | hatchback | 200000 | | 
+Soul | PS | | 2014 | 2019 | i4 | hatchback | 500000 | | Soul EV
+Soul | SK3 | | 2020 | 2025 | i4 | hatchback | 300000 | | 
+Rondo | 1st gen | | 2007 | 2012 | i4 | van | 10000 | | Carens
+Rondo | 2nd gen | | 2014 | 2017 | i4 | van | 15000 | | Carens
+Sedona | 1st gen | | 2002 | 2005 | v6 | van | 15000 | | Carnival
+Sedona | VQ | | 2006 | 2014 | v6 | van | 60000 | | Carnival
+Sedona | YP | | 2015 | 2021 | v6 | van | 150000 | | Carnival
+Carnival | KA4 | | 2022 | | v6 | van | 200000 | | Carnival Hybrid
+Sportage | 1st gen | | 1995 | 2002 | i4 | suv | 3000 | | 
+Sportage | KM | | 2005 | 2010 | i4 | suv | 30000 | | 
+Sportage | SL | | 2011 | 2016 | i4 | suv | 200000 | | 
+Sportage | QL | | 2017 | 2022 | i4 | suv | 500000 | | 
+Sportage | NQ5 | | 2023 | | i4 | suv | 400000 | | Sportage Hybrid
+Sorento | BL | | 2003 | 2009 | v6 | suv | 40000 | | 
+Sorento | XM | | 2011 | 2015 | v6 | suv | 300000 | | 
+Sorento | UM | | 2016 | 2020 | v6 | suv | 400000 | | 
+Sorento | MQ4 | | 2021 | | i4 | suv | 400000 | | Sorento Hybrid
+Borrego | | | 2009 | 2011 | v6 | suv | 3000 | | Mohave
+Telluride | 1st gen | | 2020 | 2025 | v6 | suv | 650000 | | 
+Telluride | 2nd gen | | 2026 | | v6 | suv | 50000 | | Telluride Hybrid; Telluride X-Pro
+Seltos | | | 2021 | | i4 | suv | 250000 | | 
+Niro | DE | | 2017 | 2022 | i4 | suv | 150000 | | Niro EV; Niro PHEV
+Niro | SG2 | | 2023 | | i4 | suv | 80000 | | Niro EV
+EV6 | | | 2022 | | electric | suv | 100000 | | 
+EV6 | EV6 | GT | 2023 | | electric | suv | 3000 | | EV6 GT | y
+EV9 | | | 2024 | | electric | suv | 50000 | | 

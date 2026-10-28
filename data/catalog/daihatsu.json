@@ -1,0 +1,9 @@
+{
+  "make": "Daihatsu",
+  "cars": [
+    {"id":"daihatsu-charade","model":"Charade","generation":"Charade","years":[1988,1992],"engine":"i3","body":"hatchback","naOnRoad":200},
+    {"id":"daihatsu-rocky","model":"Rocky","generation":"Rocky","years":[1990,1992],"engine":"i4","body":"suv","naOnRoad":300,"aliases":["Feroza"]},
+    {"id":"daihatsu-hijet","model":"Hijet","generation":"Hijet","years":[1986,1999],"engine":"i3","body":"pickup","naOnRoad":15000,"aliases":["Hijet kei truck","Hijet Jumbo"]},
+    {"id":"daihatsu-copen-1st-gen","model":"Copen","generation":"1st gen","years":[2002,2012],"engine":"i4","body":"convertible","naOnRoad":300,"built":58496,"aliases":["L880K"]}
+  ]
+}

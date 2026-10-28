@@ -1,0 +1,79 @@
+# In North America the GTI, R32 and Golf R are sold as their own models, so they're models here.
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases(;) | hype(y)
+# Classics
+Beetle | Type 1 | | 1938 | 2003 | flat4 | coupe | 150000 | 21529464 | Bug;classic Beetle;Type 1;Käfer;Super Beetle;Beetle convertible | y
+Type 2 | T1 | | 1950 | 1967 | flat4 | van | 8000 | 1800000 | Bus;Microbus;split-window bus;Samba;Kombi;Transporter T1 | y
+Type 2 | T2 | | 1967 | 1979 | flat4 | van | 25000 | 3900000 | Bus;bay window bus;Microbus;Kombi;Westfalia;Transporter T2 | y
+Karmann Ghia | | | 1955 | 1974 | flat4 | coupe | 15000 | 445000 | Type 14;Karmann Ghia convertible | y
+Thing | | | 1968 | 1983 | flat4 | convertible | 5000 | | Type 181;Kurierwagen;Safari | y
+# Golf family
+Golf | Mk1 | | 1974 | 1984 | i4 | hatchback | 6000 | | Rabbit;Rabbit Diesel;Golf I
+Golf | Mk2 | | 1983 | 1992 | i4 | hatchback | 25000 | 6300000 | Golf II
+Golf | Mk3 | | 1991 | 1999 | i4 | hatchback | 40000 | 4800000 | Golf III;Golf III TDI
+Golf | Mk4 | | 1997 | 2006 | i4 | hatchback | 150000 | | Golf IV;Golf TDI;City Golf
+Golf | Mk5 | | 2003 | 2009 | i4 | hatchback | 60000 | | Rabbit;Golf V
+Golf | Mk6 | | 2008 | 2014 | i4 | hatchback | 90000 | | Golf VI;Golf TDI
+Golf | Mk7 | | 2012 | 2021 | i4 | hatchback | 230000 | | Golf VII;e-Golf;Golf TSI
+Golf | Mk7 | SportWagen | 2015 | 2019 | i4 | wagon | 50000 | | Golf SportWagen;Golf Variant;Golf wagon
+Golf | Mk7 | Alltrack | 2017 | 2019 | i4 | wagon | 30000 | | Golf Alltrack
+GTI | Mk1 | | 1976 | 1984 | i4 | hatchback | 1500 | | Rabbit GTI;Golf GTI Mk1 | y
+GTI | Mk2 | | 1984 | 1992 | i4 | hatchback | 5000 | | Golf GTI Mk2;GTI 16V | y
+GTI | Mk3 | | 1992 | 1999 | v6 | hatchback | 5000 | | Golf GTI Mk3;GTI VR6 | y
+GTI | Mk4 | | 1998 | 2005 | i4 | hatchback | 30000 | | Golf GTI Mk4;GTI 1.8T;GTI VR6;GTI 337 | y
+GTI | Mk5 | | 2004 | 2009 | i4 | hatchback | 40000 | | Golf GTI Mk5;GTI Fahrenheit | y
+GTI | Mk6 | | 2009 | 2014 | i4 | hatchback | 70000 | | Golf GTI Mk6 | y
+GTI | Mk7 | | 2013 | 2021 | i4 | hatchback | 150000 | | Golf GTI Mk7;GTI Autobahn | y
+GTI | Mk8 | | 2020 | | i4 | hatchback | 60000 | | Golf GTI Mk8 | y
+R32 | Mk4 | | 2002 | 2004 | v6 | hatchback | 4000 | | Golf R32;Golf R32 (Mk4) | y
+R32 | Mk5 | | 2005 | 2009 | v6 | hatchback | 3500 | | Golf R32;Golf R32 (Mk5) | y
+Golf R | Mk6 | | 2010 | 2013 | i4 | hatchback | 4500 | | Golf R Mk6 | y
+Golf R | Mk7 | | 2014 | 2019 | i4 | hatchback | 15000 | | Golf R Mk7 | y
+Golf R | Mk8 | | 2021 | | i4 | hatchback | 12000 | | Golf R Mk8;Golf R 20th Anniversary | y
+Rabbit Pickup | | | 1979 | 1983 | i4 | pickup | 3000 | | Caddy;Caddy Mk1;Rabbit truck
+Cabriolet | | | 1979 | 1993 | i4 | convertible | 12000 | 388522 | Rabbit Cabriolet;Golf Cabriolet Mk1;Golf I Cabriolet
+Cabrio | | | 1993 | 2002 | i4 | convertible | 15000 | | Golf Cabrio;Golf III Cabriolet
+Scirocco | Mk1 | | 1974 | 1981 | i4 | coupe | 1500 | 504153 | Scirocco I
+Scirocco | Mk2 | | 1981 | 1992 | i4 | coupe | 3000 | 291497 | Scirocco II;Scirocco 16V
+Corrado | | | 1988 | 1995 | v6 | coupe | 4000 | 97521 | Corrado VR6;Corrado G60
+Fox | | | 1987 | 1993 | i4 | sedan | 2000 | | Voyage;Fox wagon
+# Jetta
+Jetta | Mk1 | | 1979 | 1984 | i4 | sedan | 3000 | | Jetta I
+Jetta | Mk2 | | 1984 | 1992 | i4 | sedan | 20000 | | Jetta II;Jetta GLI 16V
+Jetta | Mk3 | | 1992 | 1999 | i4 | sedan | 30000 | | Jetta III;Vento;Jetta GLX
+Jetta | Mk4 | | 1999 | 2005 | i4 | sedan | 200000 | | Jetta IV;Bora;Jetta TDI;Jetta wagon
+Jetta | Mk5 | | 2005 | 2010 | i4 | sedan | 250000 | | Jetta V;Jetta TDI;Jetta GLI
+Jetta | Mk5 | SportWagen | 2009 | 2014 | i4 | wagon | 50000 | | Jetta SportWagen;Jetta wagon;Golf Variant
+Jetta | Mk6 | | 2010 | 2018 | i4 | sedan | 1100000 | | Jetta VI;Jetta TDI;Jetta Hybrid
+Jetta | Mk6 | GLI | 2011 | 2018 | i4 | sedan | 30000 | | Jetta GLI Mk6 | y
+Jetta | Mk7 | | 2018 | | i4 | sedan | 600000 | | Jetta VII
+Jetta | Mk7 | GLI | 2018 | | i4 | sedan | 50000 | | Jetta GLI Mk7 | y
+# Passat family
+Dasher | | | 1973 | 1981 | i4 | sedan | 800 | | Passat B1
+Quantum | | | 1981 | 1988 | i4 | sedan | 2000 | | Passat B2;Quantum Syncro;Quantum wagon
+Passat | B3 | | 1988 | 1993 | i4 | sedan | 4000 | | Passat B3;Passat GLX VR6
+Passat | B4 | | 1993 | 1997 | i4 | sedan | 5000 | | Passat B4;Passat TDI
+Passat | B5 | | 1996 | 2005 | i4 | sedan | 80000 | | Passat B5;Passat 1.8T;Passat W8;Passat wagon
+Passat | B6 | | 2005 | 2010 | i4 | sedan | 70000 | | Passat B6;Passat 2.0T;Passat wagon
+Passat | NMS | | 2011 | 2022 | i4 | sedan | 450000 | | Passat B7 NMS;A32;Chattanooga Passat;Passat TDI
+CC | | | 2008 | 2017 | i4 | sedan | 150000 | | Passat CC
+Arteon | | | 2017 | 2024 | i4 | sedan | 25000 | | Arteon SEL R-Line
+Phaeton | | | 2002 | 2016 | w12 | sedan | 2500 | 84235 | Phaeton V8;Phaeton W12
+Eos | | | 2006 | 2016 | i4 | convertible | 50000 | | Eos Komfort
+# Beetle (modern)
+Beetle | New Beetle | | 1997 | 2011 | i4 | hatchback | 250000 | 1000000 | New Beetle;A4 Beetle;New Beetle convertible
+Beetle | A5 | | 2011 | 2019 | i4 | hatchback | 200000 | | Beetle A5;Beetle convertible;Beetle Turbo;21st Century Beetle
+# Vans
+Vanagon | T3 | | 1979 | 1991 | flat4 | van | 30000 | | Transporter;Transporter T3;Type 2 T3;Westfalia;Vanagon Syncro
+EuroVan | T4 | | 1990 | 2003 | i5 | van | 15000 | | Transporter;Transporter T4;EuroVan Camper;Multivan
+Routan | | | 2008 | 2014 | v6 | van | 30000 | | Routan SE
+ID. Buzz | | | 2022 | | electric | van | 10000 | | ID Buzz;Buzz
+# SUVs
+Touareg | 1st gen | | 2002 | 2010 | v6 | suv | 50000 | | 7L;Touareg V8;Touareg TDI;Touareg V10 TDI
+Touareg | 2nd gen | | 2010 | 2018 | v6 | suv | 40000 | | 7P;Touareg TDI;Touareg Hybrid
+Tiguan | 1st gen | | 2007 | 2018 | i4 | suv | 200000 | | 5N;Tiguan Limited
+Tiguan | 2nd gen | | 2016 | 2024 | i4 | suv | 600000 | | AD1;BW2;Tiguan Allspace
+Tiguan | 3rd gen | | 2024 | | i4 | suv | 50000 | | CT1
+Atlas | | | 2017 | | v6 | suv | 550000 | | CA1;Teramont
+Atlas Cross Sport | | | 2019 | | i4 | suv | 200000 | | Teramont Cross Sport
+Taos | | | 2021 | | i4 | suv | 250000 | | Tharu
+ID.4 | | | 2020 | | electric | suv | 140000 | | ID 4;ID.4 AWD Pro

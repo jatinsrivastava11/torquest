@@ -1,0 +1,20 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+I-Mark | 1st gen | | 1981 | 1985 | i4 | sedan | 50 | | Gemini; Chevrolet Chevette
+I-Mark | 2nd gen | | 1985 | 1989 | i4 | hatchback | 100 | | Gemini; I-Mark RS
+Impulse | 1st gen | | 1983 | 1989 | i4 | coupe | 300 | | Piazza; Impulse Turbo
+Impulse | 2nd gen | | 1990 | 1992 | i4 | coupe | 200 | | Piazza; Geo Storm
+Stylus | | | 1991 | 1993 | i4 | sedan | 100 | | Gemini
+Pickup | 1st gen | | 1981 | 1987 | i4 | pickup | 1000 | | P'up; Faster; Isuzu truck
+Pickup | TF | | 1988 | 1995 | i4 | pickup | 3000 | | Faster; Isuzu truck
+Hombre | | | 1996 | 2000 | i4 | pickup | 4000 | | 
+i-Series | | | 2006 | 2008 | i5 | pickup | 3000 | | i-280; i-290; i-350; i-370
+Trooper | 1st gen | | 1984 | 1991 | i4 | suv | 2000 | | Bighorn
+Trooper | 2nd gen | | 1992 | 2002 | v6 | suv | 10000 | | Bighorn
+Amigo | 1st gen | | 1989 | 1994 | i4 | suv | 1000 | | 
+Amigo | 2nd gen | | 1998 | 2003 | i4 | suv | 2000 | | Rodeo Sport
+Rodeo | 1st gen | | 1991 | 1997 | v6 | suv | 4000 | | Honda Passport
+Rodeo | 2nd gen | | 1998 | 2004 | v6 | suv | 15000 | | 
+VehiCROSS | | | 1999 | 2001 | v6 | suv | 2000 | 5958 | Vehicross | y
+Axiom | | | 2002 | 2004 | v6 | suv | 3000 | | 
+Ascender | | | 2003 | 2008 | i6 | suv | 8000 | | 
+Oasis | | | 1996 | 1999 | i4 | van | 300 | | Honda Odyssey

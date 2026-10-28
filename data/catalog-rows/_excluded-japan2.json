@@ -1,0 +1,18 @@
+{"models":[
+  {"make":"Mazda","model":"BT-50","reason":"Never sold in North America (NA got the Mazda B-Series pickup, catalogued)."},
+  {"make":"Subaru","model":"Levorg","reason":"Never sold in North America."},
+  {"make":"Mitsubishi","model":"Triton","reason":"Never sold in North America (earlier L200 generations were sold as the Mighty Max, catalogued)."},
+  {"make":"Suzuki","model":"Alto","reason":"Never sold in North America."},
+  {"make":"Suzuki","model":"Dzire","reason":"Never sold in North America."},
+  {"make":"Suzuki","model":"Ertiga","reason":"Never sold in North America."},
+  {"make":"Suzuki","model":"Baleno","reason":"Never sold in North America (the 1990s Esteem, sold as Baleno elsewhere, is catalogued)."},
+  {"make":"Suzuki","model":"Wagon R","reason":"Never sold in North America."},
+  {"make":"Isuzu","model":"D-Max","reason":"Never sold in North America."},
+  {"make":"Hyundai","model":"i10","reason":"Never sold in North America."},
+  {"make":"Hyundai","model":"i20","reason":"Never sold in North America."},
+  {"make":"Hyundai","model":"Creta","reason":"Never sold in North America."},
+  {"make":"Hyundai","model":"Getz","reason":"Never sold in North America."},
+  {"make":"Kia","model":"Picanto","reason":"Never sold in North America."},
+  {"make":"Kia","model":"Ceed","reason":"Never sold in North America (the Forte5 is the NA equivalent)."},
+  {"make":"Kia","model":"Sonet","reason":"Never sold in North America."}
+]}

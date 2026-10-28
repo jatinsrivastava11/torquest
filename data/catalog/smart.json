@@ -1,0 +1,8 @@
+{
+  "make": "Smart",
+  "cars": [
+    {"id":"smart-fortwo-w450","model":"Fortwo","generation":"W450","years":[1998,2007],"engine":"i3","body":"hatchback","naOnRoad":3000,"aliases":["City Coupe","Fortwo cdi"]},
+    {"id":"smart-fortwo-w451","model":"Fortwo","generation":"W451","years":[2007,2014],"engine":"i3","body":"hatchback","naOnRoad":60000,"aliases":["Fortwo passion","Fortwo electric drive"]},
+    {"id":"smart-fortwo-c453","model":"Fortwo","generation":"C453","years":[2014,2024],"engine":"i3","body":"hatchback","naOnRoad":20000,"aliases":["EQ Fortwo","Fortwo electric drive"]}
+  ]
+}

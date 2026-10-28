@@ -1,0 +1,4 @@
+# Opel never sold under its own name in the US/Canada; these came through Buick dealers.
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases(;) | hype(y)
+GT | | | 1968 | 1973 | i4 | coupe | 8000 | 103463 | Opel GT;Buick Opel GT;mini Corvette
+Manta | A | | 1970 | 1975 | i4 | coupe | 800 | 498553 | Opel Manta;Opel 1900 coupe;Manta A

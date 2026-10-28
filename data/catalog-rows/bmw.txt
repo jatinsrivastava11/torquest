@@ -1,0 +1,132 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases(;) | hype(y)
+# Pre-1980 classics
+507 | | | 1956 | 1959 | v8 | convertible | 30 | 252 | | y
+Isetta | | | 1955 | 1962 | i3 | hatchback | 1500 | 161728 | bubble car;Isetta 300 | y
+2002 | | | 1968 | 1976 | i4 | sedan | 8000 | 861940 | 02 Series;2002tii;1600-2 | y
+3.0 CS | E9 | | 1968 | 1975 | i6 | coupe | 2000 | 30546 | E9;3.0 CSi;2800 CS | y
+3.0 CS | E9 | CSL | 1971 | 1975 | i6 | coupe | 60 | 1265 | 3.0 CSL;Batmobile | y
+M1 | | | 1978 | 1981 | i6 | supercar | 60 | 453 | E26 | y
+Z1 | | | 1989 | 1991 | i6 | convertible | 150 | 8000 | | y
+# 3 Series
+3 Series | E21 | | 1975 | 1983 | i4 | coupe | 3000 | 1364039 | 320i
+3 Series | E30 | | 1982 | 1994 | i6 | sedan | 35000 | 2339520 | 325i;318i;325is
+3 Series | E30 | M3 | 1986 | 1991 | i4 | coupe | 3500 | 17970 | E30 M3 | y
+3 Series | E36 | | 1990 | 2000 | i6 | sedan | 120000 | 2700000 | 325i;328i;318ti;3 Series Compact
+3 Series | E36 | M3 | 1992 | 1999 | i6 | coupe | 15000 | 71000 | E36 M3 | y
+3 Series | E36 | M3 Lightweight | 1995 | 1995 | i6 | coupe | 100 | 126 | E36 M3 LTW;M3 Lightweight | y
+3 Series | E46 | | 1997 | 2006 | i6 | sedan | 400000 | 3266000 | 325i;330i;330Ci;330i ZHP
+3 Series | E46 | Touring | 2000 | 2005 | i6 | wagon | 8000 | | 325iT;325xiT;E46 wagon
+3 Series | E46 | M3 | 2000 | 2006 | i6 | coupe | 30000 | 85766 | E46 M3 | y
+3 Series | E46 | M3 CSL | 2003 | 2004 | i6 | coupe | 40 | 1383 | M3 CSL (E46);E46 CSL | y
+3 Series | E90 | | 2005 | 2013 | i6 | sedan | 700000 | | E92;E93;328i;335i
+3 Series | E90 | Touring | 2005 | 2012 | i6 | wagon | 8000 | | E91;328i wagon;328xi Sports Wagon
+3 Series | E90 | M3 | 2007 | 2013 | v8 | coupe | 30000 | 66000 | E92 M3;E90 M3;E93 M3 | y
+3 Series | F30 | | 2011 | 2019 | i4 | sedan | 600000 | | 328i;330i;340i;335i
+3 Series | F30 | Touring | 2012 | 2019 | i4 | wagon | 8000 | | F31;328d Sports Wagon;330i xDrive Sports Wagon
+3 Series | F30 | Gran Turismo | 2013 | 2019 | i4 | hatchback | 12000 | | F34;3 Series GT;328i GT
+3 Series | F30 | M3 | 2014 | 2018 | i6 | sedan | 13000 | | F80;F80 M3 | y
+3 Series | G20 | | 2018 | | i4 | sedan | 350000 | | 330i;M340i;330e
+3 Series | G20 | M3 | 2020 | | i6 | sedan | 25000 | | G80;G80 M3;M3 Competition | y
+3 Series | G20 | M3 CS | 2023 | 2024 | i6 | sedan | 1000 | | G80 M3 CS | y
+# 1 / 2 Series
+1 Series | E82 | | 2007 | 2013 | i6 | coupe | 60000 | | E88;128i;135i;135is
+1 Series | E82 | 1M | 2011 | 2011 | i6 | coupe | 700 | 6309 | 1 Series M Coupe;1M Coupe;1M Coupé | y
+2 Series | F22 | | 2013 | 2021 | i4 | coupe | 120000 | | F23;228i;230i;M235i;M240i
+2 Series | F22 | M2 | 2015 | 2020 | i6 | coupe | 20000 | | F87;F87 M2;M2 Competition | y
+2 Series | F22 | M2 CS | 2020 | 2020 | i6 | coupe | 800 | 2220 | F87 M2 CS | y
+2 Series | G42 | | 2021 | | i4 | coupe | 50000 | | 230i;M240i
+2 Series | G42 | M2 | 2022 | | i6 | coupe | 9000 | | G87;G87 M2 | y
+2 Series Gran Coupe | F44 | | 2019 | 2024 | i4 | sedan | 60000 | | 228i Gran Coupe;M235i Gran Coupe
+2 Series Gran Coupe | F74 | | 2024 | | i4 | sedan | 15000 | | 228 Gran Coupe;M235 Gran Coupe
+# 4 Series
+4 Series | F32 | | 2013 | 2020 | i4 | coupe | 300000 | | F33;F36;4 Series Gran Coupe;428i;430i;440i
+4 Series | F32 | M4 | 2014 | 2020 | i6 | coupe | 25000 | | F82;F83;F82 M4 | y
+4 Series | F32 | M4 GTS | 2016 | 2016 | i6 | coupe | 300 | 803 | F82 M4 GTS | y
+4 Series | G22 | | 2020 | | i4 | coupe | 200000 | | G23;G26;430i;M440i;4 Series Gran Coupe
+4 Series | G22 | M4 | 2020 | | i6 | coupe | 30000 | | G82;G83;G82 M4 | y
+4 Series | G22 | M4 CSL | 2022 | 2023 | i6 | coupe | 500 | 1000 | G82 M4 CSL | y
+i4 | | | 2021 | | electric | sedan | 70000 | | i4 eDrive40;i4 M50;G26
+# 5 Series
+5 Series | E12 | | 1972 | 1981 | i6 | sedan | 2000 | 699094 | 528i;530i
+5 Series | E28 | | 1981 | 1988 | i6 | sedan | 8000 | 722328 | 528e;533i;535i
+5 Series | E28 | M5 | 1985 | 1988 | i6 | sedan | 800 | 2191 | E28 M5 | y
+5 Series | E34 | | 1988 | 1996 | i6 | sedan | 25000 | 1333412 | 525i;535i;540i
+5 Series | E34 | Touring | 1991 | 1996 | i6 | wagon | 1500 | | 525iT;530iT;540iT;E34 wagon
+5 Series | E34 | M5 | 1988 | 1995 | i6 | sedan | 1000 | 12254 | E34 M5 | y
+5 Series | E39 | | 1995 | 2004 | i6 | sedan | 100000 | 1470000 | 528i;530i;540i
+5 Series | E39 | Touring | 1997 | 2004 | i6 | wagon | 4000 | | 528iT;540iT;E39 wagon
+5 Series | E39 | M5 | 1998 | 2003 | v8 | sedan | 7000 | 20482 | E39 M5 | y
+5 Series | E60 | | 2003 | 2010 | i6 | sedan | 250000 | | E61;525i;530i;535i;550i
+5 Series | E60 | Touring | 2004 | 2010 | i6 | wagon | 3000 | | E61;535xi Sports Wagon
+5 Series | E60 | M5 | 2005 | 2010 | v10 | sedan | 7000 | 20589 | E60 M5;V10 M5 | y
+5 Series | E60 | M5 Touring | 2007 | 2010 | v10 | wagon | 900 | 1025 | E61 M5;M5 wagon | y
+5 Series | F10 | | 2010 | 2017 | i6 | sedan | 450000 | | 528i;535i;550i
+5 Series | F10 | Gran Turismo | 2009 | 2017 | i6 | hatchback | 15000 | | F07;5 Series GT;535i GT
+5 Series | F10 | M5 | 2011 | 2016 | v8 | sedan | 7000 | | F10 M5 | y
+5 Series | G30 | | 2016 | 2023 | i4 | sedan | 350000 | | 530i;540i;530e;M550i
+5 Series | G30 | M5 | 2017 | 2023 | v8 | sedan | 9000 | | F90;F90 M5;M5 Competition | y
+5 Series | G30 | M5 CS | 2021 | 2022 | v8 | sedan | 600 | | F90 M5 CS | y
+5 Series | G60 | | 2023 | | i4 | sedan | 70000 | | 530i;540i;i5;i5 M60
+5 Series | G60 | M5 | 2024 | | v8 | sedan | 4000 | | G90;G90 M5 | y
+5 Series | G60 | M5 Touring | 2025 | | v8 | wagon | 1000 | | G99;G99 M5 Touring | y
+# 6 Series
+6 Series | E24 | | 1976 | 1989 | i6 | coupe | 6000 | 86216 | 633CSi;635CSi;shark nose
+6 Series | E24 | M6 | 1986 | 1989 | i6 | coupe | 800 | 5855 | E24 M6;M635CSi | y
+6 Series | E63 | | 2003 | 2010 | v8 | coupe | 30000 | | E64;645Ci;650i
+6 Series | E63 | M6 | 2005 | 2010 | v10 | coupe | 5000 | 14152 | E63 M6;E64 M6 | y
+6 Series | F12 | | 2011 | 2018 | v8 | coupe | 30000 | | F13;F06;640i;650i;6 Series Gran Coupe
+6 Series | F12 | M6 | 2012 | 2018 | v8 | coupe | 4000 | | F12 M6;F13 M6;F06 M6;M6 Gran Coupe | y
+6 Series | G32 | | 2017 | 2023 | i6 | hatchback | 4000 | | 6 Series Gran Turismo;640i GT
+# 7 Series
+7 Series | E23 | | 1977 | 1986 | i6 | sedan | 3000 | 285029 | 733i;735i
+7 Series | E32 | | 1986 | 1994 | i6 | sedan | 8000 | 311068 | 735i;735iL;750iL
+7 Series | E38 | | 1994 | 2001 | v8 | sedan | 25000 | 327600 | 740i;740iL;750iL
+7 Series | E65 | | 2001 | 2008 | v8 | sedan | 50000 | | E66;745i;745Li;750Li;760Li;Bangle 7
+7 Series | F01 | | 2008 | 2015 | v8 | sedan | 70000 | | F02;750i;750Li;740Li;760Li
+7 Series | G11 | | 2015 | 2022 | i6 | sedan | 70000 | | G12;740i;750i;M760i
+7 Series | G70 | | 2022 | | i6 | sedan | 30000 | | i7;740i;760i;i7 M70
+# 8 Series
+8 Series | E31 | | 1989 | 1999 | v12 | coupe | 5000 | 30621 | 850i;850Ci;840Ci | y
+8 Series | G15 | | 2018 | 2025 | v8 | coupe | 30000 | | G14;G16;840i;M850i;8 Series Gran Coupe
+8 Series | G15 | M8 | 2019 | 2025 | v8 | coupe | 5000 | | F91;F92;F93;M8 Gran Coupe;M8 Competition | y
+# Roadsters, supercars
+Z3 | | | 1995 | 2002 | i6 | convertible | 90000 | 297088 | Z3 roadster;Z3 coupe
+Z3 | | M Roadster | 1997 | 2002 | i6 | convertible | 5000 | 15322 | Z3 M Roadster;M Roadster | y
+Z3 | | M Coupe | 1998 | 2002 | i6 | coupe | 2000 | 6291 | Z3 M Coupe;clown shoe;breadvan | y
+Z4 | E85 | | 2002 | 2008 | i6 | convertible | 50000 | | E86;Z4 roadster;Z4 coupe
+Z4 | E85 | M | 2006 | 2008 | i6 | convertible | 4000 | | Z4 M Roadster;Z4 M Coupe;E86 Z4 M | y
+Z4 | E89 | | 2009 | 2016 | i6 | convertible | 30000 | | sDrive30i;sDrive35i;sDrive35is
+Z4 | G29 | | 2018 | 2026 | i4 | convertible | 25000 | | sDrive30i;M40i
+Z8 | | | 1999 | 2003 | v8 | convertible | 2000 | 5703 | E52 | y
+i8 | | | 2014 | 2020 | i3 | supercar | 6000 | 20465 | i8 Roadster;I12;I15 | y
+i3 | | | 2013 | 2022 | electric | hatchback | 35000 | 250000 | i3 REx;i3s;I01
+iX | | | 2021 | | electric | suv | 50000 | | iX xDrive50;iX M60;I20
+# SAVs
+X1 | E84 | | 2009 | 2015 | i4 | suv | 80000 | | xDrive28i;sDrive28i
+X1 | F48 | | 2015 | 2022 | i4 | suv | 250000 | | xDrive28i
+X1 | U11 | | 2022 | | i4 | suv | 120000 | | xDrive28i;M35i
+X2 | F39 | | 2017 | 2023 | i4 | suv | 70000 | | xDrive28i;M35i
+X2 | U10 | | 2023 | | i4 | suv | 30000 | | xDrive28i;M35i
+X3 | E83 | | 2003 | 2010 | i6 | suv | 150000 | | 3.0si;xDrive30i
+X3 | F25 | | 2010 | 2017 | i4 | suv | 350000 | | xDrive28i;xDrive35i
+X3 | G01 | | 2017 | 2024 | i4 | suv | 450000 | | xDrive30i;M40i;iX3
+X3 | G01 | X3 M | 2019 | 2024 | i6 | suv | 12000 | | F97;X3 M Competition | y
+X3 | G45 | | 2024 | | i4 | suv | 60000 | | 30 xDrive;M50
+X4 | F26 | | 2014 | 2018 | i4 | suv | 40000 | | xDrive28i;M40i
+X4 | G02 | | 2018 | | i4 | suv | 60000 | | xDrive30i;M40i
+X4 | G02 | X4 M | 2019 | 2025 | i6 | suv | 6000 | | F98;X4 M Competition | y
+X5 | E53 | | 1999 | 2006 | i6 | suv | 150000 | | 3.0i;4.4i;4.8is
+X5 | E70 | | 2006 | 2013 | i6 | suv | 300000 | | xDrive30i;xDrive35i;xDrive50i;35d
+X5 | E70 | X5 M | 2009 | 2013 | v8 | suv | 6000 | | E70 X5 M | y
+X5 | F15 | | 2013 | 2018 | i6 | suv | 350000 | | xDrive35i;xDrive50i;xDrive40e
+X5 | F15 | X5 M | 2014 | 2018 | v8 | suv | 6000 | | F85;F85 X5 M | y
+X5 | G05 | | 2018 | | i6 | suv | 500000 | | xDrive40i;M50i;M60i;xDrive50e
+X5 | G05 | X5 M | 2019 | | v8 | suv | 12000 | | F95;X5 M Competition | y
+X6 | E71 | | 2008 | 2014 | i6 | suv | 40000 | | xDrive35i;xDrive50i
+X6 | E71 | X6 M | 2009 | 2014 | v8 | suv | 3000 | | E71 X6 M | y
+X6 | F16 | | 2014 | 2019 | i6 | suv | 40000 | | xDrive35i;xDrive50i
+X6 | F16 | X6 M | 2014 | 2019 | v8 | suv | 3000 | | F86;F86 X6 M | y
+X6 | G06 | | 2019 | | i6 | suv | 50000 | | xDrive40i;M60i
+X6 | G06 | X6 M | 2019 | | v8 | suv | 6000 | | F96;X6 M Competition | y
+X7 | | | 2018 | | i6 | suv | 150000 | | G07;xDrive40i;M60i;Alpina XB7
+XM | | | 2022 | | v8 | suv | 8000 | | G09;XM Label;XM Label Red | y

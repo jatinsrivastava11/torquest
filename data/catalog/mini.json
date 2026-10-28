@@ -1,0 +1,20 @@
+{
+  "make": "Mini",
+  "cars": [
+    {"id":"mini-classic-mini","model":"Classic Mini","generation":"Classic Mini","years":[1959,2000],"engine":"i4","body":"hatchback","naOnRoad":12000,"built":5300000,"aliases":["Mini (classic)","Mini Cooper (classic)","Austin Mini","Morris Mini","Mini Mk1","Rover Mini"],"hype":true},
+    {"id":"mini-cooper-r50","model":"Cooper","generation":"R50","years":[2001,2006],"engine":"i4","body":"hatchback","naOnRoad":90000,"aliases":["R53","R52","Cooper S","Mini Hardtop","Cooper Convertible"]},
+    {"id":"mini-cooper-r56","model":"Cooper","generation":"R56","years":[2006,2013],"engine":"i4","body":"hatchback","naOnRoad":180000,"aliases":["R57","Cooper S","Mini Hardtop","John Cooper Works","Cooper Convertible"]},
+    {"id":"mini-cooper-r56-john-cooper-works-gp","model":"Cooper","generation":"R56","variant":"John Cooper Works GP","years":[2012,2013],"engine":"i4","body":"hatchback","naOnRoad":500,"built":2000,"aliases":["JCW GP","GP2","R56 GP"],"hype":true},
+    {"id":"mini-cooper-f56","model":"Cooper","generation":"F56","years":[2013,2024],"engine":"i4","body":"hatchback","naOnRoad":250000,"aliases":["F55","F57","Cooper S","Cooper SE","Mini Hardtop","John Cooper Works","Mini Electric"]},
+    {"id":"mini-cooper-f56-john-cooper-works-gp","model":"Cooper","generation":"F56","variant":"John Cooper Works GP","years":[2020,2021],"engine":"i4","body":"hatchback","naOnRoad":900,"built":3000,"aliases":["JCW GP","GP3","F56 GP"],"hype":true},
+    {"id":"mini-cooper-f66","model":"Cooper","generation":"F66","years":[2024,null],"engine":"i4","body":"hatchback","naOnRoad":25000,"aliases":["J01","F67","Cooper S","Mini Hardtop","Cooper Convertible"]},
+    {"id":"mini-coupe","model":"Coupe","generation":"Coupe","years":[2011,2015],"engine":"i4","body":"coupe","naOnRoad":6000,"aliases":["R58","Mini Coupe","helmet roof"]},
+    {"id":"mini-roadster","model":"Roadster","generation":"Roadster","years":[2012,2015],"engine":"i4","body":"convertible","naOnRoad":6000,"aliases":["R59","Mini Roadster"]},
+    {"id":"mini-clubman-r55","model":"Clubman","generation":"R55","years":[2007,2014],"engine":"i4","body":"wagon","naOnRoad":40000,"aliases":["Cooper Clubman","Cooper S Clubman"]},
+    {"id":"mini-clubman-f54","model":"Clubman","generation":"F54","years":[2015,2024],"engine":"i4","body":"wagon","naOnRoad":50000,"aliases":["Cooper Clubman","JCW Clubman"]},
+    {"id":"mini-countryman-r60","model":"Countryman","generation":"R60","years":[2010,2016],"engine":"i4","body":"suv","naOnRoad":70000,"aliases":["Cooper Countryman","Cooper S Countryman"]},
+    {"id":"mini-countryman-f60","model":"Countryman","generation":"F60","years":[2017,2024],"engine":"i4","body":"suv","naOnRoad":100000,"aliases":["Cooper Countryman","Countryman SE ALL4"]},
+    {"id":"mini-countryman-u25","model":"Countryman","generation":"U25","years":[2023,null],"engine":"i4","body":"suv","naOnRoad":20000,"aliases":["Countryman S ALL4","Countryman SE"]},
+    {"id":"mini-paceman","model":"Paceman","generation":"Paceman","years":[2012,2016],"engine":"i4","body":"suv","naOnRoad":12000,"aliases":["R61","Cooper Paceman"]}
+  ]
+}

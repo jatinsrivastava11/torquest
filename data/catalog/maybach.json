@@ -1,0 +1,7 @@
+{
+  "make": "Maybach",
+  "cars": [
+    {"id":"maybach-57","model":"57","generation":"57","years":[2002,2012],"engine":"v12","body":"sedan","naOnRoad":500,"aliases":["57 S","57S","Zeppelin","Maybach 57 Zeppelin"],"hype":true},
+    {"id":"maybach-62","model":"62","generation":"62","years":[2002,2012],"engine":"v12","body":"sedan","naOnRoad":300,"aliases":["62 S","62S","62 Landaulet","Maybach Landaulet"],"hype":true}
+  ]
+}

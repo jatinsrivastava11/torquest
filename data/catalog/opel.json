@@ -1,0 +1,7 @@
+{
+  "make": "Opel",
+  "cars": [
+    {"id":"opel-gt","model":"GT","generation":"GT","years":[1968,1973],"engine":"i4","body":"coupe","naOnRoad":8000,"built":103463,"aliases":["Opel GT","Buick Opel GT","mini Corvette"]},
+    {"id":"opel-manta-a","model":"Manta","generation":"A","years":[1970,1975],"engine":"i4","body":"coupe","naOnRoad":800,"built":498553,"aliases":["Opel Manta","Opel 1900 coupe","Manta A"]}
+  ]
+}

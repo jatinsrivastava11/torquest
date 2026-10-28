@@ -1,0 +1,121 @@
+# AMG versions of Mercedes models are variants here; AMG-only models are under Mercedes-AMG,
+# Maybach-badged models under Mercedes-Maybach.
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases(;) | hype(y)
+# Classics
+300 SL | W198 | | 1954 | 1963 | i6 | coupe | 1500 | 3258 | 300SL;Gullwing;300 SL Roadster | y
+190 SL | W121 | | 1955 | 1963 | i4 | convertible | 5000 | 25881 | 190SL | y
+SL | W113 | | 1963 | 1971 | i6 | convertible | 10000 | 48912 | Pagoda;230SL;250SL;280SL | y
+600 | | | 1963 | 1981 | v8 | sedan | 300 | 2677 | 600 Pullman;Grosser Mercedes;W100 | y
+# SL
+SL | R107 | | 1971 | 1989 | v8 | convertible | 60000 | 237287 | 380SL;450SL;560SL;SLC
+SL | R129 | | 1989 | 2001 | v8 | convertible | 50000 | 204940 | 500SL;SL500;SL600;SL320
+SL | R230 | | 2001 | 2011 | v8 | convertible | 60000 | 169433 | SL500;SL550;SL55 AMG;SL600;SL65 AMG
+SL | R230 | SL 65 AMG Black Series | 2008 | 2010 | v12 | coupe | 150 | 350 | SL 63 Black Series;SL65 Black Series;SL 65 Black Series | y
+SL | R231 | | 2012 | 2020 | v8 | convertible | 30000 | | SL550;SL450;SL63 AMG;SL65 AMG
+SL | R232 | | 2021 | | v8 | convertible | 12000 | | Mercedes-AMG SL;SL 55;SL 63;SL 43
+SLR McLaren | | | 2003 | 2009 | v8 | supercar | 700 | 2157 | SLR;SLR Roadster;SLR 722 | y
+SLR McLaren | | Stirling Moss | 2009 | 2009 | v8 | convertible | 10 | 75 | SLR Stirling Moss | y
+CLK GTR | | | 1998 | 1999 | v12 | supercar | 5 | 26 | CLK GTR Roadster;CLK-GTR | y
+# SLK / SLC
+SLK | R170 | | 1996 | 2004 | i4 | convertible | 60000 | 311222 | SLK230;SLK320;SLK32 AMG
+SLK | R171 | | 2004 | 2011 | v6 | convertible | 60000 | | SLK280;SLK300;SLK350;SLK55 AMG
+SLK | R171 | SLK 55 AMG Black Series | 2006 | 2008 | v8 | coupe | 100 | | SLK 55 Black Series | y
+SLK | R172 | | 2011 | 2020 | i4 | convertible | 40000 | | SLC;SLK250;SLK350;SLC300;SLC43
+# C-Class and predecessors
+190E | | | 1982 | 1993 | i4 | sedan | 30000 | 1879629 | W201;190D;190;Baby Benz
+190E | | 2.3-16 | 1984 | 1993 | i4 | sedan | 1500 | 25000 | 190E 2.3-16;190E 2.5-16;Cosworth;190E Cosworth | y
+190E | | 2.5-16 Evolution II | 1990 | 1990 | i4 | sedan | 15 | 502 | Evo II;190E Evolution II;190E 2.5-16 Evolution II | y
+C-Class | W202 | | 1993 | 2000 | i4 | sedan | 40000 | 1800000 | C220;C230;C280;C36 AMG;C43 AMG
+C-Class | W203 | | 2000 | 2007 | v6 | sedan | 200000 | | C230;C240;C320;C350;C32 AMG;C55 AMG
+C-Class | W203 | Sport Coupe | 2001 | 2007 | i4 | hatchback | 20000 | | CL203;C230 Kompressor Sport Coupe;C230 Sport Coupe
+C-Class | W204 | | 2007 | 2014 | v6 | sedan | 500000 | | C204;C250;C300;C350;C-Class coupe
+C-Class | W204 | C63 AMG | 2008 | 2015 | v8 | sedan | 25000 | | W204 C63;C63;C63 AMG Coupe | y
+C-Class | W204 | C63 AMG Black Series | 2012 | 2013 | v8 | coupe | 300 | 800 | C63 Black Series | y
+C-Class | W205 | | 2014 | 2021 | i4 | sedan | 600000 | | C205;A205;C300;C43 AMG
+C-Class | W205 | C63 AMG | 2015 | 2021 | v8 | sedan | 25000 | | W205 C63;C63 S;C63 Coupe | y
+C-Class | W206 | | 2021 | | i4 | sedan | 120000 | | C300;C43 AMG
+C-Class | W206 | C63 S E Performance | 2023 | | i4 | sedan | 3000 | | W206 C63;C63 S;AMG C63 | y
+CLA | C117 | | 2013 | 2019 | i4 | sedan | 200000 | | CLA250;CLA45 AMG
+CLA | C118 | | 2019 | 2025 | i4 | sedan | 100000 | | CLA250;CLA35 AMG;CLA45 AMG
+CLA | C174 | | 2025 | | electric | sedan | 3000 | | CLA 250+;CLA EV
+A-Class | W177 | | 2018 | 2022 | i4 | sedan | 60000 | | A220;V177;A-Class sedan;A35 AMG
+B-Class | W245 | | 2005 | 2011 | i4 | hatchback | 20000 | | B200;B200 Turbo
+B-Class | W246 | | 2011 | 2018 | i4 | hatchback | 20000 | | B250;B250e;B-Class Electric Drive
+# E-Class and predecessors
+E-Class | W123 | | 1976 | 1986 | i5 | sedan | 40000 | 2696915 | 300D;240D;300TD;300CD;280E
+E-Class | W124 | | 1984 | 1996 | i6 | sedan | 50000 | 2583470 | 300E;E320;300CE;300TE;E300 Diesel;C124;S124
+E-Class | W124 | Wagon | 1986 | 1996 | i6 | wagon | 8000 | | S124;300TE;E320 wagon;W124 estate
+E-Class | W124 | 500E | 1991 | 1995 | v8 | sedan | 1200 | 10479 | E500;500E;E500 Limited | y
+E-Class | W124 | AMG Hammer | 1986 | 1993 | v8 | sedan | 10 | 30 | Hammer;300E AMG 6.0;300CE AMG 6.0 Hammer | y
+E-Class | W210 | | 1995 | 2003 | v6 | sedan | 70000 | 2700000 | E320;E430;E300 Diesel;E55 AMG
+E-Class | W210 | Wagon | 1996 | 2003 | v6 | wagon | 6000 | | S210;E320 wagon
+E-Class | W211 | | 2002 | 2009 | v6 | sedan | 170000 | | E320;E350;E500;E550
+E-Class | W211 | Wagon | 2003 | 2009 | v6 | wagon | 8000 | | S211;E350 wagon
+E-Class | W211 | E63 AMG | 2003 | 2009 | v8 | sedan | 10000 | | E55 AMG;W211 E63 | y
+E-Class | W212 | | 2009 | 2016 | v6 | sedan | 350000 | | E350;E550;E250 BlueTEC;E400
+E-Class | W212 | Wagon | 2010 | 2016 | v6 | wagon | 8000 | | S212;E350 4MATIC wagon
+E-Class | W212 | E63 AMG | 2009 | 2016 | v8 | sedan | 15000 | | W212 E63;E63 S | y
+E-Class | W212 | E63 AMG Wagon | 2012 | 2016 | v8 | wagon | 600 | | S212 E63;E63 S Wagon (S212) | y
+E-Class | C207 | | 2009 | 2016 | v6 | coupe | 50000 | | E-Class Coupe;E-Class Cabriolet;E350 Coupe;E550 Coupe;A207
+E-Class | W213 | | 2016 | 2023 | i4 | sedan | 300000 | | E300;E350;E450;E53 AMG
+E-Class | W213 | Wagon | 2017 | 2023 | i6 | wagon | 10000 | | S213;E450 All-Terrain;E450 wagon;All-Terrain
+E-Class | W213 | E63 AMG | 2017 | 2023 | v8 | sedan | 12000 | | W213 E63;E63 S | y
+E-Class | W213 | E63 S Wagon | 2018 | 2023 | v8 | wagon | 1500 | | S213 E63;E63 wagon | y
+E-Class | C238 | | 2017 | 2023 | i6 | coupe | 40000 | | E-Class Coupe;E-Class Cabriolet;E450 Coupe;A238
+E-Class | W214 | | 2023 | | i4 | sedan | 50000 | | E350;E450;E53 AMG
+E-Class | W214 | Wagon | 2024 | | i6 | wagon | 2000 | | S214;E450 All-Terrain;All-Terrain
+CLE | | | 2023 | | i4 | coupe | 15000 | | C236;A236;CLE 300;CLE 450;CLE 53 AMG;CLE Cabriolet
+CLK | C208 | | 1997 | 2003 | v6 | coupe | 40000 | | CLK320;CLK430;CLK55 AMG;A208
+CLK | C209 | | 2002 | 2009 | v6 | coupe | 60000 | | CLK350;CLK500;CLK550;CLK55 AMG;A209
+CLK | C209 | DTM AMG | 2004 | 2006 | v8 | coupe | 10 | 180 | CLK DTM AMG;CLK DTM | y
+CLK | C209 | CLK 63 AMG Black Series | 2007 | 2008 | v8 | coupe | 300 | 700 | CLK Black Series;CLK63 Black Series | y
+CLS | C219 | | 2004 | 2010 | v8 | sedan | 30000 | | CLS500;CLS550;CLS55 AMG;CLS63 AMG
+CLS | C218 | | 2011 | 2018 | v8 | sedan | 40000 | | CLS550;CLS400;CLS63 AMG
+CLS | C257 | | 2018 | 2023 | i6 | sedan | 25000 | | CLS450;CLS53 AMG
+# S-Class
+S-Class | W116 | | 1972 | 1980 | v8 | sedan | 5000 | 473035 | 450SEL;300SD;450SEL 6.9
+S-Class | W126 | | 1979 | 1991 | v8 | sedan | 40000 | 892123 | 300SD;380SE;420SEL;560SEL;300SDL
+S-Class | W126 | SEC | 1981 | 1991 | v8 | coupe | 8000 | 74060 | C126;380SEC;500SEC;560SEC
+S-Class | W140 | | 1991 | 1998 | v8 | sedan | 35000 | 406710 | S420;S500;S600;S320;400SEL;600SEL
+S-Class | W220 | | 1998 | 2005 | v8 | sedan | 80000 | 484683 | S430;S500;S600;S55 AMG
+S-Class | W221 | | 2005 | 2013 | v8 | sedan | 150000 | | S550;S600;S63 AMG;S65 AMG;S400 Hybrid
+S-Class | W222 | | 2013 | 2020 | v8 | sedan | 150000 | | S550;S560;S450;S63 AMG;S65 AMG
+S-Class | W222 | Coupe | 2014 | 2020 | v8 | coupe | 12000 | | C217;A217;S-Class Cabriolet;S550 Coupe;S63 Coupe;S65 Coupe
+S-Class | W223 | | 2020 | | i6 | sedan | 70000 | | S500;S580;S63 E Performance
+CL-Class | C140 | | 1992 | 1998 | v8 | coupe | 5000 | 26022 | 500SEC;600SEC;S500 Coupe;CL500;CL600
+CL-Class | C215 | | 1999 | 2006 | v8 | coupe | 15000 | 47984 | CL500;CL55 AMG;CL600;CL65 AMG
+CL-Class | C216 | | 2006 | 2014 | v8 | coupe | 12000 | | CL550;CL600;CL63 AMG;CL65 AMG
+# SUVs
+G-Class | W463 | | 1990 | 2018 | v8 | suv | 50000 | | G-Wagon;G-Wagen;G500;G550;G55 AMG;G63;G 63 AMG;G63 AMG | y
+G-Class | W463 | 4x4² | 2016 | 2018 | v8 | suv | 400 | | G550 4x4 Squared;G 500 4x4²;4x4 squared | y
+G-Class | W463 | G 63 AMG 6x6 | 2013 | 2015 | v8 | pickup | 10 | 100 | G63 6x6;G 63 AMG 6x6;6x6 | y
+G-Class | W463A | | 2018 | | v8 | suv | 45000 | | W464;G-Wagon;G-Wagen;G550;G63;G 63;G 580;G 580 with EQ Technology;electric G-Class | y
+GLA | X156 | | 2013 | 2019 | i4 | suv | 80000 | | GLA250;GLA45 AMG
+GLA | H247 | | 2019 | | i4 | suv | 70000 | | GLA250;GLA35 AMG;GLA45 AMG
+GLB | | | 2019 | | i4 | suv | 120000 | | X247;GLB250;GLB35 AMG
+GLK | | | 2008 | 2015 | v6 | suv | 100000 | | X204;GLK350;GLK250 BlueTEC
+GLC | X253 | | 2015 | 2022 | i4 | suv | 450000 | | GLC300;GLC43 AMG;GLC63 AMG
+GLC | X253 | Coupe | 2016 | 2023 | i4 | suv | 40000 | | C253;GLC Coupe;GLC300 Coupe;GLC63 Coupe
+GLC | X254 | | 2022 | | i4 | suv | 150000 | | GLC300;GLC43 AMG;GLC63 AMG
+GLC | X254 | Coupe | 2023 | | i4 | suv | 20000 | | C254;GLC Coupe;GLC300 Coupe
+M-Class | W163 | | 1997 | 2005 | v6 | suv | 80000 | | ML;ML320;ML350;ML430;ML500;ML55 AMG
+M-Class | W164 | | 2005 | 2011 | v6 | suv | 150000 | | ML;ML350;ML550;ML320 CDI;ML63 AMG
+GLE | W166 | | 2011 | 2019 | v6 | suv | 350000 | | ML;ML350;ML550;GLE350;GLE400;GLE43 AMG;GLE63 AMG
+GLE | W166 | Coupe | 2015 | 2019 | v6 | suv | 20000 | | C292;GLE Coupe;GLE43 Coupe;GLE63 Coupe
+GLE | V167 | | 2019 | | i4 | suv | 350000 | | W167;GLE350;GLE450;GLE53 AMG;GLE63 AMG
+GLE | V167 | Coupe | 2020 | | i6 | suv | 25000 | | C167;GLE Coupe;GLE53 Coupe;GLE63 Coupe
+GLS | X164 | | 2006 | 2012 | v8 | suv | 80000 | | GL;GL-Class;GL450;GL550;GL320 CDI
+GLS | X166 | | 2012 | 2019 | v6 | suv | 120000 | | GL;GL-Class;GL450;GL550;GLS450;GLS550;GLS63 AMG
+GLS | X167 | | 2019 | | i6 | suv | 120000 | | GLS450;GLS580;GLS63 AMG
+R-Class | | | 2005 | 2017 | v6 | wagon | 25000 | | W251;R350;R500;R320 CDI
+# EQ
+EQS | | | 2021 | | electric | sedan | 20000 | | V297;EQS 450+;EQS 580;AMG EQS
+EQS SUV | | | 2022 | | electric | suv | 20000 | | X296;EQS 450 SUV;EQS 580 SUV
+EQE | | | 2022 | | electric | sedan | 10000 | | V295;EQE 350;AMG EQE
+EQE SUV | | | 2023 | | electric | suv | 20000 | | X294;EQE 350 SUV;EQE 500 SUV
+EQB | | | 2021 | | electric | suv | 20000 | | X243;EQB 300;EQB 350
+# Vans
+Sprinter | T1N | | 1995 | 2006 | i5 | van | 30000 | | W901;W903;Dodge Sprinter;Freightliner Sprinter
+Sprinter | NCV3 | | 2006 | 2018 | v6 | van | 200000 | | W906;Dodge Sprinter;Freightliner Sprinter
+Sprinter | VS30 | | 2018 | | i4 | van | 280000 | | W907;W910;eSprinter
+Metris | | | 2016 | 2023 | i4 | van | 40000 | | Vito;W447

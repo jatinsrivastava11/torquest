@@ -1,0 +1,12 @@
+{
+  "make": "Mercedes-Maybach",
+  "cars": [
+    {"id":"mercedes-maybach-s-class-x222","model":"S-Class","generation":"X222","years":[2015,2020],"engine":"v8","body":"sedan","naOnRoad":9000,"aliases":["S 560 Maybach","S 650 Maybach","S-Class Maybach","Maybach S 560","Maybach S 650"],"hype":true},
+    {"id":"mercedes-maybach-s-class-z223","model":"S-Class","generation":"Z223","years":[2021,null],"engine":"v8","body":"sedan","naOnRoad":8000,"aliases":["S 580 Maybach","S 680 Maybach","S-Class Maybach","Maybach S 580","Maybach S 680"],"hype":true},
+    {"id":"mercedes-maybach-s-650-cabriolet","model":"S 650 Cabriolet","generation":"S 650 Cabriolet","years":[2016,2017],"engine":"v12","body":"convertible","naOnRoad":60,"built":300,"aliases":["Maybach S 650 Cabriolet","A217 Maybach"],"hype":true},
+    {"id":"mercedes-maybach-gls","model":"GLS","generation":"GLS","years":[2020,null],"engine":"v8","body":"suv","naOnRoad":12000,"aliases":["GLS 600","Maybach GLS","Maybach GLS 600","X167 Maybach"],"hype":true},
+    {"id":"mercedes-maybach-eqs-suv","model":"EQS SUV","generation":"EQS SUV","years":[2023,null],"engine":"electric","body":"suv","naOnRoad":2000,"aliases":["EQS 680 SUV","Maybach EQS SUV"],"hype":true},
+    {"id":"mercedes-maybach-sl-680","model":"SL 680","generation":"SL 680","years":[2025,null],"engine":"v8","body":"convertible","naOnRoad":500,"aliases":["Maybach SL","SL 680 Monogram Series","R232 Maybach"],"hype":true},
+    {"id":"mercedes-maybach-g-650-landaulet","model":"G 650 Landaulet","generation":"G 650 Landaulet","years":[2017,2017],"engine":"v12","body":"suv","naOnRoad":5,"built":99,"aliases":["Maybach G 650 Landaulet","G650 Landaulet"],"hype":true}
+  ]
+}

@@ -1,0 +1,10 @@
+# AMG-only models. AMG versions of Mercedes models (C63, E63, Black Series...) are variants under Mercedes-Benz.
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases(;) | hype(y)
+SLS AMG | | | 2010 | 2014 | v8 | coupe | 3000 | 8000 | SLS;SLS AMG GT;SLS AMG Roadster;C197;gullwing SLS | y
+SLS AMG | | Black Series | 2013 | 2014 | v8 | coupe | 90 | 350 | SLS AMG Black Series;SLS Black Series | y
+GT | C190 | | 2014 | 2021 | v8 | coupe | 15000 | | AMG GT;AMG GT S;AMG GT C;AMG GT Roadster | y
+GT | C190 | GT R | 2016 | 2021 | v8 | coupe | 2000 | | AMG GT R;GT R Pro;Green Hell | y
+GT | C190 | Black Series | 2020 | 2021 | v8 | coupe | 300 | 1700 | AMG GT Black Series;GT Black Series | y
+GT | C192 | | 2023 | | v8 | coupe | 4000 | | AMG GT 55;AMG GT 63;AMG GT 2nd gen | y
+GT 4-Door | | | 2018 | | v8 | sedan | 15000 | | X290;AMG GT 4-Door Coupe;AMG GT 63;AMG GT 53 | y
+One | | | 2022 | 2024 | v6 | supercar | 3 | 275 | AMG One;AMG ONE;Project One | y

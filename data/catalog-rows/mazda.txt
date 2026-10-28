@@ -1,0 +1,67 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Cosmo Sport | | | 1967 | 1972 | rotary | coupe | 25 | 1176 | Mazda Cosmo 110S; Cosmo L10 | y
+Cosmo | JC | | 1990 | 1996 | rotary | coupe | 150 | 8875 | Eunos Cosmo; 20B Cosmo | y
+AZ-1 | | | 1992 | 1995 | i3 | coupe | 200 | 4392 | Autozam AZ-1; Suzuki Cara | y
+GLC | FA | | 1977 | 1980 | i4 | hatchback | 150 | | Familia; Great Little Car
+GLC | BD | | 1981 | 1985 | i4 | hatchback | 300 | | Familia; 323
+323 | BF | | 1986 | 1989 | i4 | hatchback | 1500 | | Familia; 323 GTX
+323 | BG | | 1990 | 1994 | i4 | hatchback | 2500 | | Familia
+Protegé | BG | | 1990 | 1994 | i4 | sedan | 2500 | | Protege; Familia sedan
+Protegé | BH | | 1995 | 1998 | i4 | sedan | 6000 | | Protege
+Protegé | BJ | | 1999 | 2003 | i4 | sedan | 25000 | | Protege; Protegé5; Protege5
+Protegé | BJ | Mazdaspeed | 2003 | 2003 | i4 | sedan | 2500 | 4500 | Mazdaspeed Protege; MSP | y
+626 | 1st gen | | 1979 | 1982 | i4 | sedan | 200 | | Capella
+626 | 2nd gen | | 1983 | 1987 | i4 | sedan | 800 | | Capella; GC
+626 | 3rd gen | | 1988 | 1992 | i4 | sedan | 2500 | | Capella; GD
+626 | 4th gen | | 1993 | 1997 | i4 | sedan | 15000 | | GE
+626 | 5th gen | | 1998 | 2002 | i4 | sedan | 50000 | | GF
+MX-6 | 1st gen | | 1988 | 1992 | i4 | coupe | 2000 | | MX6
+MX-6 | 2nd gen | | 1993 | 1997 | v6 | coupe | 7000 | | MX6
+MX-3 | | | 1992 | 1996 | v6 | coupe | 3000 | | MX3; Eunos Presso
+929 | HC | | 1988 | 1991 | v6 | sedan | 300 | | Luce
+929 | HD | | 1992 | 1995 | v6 | sedan | 1000 | | Sentia
+Millenia | | | 1995 | 2002 | v6 | sedan | 4000 | | Xedos 9; Eunos 800
+RX-7 | FB | | 1978 | 1985 | rotary | coupe | 6000 | 474565 | SA22C; first gen RX-7 | y
+RX-7 | FC | | 1986 | 1992 | rotary | coupe | 9000 | 272027 | FC3S; Savanna RX-7 | y
+RX-7 | FD | | 1993 | 2002 | rotary | coupe | 7000 | 68589 | FD3S; Efini RX-7 | y
+RX-7 | FD | Spirit R | 2002 | 2002 | rotary | coupe | 100 | 1504 | RX-7 Spirit R Type A | y
+RX-8 | | | 2003 | 2012 | rotary | coupe | 40000 | 192094 | SE3P
+MX-5 | NA | | 1989 | 1997 | i4 | convertible | 150000 | 431506 | Miata; NA Miata; Eunos Roadster | y
+MX-5 | NB | | 1998 | 2005 | i4 | convertible | 70000 | 290123 | Miata; NB Miata
+MX-5 | NB | Mazdaspeed | 2004 | 2005 | i4 | convertible | 3000 | 5428 | Mazdaspeed Miata; Mazdaspeed MX-5 | y
+MX-5 | NC | | 2006 | 2015 | i4 | convertible | 90000 | | Miata; NC Miata
+MX-5 | ND | | 2016 | | i4 | convertible | 95000 | | Miata; ND Miata; MX-5 RF
+Mazda3 | BK | | 2004 | 2009 | i4 | sedan | 400000 | | Mazda 3; Axela
+Mazda3 | BK | Mazdaspeed3 | 2007 | 2009 | i4 | hatchback | 12000 | | Mazdaspeed 3; MS3; Mazda3 MPS | y
+Mazda3 | BL | | 2010 | 2013 | i4 | sedan | 700000 | | Mazda 3; Axela
+Mazda3 | BL | Mazdaspeed3 | 2010 | 2013 | i4 | hatchback | 12000 | | Mazdaspeed 3; MS3; Mazda3 MPS | y
+Mazda3 | BM | | 2014 | 2018 | i4 | sedan | 800000 | | Mazda 3; Axela
+Mazda3 | BP | | 2019 | | i4 | sedan | 550000 | | Mazda 3; Mazda3 Turbo
+Mazda6 | GG | | 2003 | 2008 | i4 | sedan | 200000 | | Mazda 6; Atenza
+Mazda6 | GG | Mazdaspeed6 | 2006 | 2007 | i4 | sedan | 3000 | | Mazdaspeed 6; Mazda6 MPS | y
+Mazda6 | GH | | 2009 | 2013 | i4 | sedan | 200000 | | Mazda 6; Atenza
+Mazda6 | GJ | | 2014 | 2021 | i4 | sedan | 300000 | | Mazda 6; Atenza
+Mazda2 | DE | | 2011 | 2014 | i4 | hatchback | 25000 | | Mazda 2; Demio
+Mazda5 | CR | | 2006 | 2010 | i4 | van | 25000 | | Mazda 5; Premacy
+Mazda5 | CW | | 2012 | 2015 | i4 | van | 30000 | | Mazda 5; Premacy
+MPV | LV | | 1989 | 1998 | v6 | van | 3000 | | 
+MPV | LW | | 2000 | 2006 | v6 | van | 20000 | | 
+Bongo Friendee | | | 1995 | 2005 | i4 | van | 2000 | | Ford Freda; Bongo
+B-Series | 3rd gen | | 1979 | 1984 | i4 | pickup | 800 | | B2000; B2200; Mazda truck
+B-Series | UF | | 1986 | 1993 | i4 | pickup | 8000 | | B2000; B2200; B2600; Mazda truck
+B-Series | 5th gen | | 1994 | 2010 | i4 | pickup | 60000 | | B2300; B2500; B3000; B4000; Mazda truck
+Navajo | | | 1991 | 1994 | v6 | suv | 300 | | 
+Tribute | 1st gen | | 2001 | 2006 | v6 | suv | 40000 | | 
+Tribute | 2nd gen | | 2008 | 2011 | i4 | suv | 40000 | | Tribute Hybrid
+CX-7 | | | 2007 | 2012 | i4 | suv | 40000 | | CX7
+CX-9 | TB | | 2007 | 2015 | v6 | suv | 150000 | | CX9
+CX-9 | TC | | 2016 | 2023 | i4 | suv | 300000 | | CX9
+CX-3 | | | 2016 | 2022 | i4 | suv | 100000 | | CX3
+CX-5 | KE | | 2013 | 2016 | i4 | suv | 500000 | | CX5
+CX-5 | KF | | 2017 | 2025 | i4 | suv | 1500000 | | CX5
+CX-5 | 3rd gen | | 2026 | | i4 | suv | 50000 | | CX5; KG
+CX-30 | | | 2020 | | i4 | suv | 500000 | | CX30
+CX-50 | | | 2023 | | i4 | suv | 200000 | | CX50
+CX-70 | | | 2025 | | i6 | suv | 15000 | | CX70
+CX-90 | | | 2024 | | i6 | suv | 120000 | | CX90
+MX-30 | | | 2022 | 2023 | electric | suv | 2000 | | MX30

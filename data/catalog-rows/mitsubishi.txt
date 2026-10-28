@@ -1,0 +1,55 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Starion | | | 1983 | 1989 | i4 | coupe | 1000 | | Starion ESI-R; Chrysler Conquest
+Cordia | | | 1983 | 1988 | i4 | hatchback | 100 | | 
+Tredia | | | 1983 | 1988 | i4 | sedan | 80 | | 
+Mighty Max | 1st gen | | 1983 | 1986 | i4 | pickup | 500 | | Mitsubishi Pickup; Forte; L200
+Mighty Max | 2nd gen | | 1987 | 1996 | i4 | pickup | 4000 | | L200; Mitsubishi Pickup
+Raider | | | 2006 | 2009 | v6 | pickup | 3000 | | 
+Montero | 1st gen | | 1983 | 1991 | i4 | suv | 2000 | | Pajero; Shogun
+Montero | 2nd gen | | 1992 | 1999 | v6 | suv | 6000 | | Pajero; Shogun
+Montero | 3rd gen | | 2001 | 2006 | v6 | suv | 15000 | | Pajero; Shogun
+Montero Sport | | | 1997 | 2004 | v6 | suv | 30000 | | Pajero Sport; Challenger
+Delica | L300 | | 1986 | 1999 | i4 | van | 3000 | | Mitsubishi Van; Mitsubishi Wagon; Delica Star Wagon
+Delica | Space Gear | | 1994 | 2007 | i4 | van | 8000 | | Delica Space Gear; L400
+Minicab | | | 1991 | 1999 | i3 | pickup | 4000 | | Minicab kei truck
+Galant | 5th gen | | 1985 | 1987 | i4 | sedan | 100 | | 
+Galant | 6th gen | | 1989 | 1993 | i4 | sedan | 1500 | | E30
+Galant | 6th gen | VR-4 | 1991 | 1992 | i4 | sedan | 400 | | Galant VR4 | y
+Galant | 7th gen | | 1994 | 1998 | i4 | sedan | 3000 | | E50
+Galant | 8th gen | | 1999 | 2003 | i4 | sedan | 15000 | | 
+Galant | 9th gen | | 2004 | 2012 | i4 | sedan | 60000 | | Galant Ralliart
+Sigma | | | 1989 | 1990 | v6 | sedan | 50 | | 
+Precis | | | 1987 | 1994 | i4 | hatchback | 50 | | Hyundai Excel
+Diamante | 1st gen | | 1992 | 1996 | v6 | sedan | 1000 | | 
+Diamante | 2nd gen | | 1997 | 2004 | v6 | sedan | 4000 | | 
+Expo | | | 1992 | 1996 | i4 | van | 300 | | Expo LRV; RVR
+Mirage | 2nd gen | | 1985 | 1988 | i4 | hatchback | 100 | | 
+Mirage | 3rd gen | | 1989 | 1992 | i4 | hatchback | 400 | | 
+Mirage | 4th gen | | 1993 | 1996 | i4 | sedan | 2000 | | 
+Mirage | 5th gen | | 1997 | 2002 | i4 | sedan | 15000 | | 
+Mirage | 6th gen | | 2014 | 2024 | i3 | hatchback | 350000 | | Mirage G4; Space Star
+Lancer | 7th gen | | 2002 | 2007 | i4 | sedan | 50000 | | Lancer OZ Rally; Lancer Ralliart; Lancer Sportback
+Lancer | 8th gen | | 2008 | 2017 | i4 | sedan | 300000 | | Lancer Ralliart; Lancer Sportback
+Lancer Evolution | IV | | 1996 | 1998 | i4 | sedan | 150 | | Evo IV; Evo 4 | y
+Lancer Evolution | V | | 1998 | 1999 | i4 | sedan | 100 | | Evo V; Evo 5 | y
+Lancer Evolution | VI | | 1999 | 2001 | i4 | sedan | 200 | | Evo VI; Evo 6 | y
+Lancer Evolution | VI | Tommi Mäkinen Edition | 2000 | 2001 | i4 | sedan | 40 | | Evo 6.5; TME; Evo VI TME | y
+Lancer Evolution | VII | | 2001 | 2003 | i4 | sedan | 100 | | Evo VII; Evo 7 | y
+Lancer Evolution | VIII | | 2003 | 2005 | i4 | sedan | 9000 | | Evo VIII; Evo 8; Evo VIII MR | y
+Lancer Evolution | IX | | 2005 | 2007 | i4 | sedan | 6000 | | Evo IX; Evo 9; Evo IX MR | y
+Lancer Evolution | X | | 2008 | 2015 | i4 | sedan | 20000 | | Evo X; Evo 10 | y
+Lancer Evolution | X | Final Edition | 2015 | 2015 | i4 | sedan | 1500 | 1600 | Evo X Final Edition | y
+Eclipse | 1G | | 1990 | 1994 | i4 | coupe | 8000 | | DSM; Eclipse GSX; Plymouth Laser | y
+Eclipse | 2G | | 1995 | 1999 | i4 | coupe | 20000 | | DSM; Eclipse GSX; Eclipse Spyder | y
+Eclipse | 3G | | 2000 | 2005 | v6 | coupe | 40000 | | Eclipse GT; Eclipse Spyder
+Eclipse | 4G | | 2006 | 2012 | v6 | coupe | 60000 | | Eclipse GT; Eclipse Spyder
+3000GT | | | 1991 | 1999 | v6 | coupe | 15000 | | GTO; Mitsubishi GTO; 3000GT VR-4; Dodge Stealth | y
+FTO | | | 1994 | 2000 | v6 | coupe | 300 | 38000 | 
+Endeavor | | | 2004 | 2011 | v6 | suv | 25000 | | 
+Outlander | 1st gen | | 2003 | 2006 | i4 | suv | 40000 | | Airtrek
+Outlander | 2nd gen | | 2007 | 2013 | i4 | suv | 150000 | | 
+Outlander | 3rd gen | | 2014 | 2021 | i4 | suv | 500000 | | Outlander PHEV
+Outlander | 4th gen | | 2022 | | i4 | suv | 400000 | | Outlander PHEV
+Outlander Sport | | | 2011 | 2024 | i4 | suv | 550000 | | RVR; ASX
+Eclipse Cross | | | 2018 | | i4 | suv | 150000 | | 
+i-MiEV | | | 2012 | 2017 | electric | hatchback | 1000 | | i; Mitsubishi i

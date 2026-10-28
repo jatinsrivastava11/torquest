@@ -1,0 +1,65 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Pony | | | 1984 | 1987 | i4 | hatchback | 80 | | Pony 2
+Stellar | | | 1985 | 1987 | i4 | sedan | 20 | | 
+Excel | X1 | | 1986 | 1989 | i4 | hatchback | 300 | | Presto; Mitsubishi Precis
+Excel | X2 | | 1990 | 1994 | i4 | hatchback | 500 | | 
+Scoupe | | | 1991 | 1995 | i4 | coupe | 500 | | S Coupe
+Accent | X3 | | 1995 | 1999 | i4 | hatchback | 3000 | | 
+Accent | LC | | 2000 | 2005 | i4 | sedan | 20000 | | 
+Accent | MC | | 2006 | 2011 | i4 | sedan | 100000 | | 
+Accent | RB | | 2012 | 2017 | i4 | sedan | 300000 | | Solaris
+Accent | HC | | 2018 | 2022 | i4 | sedan | 200000 | | Solaris
+Elantra | J1 | | 1991 | 1995 | i4 | sedan | 2000 | | Lantra
+Elantra | J2 | | 1996 | 2000 | i4 | sedan | 10000 | | Lantra
+Elantra | XD | | 2001 | 2006 | i4 | sedan | 100000 | | 
+Elantra | HD | | 2007 | 2010 | i4 | sedan | 250000 | | 
+Elantra | MD | | 2011 | 2016 | i4 | sedan | 900000 | | Elantra coupe
+Elantra | AD | | 2017 | 2020 | i4 | sedan | 1000000 | | 
+Elantra | CN7 | | 2021 | | i4 | sedan | 800000 | | Elantra Hybrid; Avante
+Elantra | CN7 | N | 2022 | | i4 | sedan | 35000 | | Elantra N; Avante N | y
+Elantra Touring | | | 2009 | 2012 | i4 | wagon | 30000 | | i30 cw; i30 wagon
+Elantra GT | GD | | 2013 | 2017 | i4 | hatchback | 80000 | | i30
+Elantra GT | PD | | 2018 | 2020 | i4 | hatchback | 60000 | | i30; Elantra GT N Line
+Tiburon | RD | | 1997 | 2001 | i4 | coupe | 3000 | | Coupe
+Tiburon | GK | | 2003 | 2008 | v6 | coupe | 15000 | | Tuscani
+Veloster | FS | | 2012 | 2017 | i4 | hatchback | 80000 | | Veloster Turbo
+Veloster | JS | | 2019 | 2022 | i4 | hatchback | 20000 | | 
+Veloster | JS | N | 2019 | 2022 | i4 | hatchback | 6000 | | Veloster N | y
+Genesis Coupe | | | 2010 | 2016 | v6 | coupe | 40000 | | 
+Sonata | Y2 | | 1989 | 1994 | i4 | sedan | 300 | | 
+Sonata | Y3 | | 1995 | 1998 | i4 | sedan | 1500 | | 
+Sonata | EF | | 1999 | 2005 | i4 | sedan | 30000 | | 
+Sonata | NF | | 2006 | 2010 | i4 | sedan | 150000 | | 
+Sonata | YF | | 2011 | 2014 | i4 | sedan | 600000 | | 
+Sonata | LF | | 2015 | 2019 | i4 | sedan | 700000 | | 
+Sonata | DN8 | | 2020 | | i4 | sedan | 500000 | | Sonata N Line
+XG350 | | | 2001 | 2005 | v6 | sedan | 5000 | | XG300; Grandeur XG; Grandeur
+Azera | TG | | 2006 | 2011 | v6 | sedan | 15000 | | Grandeur
+Azera | HG | | 2012 | 2017 | v6 | sedan | 20000 | | Grandeur
+Genesis | BH | | 2009 | 2014 | v6 | sedan | 60000 | | Hyundai Genesis sedan
+Genesis | DH | | 2015 | 2016 | v6 | sedan | 30000 | | Hyundai Genesis sedan
+Equus | | | 2011 | 2016 | v8 | sedan | 8000 | | 
+Santa Fe | SM | | 2001 | 2006 | v6 | suv | 60000 | | 
+Santa Fe | CM | | 2007 | 2012 | v6 | suv | 200000 | | 
+Santa Fe | DM | | 2013 | 2018 | i4 | suv | 500000 | | Santa Fe Sport; Santa Fe XL
+Santa Fe | TM | | 2019 | 2023 | i4 | suv | 500000 | | 
+Santa Fe | MX5 | | 2024 | | i4 | suv | 200000 | | 
+Tucson | JM | | 2005 | 2009 | i4 | suv | 40000 | | 
+Tucson | LM | | 2010 | 2015 | i4 | suv | 250000 | | ix35
+Tucson | TL | | 2016 | 2021 | i4 | suv | 700000 | | 
+Tucson | NX4 | | 2022 | | i4 | suv | 1000000 | | Tucson Hybrid
+Veracruz | | | 2007 | 2012 | v6 | suv | 30000 | | ix55
+Entourage | | | 2007 | 2009 | v6 | van | 5000 | | 
+Kona | OS | | 2018 | 2023 | i4 | suv | 400000 | | Kona Electric
+Kona | OS | N | 2022 | 2023 | i4 | suv | 5000 | | Kona N | y
+Kona | SX2 | | 2024 | | i4 | suv | 150000 | | Kona Electric
+Venue | | | 2020 | | i4 | suv | 150000 | | 
+Palisade | LX2 | | 2020 | 2025 | v6 | suv | 500000 | | 
+Palisade | LX3 | | 2025 | | v6 | suv | 50000 | | Palisade Hybrid
+Santa Cruz | | | 2022 | | i4 | pickup | 120000 | | 
+Ioniq | | | 2017 | 2022 | i4 | hatchback | 30000 | | Ioniq Hybrid; Ioniq Electric
+Ioniq 5 | | | 2022 | | electric | suv | 195000 | | 
+Ioniq 5 | Ioniq 5 | N | 2025 | | electric | suv | 3000 | | Ioniq 5 N | y
+Ioniq 6 | | | 2023 | | electric | sedan | 40000 | | 
+Ioniq 9 | | | 2025 | | electric | suv | 15000 | | 
+Nexo | | | 2019 | | electric | suv | 1500 | | 

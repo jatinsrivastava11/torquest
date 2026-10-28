@@ -1,0 +1,4 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases(;) | hype(y)
+Fortwo | W450 | | 1998 | 2007 | i3 | hatchback | 3000 | | City Coupe;Fortwo cdi
+Fortwo | W451 | | 2007 | 2014 | i3 | hatchback | 60000 | | Fortwo passion;Fortwo electric drive
+Fortwo | C453 | | 2014 | 2024 | i3 | hatchback | 20000 | | EQ Fortwo;Fortwo electric drive

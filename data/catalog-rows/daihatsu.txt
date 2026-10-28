@@ -1,0 +1,5 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype
+Charade | | | 1988 | 1992 | i3 | hatchback | 200 | | 
+Rocky | | | 1990 | 1992 | i4 | suv | 300 | | Feroza
+Hijet | | | 1986 | 1999 | i3 | pickup | 15000 | | Hijet kei truck; Hijet Jumbo
+Copen | 1st gen | | 2002 | 2012 | i4 | convertible | 300 | 58496 | L880K
