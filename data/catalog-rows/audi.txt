@@ -101,3 +101,9 @@ Q8 | | | 2018 | | v6 | suv | 80000 | | 4M Q8;Q8 55 TFSI;SQ8
 Q8 | | RS Q8 | 2019 | | v8 | suv | 6000 | | RSQ8;RS Q8 performance | y
 Q8 e-tron | | | 2018 | 2025 | electric | suv | 45000 | | e-tron;e-tron quattro;e-tron Sportback;Q8 Sportback e-tron;SQ8 e-tron
 e-tron GT | | | 2021 | | electric | sedan | 12000 | | RS e-tron GT;S e-tron GT
+# Never sold in North America (home market counts)
+A1 | 8X | | 2010 | 2018 | i4 | hatchback | 0 | | A1 Sportback | | europe:600000
+A1 | 8X | S1 | 2014 | 2018 | i4 | hatchback | 0 | | S1 Sportback | y | europe:10000
+A1 | GB | | 2018 | | i4 | hatchback | 0 | | A1 Sportback;A1 citycarver | | europe:500000
+A2 | | | 1999 | 2005 | i4 | hatchback | 0 | 176377 | 8Z | | europe:100000
+Q2 | | | 2016 | | i4 | suv | 0 | | GA;SQ2 | | europe:900000

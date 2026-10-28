@@ -2,3 +2,25 @@
 # model | generation | variant | start | end | engine | body | naOnRoad | built | aliases(;) | hype(y)
 GT | | | 1968 | 1973 | i4 | coupe | 8000 | 103463 | Opel GT;Buick Opel GT;mini Corvette
 Manta | A | | 1970 | 1975 | i4 | coupe | 800 | 498553 | Opel Manta;Opel 1900 coupe;Manta A
+# Opel-badged home-market cars (some were sold in NA under GM badges, not as Opels)
+Astra | G | | 1998 | 2004 | i4 | hatchback | 0 | | Astra G;Vauxhall Astra | | europe:600000
+Astra | H | | 2004 | 2010 | i4 | hatchback | 0 | | Astra H;Vauxhall Astra;Saturn Astra twin | | europe:1500000
+Astra | H | OPC | 2005 | 2010 | i4 | hatchback | 0 | | Astra OPC;Astra VXR | y | europe:10000
+Astra | J | | 2009 | 2015 | i4 | hatchback | 0 | | Astra J;Vauxhall Astra;GTC | | europe:2000000
+Astra | J | OPC | 2012 | 2015 | i4 | hatchback | 0 | | Astra OPC;Astra VXR | y | europe:6000
+Astra | K | | 2015 | 2021 | i4 | hatchback | 0 | | Astra K;Vauxhall Astra | | europe:2000000
+Astra | L | | 2021 | | i4 | hatchback | 0 | | Astra L;Vauxhall Astra;Astra Electric | | europe:600000
+Corsa | C | | 2000 | 2006 | i4 | hatchback | 0 | | Corsa C;Vauxhall Corsa | | europe:800000
+Corsa | D | | 2006 | 2014 | i4 | hatchback | 0 | | Corsa D;Vauxhall Corsa | | europe:2500000
+Corsa | E | | 2014 | 2019 | i4 | hatchback | 0 | | Corsa E;Vauxhall Corsa | | europe:2000000
+Corsa | F | | 2019 | | i4 | hatchback | 0 | | Corsa F;Vauxhall Corsa;Corsa-e | | europe:1500000
+Insignia | A | | 2008 | 2017 | i4 | sedan | 0 | | Insignia A;Vauxhall Insignia;Buick Regal twin | | europe:1200000
+Insignia | A | OPC | 2009 | 2017 | v6 | sedan | 0 | | Insignia OPC;Insignia VXR | y | europe:10000
+Insignia | B | | 2017 | 2022 | i4 | sedan | 0 | | Insignia B;Insignia Grand Sport;Vauxhall Insignia;Buick Regal twin | | europe:500000
+Mokka | 1st gen | | 2012 | 2019 | i4 | suv | 0 | | Mokka X;Vauxhall Mokka;Buick Encore twin | | europe:700000
+Mokka | 2nd gen | | 2020 | | i4 | suv | 0 | | Mokka-e;Vauxhall Mokka | | europe:400000
+Vectra | B | | 1995 | 2002 | i4 | sedan | 0 | | Vectra B;Vauxhall Vectra | | europe:300000
+Vectra | C | | 2002 | 2008 | i4 | sedan | 0 | | Vectra C;Vauxhall Vectra;Signum | | europe:600000
+Zafira | A | | 1999 | 2005 | i4 | van | 0 | | Zafira A;Vauxhall Zafira | | europe:300000
+Zafira | B | | 2005 | 2014 | i4 | van | 0 | | Zafira B;Vauxhall Zafira | | europe:800000
+Zafira | C | | 2011 | 2019 | i4 | van | 0 | | Zafira Tourer;Vauxhall Zafira Tourer | | europe:500000

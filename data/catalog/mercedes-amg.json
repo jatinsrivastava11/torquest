@@ -1,8 +1,8 @@
 {
   "make": "Mercedes-AMG",
   "cars": [
-    {"id":"mercedes-amg-sls-amg","model":"SLS AMG","generation":"SLS AMG","years":[2010,2014],"engine":"v8","body":"coupe","naOnRoad":3000,"built":8000,"aliases":["SLS","SLS AMG GT","SLS AMG Roadster","C197","gullwing SLS"],"hype":true},
-    {"id":"mercedes-amg-sls-amg-black-series","model":"SLS AMG","generation":"SLS AMG","variant":"Black Series","years":[2013,2014],"engine":"v8","body":"coupe","naOnRoad":90,"built":350,"aliases":["SLS AMG Black Series","SLS Black Series"],"hype":true},
+    {"id":"mercedes-amg-sls-amg","model":"SLS AMG","generation":"SLS AMG","years":[2010,2014],"engine":"v8","body":"coupe","naOnRoad":3000,"built":8000,"aliases":["SLS","Mercedes-Benz SLS AMG","SLS AMG GT","SLS AMG Roadster","C197","gullwing SLS"],"hype":true},
+    {"id":"mercedes-amg-sls-amg-black-series","model":"SLS AMG","generation":"SLS AMG","variant":"Black Series","years":[2013,2014],"engine":"v8","body":"coupe","naOnRoad":90,"built":350,"aliases":["SLS AMG Black Series","SLS Black Series","Mercedes-Benz SLS AMG Black Series"],"hype":true},
     {"id":"mercedes-amg-gt-c190","model":"GT","generation":"C190","years":[2014,2021],"engine":"v8","body":"coupe","naOnRoad":15000,"aliases":["AMG GT","AMG GT S","AMG GT C","AMG GT Roadster"],"hype":true},
     {"id":"mercedes-amg-gt-c190-gt-r","model":"GT","generation":"C190","variant":"GT R","years":[2016,2021],"engine":"v8","body":"coupe","naOnRoad":2000,"aliases":["AMG GT R","GT R Pro","Green Hell"],"hype":true},
     {"id":"mercedes-amg-gt-c190-black-series","model":"GT","generation":"C190","variant":"Black Series","years":[2020,2021],"engine":"v8","body":"coupe","naOnRoad":300,"built":1700,"aliases":["AMG GT Black Series","GT Black Series"],"hype":true},

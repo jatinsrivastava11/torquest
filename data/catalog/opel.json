@@ -2,6 +2,27 @@
   "make": "Opel",
   "cars": [
     {"id":"opel-gt","model":"GT","generation":"GT","years":[1968,1973],"engine":"i4","body":"coupe","naOnRoad":8000,"built":103463,"aliases":["Opel GT","Buick Opel GT","mini Corvette"]},
-    {"id":"opel-manta-a","model":"Manta","generation":"A","years":[1970,1975],"engine":"i4","body":"coupe","naOnRoad":800,"built":498553,"aliases":["Opel Manta","Opel 1900 coupe","Manta A"]}
+    {"id":"opel-manta-a","model":"Manta","generation":"A","years":[1970,1975],"engine":"i4","body":"coupe","naOnRoad":800,"built":498553,"aliases":["Opel Manta","Opel 1900 coupe","Manta A"]},
+    {"id":"opel-astra-g","model":"Astra","generation":"G","years":[1998,2004],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Astra G","Vauxhall Astra"],"home":{"market":"europe","onRoad":600000}},
+    {"id":"opel-astra-h","model":"Astra","generation":"H","years":[2004,2010],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Astra H","Vauxhall Astra","Saturn Astra twin"],"home":{"market":"europe","onRoad":1500000}},
+    {"id":"opel-astra-h-opc","model":"Astra","generation":"H","variant":"OPC","years":[2005,2010],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Astra OPC","Astra VXR"],"hype":true,"home":{"market":"europe","onRoad":10000}},
+    {"id":"opel-astra-j","model":"Astra","generation":"J","years":[2009,2015],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Astra J","Vauxhall Astra","GTC"],"home":{"market":"europe","onRoad":2000000}},
+    {"id":"opel-astra-j-opc","model":"Astra","generation":"J","variant":"OPC","years":[2012,2015],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Astra OPC","Astra VXR"],"hype":true,"home":{"market":"europe","onRoad":6000}},
+    {"id":"opel-astra-k","model":"Astra","generation":"K","years":[2015,2021],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Astra K","Vauxhall Astra"],"home":{"market":"europe","onRoad":2000000}},
+    {"id":"opel-astra-l","model":"Astra","generation":"L","years":[2021,null],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Astra L","Vauxhall Astra","Astra Electric"],"home":{"market":"europe","onRoad":600000}},
+    {"id":"opel-corsa-c","model":"Corsa","generation":"C","years":[2000,2006],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Corsa C","Vauxhall Corsa"],"home":{"market":"europe","onRoad":800000}},
+    {"id":"opel-corsa-d","model":"Corsa","generation":"D","years":[2006,2014],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Corsa D","Vauxhall Corsa"],"home":{"market":"europe","onRoad":2500000}},
+    {"id":"opel-corsa-e","model":"Corsa","generation":"E","years":[2014,2019],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Corsa E","Vauxhall Corsa"],"home":{"market":"europe","onRoad":2000000}},
+    {"id":"opel-corsa-f","model":"Corsa","generation":"F","years":[2019,null],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Corsa F","Vauxhall Corsa","Corsa-e"],"home":{"market":"europe","onRoad":1500000}},
+    {"id":"opel-insignia-a","model":"Insignia","generation":"A","years":[2008,2017],"engine":"i4","body":"sedan","naOnRoad":0,"aliases":["Insignia A","Vauxhall Insignia","Buick Regal twin"],"home":{"market":"europe","onRoad":1200000}},
+    {"id":"opel-insignia-a-opc","model":"Insignia","generation":"A","variant":"OPC","years":[2009,2017],"engine":"v6","body":"sedan","naOnRoad":0,"aliases":["Insignia OPC","Insignia VXR"],"hype":true,"home":{"market":"europe","onRoad":10000}},
+    {"id":"opel-insignia-b","model":"Insignia","generation":"B","years":[2017,2022],"engine":"i4","body":"sedan","naOnRoad":0,"aliases":["Insignia B","Insignia Grand Sport","Vauxhall Insignia","Buick Regal twin"],"home":{"market":"europe","onRoad":500000}},
+    {"id":"opel-mokka-1st-gen","model":"Mokka","generation":"1st gen","years":[2012,2019],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Mokka X","Vauxhall Mokka","Buick Encore twin"],"home":{"market":"europe","onRoad":700000}},
+    {"id":"opel-mokka-2nd-gen","model":"Mokka","generation":"2nd gen","years":[2020,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Mokka-e","Vauxhall Mokka"],"home":{"market":"europe","onRoad":400000}},
+    {"id":"opel-vectra-b","model":"Vectra","generation":"B","years":[1995,2002],"engine":"i4","body":"sedan","naOnRoad":0,"aliases":["Vectra B","Vauxhall Vectra"],"home":{"market":"europe","onRoad":300000}},
+    {"id":"opel-vectra-c","model":"Vectra","generation":"C","years":[2002,2008],"engine":"i4","body":"sedan","naOnRoad":0,"aliases":["Vectra C","Vauxhall Vectra","Signum"],"home":{"market":"europe","onRoad":600000}},
+    {"id":"opel-zafira-a","model":"Zafira","generation":"A","years":[1999,2005],"engine":"i4","body":"van","naOnRoad":0,"aliases":["Zafira A","Vauxhall Zafira"],"home":{"market":"europe","onRoad":300000}},
+    {"id":"opel-zafira-b","model":"Zafira","generation":"B","years":[2005,2014],"engine":"i4","body":"van","naOnRoad":0,"aliases":["Zafira B","Vauxhall Zafira"],"home":{"market":"europe","onRoad":800000}},
+    {"id":"opel-zafira-c","model":"Zafira","generation":"C","years":[2011,2019],"engine":"i4","body":"van","naOnRoad":0,"aliases":["Zafira Tourer","Vauxhall Zafira Tourer"],"home":{"market":"europe","onRoad":500000}}
   ]
 }

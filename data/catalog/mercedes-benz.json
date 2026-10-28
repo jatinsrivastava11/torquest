@@ -8,7 +8,7 @@
     {"id":"mercedes-benz-sl-r107","model":"SL","generation":"R107","years":[1971,1989],"engine":"v8","body":"convertible","naOnRoad":60000,"built":237287,"aliases":["380SL","450SL","560SL","SLC"]},
     {"id":"mercedes-benz-sl-r129","model":"SL","generation":"R129","years":[1989,2001],"engine":"v8","body":"convertible","naOnRoad":50000,"built":204940,"aliases":["500SL","SL500","SL600","SL320"]},
     {"id":"mercedes-benz-sl-r230","model":"SL","generation":"R230","years":[2001,2011],"engine":"v8","body":"convertible","naOnRoad":60000,"built":169433,"aliases":["SL500","SL550","SL55 AMG","SL600","SL65 AMG"]},
-    {"id":"mercedes-benz-sl-r230-sl-65-amg-black-series","model":"SL","generation":"R230","variant":"SL 65 AMG Black Series","years":[2008,2010],"engine":"v12","body":"coupe","naOnRoad":150,"built":350,"aliases":["SL 63 Black Series","SL65 Black Series","SL 65 Black Series"],"hype":true},
+    {"id":"mercedes-benz-sl-r230-sl-65-amg-black-series","model":"SL","generation":"R230","variant":"SL 65 AMG Black Series","years":[2008,2010],"engine":"v12","body":"coupe","naOnRoad":150,"built":350,"aliases":["SL 63 Black Series","SL65 Black Series","SL 65 Black Series","Mercedes-AMG SL 63 Black Series"],"hype":true},
     {"id":"mercedes-benz-sl-r231","model":"SL","generation":"R231","years":[2012,2020],"engine":"v8","body":"convertible","naOnRoad":30000,"aliases":["SL550","SL450","SL63 AMG","SL65 AMG"]},
     {"id":"mercedes-benz-sl-r232","model":"SL","generation":"R232","years":[2021,null],"engine":"v8","body":"convertible","naOnRoad":12000,"aliases":["Mercedes-AMG SL","SL 55","SL 63","SL 43"]},
     {"id":"mercedes-benz-slr-mclaren","model":"SLR McLaren","generation":"SLR McLaren","years":[2003,2009],"engine":"v8","body":"supercar","naOnRoad":700,"built":2157,"aliases":["SLR","SLR Roadster","SLR 722"],"hype":true},
@@ -81,7 +81,7 @@
     {"id":"mercedes-benz-cl-class-c216","model":"CL-Class","generation":"C216","years":[2006,2014],"engine":"v8","body":"coupe","naOnRoad":12000,"aliases":["CL550","CL600","CL63 AMG","CL65 AMG"]},
     {"id":"mercedes-benz-g-class-w463","model":"G-Class","generation":"W463","years":[1990,2018],"engine":"v8","body":"suv","naOnRoad":50000,"aliases":["G-Wagon","G-Wagen","G500","G550","G55 AMG","G63","G 63 AMG","G63 AMG"],"hype":true},
     {"id":"mercedes-benz-g-class-w463-4x4","model":"G-Class","generation":"W463","variant":"4x4²","years":[2016,2018],"engine":"v8","body":"suv","naOnRoad":400,"aliases":["G550 4x4 Squared","G 500 4x4²","4x4 squared"],"hype":true},
-    {"id":"mercedes-benz-g-class-w463-g-63-amg-6x6","model":"G-Class","generation":"W463","variant":"G 63 AMG 6x6","years":[2013,2015],"engine":"v8","body":"pickup","naOnRoad":10,"built":100,"aliases":["G63 6x6","G 63 AMG 6x6","6x6"],"hype":true},
+    {"id":"mercedes-benz-g-class-w463-g-63-amg-6x6","model":"G-Class","generation":"W463","variant":"G 63 AMG 6x6","years":[2013,2015],"engine":"v8","body":"pickup","naOnRoad":10,"built":100,"aliases":["G63 6x6","G 63 AMG 6x6","6x6","Mercedes-AMG G 63 AMG 6x6"],"hype":true},
     {"id":"mercedes-benz-g-class-w463a","model":"G-Class","generation":"W463A","years":[2018,null],"engine":"v8","body":"suv","naOnRoad":45000,"aliases":["W464","G-Wagon","G-Wagen","G550","G63","G 63","G 580","G 580 with EQ Technology","electric G-Class"],"hype":true},
     {"id":"mercedes-benz-gla-x156","model":"GLA","generation":"X156","years":[2013,2019],"engine":"i4","body":"suv","naOnRoad":80000,"aliases":["GLA250","GLA45 AMG"]},
     {"id":"mercedes-benz-gla-h247","model":"GLA","generation":"H247","years":[2019,null],"engine":"i4","body":"suv","naOnRoad":70000,"aliases":["GLA250","GLA35 AMG","GLA45 AMG"]},
@@ -109,6 +109,7 @@
     {"id":"mercedes-benz-sprinter-t1n","model":"Sprinter","generation":"T1N","years":[1995,2006],"engine":"i5","body":"van","naOnRoad":30000,"aliases":["W901","W903","Dodge Sprinter","Freightliner Sprinter"]},
     {"id":"mercedes-benz-sprinter-ncv3","model":"Sprinter","generation":"NCV3","years":[2006,2018],"engine":"v6","body":"van","naOnRoad":200000,"aliases":["W906","Dodge Sprinter","Freightliner Sprinter"]},
     {"id":"mercedes-benz-sprinter-vs30","model":"Sprinter","generation":"VS30","years":[2018,null],"engine":"i4","body":"van","naOnRoad":280000,"aliases":["W907","W910","eSprinter"]},
-    {"id":"mercedes-benz-metris","model":"Metris","generation":"Metris","years":[2016,2023],"engine":"i4","body":"van","naOnRoad":40000,"aliases":["Vito","W447"]}
+    {"id":"mercedes-benz-metris","model":"Metris","generation":"Metris","years":[2016,2023],"engine":"i4","body":"van","naOnRoad":40000,"aliases":["Vito","W447"]},
+    {"id":"mercedes-benz-x-class","model":"X-Class","generation":"X-Class","years":[2017,2020],"engine":"i4","body":"pickup","naOnRoad":0,"built":17000,"aliases":["X 250 d","X 350 d","W470"],"home":{"market":"europe","onRoad":7000}}
   ]
 }

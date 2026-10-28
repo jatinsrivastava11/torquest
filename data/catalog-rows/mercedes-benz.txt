@@ -10,7 +10,7 @@ SL | W113 | | 1963 | 1971 | i6 | convertible | 10000 | 48912 | Pagoda;230SL;250S
 SL | R107 | | 1971 | 1989 | v8 | convertible | 60000 | 237287 | 380SL;450SL;560SL;SLC
 SL | R129 | | 1989 | 2001 | v8 | convertible | 50000 | 204940 | 500SL;SL500;SL600;SL320
 SL | R230 | | 2001 | 2011 | v8 | convertible | 60000 | 169433 | SL500;SL550;SL55 AMG;SL600;SL65 AMG
-SL | R230 | SL 65 AMG Black Series | 2008 | 2010 | v12 | coupe | 150 | 350 | SL 63 Black Series;SL65 Black Series;SL 65 Black Series | y
+SL | R230 | SL 65 AMG Black Series | 2008 | 2010 | v12 | coupe | 150 | 350 | SL 63 Black Series;SL65 Black Series;SL 65 Black Series;Mercedes-AMG SL 63 Black Series | y
 SL | R231 | | 2012 | 2020 | v8 | convertible | 30000 | | SL550;SL450;SL63 AMG;SL65 AMG
 SL | R232 | | 2021 | | v8 | convertible | 12000 | | Mercedes-AMG SL;SL 55;SL 63;SL 43
 SLR McLaren | | | 2003 | 2009 | v8 | supercar | 700 | 2157 | SLR;SLR Roadster;SLR 722 | y
@@ -88,7 +88,7 @@ CL-Class | C216 | | 2006 | 2014 | v8 | coupe | 12000 | | CL550;CL600;CL63 AMG;CL
 # SUVs
 G-Class | W463 | | 1990 | 2018 | v8 | suv | 50000 | | G-Wagon;G-Wagen;G500;G550;G55 AMG;G63;G 63 AMG;G63 AMG | y
 G-Class | W463 | 4x4² | 2016 | 2018 | v8 | suv | 400 | | G550 4x4 Squared;G 500 4x4²;4x4 squared | y
-G-Class | W463 | G 63 AMG 6x6 | 2013 | 2015 | v8 | pickup | 10 | 100 | G63 6x6;G 63 AMG 6x6;6x6 | y
+G-Class | W463 | G 63 AMG 6x6 | 2013 | 2015 | v8 | pickup | 10 | 100 | G63 6x6;G 63 AMG 6x6;6x6;Mercedes-AMG G 63 AMG 6x6 | y
 G-Class | W463A | | 2018 | | v8 | suv | 45000 | | W464;G-Wagon;G-Wagen;G550;G63;G 63;G 580;G 580 with EQ Technology;electric G-Class | y
 GLA | X156 | | 2013 | 2019 | i4 | suv | 80000 | | GLA250;GLA45 AMG
 GLA | H247 | | 2019 | | i4 | suv | 70000 | | GLA250;GLA35 AMG;GLA45 AMG
@@ -119,3 +119,5 @@ Sprinter | T1N | | 1995 | 2006 | i5 | van | 30000 | | W901;W903;Dodge Sprinter;F
 Sprinter | NCV3 | | 2006 | 2018 | v6 | van | 200000 | | W906;Dodge Sprinter;Freightliner Sprinter
 Sprinter | VS30 | | 2018 | | i4 | van | 280000 | | W907;W910;eSprinter
 Metris | | | 2016 | 2023 | i4 | van | 40000 | | Vito;W447
+# Never sold in North America (home market counts)
+X-Class | | | 2017 | 2020 | i4 | pickup | 0 | 17000 | X 250 d;X 350 d;W470 | | europe:7000
