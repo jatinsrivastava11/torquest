@@ -1,0 +1,27 @@
+{
+  "make": "Tata",
+  "cars": [
+    {"id":"tata-sierra-1st-gen","model":"Sierra","generation":"1st gen","years":[1991,2003],"engine":"i4","body":"suv","naOnRoad":0,"hype":true,"home":{"market":"india","onRoad":5000}},
+    {"id":"tata-sierra-2nd-gen","model":"Sierra","generation":"2nd gen","years":[2025,null],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"india","onRoad":60000}},
+    {"id":"tata-sumo","model":"Sumo","generation":"Sumo","years":[1994,2019],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Sumo Gold","Sumo Victa"],"home":{"market":"india","onRoad":400000}},
+    {"id":"tata-safari-1st-gen","model":"Safari","generation":"1st gen","years":[1998,2012],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"india","onRoad":80000}},
+    {"id":"tata-safari-storme","model":"Safari","generation":"Storme","years":[2012,2019],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Safari Storme"],"home":{"market":"india","onRoad":150000}},
+    {"id":"tata-safari-2nd-gen","model":"Safari","generation":"2nd gen","years":[2021,null],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"india","onRoad":150000}},
+    {"id":"tata-indica-1st-gen","model":"Indica","generation":"1st gen","years":[1998,2008],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Indica V2"],"home":{"market":"india","onRoad":300000}},
+    {"id":"tata-indica-vista","model":"Indica","generation":"Vista","years":[2008,2018],"engine":"i4","body":"hatchback","naOnRoad":0,"aliases":["Indica Vista"],"home":{"market":"india","onRoad":300000}},
+    {"id":"tata-indigo","model":"Indigo","generation":"Indigo","years":[2002,2018],"engine":"i4","body":"sedan","naOnRoad":0,"aliases":["Indigo CS","Indigo eCS","Indigo Marina"],"home":{"market":"india","onRoad":200000}},
+    {"id":"tata-xenon","model":"Xenon","generation":"Xenon","years":[2006,null],"engine":"i4","body":"pickup","naOnRoad":0,"aliases":["Yodha"],"home":{"market":"india","onRoad":50000}},
+    {"id":"tata-nano","model":"Nano","generation":"Nano","years":[2008,2018],"engine":"i3","body":"hatchback","naOnRoad":0,"built":300000,"home":{"market":"india","onRoad":200000}},
+    {"id":"tata-aria","model":"Aria","generation":"Aria","years":[2010,2017],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"india","onRoad":8000}},
+    {"id":"tata-zest","model":"Zest","generation":"Zest","years":[2014,2019],"engine":"i4","body":"sedan","naOnRoad":0,"home":{"market":"india","onRoad":100000}},
+    {"id":"tata-bolt","model":"Bolt","generation":"Bolt","years":[2015,2019],"engine":"i4","body":"hatchback","naOnRoad":0,"home":{"market":"india","onRoad":50000}},
+    {"id":"tata-hexa","model":"Hexa","generation":"Hexa","years":[2017,2020],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"india","onRoad":30000}},
+    {"id":"tata-tiago","model":"Tiago","generation":"Tiago","years":[2016,null],"engine":"i3","body":"hatchback","naOnRoad":0,"aliases":["Tiago EV"],"home":{"market":"india","onRoad":700000}},
+    {"id":"tata-tigor","model":"Tigor","generation":"Tigor","years":[2017,null],"engine":"i3","body":"sedan","naOnRoad":0,"aliases":["Tigor EV"],"home":{"market":"india","onRoad":200000}},
+    {"id":"tata-nexon","model":"Nexon","generation":"Nexon","years":[2017,null],"engine":"i3","body":"suv","naOnRoad":0,"aliases":["Nexon EV"],"home":{"market":"india","onRoad":900000}},
+    {"id":"tata-harrier","model":"Harrier","generation":"Harrier","years":[2019,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Harrier EV"],"home":{"market":"india","onRoad":180000}},
+    {"id":"tata-altroz","model":"Altroz","generation":"Altroz","years":[2020,null],"engine":"i3","body":"hatchback","naOnRoad":0,"home":{"market":"india","onRoad":400000}},
+    {"id":"tata-punch","model":"Punch","generation":"Punch","years":[2021,null],"engine":"i3","body":"suv","naOnRoad":0,"aliases":["Punch EV"],"home":{"market":"india","onRoad":850000}},
+    {"id":"tata-curvv","model":"Curvv","generation":"Curvv","years":[2024,null],"engine":"i3","body":"suv","naOnRoad":0,"aliases":["Curvv EV"],"home":{"market":"india","onRoad":60000}}
+  ]
+}

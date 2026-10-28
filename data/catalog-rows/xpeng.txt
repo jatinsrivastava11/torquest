@@ -1,0 +1,10 @@
+G3 | | | 2018 | 2023 | electric | suv | 0 | | G3i | | china:80000
+P7 | 1st gen | | 2020 | 2025 | electric | sedan | 0 | | P7i | | china:150000
+P7 | 2nd gen | | 2025 | | electric | sedan | 0 | | | | china:30000
+P7+ | | | 2024 | | electric | sedan | 0 | | P7 Plus | | china:120000
+P5 | | | 2021 | 2024 | electric | sedan | 0 | | | | china:50000
+G9 | | | 2022 | | electric | suv | 0 | | | | china:50000
+G6 | | | 2023 | | electric | suv | 0 | | | | china:120000
+G7 | | | 2025 | | electric | suv | 0 | | | | china:30000
+X9 | | | 2024 | | electric | van | 0 | | | | china:40000
+Mona M03 | | | 2024 | | electric | sedan | 0 | | M03 | | china:200000

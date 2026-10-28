@@ -5,6 +5,19 @@ Newest entry on top.
 
 ---
 
+## 2026-10-28 (late): The full catalog is in
+
+- **3,209 cars across 121 makes** (`data/catalog/`), every one validated by `test/catalog`.
+  `npm run coverage` confirms all 914 models from Jatin's original list are in.
+- Cars never sold in North America carry a `home` market and are tiered by how common they are
+  there (team/CATALOG.md). Famous imports keep their North American count.
+- Source rows live in `data/catalog-rows/` (regenerate with `scripts/catalog-from-rows.mjs`).
+- **For the engines:** the catalog now uses every one of the 15 engine types, so cars of every
+  type now open into an engine: the simple placeholders will show up a lot more until they're
+  rebuilt. The V8 to 99% is still the priority.
+
+---
+
 ## 2026-10-28 (night): The app now follows the original vision
 
 Jatin pointed out the app had drifted from his first message. Now:

@@ -1,0 +1,17 @@
+{
+  "make": "Chery",
+  "cars": [
+    {"id":"chery-qq","model":"QQ","generation":"QQ","years":[2003,2015],"engine":"i3","body":"hatchback","naOnRoad":0,"aliases":["QQ3","Sweet"],"home":{"market":"china","onRoad":500000}},
+    {"id":"chery-qq-ice-cream","model":"QQ Ice Cream","generation":"QQ Ice Cream","years":[2021,null],"engine":"electric","body":"hatchback","naOnRoad":0,"home":{"market":"china","onRoad":150000}},
+    {"id":"chery-eq1","model":"eQ1","generation":"eQ1","years":[2017,null],"engine":"electric","body":"hatchback","naOnRoad":0,"aliases":["Little Ant"],"home":{"market":"china","onRoad":300000}},
+    {"id":"chery-arrizo-5","model":"Arrizo 5","generation":"Arrizo 5","years":[2016,null],"engine":"i4","body":"sedan","naOnRoad":0,"aliases":["Arrizo 5 Plus"],"home":{"market":"china","onRoad":1500000}},
+    {"id":"chery-arrizo-8","model":"Arrizo 8","generation":"Arrizo 8","years":[2022,null],"engine":"i4","body":"sedan","naOnRoad":0,"home":{"market":"china","onRoad":250000}},
+    {"id":"chery-tiggo","model":"Tiggo","generation":"Tiggo","years":[2005,2016],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["T11","Tiggo 3"],"home":{"market":"china","onRoad":300000}},
+    {"id":"chery-tiggo-2","model":"Tiggo 2","generation":"Tiggo 2","years":[2017,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Tiggo 2 Pro","Tiggo 3x"],"home":{"market":"latin-america","onRoad":250000}},
+    {"id":"chery-tiggo-4","model":"Tiggo 4","generation":"Tiggo 4","years":[2017,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Tiggo 4 Pro","Tiggo 5x","Tiggo 5x Pro"],"home":{"market":"china","onRoad":900000}},
+    {"id":"chery-tiggo-7-1st-gen","model":"Tiggo 7","generation":"1st gen","years":[2016,2020],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":300000}},
+    {"id":"chery-tiggo-7-2nd-gen","model":"Tiggo 7","generation":"2nd gen","years":[2020,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Tiggo 7 Pro","Tiggo 7 Plus"],"home":{"market":"china","onRoad":1200000}},
+    {"id":"chery-tiggo-8","model":"Tiggo 8","generation":"Tiggo 8","years":[2018,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Tiggo 8 Pro","Tiggo 8 Plus"],"home":{"market":"china","onRoad":1200000}},
+    {"id":"chery-tiggo-9","model":"Tiggo 9","generation":"Tiggo 9","years":[2023,null],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":150000}}
+  ]
+}

@@ -1,0 +1,12 @@
+H5 | | | 2010 | 2018 | i4 | suv | 0 | | Hover H5; Great Wall Hover | | china:200000
+H6 | 1st gen | | 2011 | 2017 | i4 | suv | 0 | | Hover H6 | | china:1500000
+H6 | 2nd gen | | 2017 | 2021 | i4 | suv | 0 | | | | china:1500000
+H6 | 3rd gen | | 2020 | | i4 | suv | 0 | | H6 HEV; H6 GT | | china:2000000
+H2 | | | 2014 | 2021 | i4 | suv | 0 | | | | china:500000
+H9 | 1st gen | | 2014 | 2024 | i4 | suv | 0 | | | | china:150000
+H9 | 2nd gen | | 2024 | | i4 | suv | 0 | | | | china:30000
+M6 | | | 2017 | | i4 | suv | 0 | | | | china:400000
+F7 | | | 2019 | | i4 | suv | 0 | | F7x | | china:250000
+Jolion | | | 2020 | | i4 | suv | 0 | | Chulian | | china:800000
+Dargo | | | 2020 | | i4 | suv | 0 | | Big Dog | | china:300000
+Raptor | | | 2023 | | i4 | suv | 0 | | Menglong | | china:100000

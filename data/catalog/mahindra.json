@@ -1,0 +1,27 @@
+{
+  "make": "Mahindra",
+  "cars": [
+    {"id":"mahindra-cj","model":"CJ","generation":"CJ","years":[1960,2010],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Mahindra Jeep","MM540","MM550","Major","Classic","Commander"],"hype":true,"home":{"market":"india","onRoad":100000}},
+    {"id":"mahindra-bolero-1st-gen","model":"Bolero","generation":"1st gen","years":[2000,null],"engine":"i3","body":"suv","naOnRoad":0,"aliases":["Bolero Power+","Bolero B6"],"home":{"market":"india","onRoad":1500000}},
+    {"id":"mahindra-bolero-neo","model":"Bolero","generation":"Neo","years":[2015,null],"engine":"i3","body":"suv","naOnRoad":0,"aliases":["Bolero Neo","TUV300"],"home":{"market":"india","onRoad":300000}},
+    {"id":"mahindra-bolero-pik-up","model":"Bolero Pik-Up","generation":"Bolero Pik-Up","years":[2000,null],"engine":"i4","body":"pickup","naOnRoad":0,"aliases":["Pik-Up","Maxx Pik-Up","Scorpio Pik-Up"],"home":{"market":"india","onRoad":1000000}},
+    {"id":"mahindra-scorpio-1st-gen","model":"Scorpio","generation":"1st gen","years":[2002,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Scorpio Classic"],"home":{"market":"india","onRoad":1200000}},
+    {"id":"mahindra-scorpio-n","model":"Scorpio","generation":"N","years":[2022,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Scorpio-N","Scorpio N"],"home":{"market":"india","onRoad":400000}},
+    {"id":"mahindra-logan","model":"Logan","generation":"Logan","years":[2007,2019],"engine":"i4","body":"sedan","naOnRoad":0,"aliases":["Verito","Mahindra Renault Logan"],"home":{"market":"india","onRoad":80000}},
+    {"id":"mahindra-reva","model":"Reva","generation":"Reva","years":[2001,2012],"engine":"electric","body":"hatchback","naOnRoad":0,"aliases":["G-Wiz","REVAi"],"home":{"market":"india","onRoad":2000}},
+    {"id":"mahindra-e2o","model":"e2o","generation":"e2o","years":[2013,2019],"engine":"electric","body":"hatchback","naOnRoad":0,"aliases":["Reva e2o","e2o Plus"],"home":{"market":"india","onRoad":3000}},
+    {"id":"mahindra-xylo","model":"Xylo","generation":"Xylo","years":[2009,2019],"engine":"i4","body":"van","naOnRoad":0,"home":{"market":"india","onRoad":150000}},
+    {"id":"mahindra-thar-1st-gen","model":"Thar","generation":"1st gen","years":[2010,2020],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"india","onRoad":150000}},
+    {"id":"mahindra-thar-2nd-gen","model":"Thar","generation":"2nd gen","years":[2020,null],"engine":"i4","body":"suv","naOnRoad":0,"hype":true,"home":{"market":"india","onRoad":300000}},
+    {"id":"mahindra-thar-roxx","model":"Thar Roxx","generation":"Thar Roxx","years":[2024,null],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"india","onRoad":150000}},
+    {"id":"mahindra-xuv500","model":"XUV500","generation":"XUV500","years":[2011,2021],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"india","onRoad":250000}},
+    {"id":"mahindra-xuv700","model":"XUV700","generation":"XUV700","years":[2021,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["XUV 7XO"],"home":{"market":"india","onRoad":350000}},
+    {"id":"mahindra-kuv100","model":"KUV100","generation":"KUV100","years":[2016,2021],"engine":"i3","body":"hatchback","naOnRoad":0,"home":{"market":"india","onRoad":100000}},
+    {"id":"mahindra-xuv300","model":"XUV300","generation":"XUV300","years":[2019,null],"engine":"i3","body":"suv","naOnRoad":0,"aliases":["XUV 3XO","XUV3XO"],"home":{"market":"india","onRoad":450000}},
+    {"id":"mahindra-marazzo","model":"Marazzo","generation":"Marazzo","years":[2018,null],"engine":"i4","body":"van","naOnRoad":0,"home":{"market":"india","onRoad":40000}},
+    {"id":"mahindra-alturas-g4","model":"Alturas G4","generation":"Alturas G4","years":[2018,2022],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"india","onRoad":8000}},
+    {"id":"mahindra-xuv400","model":"XUV400","generation":"XUV400","years":[2023,null],"engine":"electric","body":"suv","naOnRoad":0,"aliases":["XUV400 EV"],"home":{"market":"india","onRoad":40000}},
+    {"id":"mahindra-be-6","model":"BE 6","generation":"BE 6","years":[2025,null],"engine":"electric","body":"suv","naOnRoad":0,"aliases":["BE6"],"home":{"market":"india","onRoad":40000}},
+    {"id":"mahindra-xev-9e","model":"XEV 9e","generation":"XEV 9e","years":[2025,null],"engine":"electric","body":"suv","naOnRoad":0,"home":{"market":"india","onRoad":50000}}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "make": "Haval",
+  "cars": [
+    {"id":"haval-h5","model":"H5","generation":"H5","years":[2010,2018],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Hover H5","Great Wall Hover"],"home":{"market":"china","onRoad":200000}},
+    {"id":"haval-h6-1st-gen","model":"H6","generation":"1st gen","years":[2011,2017],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Hover H6"],"home":{"market":"china","onRoad":1500000}},
+    {"id":"haval-h6-2nd-gen","model":"H6","generation":"2nd gen","years":[2017,2021],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":1500000}},
+    {"id":"haval-h6-3rd-gen","model":"H6","generation":"3rd gen","years":[2020,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["H6 HEV","H6 GT"],"home":{"market":"china","onRoad":2000000}},
+    {"id":"haval-h2","model":"H2","generation":"H2","years":[2014,2021],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":500000}},
+    {"id":"haval-h9-1st-gen","model":"H9","generation":"1st gen","years":[2014,2024],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":150000}},
+    {"id":"haval-h9-2nd-gen","model":"H9","generation":"2nd gen","years":[2024,null],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":30000}},
+    {"id":"haval-m6","model":"M6","generation":"M6","years":[2017,null],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":400000}},
+    {"id":"haval-f7","model":"F7","generation":"F7","years":[2019,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["F7x"],"home":{"market":"china","onRoad":250000}},
+    {"id":"haval-jolion","model":"Jolion","generation":"Jolion","years":[2020,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Chulian"],"home":{"market":"china","onRoad":800000}},
+    {"id":"haval-dargo","model":"Dargo","generation":"Dargo","years":[2020,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Big Dog"],"home":{"market":"china","onRoad":300000}},
+    {"id":"haval-raptor","model":"Raptor","generation":"Raptor","years":[2023,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Menglong"],"home":{"market":"china","onRoad":100000}}
+  ]
+}

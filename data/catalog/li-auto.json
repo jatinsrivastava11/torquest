@@ -1,0 +1,13 @@
+{
+  "make": "Li Auto",
+  "cars": [
+    {"id":"li-auto-one","model":"ONE","generation":"ONE","years":[2019,2022],"engine":"i3","body":"suv","naOnRoad":0,"aliases":["Li ONE","Lixiang ONE"],"home":{"market":"china","onRoad":200000}},
+    {"id":"li-auto-l9","model":"L9","generation":"L9","years":[2022,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Li L9"],"home":{"market":"china","onRoad":300000}},
+    {"id":"li-auto-l8","model":"L8","generation":"L8","years":[2022,2025],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Li L8"],"home":{"market":"china","onRoad":120000}},
+    {"id":"li-auto-l7","model":"L7","generation":"L7","years":[2023,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Li L7"],"home":{"market":"china","onRoad":300000}},
+    {"id":"li-auto-l6","model":"L6","generation":"L6","years":[2024,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["Li L6"],"home":{"market":"china","onRoad":400000}},
+    {"id":"li-auto-mega","model":"MEGA","generation":"MEGA","years":[2024,null],"engine":"electric","body":"van","naOnRoad":0,"aliases":["Li MEGA"],"home":{"market":"china","onRoad":25000}},
+    {"id":"li-auto-i8","model":"i8","generation":"i8","years":[2025,null],"engine":"electric","body":"suv","naOnRoad":0,"aliases":["Li i8"],"home":{"market":"china","onRoad":15000}},
+    {"id":"li-auto-i6","model":"i6","generation":"i6","years":[2025,null],"engine":"electric","body":"suv","naOnRoad":0,"aliases":["Li i6"],"home":{"market":"china","onRoad":20000}}
+  ]
+}

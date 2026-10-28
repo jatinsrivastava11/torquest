@@ -1,4 +1,4 @@
 {
-  "_about": "Models from Jatin's list (data/source/jatin-list) deliberately left out of the catalog, each with a reason. npm run coverage checks every list model is either in the catalog or here.",
+  "_about": "Models from Jatin's list deliberately left out of the catalog, each with a reason. Empty since 2026-10-28: Jatin decided every model goes in (cars never sold in North America are tiered by their home market). npm run coverage checks every list model is catalogued.",
   "models": []
 }

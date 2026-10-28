@@ -1,0 +1,22 @@
+Sierra | 1st gen | | 1991 | 2003 | i4 | suv | 0 | | | y | india:5000
+Sierra | 2nd gen | | 2025 | | i4 | suv | 0 | | | | india:60000
+Sumo | | | 1994 | 2019 | i4 | suv | 0 | | Sumo Gold; Sumo Victa | | india:400000
+Safari | 1st gen | | 1998 | 2012 | i4 | suv | 0 | | | | india:80000
+Safari | Storme | | 2012 | 2019 | i4 | suv | 0 | | Safari Storme | | india:150000
+Safari | 2nd gen | | 2021 | | i4 | suv | 0 | | | | india:150000
+Indica | 1st gen | | 1998 | 2008 | i4 | hatchback | 0 | | Indica V2 | | india:300000
+Indica | Vista | | 2008 | 2018 | i4 | hatchback | 0 | | Indica Vista | | india:300000
+Indigo | | | 2002 | 2018 | i4 | sedan | 0 | | Indigo CS; Indigo eCS; Indigo Marina | | india:200000
+Xenon | | | 2006 | | i4 | pickup | 0 | | Yodha | | india:50000
+Nano | | | 2008 | 2018 | i3 | hatchback | 0 | 300000 | | | india:200000
+Aria | | | 2010 | 2017 | i4 | suv | 0 | | | | india:8000
+Zest | | | 2014 | 2019 | i4 | sedan | 0 | | | | india:100000
+Bolt | | | 2015 | 2019 | i4 | hatchback | 0 | | | | india:50000
+Hexa | | | 2017 | 2020 | i4 | suv | 0 | | | | india:30000
+Tiago | | | 2016 | | i3 | hatchback | 0 | | Tiago EV | | india:700000
+Tigor | | | 2017 | | i3 | sedan | 0 | | Tigor EV | | india:200000
+Nexon | | | 2017 | | i3 | suv | 0 | | Nexon EV | | india:900000
+Harrier | | | 2019 | | i4 | suv | 0 | | Harrier EV | | india:180000
+Altroz | | | 2020 | | i3 | hatchback | 0 | | | | india:400000
+Punch | | | 2021 | | i3 | suv | 0 | | Punch EV | | india:850000
+Curvv | | | 2024 | | i3 | suv | 0 | | Curvv EV | | india:60000

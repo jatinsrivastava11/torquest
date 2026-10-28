@@ -1,0 +1,13 @@
+{
+  "make": "Zeekr",
+  "cars": [
+    {"id":"zeekr-001","model":"001","generation":"001","years":[2021,null],"engine":"electric","body":"wagon","naOnRoad":0,"home":{"market":"china","onRoad":300000}},
+    {"id":"zeekr-009","model":"009","generation":"009","years":[2022,null],"engine":"electric","body":"van","naOnRoad":0,"home":{"market":"china","onRoad":50000}},
+    {"id":"zeekr-x","model":"X","generation":"X","years":[2023,null],"engine":"electric","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":60000}},
+    {"id":"zeekr-007","model":"007","generation":"007","years":[2023,null],"engine":"electric","body":"sedan","naOnRoad":0,"home":{"market":"china","onRoad":100000}},
+    {"id":"zeekr-007-gt","model":"007 GT","generation":"007 GT","years":[2025,null],"engine":"electric","body":"wagon","naOnRoad":0,"aliases":["007GT"],"home":{"market":"china","onRoad":20000}},
+    {"id":"zeekr-7x","model":"7X","generation":"7X","years":[2024,null],"engine":"electric","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":80000}},
+    {"id":"zeekr-mix","model":"Mix","generation":"Mix","years":[2024,null],"engine":"electric","body":"van","naOnRoad":0,"home":{"market":"china","onRoad":20000}},
+    {"id":"zeekr-9x","model":"9X","generation":"9X","years":[2025,null],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":10000}}
+  ]
+}

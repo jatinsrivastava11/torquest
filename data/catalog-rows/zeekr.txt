@@ -1,0 +1,8 @@
+001 | | | 2021 | | electric | wagon | 0 | | | | china:300000
+009 | | | 2022 | | electric | van | 0 | | | | china:50000
+X | | | 2023 | | electric | suv | 0 | | | | china:60000
+007 | | | 2023 | | electric | sedan | 0 | | | | china:100000
+007 GT | | | 2025 | | electric | wagon | 0 | | 007GT | | china:20000
+7X | | | 2024 | | electric | suv | 0 | | | | china:80000
+Mix | | | 2024 | | electric | van | 0 | | | | china:20000
+9X | | | 2025 | | i4 | suv | 0 | | | | china:10000

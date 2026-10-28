@@ -1,0 +1,9 @@
+Sunshine | | | 2002 | | i4 | van | 0 | | Zhiguang | | china:2000000
+Rongguang | | | 2008 | | i4 | van | 0 | | | | china:1000000
+Hongguang | 1st gen | | 2010 | 2020 | i4 | van | 0 | | | | china:1500000
+Hongguang | S | | 2013 | | i4 | van | 0 | | Hongguang S; Hongguang S3 | | china:3000000
+Hongguang | Plus | | 2019 | | i4 | van | 0 | | Hongguang Plus | | china:300000
+Hongguang Mini EV | | | 2020 | | electric | hatchback | 0 | | Mini EV | | china:1500000
+Air EV | | | 2022 | | electric | hatchback | 0 | | | | china:150000
+Bingo | | | 2023 | | electric | hatchback | 0 | | | | china:300000
+Starlight | | | 2023 | | i4 | sedan | 0 | | Xingguang | | china:200000

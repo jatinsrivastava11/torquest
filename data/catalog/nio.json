@@ -1,0 +1,18 @@
+{
+  "make": "NIO",
+  "cars": [
+    {"id":"nio-ep9","model":"EP9","generation":"EP9","years":[2016,2017],"engine":"electric","body":"supercar","naOnRoad":0,"built":16,"hype":true,"home":{"market":"china","onRoad":10}},
+    {"id":"nio-es8-1st-gen","model":"ES8","generation":"1st gen","years":[2018,2022],"engine":"electric","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":40000}},
+    {"id":"nio-es8-2nd-gen","model":"ES8","generation":"2nd gen","years":[2022,2025],"engine":"electric","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":25000}},
+    {"id":"nio-es8-3rd-gen","model":"ES8","generation":"3rd gen","years":[2025,null],"engine":"electric","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":60000}},
+    {"id":"nio-es6-1st-gen","model":"ES6","generation":"1st gen","years":[2019,2023],"engine":"electric","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":140000}},
+    {"id":"nio-es6-2nd-gen","model":"ES6","generation":"2nd gen","years":[2023,null],"engine":"electric","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":120000}},
+    {"id":"nio-ec6","model":"EC6","generation":"EC6","years":[2020,null],"engine":"electric","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":50000}},
+    {"id":"nio-es7","model":"ES7","generation":"ES7","years":[2022,null],"engine":"electric","body":"suv","naOnRoad":0,"aliases":["EL7"],"home":{"market":"china","onRoad":40000}},
+    {"id":"nio-ec7","model":"EC7","generation":"EC7","years":[2022,null],"engine":"electric","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":15000}},
+    {"id":"nio-et7","model":"ET7","generation":"ET7","years":[2022,null],"engine":"electric","body":"sedan","naOnRoad":0,"home":{"market":"china","onRoad":40000}},
+    {"id":"nio-et5","model":"ET5","generation":"ET5","years":[2022,null],"engine":"electric","body":"sedan","naOnRoad":0,"home":{"market":"china","onRoad":150000}},
+    {"id":"nio-et5-touring","model":"ET5 Touring","generation":"ET5 Touring","years":[2023,null],"engine":"electric","body":"wagon","naOnRoad":0,"aliases":["ET5T"],"home":{"market":"china","onRoad":60000}},
+    {"id":"nio-et9","model":"ET9","generation":"ET9","years":[2025,null],"engine":"electric","body":"sedan","naOnRoad":0,"home":{"market":"china","onRoad":5000}}
+  ]
+}

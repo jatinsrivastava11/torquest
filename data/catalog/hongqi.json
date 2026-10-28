@@ -1,0 +1,21 @@
+{
+  "make": "Hongqi",
+  "cars": [
+    {"id":"hongqi-ca72","model":"CA72","generation":"CA72","years":[1958,1965],"engine":"v8","body":"sedan","naOnRoad":0,"hype":true,"home":{"market":"china","onRoad":20}},
+    {"id":"hongqi-ca770","model":"CA770","generation":"CA770","years":[1966,1981],"engine":"v8","body":"sedan","naOnRoad":0,"hype":true,"home":{"market":"china","onRoad":100}},
+    {"id":"hongqi-l5","model":"L5","generation":"L5","years":[2014,null],"engine":"v12","body":"sedan","naOnRoad":0,"hype":true,"home":{"market":"china","onRoad":500}},
+    {"id":"hongqi-guoyao","model":"Guoyao","generation":"Guoyao","years":[2023,null],"engine":"v8","body":"sedan","naOnRoad":0,"aliases":["Guo Yao"],"hype":true,"home":{"market":"china","onRoad":300}},
+    {"id":"hongqi-h5-1st-gen","model":"H5","generation":"1st gen","years":[2017,2022],"engine":"i4","body":"sedan","naOnRoad":0,"home":{"market":"china","onRoad":300000}},
+    {"id":"hongqi-h5-2nd-gen","model":"H5","generation":"2nd gen","years":[2022,null],"engine":"i4","body":"sedan","naOnRoad":0,"home":{"market":"china","onRoad":400000}},
+    {"id":"hongqi-h6","model":"H6","generation":"H6","years":[2025,null],"engine":"i4","body":"sedan","naOnRoad":0,"home":{"market":"china","onRoad":50000}},
+    {"id":"hongqi-h7-1st-gen","model":"H7","generation":"1st gen","years":[2013,2018],"engine":"i4","body":"sedan","naOnRoad":0,"home":{"market":"china","onRoad":50000}},
+    {"id":"hongqi-h7-2nd-gen","model":"H7","generation":"2nd gen","years":[2018,2024],"engine":"i4","body":"sedan","naOnRoad":0,"home":{"market":"china","onRoad":40000}},
+    {"id":"hongqi-h9","model":"H9","generation":"H9","years":[2020,null],"engine":"i4","body":"sedan","naOnRoad":0,"home":{"market":"china","onRoad":150000}},
+    {"id":"hongqi-hs5-1st-gen","model":"HS5","generation":"1st gen","years":[2019,2023],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":300000}},
+    {"id":"hongqi-hs5-2nd-gen","model":"HS5","generation":"2nd gen","years":[2023,null],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":200000}},
+    {"id":"hongqi-hs7","model":"HS7","generation":"HS7","years":[2019,null],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":60000}},
+    {"id":"hongqi-e-hs9","model":"E-HS9","generation":"E-HS9","years":[2020,null],"engine":"electric","body":"suv","naOnRoad":0,"aliases":["EHS9"],"home":{"market":"china","onRoad":30000}},
+    {"id":"hongqi-eh7","model":"EH7","generation":"EH7","years":[2024,null],"engine":"electric","body":"sedan","naOnRoad":0,"home":{"market":"china","onRoad":30000}},
+    {"id":"hongqi-hq9","model":"HQ9","generation":"HQ9","years":[2023,null],"engine":"i4","body":"van","naOnRoad":0,"home":{"market":"china","onRoad":20000}}
+  ]
+}

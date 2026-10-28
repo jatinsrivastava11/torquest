@@ -1,0 +1,8 @@
+{
+  "make": "Xiaomi",
+  "cars": [
+    {"id":"xiaomi-su7","model":"SU7","generation":"SU7","years":[2024,null],"engine":"electric","body":"sedan","naOnRoad":0,"aliases":["Xiaomi SU7 Max"],"home":{"market":"china","onRoad":450000}},
+    {"id":"xiaomi-su7-ultra","model":"SU7","generation":"SU7","variant":"Ultra","years":[2025,null],"engine":"electric","body":"sedan","naOnRoad":0,"hype":true,"home":{"market":"china","onRoad":25000}},
+    {"id":"xiaomi-yu7","model":"YU7","generation":"YU7","years":[2025,null],"engine":"electric","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":300000}}
+  ]
+}

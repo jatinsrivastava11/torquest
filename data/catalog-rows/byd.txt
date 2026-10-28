@@ -1,0 +1,32 @@
+# model | generation | variant | start | end | engine | body | naOnRoad | built | aliases | hype | home
+F0 | | | 2008 | 2015 | i3 | hatchback | 0 | | | | china:200000
+F3 | | | 2005 | 2021 | i4 | sedan | 0 | | F3R; F3DM | | china:700000
+S6 | | | 2011 | 2016 | i4 | suv | 0 | | | | china:150000
+e6 | | | 2010 | 2021 | electric | wagon | 5 | | | | china:60000
+Qin | 1st gen | | 2013 | 2018 | i4 | sedan | 0 | | Qin DM | | china:100000
+Qin | Pro | | 2018 | 2021 | i4 | sedan | 0 | | Qin Pro | | china:300000
+Qin | Plus | | 2020 | | i4 | sedan | 0 | | Qin Plus; Qin Plus DM-i; Qin Plus EV | | china:2000000
+Qin | L | | 2024 | | i4 | sedan | 0 | | Qin L | | china:400000
+Destroyer 05 | | | 2022 | | i4 | sedan | 0 | | Seal 05 | | china:600000
+Song | 1st gen | | 2015 | 2019 | i4 | suv | 0 | | | | china:300000
+Song | Pro | | 2019 | | i4 | suv | 0 | | Song Pro | | china:800000
+Song | Plus | | 2020 | | i4 | suv | 0 | | Song Plus; Song Plus DM-i; Seal U; Seal U DM-i | | china:2000000
+Song | L | | 2023 | | electric | suv | 0 | | Song L | | china:200000
+Song Max | | | 2017 | 2022 | i4 | van | 0 | | | | china:200000
+Yuan | 1st gen | | 2016 | 2021 | i4 | suv | 0 | | Yuan EV | | china:300000
+Atto 3 | | | 2022 | | electric | suv | 0 | | Yuan Plus | | china:1000000
+Yuan | Pro | | 2023 | | electric | suv | 0 | | Yuan Pro | | china:200000
+Yuan Up | | | 2024 | | electric | suv | 0 | | Atto 2 | | china:250000
+Dolphin | | | 2021 | | electric | hatchback | 0 | | | | china:900000
+Seagull | | | 2023 | | electric | hatchback | 0 | | Dolphin Mini; Dolphin Surf; Atto 1 | | china:1200000
+Seal | | | 2022 | | electric | sedan | 0 | | | | china:400000
+Seal 06 | | | 2023 | | i4 | sedan | 0 | | Seal 06 DM-i | | china:350000
+Sealion 06 | | | 2024 | | i4 | suv | 0 | | Sea Lion 06 | | china:200000
+Sealion 7 | | | 2024 | | electric | suv | 0 | | Sea Lion 07; Sealion 07 | | china:200000
+Frigate 07 | | | 2022 | | i4 | suv | 0 | | | | china:300000
+Han | 1st gen | | 2020 | | electric | sedan | 0 | | Han EV; Han DM | | china:800000
+Han | L | | 2025 | | electric | sedan | 0 | | Han L | | china:80000
+Tang | 1st gen | | 2015 | 2018 | i4 | suv | 0 | | | | china:150000
+Tang | 2nd gen | | 2018 | | i4 | suv | 0 | | Tang EV; Tang DM | | china:600000
+Tang | L | | 2025 | | electric | suv | 0 | | Tang L | | china:50000
+Shark | | | 2024 | | i4 | pickup | 0 | | Shark 6 | | australia:25000

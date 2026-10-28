@@ -1,0 +1,9 @@
+{
+  "make": "Tank",
+  "cars": [
+    {"id":"tank-300","model":"300","generation":"300","years":[2021,null],"engine":"i4","body":"suv","naOnRoad":0,"aliases":["WEY Tank 300"],"home":{"market":"china","onRoad":300000}},
+    {"id":"tank-400","model":"400","generation":"400","years":[2023,null],"engine":"i4","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":80000}},
+    {"id":"tank-500","model":"500","generation":"500","years":[2022,null],"engine":"v6","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":120000}},
+    {"id":"tank-700","model":"700","generation":"700","years":[2024,null],"engine":"v6","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":20000}}
+  ]
+}

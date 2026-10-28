@@ -29,7 +29,7 @@ export default function CarsPage() {
 
   return (
     <main>
-      <PageHeader title="All cars" sub={cars ? `${cars.length} cars you can spot, and what each is worth` : "Loading the catalog…"} />
+      <PageHeader title="All cars" sub={cars ? `${cars.length.toLocaleString()} cars you can spot, and what each is worth` : "Loading the catalog…"} />
       <div className="sticky top-0 z-20 bg-bg px-4 pb-2 pt-1 md:top-12 md:px-6">
         <input
           type="search"

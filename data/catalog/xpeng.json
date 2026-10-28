@@ -1,0 +1,15 @@
+{
+  "make": "XPeng",
+  "cars": [
+    {"id":"xpeng-g3","model":"G3","generation":"G3","years":[2018,2023],"engine":"electric","body":"suv","naOnRoad":0,"aliases":["G3i"],"home":{"market":"china","onRoad":80000}},
+    {"id":"xpeng-p7-1st-gen","model":"P7","generation":"1st gen","years":[2020,2025],"engine":"electric","body":"sedan","naOnRoad":0,"aliases":["P7i"],"home":{"market":"china","onRoad":150000}},
+    {"id":"xpeng-p7-2nd-gen","model":"P7","generation":"2nd gen","years":[2025,null],"engine":"electric","body":"sedan","naOnRoad":0,"home":{"market":"china","onRoad":30000}},
+    {"id":"xpeng-p7","model":"P7+","generation":"P7+","years":[2024,null],"engine":"electric","body":"sedan","naOnRoad":0,"aliases":["P7 Plus"],"home":{"market":"china","onRoad":120000}},
+    {"id":"xpeng-p5","model":"P5","generation":"P5","years":[2021,2024],"engine":"electric","body":"sedan","naOnRoad":0,"home":{"market":"china","onRoad":50000}},
+    {"id":"xpeng-g9","model":"G9","generation":"G9","years":[2022,null],"engine":"electric","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":50000}},
+    {"id":"xpeng-g6","model":"G6","generation":"G6","years":[2023,null],"engine":"electric","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":120000}},
+    {"id":"xpeng-g7","model":"G7","generation":"G7","years":[2025,null],"engine":"electric","body":"suv","naOnRoad":0,"home":{"market":"china","onRoad":30000}},
+    {"id":"xpeng-x9","model":"X9","generation":"X9","years":[2024,null],"engine":"electric","body":"van","naOnRoad":0,"home":{"market":"china","onRoad":40000}},
+    {"id":"xpeng-mona-m03","model":"Mona M03","generation":"Mona M03","years":[2024,null],"engine":"electric","body":"sedan","naOnRoad":0,"aliases":["M03"],"home":{"market":"china","onRoad":200000}}
+  ]
+}

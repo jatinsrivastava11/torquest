@@ -1,0 +1,14 @@
+Vision | | | 2006 | 2021 | i4 | sedan | 0 | | Yuanjing | | china:800000
+Emgrand | 1st gen | | 2009 | 2016 | i4 | sedan | 0 | | EC7; Emgrand EC7 | | china:1000000
+Emgrand | 2nd gen | | 2016 | 2021 | i4 | sedan | 0 | | | | china:1500000
+Emgrand | 3rd gen | | 2021 | | i4 | sedan | 0 | | Emgrand 4th gen | | china:1000000
+Boyue | 1st gen | | 2016 | 2022 | i4 | suv | 0 | | Atlas; Proton X70 | | china:1000000
+Boyue | L | | 2022 | | i4 | suv | 0 | | Boyue L; Atlas | | china:500000
+Coolray | | | 2018 | | i3 | suv | 0 | | Binyue | | china:700000
+Xingyue | | | 2019 | | i4 | suv | 0 | | Tugella; FY11 | | china:150000
+Monjaro | | | 2021 | | i4 | suv | 0 | | Xingyue L | | china:500000
+Xingrui | | | 2020 | | i4 | sedan | 0 | | Preface | | china:300000
+Galaxy L7 | | | 2023 | | i4 | suv | 0 | | | | china:200000
+Galaxy E5 | | | 2024 | | electric | suv | 0 | | | | china:250000
+Xingyuan | | | 2024 | | electric | hatchback | 0 | | Galaxy Xingyuan; Star Wish; EX2 | | china:500000
+Panda Mini | | | 2023 | | electric | hatchback | 0 | | Panda | | china:300000

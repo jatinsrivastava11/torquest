@@ -1,0 +1,8 @@
+{
+  "make": "Yangwang",
+  "cars": [
+    {"id":"yangwang-u8","model":"U8","generation":"U8","years":[2023,null],"engine":"electric","body":"suv","naOnRoad":0,"aliases":["U8L"],"hype":true,"home":{"market":"china","onRoad":12000}},
+    {"id":"yangwang-u9","model":"U9","generation":"U9","years":[2024,null],"engine":"electric","body":"supercar","naOnRoad":0,"hype":true,"home":{"market":"china","onRoad":200}},
+    {"id":"yangwang-u7","model":"U7","generation":"U7","years":[2024,null],"engine":"electric","body":"sedan","naOnRoad":0,"home":{"market":"china","onRoad":5000}}
+  ]
+}

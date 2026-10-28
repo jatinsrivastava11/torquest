@@ -1,0 +1,16 @@
+CA72 | | | 1958 | 1965 | v8 | sedan | 0 | | | y | china:20
+CA770 | | | 1966 | 1981 | v8 | sedan | 0 | | | y | china:100
+L5 | | | 2014 | | v12 | sedan | 0 | | | y | china:500
+Guoyao | | | 2023 | | v8 | sedan | 0 | | Guo Yao | y | china:300
+H5 | 1st gen | | 2017 | 2022 | i4 | sedan | 0 | | | | china:300000
+H5 | 2nd gen | | 2022 | | i4 | sedan | 0 | | | | china:400000
+H6 | | | 2025 | | i4 | sedan | 0 | | | | china:50000
+H7 | 1st gen | | 2013 | 2018 | i4 | sedan | 0 | | | | china:50000
+H7 | 2nd gen | | 2018 | 2024 | i4 | sedan | 0 | | | | china:40000
+H9 | | | 2020 | | i4 | sedan | 0 | | | | china:150000
+HS5 | 1st gen | | 2019 | 2023 | i4 | suv | 0 | | | | china:300000
+HS5 | 2nd gen | | 2023 | | i4 | suv | 0 | | | | china:200000
+HS7 | | | 2019 | | i4 | suv | 0 | | | | china:60000
+E-HS9 | | | 2020 | | electric | suv | 0 | | EHS9 | | china:30000
+EH7 | | | 2024 | | electric | sedan | 0 | | | | china:30000
+HQ9 | | | 2023 | | i4 | van | 0 | | | | china:20000

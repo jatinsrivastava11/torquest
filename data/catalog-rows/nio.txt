@@ -1,0 +1,13 @@
+EP9 | | | 2016 | 2017 | electric | supercar | 0 | 16 | | y | china:10
+ES8 | 1st gen | | 2018 | 2022 | electric | suv | 0 | | | | china:40000
+ES8 | 2nd gen | | 2022 | 2025 | electric | suv | 0 | | | | china:25000
+ES8 | 3rd gen | | 2025 | | electric | suv | 0 | | | | china:60000
+ES6 | 1st gen | | 2019 | 2023 | electric | suv | 0 | | | | china:140000
+ES6 | 2nd gen | | 2023 | | electric | suv | 0 | | | | china:120000
+EC6 | | | 2020 | | electric | suv | 0 | | | | china:50000
+ES7 | | | 2022 | | electric | suv | 0 | | EL7 | | china:40000
+EC7 | | | 2022 | | electric | suv | 0 | | | | china:15000
+ET7 | | | 2022 | | electric | sedan | 0 | | | | china:40000
+ET5 | | | 2022 | | electric | sedan | 0 | | | | china:150000
+ET5 Touring | | | 2023 | | electric | wagon | 0 | | ET5T | | china:60000
+ET9 | | | 2025 | | electric | sedan | 0 | | | | china:5000

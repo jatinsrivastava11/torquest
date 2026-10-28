@@ -1,0 +1,22 @@
+CJ | | | 1960 | 2010 | i4 | suv | 0 | | Mahindra Jeep; MM540; MM550; Major; Classic; Commander | y | india:100000
+Bolero | 1st gen | | 2000 | | i3 | suv | 0 | | Bolero Power+; Bolero B6 | | india:1500000
+Bolero | Neo | | 2015 | | i3 | suv | 0 | | Bolero Neo; TUV300 | | india:300000
+Bolero Pik-Up | | | 2000 | | i4 | pickup | 0 | | Pik-Up; Maxx Pik-Up; Scorpio Pik-Up | | india:1000000
+Scorpio | 1st gen | | 2002 | | i4 | suv | 0 | | Scorpio Classic | | india:1200000
+Scorpio | N | | 2022 | | i4 | suv | 0 | | Scorpio-N; Scorpio N | | india:400000
+Logan | | | 2007 | 2019 | i4 | sedan | 0 | | Verito; Mahindra Renault Logan | | india:80000
+Reva | | | 2001 | 2012 | electric | hatchback | 0 | | G-Wiz; REVAi | | india:2000
+e2o | | | 2013 | 2019 | electric | hatchback | 0 | | Reva e2o; e2o Plus | | india:3000
+Xylo | | | 2009 | 2019 | i4 | van | 0 | | | | india:150000
+Thar | 1st gen | | 2010 | 2020 | i4 | suv | 0 | | | | india:150000
+Thar | 2nd gen | | 2020 | | i4 | suv | 0 | | | y | india:300000
+Thar Roxx | | | 2024 | | i4 | suv | 0 | | | | india:150000
+XUV500 | | | 2011 | 2021 | i4 | suv | 0 | | | | india:250000
+XUV700 | | | 2021 | | i4 | suv | 0 | | XUV 7XO | | india:350000
+KUV100 | | | 2016 | 2021 | i3 | hatchback | 0 | | | | india:100000
+XUV300 | | | 2019 | | i3 | suv | 0 | | XUV 3XO; XUV3XO | | india:450000
+Marazzo | | | 2018 | | i4 | van | 0 | | | | india:40000
+Alturas G4 | | | 2018 | 2022 | i4 | suv | 0 | | | | india:8000
+XUV400 | | | 2023 | | electric | suv | 0 | | XUV400 EV | | india:40000
+BE 6 | | | 2025 | | electric | suv | 0 | | BE6 | | india:40000
+XEV 9e | | | 2025 | | electric | suv | 0 | | | | india:50000
