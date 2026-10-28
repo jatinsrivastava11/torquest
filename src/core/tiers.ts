@@ -12,6 +12,9 @@ export const TIER_INFO: Record<Tier, { label: string; points: number; holo: bool
   legendary: { label: "Legendary", points: 2000, holo: true },
 };
 
+/** Points multiplier for cars people get excited about (catalog `hype`). */
+export const HYPE = 1.5;
+
 export const BONUS = {
   firstForYou: 0.5,
   firstInTorquest: 1,
@@ -23,6 +26,7 @@ export const CLASSIC_AGE = 25;
 
 export interface SpotScoreInput {
   tier: Tier;
+  hype: boolean;
   /** How many times this user has already spotted this catalog car. */
   yourEarlierSpots: number;
   /** How many times anyone on Torquest has already spotted it. */
@@ -38,12 +42,12 @@ export interface SpotScore {
 }
 
 export function scoreSpot(input: SpotScoreInput): SpotScore {
-  const base = TIER_INFO[input.tier].points;
+  const base = Math.round(TIER_INFO[input.tier].points * (input.hype ? HYPE : 1));
   if (input.yourEarlierSpots > 0) {
     const points = Math.max(1, Math.round(base * BONUS.repeat));
     return { total: points, lines: [{ label: `${TIER_INFO[input.tier].label} (already in your collection)`, points }] };
   }
-  const lines = [{ label: TIER_INFO[input.tier].label, points: base }];
+  const lines = [{ label: `${TIER_INFO[input.tier].label}${input.hype ? " · hype ×1.5" : ""}`, points: base }];
   lines.push({ label: "First time you've spotted it", points: Math.round(base * BONUS.firstForYou) });
   if (input.torquestEarlierSpots === 0) {
     lines.push({ label: "First on Torquest", points: Math.round(base * BONUS.firstInTorquest) });

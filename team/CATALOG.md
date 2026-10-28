@@ -42,6 +42,18 @@ American roads today, counting cars that have been scrapped since. The tier come
   Legendary.
 - **`built`** is worldwide production, when known. It's for display and sanity checks.
 
+## Hype
+
+Tiers say how rare a sighting is, nothing else. **`hype: true`** marks cars people get excited
+about, and multiplies their points by 1.5 (Jatin's call, 2026-10-28). The tier doesn't change.
+
+- Automatic for `body: "supercar"`.
+- Set it for: every Ferrari, Lamborghini, McLaren, Bugatti, Pagani, Koenigsegg, Rolls-Royce and
+  similar exotic makes; performance variants (GT3, Type R, Shelby, Raptor, M, AMG Black Series…);
+  and true icons (classic 911, first-gen Mustang, GT40, Model T, early Bronco).
+- Not for: ordinary cars that are only rare because they're old or unloved (Taurus, 1st-gen
+  Insight). Their rarity already scores.
+
 ## Fields
 
 ```jsonc
@@ -58,7 +70,8 @@ American roads today, counting cars that have been scrapped since. The tier come
   "naOnRoad": 4000,
   "built": 0,                        // optional; 0 or missing = unknown
   "aliases": ["992 GT3 RS"],         // optional; extra search terms
-  "commons": "Porsche 911 GT3 RS (992)" // optional; Wikimedia Commons category with its photos
+  "commons": "Porsche 911 GT3 RS (992)", // optional; Wikimedia Commons category with its photos
+  "hype": true                       // optional; points ×1.5 (see Hype)
 }
 ```
 

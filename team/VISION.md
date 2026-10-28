@@ -46,6 +46,9 @@ Torquest is an app for car enthusiasts.
 | 2026-10-28 | **Privacy: friends see your cards** (photo, car, tier, city); strangers see username, score and car names. Plates and faces are blurred on the phone before upload. Location is city-level only, shown a day later. | Social without letting anyone track a rare car (or a person) in real time. |
 | 2026-10-28 | **Points: tier points + bonuses**: first time *you* spot a car +50%, first in Torquest +100%, classics 25+ years +25%. Re-spotting the same car scores little. | Rewards discovery, discourages farming one car. |
 | 2026-10-28 | **Style: dark garage, holographic cards** for Rare and above. | Premium motorsport feel; collectible. |
+| 2026-10-28 | **Rarity: North America first**, stored per region. **Coverage:** generations from 1980 plus iconic classics. | Rarity is regional; old generations nobody sees only add recognition errors. |
+| 2026-10-28 | **Tier = how rare to see; hype ×1.5 points** for cars people get excited about. | Keeps tiers honest (a 1st-gen Insight really is as rare as a 488) while a Ferrari still scores more. |
+| 2026-10-28 | **Recognition model ≤ ~150 MB** on the phone. **If the top 5 are all wrong:** search the catalog; Rare and above then need the cloud check. | Accuracy vs download; stops "my Civic is a Ferrari". |
 
 ## Roadmap
 

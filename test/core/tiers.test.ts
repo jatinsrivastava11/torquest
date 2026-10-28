@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { scoreSpot, TIER_INFO, TIERS } from "@/core/tiers";
 
-const spot = { yourEarlierSpots: 0, torquestEarlierSpots: 5, firstYear: 2020, spottedYear: 2026 };
+const spot = { hype: false, yourEarlierSpots: 0, torquestEarlierSpots: 5, firstYear: 2020, spottedYear: 2026 };
 
 describe("scoreSpot", () => {
   it("gives rarer tiers strictly more points", () => {
@@ -16,6 +16,11 @@ describe("scoreSpot", () => {
 
   it("doubles up for the first spot on Torquest", () => {
     expect(scoreSpot({ ...spot, tier: "rare", torquestEarlierSpots: 0 }).total).toBe(500);
+  });
+
+  it("multiplies hype cars' points, bonuses included", () => {
+    expect(scoreSpot({ ...spot, tier: "rare", hype: true }).total).toBe(300 + 150);
+    expect(scoreSpot({ ...spot, tier: "rare", hype: true, yourEarlierSpots: 2 }).total).toBe(30);
   });
 
   it("adds the classic bonus at 25 years", () => {

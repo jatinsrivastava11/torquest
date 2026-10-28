@@ -25,6 +25,8 @@ export interface CatalogEntry {
   commons?: string;
   tierOverride?: Tier;
   tierReason?: string;
+  /** A car people get excited about: points ×1.5. Supercars always are. */
+  hype?: boolean;
 }
 
 export interface CatalogFile {
@@ -33,9 +35,10 @@ export interface CatalogFile {
 }
 
 /** A catalog car as the app uses it. */
-export interface CatalogCar extends Omit<CatalogEntry, "naOnRoad" | "tierOverride" | "tierReason"> {
+export interface CatalogCar extends Omit<CatalogEntry, "naOnRoad" | "tierOverride" | "tierReason" | "hype"> {
   make: string;
   tier: Tier;
+  hype: boolean;
 }
 
 /** Tier bands by estimated number on North American roads (team/CATALOG.md). */
@@ -53,8 +56,8 @@ export function tierFromOnRoad(onRoad: number): Tier {
 }
 
 export function toCatalogCar(make: string, e: CatalogEntry): CatalogCar {
-  const { naOnRoad, tierOverride, tierReason: _reason, ...rest } = e;
-  return { ...rest, make, tier: tierOverride ?? tierFromOnRoad(naOnRoad) };
+  const { naOnRoad, tierOverride, tierReason: _reason, hype, ...rest } = e;
+  return { ...rest, make, tier: tierOverride ?? tierFromOnRoad(naOnRoad), hype: hype ?? e.body === "supercar" };
 }
 
 export const slug = (...parts: (string | undefined)[]) =>
