@@ -18,7 +18,7 @@ function Studio() {
   const engine = useSearchParams().get("engine") ?? "";
   return (
     <main className="px-4 py-6">
-      <h1 className="mb-4 font-display text-2xl font-bold uppercase">Engine studio</h1>
+      <h1 className="mb-4 text-[20px] font-semibold">Engine studio</h1>
       <EngineViewer engineType={isEngineType(engine) ? engine : "v8"} allowLayoutSwitch />
     </main>
   );

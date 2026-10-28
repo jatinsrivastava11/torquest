@@ -5,6 +5,32 @@ Newest entry on top.
 
 ---
 
+## 2026-10-28 (night): The app now follows the original vision
+
+Jatin pointed out the app had drifted from his first message. Now:
+- **Spot** takes a photo, asks which car it is (catalog search until recognition lands), shows
+  the points breakdown and saves the spot on the phone. **Your photo is the card.**
+- **Tapping a card opens the car in 3D** (`src/features/cars3d/`, Jatin's side): a body for
+  each body style, painted in the colour sampled from the photo. **Tapping the hood opens it**
+  (the engine cover for mid-engined cars, the rear lid for 911s), and **your engine sits in the
+  bay, idling.** "Explore the V8" then opens your EngineStudio full screen.
+- New design system, from the design skill's app rules (true-black-flat): #000 ground, panels at
+  #111 with no borders, Inter only, 20px titles, white pill for the primary action, colour only
+  on data.
+
+**What this means for the engines**
+- `buildCar` calls `buildEngineModel(type)`, puts `model.root` in the car with the crank along
+  the car, scales it to fit the bay, and calls `setCrankAngle` for an idle while the hood is open.
+  Keep `root` assembled at `applyExplode(model, 0)`, keep its origin stable, and keep
+  `dispose()` freeing everything: an engine is now built every time someone opens a card.
+- An engine now appears small inside a car. Big silhouette parts (valve covers, intake,
+  headers) matter as much as fine detail.
+- Optional, low priority: move EngineStudio's colours onto the app tokens (`bg-surface`,
+  `text-muted`, `bg-white text-black` for the main button). The amber/zinc classes now look out
+  of place next to the rest of the app.
+
+---
+
 ## 2026-10-28 (evening): The rest of the app has started
 
 **Jatin's decisions** (full table in `team/VISION.md`, with a new **Roadmap** section):

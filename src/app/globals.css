@@ -1,25 +1,32 @@
 @import "tailwindcss";
 
-/* static: keep every token, including ones only referenced from inline styles. */
+/* true-black-flat (design-taste-frontend, seed 1076606828). Elevation by
+   lightness alone: #000 ground, #111 panel, #2a2a2a nested. No borders or
+   shadows on panels. Colour only on data: amber on points, tier colours on
+   tier marks. The primary control is inverted: white with black text.
+   static: keep tokens referenced only from inline styles. */
 @theme static {
-  --color-bg: #0b0c0f;
-  --color-surface: #14161b;
-  --color-raised: #1c1f26;
-  --color-line: #2a2e37;
-  --color-ink: #ececf0;
-  --color-muted: #9aa0ab;
+  --color-bg: #000000;
+  --color-surface: #111111;
+  --color-raised: #2a2a2a;
+  --color-line: #1a1a1a;
+  --color-rule: #161616;
+  --color-control: #444444;
+  --color-ink: #ffffff;
+  --color-muted: #b4b4b4;
+  --color-faint: #949494;
   --color-accent: #f5a524;
-  --color-accent-ink: #1a1203;
+  --color-negative: #e5484d;
 
-  --color-tier-common: #8b93a1;
-  --color-tier-occasional: #3fb27f;
-  --color-tier-niche: #3d8bfd;
-  --color-tier-rare: #a55cf7;
-  --color-tier-exotic: #ff6a3d;
+  --color-tier-common: #9aa0ab;
+  --color-tier-occasional: #4cc38a;
+  --color-tier-niche: #4c9bff;
+  --color-tier-rare: #b57bff;
+  --color-tier-exotic: #ff7a45;
   --color-tier-legendary: #f5c542;
 
   --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
-  --font-display: var(--font-barlow), var(--font-inter), ui-sans-serif, sans-serif;
+  --radius-card: 20px;
 }
 
 html {
@@ -32,8 +39,12 @@ body {
   -webkit-tap-highlight-color: transparent;
 }
 
-/* Holographic foil for Rare and above. --hx/--hy follow the pointer; with
-   no pointer the foil drifts on its own. */
+.num {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Holographic foil on the photo of Rare and above (Jatin's choice of card
+   style). --hx/--hy follow the pointer; without one it drifts slowly. */
 .holo {
   position: relative;
   isolation: isolate;
@@ -42,31 +53,22 @@ body {
   content: "";
   position: absolute;
   inset: 0;
-  border-radius: inherit;
   pointer-events: none;
-  background:
-    repeating-linear-gradient(115deg, transparent 0 6px, rgb(255 255 255 / 0.05) 6px 7px),
-    linear-gradient(
-      115deg,
-      transparent 25%,
-      rgb(255 0 170 / 0.3) 40%,
-      rgb(0 230 255 / 0.3) 47%,
-      rgb(255 235 0 / 0.3) 54%,
-      transparent 64%
-    );
-  background-size: 100% 100%, 260% 260%;
-  background-position: 0 0, var(--hx, 50%) var(--hy, 50%);
+  /* The foil is Jatin's chosen card style (2026-10-28). */
+  background: linear-gradient(115deg, transparent 30%, rgb(255 0 170 / 0.28) 42%, rgb(0 230 255 / 0.28) 50%, rgb(255 235 0 / 0.28) 58%, transparent 70%); /* taste-skill-ignore */
+  background-size: 260% 260%;
+  background-position: var(--hx, 50%) var(--hy, 50%);
   mix-blend-mode: color-dodge;
-  opacity: 0.35;
-  animation: holo-drift 6s ease-in-out infinite alternate;
+  opacity: 0.45;
+  animation: holo-drift 7s ease-in-out infinite alternate;
 }
 .holo[data-active="true"]::after {
   animation: none;
-  opacity: 0.55;
+  opacity: 0.6;
 }
 @keyframes holo-drift {
-  from { background-position: 0 0, 10% 20%; }
-  to { background-position: 0 0, 90% 80%; }
+  from { background-position: 10% 20%; }
+  to { background-position: 90% 80%; }
 }
 @media (prefers-reduced-motion: reduce) {
   .holo::after { animation: none; }

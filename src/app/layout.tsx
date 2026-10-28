@@ -1,10 +1,9 @@
 import type { Metadata, Viewport } from "next";
-import { Barlow_Condensed, Inter } from "next/font/google";
-import BottomNav from "@/components/BottomNav";
+import { Inter } from "next/font/google";
+import Nav from "@/components/Nav";
 import "./globals.css";
 
-const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
-const barlow = Barlow_Condensed({ subsets: ["latin"], weight: ["600", "700"], variable: "--font-barlow" });
+const inter = Inter({ subsets: ["latin"], weight: ["400", "500", "600"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
   title: "Torquest",
@@ -15,17 +14,15 @@ export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
   viewportFit: "cover",
-  themeColor: "#0b0c0f",
+  themeColor: "#000000",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${inter.variable} ${barlow.variable}`}>
-      <body className="min-h-dvh font-sans antialiased">
-        <div className="mx-auto min-h-dvh max-w-md pb-[calc(5.5rem+env(safe-area-inset-bottom))] sm:max-w-2xl">
-          {children}
-        </div>
-        <BottomNav />
+    <html lang="en" className={inter.variable}>
+      <body className="min-h-dvh font-sans text-[14px] leading-5 antialiased">
+        <Nav />
+        <div className="mx-auto min-h-dvh max-w-[1120px] pb-[calc(5rem+env(safe-area-inset-bottom))] md:pb-10">{children}</div>
       </body>
     </html>
   );

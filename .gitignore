@@ -20,3 +20,6 @@ public/catalog.json
 
 # Local caches (recognition test photos, model downloads)
 .cache/
+
+# Design skill working files
+.taste-skill/

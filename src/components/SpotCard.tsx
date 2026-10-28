@@ -1,77 +1,66 @@
 "use client";
 
 import { useRef } from "react";
-import { carName, type CatalogCar } from "@/core/catalog";
+import type { CatalogCar } from "@/core/catalog";
 import { TIER_INFO } from "@/core/tiers";
 import CarSilhouette from "./CarSilhouette";
 import TierBadge from "./TierBadge";
 
 interface Props {
   car: CatalogCar;
-  paint: string;
   points: number;
-  city?: string;
-  size?: "grid" | "hero";
+  /** The user's photo; without one the card shows the body style drawn in `paint`. */
+  photoUrl?: string;
+  paint?: string;
 }
 
-// A collectible card. Rare and above get holographic foil that follows the
-// pointer and tilts the card.
-export default function SpotCard({ car, paint, points, city, size = "grid" }: Props) {
+// A collected car: the photo first, then what it is and what it scored.
+export default function SpotCard({ car, points, photoUrl, paint = "#8a919c" }: Props) {
   const ref = useRef<HTMLDivElement>(null);
   const holo = TIER_INFO[car.tier].holo;
-  const tierColor = `var(--color-tier-${car.tier})`;
 
   const onMove = (e: React.PointerEvent) => {
     const el = ref.current;
     if (!el || !holo) return;
     const r = el.getBoundingClientRect();
-    const x = (e.clientX - r.left) / r.width;
-    const y = (e.clientY - r.top) / r.height;
     el.dataset.active = "true";
-    el.style.setProperty("--hx", `${x * 100}%`);
-    el.style.setProperty("--hy", `${y * 100}%`);
-    el.style.transform = `perspective(700px) rotateX(${(0.5 - y) * 10}deg) rotateY(${(x - 0.5) * 12}deg)`;
-  };
-  const onLeave = () => {
-    const el = ref.current;
-    if (!el) return;
-    el.dataset.active = "false";
-    el.style.transform = "";
+    el.style.setProperty("--hx", `${((e.clientX - r.left) / r.width) * 100}%`);
+    el.style.setProperty("--hy", `${((e.clientY - r.top) / r.height) * 100}%`);
   };
 
-  const hero = size === "hero";
   return (
-    <div
-      className="rounded-2xl p-[2px] transition-transform duration-200 ease-out"
-      style={{ background: `linear-gradient(150deg, ${tierColor}, color-mix(in srgb, ${tierColor} 25%, #1c1f26) 45%, ${tierColor})` }}
-    >
+    <article className="overflow-hidden rounded-[20px] bg-surface">
       <div
         ref={ref}
         onPointerMove={onMove}
-        onPointerLeave={onLeave}
-        className={`${holo ? "holo" : ""} flex aspect-[5/7] flex-col overflow-hidden rounded-[14px] bg-surface transition-transform duration-150 ease-out`}
+        onPointerLeave={() => ref.current && (ref.current.dataset.active = "false")}
+        className={`${holo ? "holo" : ""} relative aspect-[4/3] bg-raised`}
       >
-        <div className="flex items-center justify-between px-3 pt-3">
-          <TierBadge tier={car.tier} size={hero ? "md" : "sm"} />
-          <span className={`font-display font-bold tabular-nums text-accent ${hero ? "text-xl" : "text-sm"}`}>+{points.toLocaleString()}</span>
-        </div>
-        <div
-          className="relative mx-3 mt-2 flex flex-1 items-center justify-center overflow-hidden rounded-lg"
-          style={{ background: `radial-gradient(120% 90% at 50% 100%, color-mix(in srgb, ${paint} 30%, #1c1f26), #101216 70%)` }}
-        >
-          <CarSilhouette body={car.body} paint={paint} className="w-[92%]" />
-        </div>
-        <div className={hero ? "px-4 pb-4 pt-3" : "px-3 pb-3 pt-2"}>
-          <div className={`uppercase tracking-widest text-muted ${hero ? "text-xs" : "text-[10px]"}`}>{car.make}</div>
-          <div className={`font-display font-bold leading-tight ${hero ? "text-3xl" : "text-lg"}`}>
-            {carName(car).slice(car.make.length + 1)}
+        {photoUrl ? (
+          // eslint-disable-next-line @next/next/no-img-element
+          <img src={photoUrl} alt={`${car.make} ${car.model}`} className="h-full w-full object-cover" />
+        ) : (
+          <div className="flex h-full items-center justify-center">
+            <CarSilhouette body={car.body} paint={paint} className="w-[86%]" />
           </div>
-          <div className={`text-muted ${hero ? "text-sm" : "text-[11px]"}`}>
-            {car.generation}
-            {city ? ` · ${city}` : ""}
-          </div>
+        )}
+        <div className="absolute left-2.5 top-2.5">
+          <TierBadge tier={car.tier} />
         </div>
       </div>
-    </div>
+      <div className="flex items-start justify-between gap-3 px-3.5 pb-3.5 pt-3">
+        <div className="min-w-0">
+          <div className="truncate text-[16px] font-semibold leading-6">
+            {car.model}
+            {car.variant ? ` ${car.variant}` : ""}
+          </div>
+          <div className="truncate text-[12px] text-muted">
+            {car.make}
+            {car.generation !== car.model ? ` · ${car.generation}` : ""}
+          </div>
+        </div>
+        <div className="num flex-none text-[16px] font-semibold leading-6 text-accent">+{points.toLocaleString()}</div>
+      </div>
+    </article>
   );
 }

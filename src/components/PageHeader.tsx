@@ -1,11 +1,11 @@
-export default function PageHeader({ title, sub, demo }: { title: string; sub?: string; demo?: boolean }) {
+export default function PageHeader({ title, sub, children }: { title: string; sub?: React.ReactNode; children?: React.ReactNode }) {
   return (
-    <header className="px-4 pb-3 pt-[calc(1.25rem+env(safe-area-inset-top))]">
-      <div className="flex items-center justify-between">
-        <h1 className="font-display text-3xl font-bold tracking-wide uppercase">{title}</h1>
-        {demo && <span className="rounded-full border border-line px-2 py-0.5 text-[10px] uppercase tracking-wider text-muted">Demo data</span>}
+    <header className="flex items-end justify-between gap-4 px-4 pb-4 pt-[calc(1.25rem+env(safe-area-inset-top))] md:px-6 md:pt-6">
+      <div>
+        <h1 className="text-[20px] font-semibold leading-7">{title}</h1>
+        {sub && <p className="mt-0.5 text-[14px] text-muted">{sub}</p>}
       </div>
-      {sub && <p className="mt-0.5 text-sm text-muted">{sub}</p>}
+      {children}
     </header>
   );
 }
