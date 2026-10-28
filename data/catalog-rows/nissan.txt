@@ -73,8 +73,8 @@ Kicks | P16 | | 2025 | | i4 | suv | 100000
 Qashqai | J11 | | 2017 | 2023 | i4 | suv | 250000 | | Rogue Sport
 X-Trail | T30 | | 2005 | 2006 | i4 | suv | 5000
 Rogue | S35 | | 2008 | 2015 | i4 | suv | 450000 | | Rogue Select
-Rogue | T32 | | 2014 | 2020 | i4 | suv | 1800000 | | X-Trail
-Rogue | T33 | | 2021 | | i4 | suv | 1200000 | | X-Trail
+Rogue | T32 | | 2014 | 2020 | i4 | suv | 1800000
+Rogue | T33 | | 2021 | | i4 | suv | 1200000
 Murano | Z50 | | 2003 | 2007 | v6 | suv | 100000
 Murano | Z51 | | 2009 | 2014 | v6 | suv | 200000
 Murano | Z51 | CrossCabriolet | 2011 | 2014 | v6 | convertible | 3000 | | Murano CrossCabriolet
@@ -88,8 +88,8 @@ Pathfinder | R53 | | 2022 | | v6 | suv | 300000
 Xterra | WD22 | | 2000 | 2004 | v6 | suv | 50000
 Xterra | N50 | | 2005 | 2015 | v6 | suv | 200000
 Armada | TA60 | | 2004 | 2015 | v8 | suv | 150000 | | Pathfinder Armada
-Armada | Y62 | | 2017 | 2024 | v8 | suv | 150000 | | Patrol;Patrol Y62
-Armada | Y63 | | 2025 | | v6 | suv | 35000 | | Patrol;Patrol Y63
+Armada | Y62 | | 2017 | 2024 | v8 | suv | 150000
+Armada | Y63 | | 2025 | | v6 | suv | 35000
 Ariya | | | 2023 | | electric | suv | 40000
 # Pickups and vans
 Hardbody | D21 | | 1986 | 1997 | i4 | pickup | 50000 | | Nissan Pickup;Navara D21;Hardbody truck
@@ -105,3 +105,22 @@ Quest | 3rd gen | | 2004 | 2009 | v6 | van | 40000
 Quest | 4th gen | | 2011 | 2017 | v6 | van | 50000 | | Elgrand
 NV | | | 2012 | 2021 | v6 | van | 100000 | | NV1500;NV2500;NV3500;NV Passenger
 NV200 | | | 2013 | 2021 | i4 | van | 60000 | | Chevrolet City Express;NV200 Taxi;Taxi of Tomorrow
+# Phase 2: never sold in North America (home market counts)
+Qashqai | J10 | | 2006 | 2013 | i4 | suv | 0 | | Dualis;Qashqai+2 | | europe:1000000
+Qashqai | J12 | | 2021 | | i4 | suv | 0 | | Qashqai e-Power | | europe:800000
+X-Trail | T31 | | 2007 | 2013 | i4 | suv | 0 | | | | europe:300000
+X-Trail | T32 | | 2013 | 2022 | i4 | suv | 0 | | Rogue T32 | | europe:500000
+X-Trail | T33 | | 2021 | | i3 | suv | 0 | | X-Trail e-Power | | europe:150000
+Juke | F16 | | 2019 | | i3 | suv | 0 | | Juke 2nd gen;Juke Hybrid | | europe:600000
+Micra | K11 | | 1992 | 2002 | i4 | hatchback | 0 | | March K11 | | europe:300000
+Micra | K12 | | 2002 | 2010 | i4 | hatchback | 0 | | March K12 | | europe:800000
+Micra | K14 | | 2017 | 2023 | i3 | hatchback | 0 | | | | europe:400000
+Sunny | N17 | | 2011 | 2019 | i4 | sedan | 0 | | Versa N17;Almera | | middle-east:400000
+Sunny | N18 | | 2019 | | i4 | sedan | 0 | | Versa N18;Almera | | middle-east:200000
+Patrol | Y61 | | 1997 | 2016 | i6 | suv | 50 | | Safari;Patrol GU;Patrol Super Safari | | middle-east:200000
+Patrol | Y62 | | 2010 | 2024 | v8 | suv | 0 | | Armada Y62 | | middle-east:300000
+Patrol | Y63 | | 2024 | | v6 | suv | 0 | | Armada Y63 | | middle-east:30000
+Navara | D23 | | 2014 | | i4 | pickup | 0 | | NP300;Navara NP300 | | australia:150000
+Skyline | V35 | | 2001 | 2006 | v6 | sedan | 0 | | Infiniti G35 (Skyline) | | japan:20000
+Skyline | V36 | | 2006 | 2014 | v6 | sedan | 0 | | Infiniti G37 (Skyline) | | japan:40000
+Skyline | V37 | | 2014 | | v6 | sedan | 0 | | Skyline 400R | | japan:60000

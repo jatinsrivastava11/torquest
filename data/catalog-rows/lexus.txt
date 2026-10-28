@@ -38,8 +38,8 @@ RX | 5th gen | | 2023 | | i4 | suv | 350000 | | RX 350;RX 500h;RX 450h+;TALA10
 NX | AZ10 | | 2015 | 2021 | i4 | suv | 330000 | | NX 200t;NX 300;NX 300h
 NX | AZ20 | | 2022 | | i4 | suv | 280000 | | NX 250;NX 350;NX 350h;NX 450h+
 UX | | | 2019 | | i4 | suv | 150000 | | UX 200;UX 250h;UX 300h
-GX | J120 | | 2003 | 2009 | v8 | suv | 100000 | | GX 470;Land Cruiser Prado
-GX | J150 | | 2010 | 2023 | v8 | suv | 250000 | | GX 460;Land Cruiser Prado
+GX | J120 | | 2003 | 2009 | v8 | suv | 100000 | | GX 470
+GX | J150 | | 2010 | 2023 | v8 | suv | 250000 | | GX 460
 GX | J250 | | 2024 | | v6 | suv | 70000 | | GX 550
 LX | J80 | | 1996 | 1997 | i6 | suv | 4000 | | LX 450
 LX | J100 | | 1998 | 2007 | v8 | suv | 40000 | | LX 470

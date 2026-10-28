@@ -9,9 +9,9 @@ G20 | P11 | | 1999 | 2002 | i4 | sedan | 4000 | | Primera
 I30 | A32 | | 1996 | 1999 | v6 | sedan | 5000 | | Cefiro
 I30 | A33 | | 2000 | 2004 | v6 | sedan | 15000 | | I35
 QX4 | | | 1997 | 2003 | v6 | suv | 10000 | | Pathfinder R50
-G | V35 | | 2003 | 2007 | v6 | sedan | 100000 | | G35;G35 coupe;Skyline V35
-G | V36 | | 2007 | 2015 | v6 | sedan | 250000 | | G37;G25;G37 coupe;G37 convertible;Q40;Skyline V36
-Q50 | V37 | | 2014 | 2024 | v6 | sedan | 350000 | | Skyline V37;Q50 Red Sport
+G | V35 | | 2003 | 2007 | v6 | sedan | 100000 | | G35;G35 coupe
+G | V36 | | 2007 | 2015 | v6 | sedan | 250000 | | G37;G25;G37 coupe;G37 convertible;Q40
+Q50 | V37 | | 2014 | 2024 | v6 | sedan | 350000 | | Q50 Red Sport
 Q60 | CV37 | | 2017 | 2022 | v6 | coupe | 40000 | | Q60 Red Sport
 M | Y34 | | 2003 | 2004 | v8 | sedan | 1500 | | M45;Gloria
 M | Y50 | | 2006 | 2010 | v6 | sedan | 30000 | | M35;M45;Fuga

@@ -150,3 +150,27 @@ Prius c | | | 2012 | 2019 | i4 | hatchback | 150000 | | Aqua
 Prius v | | | 2012 | 2017 | i4 | wagon | 100000 | | Prius Alpha
 Mirai | JPD10 | | 2016 | 2020 | electric | sedan | 3000 | 11000
 Mirai | JPD20 | | 2021 | | electric | sedan | 10000
+# Phase 2: never sold in North America (home market counts)
+Fortuner | AN50 | | 2005 | 2015 | i4 | suv | 0 | | Fortuner AN60;SW4 | | southeast-asia:500000
+Fortuner | AN150 | | 2015 | | i4 | suv | 0 | | Fortuner AN160;SW4;Fortuner Legender | | southeast-asia:800000
+Innova | AN40 | | 2004 | 2015 | i4 | van | 0 | | Kijang Innova | | india:500000
+Innova | AN140 | | 2016 | | i4 | van | 0 | | Innova Crysta;Kijang Innova | | india:800000
+Innova | AG10 | | 2022 | | i4 | van | 0 | | Innova Hycross;Innova Zenix | | india:200000
+HiAce | H200 | | 2004 | | i4 | van | 100 | | HiAce Van;Regius Ace | | japan:1000000
+HiAce | H300 | | 2019 | | i4 | van | 0 | | Granvia;Majesty | | australia:60000
+Alphard | AH10 | | 2002 | 2008 | i4 | van | 200 | | Alphard 1st gen | | japan:100000
+Alphard | AH20 | | 2008 | 2015 | i4 | van | 50 | | Vellfire | | japan:200000
+Alphard | AH30 | | 2015 | 2023 | i4 | van | 0 | | Vellfire | | japan:500000
+Alphard | AH40 | | 2023 | | i4 | van | 0 | | Vellfire | | japan:150000
+Vios | XP40 | | 2002 | 2007 | i4 | sedan | 0 | | Soluna Vios | | southeast-asia:200000
+Vios | XP90 | | 2007 | 2013 | i4 | sedan | 0 | | Belta | | southeast-asia:400000
+Vios | XP150 | | 2013 | 2022 | i4 | sedan | 0 | | Yaris sedan (Asia) | | southeast-asia:800000
+Vios | AC100 | | 2022 | | i4 | sedan | 0 | | Yaris Ativ | | southeast-asia:250000
+GR Yaris | | | 2020 | | i3 | hatchback | 20 | | GR Yaris (first edition);GR Yaris first edition;GXPA16 | y | europe:12000
+Yaris | XP210 | | 2020 | | i3 | hatchback | 0 | | Yaris Hybrid;Yaris 4th gen | | europe:1500000
+Hilux | AN10 | | 2004 | 2015 | i4 | pickup | 0 | | Hilux Vigo;7th gen Hilux;AN20;AN30 | | australia:300000
+Hilux | AN120 | | 2015 | 2025 | i4 | pickup | 0 | | Hilux Revo;8th gen Hilux;AN130 | | australia:500000
+Hilux | 9th gen | | 2025 | | i4 | pickup | 0 | | Hilux Travo | | australia:20000
+Land Cruiser | 300 Series | | 2021 | | v6 | suv | 50 | | LC300;J300 | | middle-east:150000
+Land Cruiser Prado | J120 | | 2002 | 2009 | i4 | suv | 30 | | Prado 120 | | australia:100000
+Land Cruiser Prado | J150 | | 2009 | 2024 | i4 | suv | 30 | | Prado 150 | | australia:250000
