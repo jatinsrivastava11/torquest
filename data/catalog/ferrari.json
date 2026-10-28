@@ -48,6 +48,10 @@
     {"id": "ferrari-purosangue", "model": "Purosangue", "generation": "Purosangue", "years": [2023, null], "engine": "v12", "body": "suv", "naOnRoad": 800, "hype": true, "commons": "Ferrari Purosangue"},
     {"id": "ferrari-12cilindri", "model": "12Cilindri", "generation": "12Cilindri", "years": [2024, null], "engine": "v12", "body": "coupe", "naOnRoad": 400, "hype": true, "commons": "Ferrari 12Cilindri"},
     {"id": "ferrari-f80", "model": "F80", "generation": "F80", "years": [2025, null], "engine": "v6", "body": "supercar", "naOnRoad": 60, "built": 799, "hype": true},
-    {"id": "ferrari-amalfi", "model": "Amalfi", "generation": "Amalfi", "years": [2025, null], "engine": "v8", "body": "coupe", "naOnRoad": 100, "hype": true}
+    {"id": "ferrari-amalfi", "model": "Amalfi", "generation": "Amalfi", "years": [2025, null], "engine": "v8", "body": "coupe", "naOnRoad": 100, "hype": true},
+    {"id": "ferrari-250-gt-swb", "model": "250 GT SWB", "generation": "250 GT SWB", "years": [1959, 1962], "engine": "v12", "body": "coupe", "naOnRoad": 50, "built": 165, "hype": true},
+    {"id": "ferrari-250-gt-lusso", "model": "250 GT Lusso", "generation": "250 GT Lusso", "years": [1962, 1964], "engine": "v12", "body": "coupe", "naOnRoad": 150, "built": 350, "hype": true},
+    {"id": "ferrari-dino-206-gt", "model": "Dino", "generation": "206 GT", "years": [1967, 1969], "engine": "v6", "body": "coupe", "naOnRoad": 60, "built": 152, "hype": true},
+    {"id": "ferrari-sergio", "model": "Sergio", "generation": "Sergio", "years": [2015, 2015], "engine": "v8", "body": "convertible", "naOnRoad": 1, "built": 6, "hype": true}
   ]
 }

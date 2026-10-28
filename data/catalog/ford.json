@@ -100,6 +100,11 @@
     {"id": "ford-escort-3rd-gen", "model": "Escort", "generation": "3rd gen", "years": [1997, 2003], "engine": "i4", "body": "sedan", "naOnRoad": 100000, "commons": "Ford Escort (NA, third generation)"},
     {"id": "ford-contour", "model": "Contour", "generation": "Contour", "years": [1995, 2000], "engine": "v6", "body": "sedan", "naOnRoad": 20000, "commons": "Ford Contour"},
     {"id": "ford-windstar", "model": "Windstar", "generation": "Windstar", "years": [1995, 2003], "engine": "v6", "body": "van", "naOnRoad": 60000},
-    {"id": "ford-five-hundred", "model": "Five Hundred", "generation": "Five Hundred", "years": [2005, 2007], "engine": "v6", "body": "sedan", "naOnRoad": 40000, "commons": "Ford Five Hundred"}
+    {"id": "ford-five-hundred", "model": "Five Hundred", "generation": "Five Hundred", "years": [2005, 2007], "engine": "v6", "body": "sedan", "naOnRoad": 40000, "commons": "Ford Five Hundred"},
+    {"id": "ford-mustang-1st-gen-boss-429", "model": "Mustang", "generation": "1st gen", "variant": "Boss 429", "years": [1969, 1970], "engine": "v8", "body": "coupe", "naOnRoad": 700, "built": 1359, "hype": true},
+    {"id": "ford-mustang-1st-gen-shelby-gt500", "model": "Mustang", "generation": "1st gen", "variant": "Shelby GT500", "years": [1967, 1970], "engine": "v8", "body": "coupe", "naOnRoad": 2500, "hype": true},
+    {"id": "ford-rs200", "model": "RS200", "generation": "RS200", "years": [1984, 1986], "engine": "i4", "body": "supercar", "naOnRoad": 15, "built": 200, "hype": true},
+    {"id": "ford-escort-rs-cosworth", "model": "Escort RS Cosworth", "generation": "Escort RS Cosworth", "years": [1992, 1996], "engine": "i4", "body": "hatchback", "naOnRoad": 40, "built": 7145, "hype": true},
+    {"id": "ford-sierra-rs500-cosworth", "model": "Sierra RS500 Cosworth", "generation": "Sierra RS500 Cosworth", "years": [1987, 1987], "engine": "i4", "body": "hatchback", "naOnRoad": 15, "built": 500, "hype": true}
   ]
 }

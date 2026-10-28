@@ -55,6 +55,12 @@
     {"id": "porsche-panamera-971", "model": "Panamera", "generation": "971", "years": [2016, 2023], "engine": "v6", "body": "sedan", "naOnRoad": 40000},
     {"id": "porsche-panamera-971-sport-turismo", "model": "Panamera", "generation": "971", "variant": "Sport Turismo", "years": [2017, 2023], "engine": "v6", "body": "wagon", "naOnRoad": 6000, "hype": true},
     {"id": "porsche-panamera-976", "model": "Panamera", "generation": "976", "years": [2023, null], "engine": "v6", "body": "sedan", "naOnRoad": 12000},
-    {"id": "porsche-taycan-j1", "model": "Taycan", "generation": "J1", "years": [2019, null], "engine": "electric", "body": "sedan", "naOnRoad": 45000, "commons": "Porsche Taycan"}
+    {"id": "porsche-taycan-j1", "model": "Taycan", "generation": "J1", "years": [2019, null], "engine": "electric", "body": "sedan", "naOnRoad": 45000, "commons": "Porsche Taycan"},
+    {"id": "porsche-911-901-carrera-rs-2-7", "model": "911", "generation": "901", "variant": "Carrera RS 2.7", "years": [1972, 1973], "engine": "flat6", "body": "coupe", "naOnRoad": 150, "built": 1580, "hype": true},
+    {"id": "porsche-911-997-gt3-rs-4-0", "model": "911", "generation": "997", "variant": "GT3 RS 4.0", "years": [2011, 2011], "engine": "flat6", "body": "coupe", "naOnRoad": 250, "built": 600, "hype": true},
+    {"id": "porsche-911-991-r", "model": "911", "generation": "991", "variant": "R", "years": [2016, 2016], "engine": "flat6", "body": "coupe", "naOnRoad": 300, "built": 991, "hype": true},
+    {"id": "porsche-911-992-s-t", "model": "911", "generation": "992", "variant": "S/T", "years": [2023, 2024], "engine": "flat6", "body": "coupe", "naOnRoad": 600, "built": 1963, "hype": true},
+    {"id": "porsche-taycan-j1-turbo-gt", "model": "Taycan", "generation": "J1", "variant": "Turbo GT", "years": [2024, null], "engine": "electric", "body": "sedan", "naOnRoad": 500, "hype": true},
+    {"id": "porsche-boxster-982-spyder-rs", "model": "Boxster", "generation": "982", "variant": "Spyder RS", "years": [2024, 2025], "engine": "flat6", "body": "convertible", "naOnRoad": 1500, "hype": true}
   ]
 }
