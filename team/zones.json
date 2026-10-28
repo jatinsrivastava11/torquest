@@ -1,0 +1,13 @@
+{
+  "teammateBranchPrefix": "friend/",
+  "proposalBranchPrefix": "proposal/",
+  "teammatePaths": [
+    "src/features/engines/**",
+    "test/engines/**",
+    "public/engines/**",
+    "team/engines-log.md"
+  ],
+  "coreExceptions": [
+    "src/features/engines/contract.ts"
+  ]
+}

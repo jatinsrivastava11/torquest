@@ -1,0 +1,36 @@
+# CORE (lead-owned). After CI finishes on a PR, decides what happens to it:
+#   friend/*   + green + only teammate-zone files  -> approved and merged
+#   friend/*   touching core files                 -> labelled needs-jatin, left open
+#   proposal/*                                     -> labelled needs-jatin, left open
+# workflow_run always runs this file and scripts/ from main, so a PR can't
+# change the rules it's judged by.
+name: Teammate gate
+
+on:
+  workflow_run:
+    workflows: [CI]
+    types: [completed]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  gate:
+    if: github.event.workflow_run.event == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+      - run: node scripts/teammate-gate.mjs
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          HEAD_BRANCH: ${{ github.event.workflow_run.head_branch }}
+          HEAD_SHA: ${{ github.event.workflow_run.head_sha }}
+          CONCLUSION: ${{ github.event.workflow_run.conclusion }}

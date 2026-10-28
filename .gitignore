@@ -1,0 +1,13 @@
+# Private: never commit
+.private/
+.DS_Store
+.env
+.env.*
+
+# Build output and dependencies
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+coverage/
